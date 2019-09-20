@@ -5,6 +5,9 @@ import pandas as pd
 from collections import defaultdict
 import numpy as np
 import datetime
+from matplotlib import rc
+rc('font', **{'family': 'serif', 'serif': ['Computer Modern']})
+rc('text', usetex=True)
 import matplotlib.pyplot as plt
 
 def fetch_cards():
@@ -164,7 +167,6 @@ def export_color_analysis(deck_dict, magic_cards):
     for deck in deck_dict.values():
         
         main_colors = [magic_cards[card]['color'] for card in deck['main'] if magic_cards.get(card) and find_card_type(magic_cards[card]['type']) != 'Land']
-        print(main_colors)
         deck_colors.extend(list(deck['color']))
         colors, counts = np.unique(main_colors, return_counts = True)
         counts = counts/sum(counts)
@@ -185,34 +187,33 @@ def export_timecourse_analysis(deck_dict, window):
     archetypes = [deck['archetypes'] for deck in decklists]
     archetypes = list(set([archetype for archetype_list in archetypes for archetype in archetype_list]))
     dates = [deck['date'] for deck in decklists]
+
     sorted_decklists = [deck for _, deck in sorted(zip(dates,decklists), key=lambda pair: datetime.datetime.strptime(pair[0], "%m%d%Y"))]
     window_num = len(sorted_decklists) - window + 1
     storage_matrix = np.zeros([len(archetypes), window_num])
     for i in range(window_num):
         decklist_window = sorted_decklists[i:i+window]
         for j, archetype in enumerate(archetypes):
-            print(i,j)
             records = np.array([deck['record'] for deck in decklist_window if archetype in deck['archetypes']])
             storage_matrix[j, i] = np.sum(records, axis = 0)[0]/np.sum(records)
 
-    print(storage_matrix)
     return archetypes, storage_matrix
 
 def plot_timecourse(archetypes, storage_matrix):
 
     fig, ax = plt.subplots(1,1, figsize = (10,6))
-
+    colors = {'Aggro':'#ffa600', 'Midrange':'#bc5090', 'Control':'#003f5c'}
     for i, archetype in enumerate(archetypes):
-        if archetype in ['Reanimator', 'Combo']: continue
+        if archetype in ['Reanimator', 'Combo', 'Ramp']: continue
         data = storage_matrix[i, :]
-        ax.plot(range(len(data)), data, label = '{}'.format(archetype))
+        ax.plot(range(len(data)), data, label = '{}'.format(archetype), color = colors[archetype])
 
-    ax.legend(fontsize = 12)
-    plt.xlabel('Decks', fontsize = 14)
-    plt.ylabel('70 Deck Rolling Average', fontsize = 14)
-    plt.xticks(fontsize = 12)
-    plt.yticks(fontsize = 12)
-    plt.title('Archetype Winrates', fontsize = 16)
+    ax.legend(fontsize = 14)
+    plt.xlabel('Decks', fontsize = 18)
+    plt.ylabel('Rolling Average', fontsize = 18)
+    plt.xticks(fontsize = 14)
+    plt.yticks(fontsize = 14)
+    plt.title('Archetype Winrates', fontsize = 18)
     plt.tight_layout()
     fig.savefig('Archetype_Winrates.png', dpi = 300)
 
