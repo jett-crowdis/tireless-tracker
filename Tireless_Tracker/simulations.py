@@ -185,7 +185,7 @@ def simulate_rankings(trials):
 
 def main():
 
-    parser = argparse.ArgumentParser(description='Analyzes decklists given an input folder')
+    parser = argparse.ArgumentParser(description='simulates cube tournaments with spikeins and ranking determination.')
     parser.add_argument('-t','--trials', type=int, metavar='\b', help = 'number of trials to run', required = True)
     args = parser.parse_args()
 
