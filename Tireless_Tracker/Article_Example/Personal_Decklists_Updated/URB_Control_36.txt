@@ -1,0 +1,35 @@
+Colors: URB
+Archetype: Control
+Record: 3-0
+Games: 6.0-1.5
+
+1 Treachery
+1 Nicol Bolas, God-Pharaoh
+1 Grim Monolith
+1 Hedron Archive
+1 Dig Through Time
+1 Arcane Savant
+1 Blightwalker
+1 Everflowing Chalice
+1 Necromancy
+1 Snapcaster Mage
+1 Tinker
+1 Myr Battlesphere
+1 Dimir Signet
+1 Boros Signet
+1 Coalition Relic
+1 Compulsive Research
+1 Mulldrifter
+1 Spellskite
+1 Sphere of the Suns
+1 Recurring Nightmare
+1 Grand Coliseum
+1 Izzet Signet
+1 Mind Twist
+1 Thirst for Knowledge
+1 Colossus of Ruin
+1 Volcanic Island
+1 Steam Vents
+1 Shelldock Isle
+7 Island
+5 Swamp

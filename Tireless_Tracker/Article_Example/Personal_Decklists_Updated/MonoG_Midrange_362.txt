@@ -1,0 +1,33 @@
+Colors: G
+Archetype: Midrange
+Record: 2-2
+Games: 6-4
+
+1 Kitchen Finks
+1 Woodfall Primus
+1 Wolfbriar Elemental
+1 Garruk Relentless
+1 Llanowar Elves
+1 Elves of Deep Shadow
+1 Hexdrinker
+1 Nurturing Peatland
+1 Green Sun's Zenith
+1 Utopia Sprawl
+1 Sylvan Caryatid
+1 Fauna Shaman
+1 Ancient Tomb
+1 Tireless Tracker
+1 Wall of Roots
+1 Gaea's Cradle
+1 Rofellos, Llanowar Emissary
+1 Paradise Druid
+1 Natural Order
+1 Noble Hierarch
+1 Arbor Elf
+1 Hornet Queen
+1 Overgrowth
+1 Deep Forest Hermit
+1 Nissa, Vital Force
+1 Harmonize
+1 Biogenic Ooze
+12 Snow-Covered Forest

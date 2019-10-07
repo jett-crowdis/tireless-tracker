@@ -1,0 +1,37 @@
+Colors: RB
+Archetype: Aggro
+Record: 0-2
+Games: 1.0-4.0
+
+1 Volrath's Stronghold
+1 Bloodstained Mire
+1 Sulfurous Springs
+1 Blood Crypt
+1 Gemstone Mine
+1 Chrome Mox
+1 Firedrinker Satyr
+1 Territorial Hellkite
+1 Daretti, Ingenious Iconoclast
+1 Sulfuric Vortex
+1 Drana, Liberator of Malakir
+1 Fireblast
+1 Oona's Prowler
+1 Blightwalker
+1 Grafted Wargear
+1 Go for the Throat
+1 Arc Trail
+1 Magma Jet
+1 Searing Spear
+1 Keldon Marauders
+1 Bloodghast
+1 Diregraf Ghoul
+1 Gravecrawler
+1 Incinerate
+1 Bonesplitter
+1 Ember Magmar
+1 Carnophage
+1 Duress
+1 Collective Defiance
+1 Dread Wanderer
+5 Mountain
+5 Swamp

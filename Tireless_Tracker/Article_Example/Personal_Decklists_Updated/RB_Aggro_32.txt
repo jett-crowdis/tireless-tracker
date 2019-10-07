@@ -1,0 +1,33 @@
+Colors: RB
+Archetype: Aggro
+Record: 1-1
+Games: 2.5-2.5
+
+5 Swamp
+1 Dreadbore
+9 Mountain
+1 Territorial Hellkite
+1 Firedrinker Satyr
+1 Dismember
+1 Chrome Mox
+1 Asylum Visitor
+1 Figure of Destiny
+1 Scrapheap Scrounger
+1 Diregraf Ghoul
+1 Chain Lightning
+1 Bitterblossom
+1 Nightfall Stalker
+1 Hazoret the Fervent
+1 Sulfuric Vortex
+1 Kolaghan's Command
+1 Hymn to Tourach
+1 Keldon Marauders
+1 Ammit Eternal
+1 Drana, Liberator of Malakir
+1 Alesha, Who Smiles at Death
+1 Stormblood Berserker
+1 Vial Smasher the Fierce
+1 Bloodsoaked Champion
+1 Paliano, the High City
+1 Kari Zev, Skyship Raider
+1 Bloodstained Mire

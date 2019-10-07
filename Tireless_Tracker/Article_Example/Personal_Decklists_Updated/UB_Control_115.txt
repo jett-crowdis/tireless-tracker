@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control
+Record: 1-2
+Games: 2-5
+
+1 Coalition Relic
+1 Izzet Signet
+1 God-Eternal Kefnet
+1 Jace, Vryn's Prodigy
+1 Serum Visions
+1 Saheeli, Sublime Artificer
+1 Hostage Taker
+1 Damnation
+1 Pack Rat
+1 Chart a Course
+1 Grave Titan
+1 Compulsive Research
+1 Hymn to Tourach
+1 Bribery
+1 Shriekmaw
+1 Vampiric Tutor
+1 Wurmcoil Engine
+1 Brainstorm
+1 Vendilion Clique
+1 Toxic Deluge
+1 Force of Will
+1 Go for the Throat
+1 Merfolk Looter
+1 Creeping Tar Pit
+1 Verdant Catacombs
+1 Watery Grave
+7 Swamp
+7 Island
+
+1 Bitterblossom
+1 Dark Confidant
+1 Dack Fayden
+1 Dragonlord Atarka
+1 Chandra, Torch of Defiance
+1 Sarkhan, the Dragonspeaker
+1 Battlefield Forge
+1 City of Brass
+1 Volrath's Stronghold
+1 Yavimaya Coast
+1 Languish
+1 Thing in the Ice
+1 Sword of Fire and Ice
+1 Fleetwheel Cruiser
+1 Anguished Unmaking
+1 Restoration Angel
+1 Brain Maggot
+1 Carnophage
+1 Spell Pierce

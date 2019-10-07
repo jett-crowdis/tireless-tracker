@@ -1,0 +1,35 @@
+Colors: WB
+Archetype: Aggro
+Record: 2-1
+Games: 4.5-3.0
+
+1 Skullclamp
+1 Mother of Runes
+1 Rakdos Cackler
+1 Nightfall Stalker
+1 Dauntless Bodyguard
+1 Dismember
+1 Skymarcher Aspirant
+1 Dread Wanderer
+1 Bloodsoaked Champion
+1 Blightwalker
+1 Thalia, Guardian of Thraben
+1 Stoneforge Mystic
+1 Knight of the Masses
+1 Smuggler's Copter
+1 Ulak, Heartless Warden
+1 Scrapheap Scrounger
+1 Unexpectedly Absent
+1 Bitterblossom
+1 Lingering Souls
+1 Brimaz, King of Oreskos
+1 Sword of Feast and Famine
+1 Descent into Hell
+1 Gideon, Ally of Zendikar
+1 Ravages of War
+1 Caves of Koilos
+1 Godless Shrine
+1 Wasteland
+1 Marsh Flats
+6 Swamp
+6 Plains

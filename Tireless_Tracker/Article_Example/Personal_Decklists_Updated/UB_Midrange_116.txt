@@ -1,0 +1,52 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 4-5
+
+1 Consecrated Sphinx
+1 Ponder
+1 Reanimate
+1 Remand
+1 Duress
+1 True-Name Nemesis
+1 Imperial Seal
+1 Snuff Out
+1 Ulamog, the Ceaseless Hunger
+1 Necromancy
+1 Mana Drain
+1 Baleful Strix
+1 Counterspell
+1 Emrakul, the Promised End
+1 The Scarab God
+1 Control Magic
+1 Arcane Artisan
+1 Ugin, the Spirit Dragon
+1 Mana Leak
+1 Fact or Fiction
+1 Mind Stone
+1 Entomb
+1 Inquisition of Kozilek
+1 Bloodstained Mire
+1 Ash Barrens
+1 Fetid Pools
+1 Shelldock Isle
+7 Island
+6 Swamp
+
+1 Daretti, Ingenious Iconoclast
+1 Bayou
+1 Caves of Koilos
+1 Sarcomancy
+1 Bloodghast
+1 Braids, Cabal Minion
+1 Custodi Lich
+1 Hornet Queen
+1 Pernicious Deed
+1 Siege-Gang Commander
+1 Gemstone Mine
+1 Sensei's Divining Top
+1 Impulse
+1 Gonti, Lord of Luxury
+1 Venser, Shaper Savant
+1 Thran Dynamo
+1 Condescend

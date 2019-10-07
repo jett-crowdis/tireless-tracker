@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-3
+
+1 Channel
+1 Arbor Elf
+1 Wall of Blossoms
+1 Sylvan Library
+1 Wall of Roots
+1 Biogenic Ooze
+1 Rofellos, Llanowar Emissary
+1 Craterhoof Behemoth
+1 Joraga Treespeaker
+1 Fauna Shaman
+1 Garruk Wildspeaker
+1 Wolfbriar Elemental
+1 Vivien Reid
+1 Jadelight Ranger
+1 Hexdrinker
+1 Elves of Deep Shadow
+1 Nissa, Who Shakes the World
+1 Reclamation Sage
+1 Natural Order
+1 Voracious Hydra
+1 Dragonlord Atarka
+1 Kitchen Finks
+1 Green Sun's Zenith
+1 Utopia Sprawl
+1 Gaea's Cradle
+1 Raging Ravine
+1 Stomping Ground
+1 Taiga
+12 Snow-Covered Forest
+
+1 City of Brass
+1 Hangarback Walker
+1 Condemn
+1 Assassin's Trophy
+1 Justice Strike
+1 Arc Trail
+1 Hellrider
+1 Territorial Hellkite
+1 Doom Whisperer
+1 Thundermaw Hellkite
+1 Godless Shrine
+1 Bonesplitter
+1 Tidehollow Sculler
+1 Mirari's Wake
+1 Spawn of Mayhem
+1 Domri, Chaos Bringer
+1 Nature's Claim

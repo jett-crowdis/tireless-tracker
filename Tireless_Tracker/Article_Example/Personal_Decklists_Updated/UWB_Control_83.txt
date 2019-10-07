@@ -1,0 +1,37 @@
+Colors: UWB
+Archetype: Control
+Record: 3-1
+Games: 6.5-3.5
+
+1 Ponder
+1 Search for Azcanta
+1 Memory Lapse
+1 Mana Leak
+1 Balance
+1 Hymn to Tourach
+1 Sphere of the Suns
+1 Coldsteel Heart
+1 Saheeli, Sublime Artificer
+1 Ashiok, Nightmare Weaver
+1 Council's Judgment
+1 Basalt Monolith
+1 Fact or Fiction
+1 Cryptic Command
+1 Day of Judgment
+1 Armageddon
+1 Thran Dynamo
+1 Teferi, Hero of Dominaria
+1 Colossus of Ruin
+1 Mind Twist
+1 Ugin, the Spirit Dragon
+1 Consecrated Sphinx
+1 True-Name Nemesis
+1 Scalding Tarn
+1 Godless Shrine
+1 Underground Sea
+1 Fetid Pools
+1 Flooded Strand
+1 Caves of Koilos
+2 Swamp
+5 Island
+4 Plains

@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 2-1
+Games: 5-4
+
+1 Icehide Golem
+1 Dauntless Bodyguard
+1 Mother of Runes
+1 Armageddon
+1 Precinct Captain
+1 Figure of Destiny
+1 Umezawa's Jitte
+1 Ranger-Captain of Eos
+1 Dismember
+1 Swords to Plowshares
+1 Student of Warfare
+1 Skymarcher Aspirant
+1 Gideon Blackblade
+1 Adanto Vanguard
+1 Brimaz, King of Oreskos
+1 Remorseful Cleric
+1 Thalia, Guardian of Thraben
+1 Stoneforge Mystic
+1 On Thin Ice
+1 Selfless Spirit
+1 Kytheon, Hero of Akros
+1 Sword of Sinew and Steel
+1 Ravages of War
+1 Bonesplitter
+1 Strip Mine
+1 Mutavault
+1 Frostwalk Bastion
+13 Snow-Covered Plains
+
+1 Damnation
+1 Hangarback Walker
+1 Diregraf Ghoul
+1 Sarcomancy
+1 Nature's Claim
+1 Enlightened Tutor
+1 Pack Rat
+1 Phantasmal Image
+1 Scrapheap Scrounger
+1 Tidehollow Sculler
+1 Finale of Glory
+1 Sword of Truth and Justice
+1 Nekrataal
+1 Territorial Hellkite
+1 Thragtusk
+1 Lyra Dawnbringer
+1 Recruiter of the Guard
+1 Banishing Light

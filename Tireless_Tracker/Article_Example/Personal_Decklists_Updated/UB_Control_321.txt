@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control_Reanimator
+Record: 1-2
+Games: 3-5
+
+1 Talisman of Progress
+1 Entomb
+1 Hymn to Tourach
+1 Hostage Taker
+1 Life // Death
+1 Dance of the Dead
+1 Mana Drain
+1 Talisman of Dominance
+1 Dig Through Time
+1 Chart a Course
+1 The Scarab God
+1 Duress
+1 Negate
+1 Liliana of the Veil
+1 Griselbrand
+1 Compulsive Research
+1 Looter il-Kor
+1 Animate Dead
+1 Counterspell
+1 Collective Brutality
+1 Languish
+1 Inferno Titan
+1 Ugin, the Spirit Dragon
+1 Ash Barrens
+1 Fetid Pools
+1 Underground Sea
+1 Watery Grave
+7 Snow-Covered Swamp
+6 Snow-Covered Island
+
+1 Scattered Groves
+1 Volcanic Island
+1 Wooded Foothills
+1 Nature's Claim
+1 Dreadbore
+1 Daretti, Ingenious Iconoclast
+1 Kolaghan's Command
+1 Arc Lightning
+1 Lingering Souls
+1 Oblivion Ring
+1 Braids, Cabal Minion
+1 Flametongue Kavu
+1 Arcane Artisan
+1 Search for Azcanta
+1 Force of Will
+1 Gonti, Lord of Luxury
+1 Callous Dismissal
+1 Liliana, the Last Hope

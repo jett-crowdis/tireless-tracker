@@ -1,0 +1,53 @@
+Colors: WU
+Archetype: Control
+Record: 2-1
+Games: 5-2
+
+1 Mana Drain
+1 Chart a Course
+1 Cavalier of Gales
+1 Mulldrifter
+1 Gideon Blackblade
+1 Coalition Relic
+1 Izzet Signet
+1 Consecrated Sphinx
+1 Phyrexian Metamorph
+1 Teferi, Hero of Dominaria
+1 Vendilion Clique
+1 Teferi, Time Raveler
+1 Memory Lapse
+1 Wall of Omens
+1 Council's Judgment
+1 Mind Stone
+1 Scour All Possibilities
+1 Negate
+1 Phantasmal Image
+1 Winds of Abandon
+1 Condemn
+1 Blade Splicer
+1 Sun Titan
+1 Ash Barrens
+1 Celestial Colonnade
+1 Flooded Strand
+1 Sunbaked Canyon
+8 Snow-Covered Island
+5 Snow-Covered Plains
+
+1 Underground Sea
+1 Watery Grave
+1 Brainstorm
+1 Sensei's Divining Top
+1 Dryad Militant
+1 Dauntless Bodyguard
+1 Mardu Woe-Reaper
+1 Adanto Vanguard
+1 Pernicious Deed
+1 Hanweir Garrison
+1 Opposition
+1 Experimental Frenzy
+1 Day of Judgment
+1 Torrential Gearhulk
+1 Angel of Invention
+1 Archangel Avacyn
+1 Armageddon
+1 Unexpectedly Absent

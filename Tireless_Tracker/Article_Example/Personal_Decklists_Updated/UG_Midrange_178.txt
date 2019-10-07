@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-4
+
+1 Bribery
+1 Consecrated Sphinx
+1 Birds of Paradise
+1 Joraga Treespeaker
+1 Talisman of Curiosity
+1 Chart a Course
+1 Basalt Monolith
+1 Garruk, Primal Hunter
+1 Carnage Tyrant
+1 Jace, the Mind Sculptor
+1 Sakura-Tribe Elder
+1 Opposition
+1 Lotus Cobra
+1 Wickerbough Elder
+1 Whirler Rogue
+1 Dig Through Time
+1 Jadelight Ranger
+1 Wolfbriar Elemental
+1 Solemn Simulacrum
+1 Paradise Druid
+1 Ice-Fang Coatl
+1 Nissa, Steward of Elements
+1 Hydroid Krasis
+1 Kodama's Reach
+1 Gaea's Cradle
+1 Mana Confluence
+1 Tropical Island
+1 Waterlogged Grove
+1 Wooded Foothills
+5 Snow-Covered Island
+6 Snow-Covered Forest
+
+1 City of Brass
+1 Trostani Discordant
+1 Mirari's Wake
+1 Spawn of Mayhem
+1 Damnation
+1 Grafted Wargear
+1 Duskwatch Recruiter
+1 Enlightened Tutor
+1 Figure of Destiny
+1 Bomat Courier
+1 Mind Stone
+1 Prismatic Lens
+1 Vivien's Arkbow
+1 Gilded Lotus
+1 Urza, Lord High Artificer
+1 Thrun, the Last Troll

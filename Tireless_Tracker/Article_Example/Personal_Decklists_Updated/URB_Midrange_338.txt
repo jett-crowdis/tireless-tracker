@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Midrange
+Record: 2-1
+Games: 4-2
+
+1 The Scarab God
+1 Hostage Taker
+1 Ravenous Chupacabra
+1 Kolaghan's Command
+1 Nicol Bolas, God-Pharaoh
+1 Mind Twist
+1 Mana Drain
+1 Pyroclasm
+1 Recurring Nightmare
+1 Jace, Vryn's Prodigy
+1 Venser, Shaper Savant
+1 Fatal Push
+1 Bitterblossom
+1 Lingering Souls
+1 Nekrataal
+1 Dark Confidant
+1 Thoughtseize
+1 Consecrated Sphinx
+1 Gonti, Lord of Luxury
+1 Thirst for Knowledge
+1 Doom Blade
+1 Feldon of the Third Path
+1 Ophiomancer
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Fetid Pools
+1 Mana Confluence
+1 Scrubland
+1 Steam Vents
+1 Sulfurous Springs
+1 Underground Sea
+2 Snow-Covered Mountain
+3 Snow-Covered Island
+3 Snow-Covered Swamp
+
+1 Treetop Village
+1 Reanimate
+1 Sarcomancy
+1 Monastery Swiftspear
+1 Animate Dead
+1 Wall of Omens
+1 Drana, Liberator of Malakir
+1 Curse of Disturbance
+1 Blade Splicer
+1 Braids, Cabal Minion
+1 Experimental Frenzy
+1 Ilharg, the Raze-Boar
+1 Wildfire

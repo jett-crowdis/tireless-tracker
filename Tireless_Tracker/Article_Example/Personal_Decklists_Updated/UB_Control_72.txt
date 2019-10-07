@@ -1,0 +1,32 @@
+Colors: UB
+Archetype: Control
+Record: 3-4
+Games: 8.0-9.5
+
+1 Vampiric Tutor
+1 Mana Leak
+1 Phantasmal Image
+1 Snapcaster Mage
+1 Chart a Course
+1 Mana Drain
+1 Remand
+1 Dream Noble
+1 True-Name Nemesis
+1 Compulsive Research
+1 Ashiok, Nightmare Weaver
+1 Coalition Relic
+1 Cryptic Command
+1 Control Magic
+1 Venser, Shaper Savant
+1 God-Eternal Kefnet
+1 Fact or Fiction
+1 Jace, the Mind Sculptor
+1 Languish
+1 Mystic Confluence
+1 Bribery
+1 Condescend
+1 Mind Twist
+1 Creeping Tar Pit
+1 Shelldock Isle
+9 Island
+6 Swamp

@@ -1,0 +1,52 @@
+Colors: U
+Archetype: Control
+Record: 3-0
+Games: 6-1
+
+1 Treachery
+1 Tinker
+1 Remand
+1 Serum Visions
+1 Spell Pierce
+1 Memory Lapse
+1 Azorius Signet
+1 Karn, Scion of Urza
+1 Worn Powerstone
+1 Glen Elendra Archmage
+1 Gilded Lotus
+1 Blightsteel Colossus
+1 Vedalken Shackles
+1 Cryptic Command
+1 Mox Diamond
+1 Fractured Identity
+1 Basalt Monolith
+1 Karn Liberated
+1 Torrential Gearhulk
+1 Urza, Lord High Artificer
+1 Upheaval
+1 Champion of Wits
+1 Will Kenrith
+1 Shelldock Isle
+16 Snow-Covered Island
+
+1 Sheltered Thicket
+1 Stomping Ground
+1 Sensei's Divining Top
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Doom Blade
+1 Mesmeric Fiend
+1 Ravenous Chupacabra
+1 Nissa, Vital Force
+1 Mirari's Wake
+1 Hangarback Walker
+1 Bloodghast
+1 Izzet Charm
+1 Nature's Chant
+1 Krenko, Tin Street Kingpin
+1 Wheel of Fortune
+1 Elesh Norn, Grand Cenobite
+1 Ancient Stone Idol
+1 Finale of Glory
+1 Phantasmal Image
+1 Tezzeret, Artifice Master

@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange
+Record: 0-3
+Games: 2-6
+
+1 Natural Order
+1 Garruk Relentless
+1 Biogenic Ooze
+1 Elves of Deep Shadow
+1 Glen Elendra Archmage
+1 Wild Growth
+1 Green Sun's Zenith
+1 Lotus Cobra
+1 Birds of Paradise
+1 Rofellos, Llanowar Emissary
+1 Mulldrifter
+1 Craterhoof Behemoth
+1 Carnage Tyrant
+1 Compulsive Research
+1 Whirler Rogue
+1 Fauna Shaman
+1 Opposition
+1 Vivien Reid
+1 Treachery
+1 Phyrexian Metamorph
+1 Arbor Elf
+1 Jadelight Ranger
+1 Llanowar Elves
+1 Thragtusk
+1 Lumbering Falls
+1 Tropical Island
+1 Yavimaya Coast
+8 Forest
+5 Island
+
+1 Temple Garden
+1 Gutterbones
+1 Snapcaster Mage
+1 Assassin's Trophy
+1 Izzet Charm
+1 Disenchant
+1 Narset, Parter of Veils
+1 Sword of Feast and Famine
+1 Trostani Discordant
+1 Sphinx of the Steel Wind
+1 Condescend
+1 Sower of Temptation
+1 Polukranos, World Eater
+1 Force of Will
+1 Treasure Cruise
+1 Hornet Queen
+1 Will Kenrith
+1 Acidic Slime

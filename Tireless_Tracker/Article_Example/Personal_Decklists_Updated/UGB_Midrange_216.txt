@@ -1,0 +1,54 @@
+Colors: UGB
+Archetype: Midrange_Combo
+Record: 3-0
+Games: 6-3
+
+1 Emrakul, the Aeons Torn
+1 Through the Breach
+1 Coldsteel Heart
+1 Primeval Titan
+1 Wild Growth
+1 Nissa, Vital Force
+1 Tinker
+1 Worn Powerstone
+1 Izzet Signet
+1 Walking Ballista
+1 Mystical Tutor
+1 Dig Through Time
+1 Ulamog, the Ceaseless Hunger
+1 Blightsteel Colossus
+1 Karn, Scion of Urza
+1 Hangarback Walker
+1 Compulsive Research
+1 Oath of Druids
+1 Remand
+1 Overgrowth
+1 Imperial Seal
+1 Pernicious Deed
+1 Dragonlord Atarka
+1 Bloodstained Mire
+1 Fetid Pools
+1 Mana Confluence
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Stomping Ground
+1 Verdant Catacombs
+1 Treetop Village
+1 Waterlogged Grove
+1 Watery Grave
+2 Snow-Covered Island
+3 Snow-Covered Forest
+2 Snow-Covered Swamp
+
+1 Carnophage
+1 Sarcomancy
+1 Seasoned Pyromancer
+1 Spawn of Mayhem
+1 Day of Judgment
+1 Temple Garden
+1 Harmonize
+1 Plow Under
+1 Elesh Norn, Grand Cenobite
+1 Terastodon
+1 Necromancy
+1 Shriekmaw

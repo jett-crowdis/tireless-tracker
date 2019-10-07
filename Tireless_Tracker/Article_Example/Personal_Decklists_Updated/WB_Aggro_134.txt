@@ -1,0 +1,53 @@
+Colors: WB
+Archetype: Aggro
+Record: 3-0
+Games: 6-1
+
+1 Thoughtseize
+1 Skullclamp
+1 Bloodsoaked Champion
+1 Diregraf Ghoul
+1 Snuff Out
+1 Disenchant
+1 Kitesail Freebooter
+1 Declaration in Stone
+1 Swords to Plowshares
+1 Reanimate
+1 Brain Maggot
+1 Bloodghast
+1 Doom Blade
+1 Carnophage
+1 Drana, Liberator of Malakir
+1 Lingering Souls
+1 Kytheon, Hero of Akros
+1 Inquisition of Kozilek
+1 Thalia, Guardian of Thraben
+1 Scrapheap Scrounger
+1 Armageddon
+1 Gutterbones
+1 Anguished Unmaking
+1 Shriekmaw
+1 Bloodstained Mire
+1 Godless Shrine
+1 Mana Confluence
+1 Marsh Flats
+1 Scrubland
+1 Strip Mine
+5 Plains
+5 Swamp
+
+1 Sheltered Thicket
+1 Imperial Seal
+1 Mind Stone
+1 Toxic Deluge
+1 Volrath's Stronghold
+1 Student of Warfare
+1 Duskwatch Recruiter
+1 Gonti, Lord of Luxury
+1 Kalitas, Traitor of Ghet
+1 Sorin, Lord of Innistrad
+1 Archangel Avacyn
+1 Wildfire
+1 Ophiomancer
+1 Brimaz, King of Oreskos
+1 History of Benalia

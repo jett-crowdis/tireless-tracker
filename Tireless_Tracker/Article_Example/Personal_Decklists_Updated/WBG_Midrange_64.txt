@@ -1,0 +1,41 @@
+Colors: WBG
+Archetype: Midrange
+Record: 3-0
+Games: 6.0-1.5
+
+1 Swords to Plowshares
+1 Unexpectedly Absent
+1 Assassin's Trophy
+1 Declaration in Stone
+1 Sylvan Library
+1 Gideon of the Trials
+1 Toxic Deluge
+1 Maelstrom Pulse
+1 Liliana, the Last Hope
+1 Gideon, Ally of Zendikar
+1 Elspeth, Sun's Champion
+1 Ugin, the Spirit Dragon
+1 Elvish Mystic
+1 Avacyn's Pilgrim
+1 Fyndhorn Elves
+1 Lotus Cobra
+1 Sunforge Adept
+1 Knight of Autumn
+1 Recruiter of the Guard
+1 Oracle of Mul Day
+1 Archangel Avacyn
+1 Trostani Discordant
+1 Angel of Sanctions
+1 Polluted Delta
+1 Marsh Flats
+1 Arid Mesa
+1 Windswept Heath
+1 Horizon Canopy
+2 Plains
+2 Swamp
+3 Forest
+1 Treetop Village
+1 Llanowar Wastes
+1 Savannah
+1 Temple Garden
+1 Blood Crypt

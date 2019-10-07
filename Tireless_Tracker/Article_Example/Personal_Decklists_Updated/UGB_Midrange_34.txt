@@ -1,0 +1,37 @@
+Colors: UGB
+Archetype: Midrange
+Record: 0-2
+Games: 1.0-4.0
+
+1 Birds of Paradise
+1 Sylvan Caryatid
+1 Jace, Vryn's Prodigy
+1 Pack Rat
+1 Baleful Strix
+1 Lotus Cobra
+1 Griselbrand
+1 Woodfall Primus
+1 Terastodon
+1 Reanimate
+1 Entomb
+1 Sylvan Library
+1 Demonic Tutor
+1 Survival of the Fittest
+1 Ashiok, Nightmare Weaver
+1 Show and Tell
+1 Liliana of the Veil
+1 Toxic Deluge
+1 Maelstrom Pulse
+1 Thran Dynamo
+1 Liliana, Death's Majesty
+1 Gilded Lotus
+1 Karn Liberated
+1 Watery Grave
+1 Creeping Tar Pit
+1 Verdant Catacombs
+1 Polluted Delta
+1 Overgrown Tomb
+1 Bayou
+6 Forest
+2 Island
+3 Swamp

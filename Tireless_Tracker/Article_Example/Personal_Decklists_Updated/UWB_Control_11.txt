@@ -1,0 +1,39 @@
+Colors: UWB
+Archetype: Control
+Record: 2-1
+Games: 4.5-3.0
+
+1 Jace, Vryn's Prodigy
+1 Wall of Omens
+1 Lingering Souls
+1 Phyrexian Metamorph
+1 Mulldrifter
+1 Karn Liberated
+1 Path to Exile
+1 Swords to Plowshares
+1 Ponder
+1 Chrome Mox
+1 Miscalculation
+1 Amulet of Power
+1 Impulse
+1 Oblivion Ring
+1 Vindicate
+1 Day of Judgment
+1 Gideon, Ally of Zendikar
+1 Thran Dynamo
+1 Cast Out
+1 Fractured Identity
+1 Gilded Lotus
+1 Treachery
+1 Dig Through Time
+1 Creeping Tar Pit
+1 Maze of Ith
+1 Watery Grave
+1 Hallowed Fountain
+1 Windswept Heath
+1 Shelldock Isle
+1 Tundra
+1 Scrubland
+3 Island
+5 Plains
+1 Swamp

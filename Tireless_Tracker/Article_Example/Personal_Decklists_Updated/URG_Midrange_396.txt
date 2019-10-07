@@ -1,0 +1,35 @@
+Colors: URG
+Archetype: Midrange_Combo
+Record: 1-1
+Games: 2-2
+
+1 Breeding Pool
+1 Stomping Ground
+1 Steam Vents
+1 Wooded Foothills
+1 Prismatic Vista
+1 Shelldock Isle
+1 Snow-Covered Island
+4 Snow-Covered Mountain
+7 Snow-Covered Forest
+1 Ice-Fang Coatl
+1 Walking Ballista
+1 Ponder
+1 Wild Growth
+1 Chart a Course
+1 Grim Monolith
+1 Mind Stone
+1 Channel
+1 Compulsive Research
+1 Kodama's Reach
+1 Sneak Attack
+1 Chandra, Torch of Defiance
+1 Gilded Lotus
+1 Vivien Reid
+1 Blitz Basilisk
+1 Hydroid Krasis
+1 Griselbrand
+1 Colossus of Ruin
+1 Karn Liberated
+1 Wurmcoil Engine
+1 Myr Battlesphere

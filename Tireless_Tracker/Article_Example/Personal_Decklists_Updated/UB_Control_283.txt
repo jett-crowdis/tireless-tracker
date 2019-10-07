@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control
+Record: 2-1
+Games: 4-4
+
+1 Tinker
+1 Talisman of Conviction
+1 Everflowing Chalice
+1 Narset, Parter of Veils
+1 Mu Yanling, Sky Dancer
+1 Emrakul, the Promised End
+1 Urza, Lord High Artificer
+1 Saheeli, Sublime Artificer
+1 Treasure Cruise
+1 Grim Monolith
+1 Phyrexian Revoker
+1 Walking Ballista
+1 Miscalculation
+1 Worn Powerstone
+1 Tezzeret, Artifice Master
+1 Condescend
+1 Ponder
+1 Ancient Stone Idol
+1 Talisman of Curiosity
+1 Preordain
+1 True-Name Nemesis
+1 Ugin, the Spirit Dragon
+1 Gilded Lotus
+1 The Scarab God
+1 Creeping Tar Pit
+1 Scalding Tarn
+3 Snow-Covered Swamp
+11 Snow-Covered Island
+
+1 Scrubland
+1 Hangarback Walker
+1 Carnophage
+1 Grim Lavamancer
+1 Animate Dead
+1 Bloodghast
+1 Brain Maggot
+1 Heir of Falkenrath
+1 Kitesail Freebooter
+1 Night's Whisper
+1 Dreadbore
+1 Champion of Wits
+1 Daretti, Ingenious Iconoclast
+1 Arc Lightning
+1 Nekrataal
+1 Fiery Confluence
+1 Ravages of War
+1 Siege-Gang Commander
+1 Merfolk Looter

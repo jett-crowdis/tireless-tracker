@@ -1,0 +1,36 @@
+Colors: URB
+Archetype: Control_Reanimator
+Record: 1-0
+Games: 2-0
+
+1 Fatal Push
+1 Entomb
+1 Inquisition of Kozilek
+1 Duress
+1 Spell Pierce
+1 Preordain
+1 Izzet Charm
+1 Doom Blade
+1 Dance of the Dead
+1 Life // Death
+1 Mana Leak
+1 Looter il-Kor
+1 Counterspell
+1 Kolaghan's Command
+1 Plague Engineer
+1 Necromancy
+1 Toxic Deluge
+1 Hostage Taker
+1 Glen Elendra Archmage
+1 Fact or Fiction
+1 Woodfall Primus
+1 Hornet Queen
+1 Ulamog, the Ceaseless Hunger
+1 Underground Sea
+1 Marsh Flats
+1 Arid Mesa
+1 Badlands
+1 Tundra
+1 Snow-Covered Mountain
+5 Snow-Covered Island
+5 Snow-Covered Swamp

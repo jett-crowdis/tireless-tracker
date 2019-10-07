@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-2
+
+1 Rofellos, Llanowar Emissary
+1 Myr Battlesphere
+1 Sylvan Library
+1 Birds of Paradise
+1 Tireless Tracker
+1 Vivien Reid
+1 Woodfall Primus
+1 Basalt Monolith
+1 Carnage Tyrant
+1 Fyndhorn Elves
+1 Wall of Roots
+1 Sakura-Tribe Elder
+1 Jadelight Ranger
+1 Joraga Treespeaker
+1 Biogenic Ooze
+1 Wild Growth
+1 Garruk Relentless
+1 Noble Hierarch
+1 Oracle of Mul Daya
+1 Green Sun's Zenith
+1 Reclamation Sage
+1 Master of the Wild Hunt
+1 Garruk, Primal Hunter
+1 Primeval Titan
+1 Gaea's Cradle
+1 Avacyn's Pilgrim
+14 Forest
+
+1 Lavaclaw Reaches
+1 Taiga
+1 Solar Blaze
+1 Karn, Scion of Urza
+1 Ravenous Chupacabra
+1 Daretti, Ingenious Iconoclast
+1 Sword of Feast and Famine
+1 Lightning Strike
+1 Goblin Cratermaker
+1 Lightning Helix
+1 Phyrexian Revoker
+1 Night's Whisper
+1 Deranged Hermit
+1 Batterskull
+1 Acidic Slime
+1 Wolfbriar Elemental
+1 Thrun, the Last Troll
+1 Scavenging Ooze
+1 Sundering Titan

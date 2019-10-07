@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 4-4
+
+1 Sulfuric Vortex
+1 Rakdos Cackler
+1 Fireblast
+1 Chain Lightning
+1 Burst Lightning
+1 Stormblood Berserker
+1 Kari Zev, Skyship Raider
+1 Firedrinker Satyr
+1 Goblin Cratermaker
+1 Umezawa's Jitte
+1 Grafted Wargear
+1 Jackal Pup
+1 Hellrider
+1 Figure of Destiny
+1 Hazoret the Fervent
+1 Fiery Confluence
+1 Firebolt
+1 Arc Trail
+1 Hanweir Garrison
+1 Eidolon of the Great Revel
+1 Skullclamp
+1 Monastery Swiftspear
+1 Experimental Frenzy
+1 Arc Lightning
+1 Mutavault
+1 Rishadan Port
+14 Snow-Covered Mountain
+
+1 Horizon Canopy
+1 Nurturing Peatland
+1 Hangarback Walker
+1 Gravecrawler
+1 Mesmeric Fiend
+1 Remorseful Cleric
+1 Stoneforge Mystic
+1 Winds of Abandon
+1 Domri, Anarch of Bolas
+1 Brimaz, King of Oreskos
+1 Ranger-Captain of Eos
+1 Damnation
+1 Gideon, Ally of Zendikar
+1 Lyra Dawnbringer
+1 Terastodon
+1 Chandra, Flamecaller
+1 Glorybringer
+1 Sword of Sinew and Steel
+1 Fleetwheel Cruiser

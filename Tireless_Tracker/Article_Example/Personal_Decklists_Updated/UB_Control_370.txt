@@ -1,0 +1,54 @@
+Colors: UB
+Archetype: Control_Reanimator
+Record: 2-1
+Games: 4-2
+
+1 Reanimate
+1 Entomb
+1 Mystical Tutor
+1 Imperial Seal
+1 Mana Leak
+1 Baleful Strix
+1 Collective Brutality
+1 Heir of Falkenrath
+1 Dance of the Dead
+1 Life // Death
+1 Demonic Tutor
+1 Merfolk Looter
+1 Hymn to Tourach
+1 Jace, Vryn's Prodigy
+1 Go for the Throat
+1 Toxic Deluge
+1 Thirst for Knowledge
+1 Thief of Sanity
+1 Necromancy
+1 Damnation
+1 Sundering Titan
+1 Sphinx of the Steel Wind
+1 Ulamog, the Ceaseless Hunger
+1 Griselbrand
+1 Fetid Pools
+1 Underground Sea
+1 Creeping Tar Pit
+8 Snow-Covered Swamp
+6 Snow-Covered Island
+
+1 Talisman of Progress
+1 Terastodon
+1 Sower of Temptation
+1 Jace Beleren
+1 Liliana, Dreadhorde General
+1 Phantasmal Image
+1 Pack Rat
+1 Wurmcoil Engine
+1 Gutterbones
+1 Bloodsoaked Champion
+1 Kari Zev, Skyship Raider
+1 Kolaghan's Command
+1 Koth of the Hammer
+1 Figure of Destiny
+1 Searing Spear
+1 Porcelain Legionnaire
+1 Dreadbore
+1 Incinerate
+1 Magma Jet

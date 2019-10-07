@@ -1,0 +1,37 @@
+Colors: UBR
+Archetype: Midrange
+Record: 2-2
+Games: 5.0-5.0
+
+1 Phantasmal Image
+1 Heir of Falkenrath
+1 Dream Noble
+1 Ophiomancer
+1 Ravenous Chupacabra
+1 Glen Elendra Archmage
+1 Griselbrand
+1 Wurmcoil Engine
+1 Torrential Gearhulk
+1 Reanimate
+1 Mox Diamond
+1 Mana Leak
+1 Hymn to Tourach
+1 Remand
+1 Counterspell
+1 Mind Stone
+1 Ashiok, Nightmare Weaver
+1 Dack Fayden
+1 Recurring Nightmare
+1 Kolaghan's Command
+1 Liliana of the Veil
+1 Basalt Monolith
+1 Snuff Out
+1 Watery Grave
+1 Sulfurous Springs
+1 Flooded Strand
+1 Verdant Catacombs
+1 Shelldock Isle
+1 Fetid Pools
+1 Badlands
+5 Island
+5 Swamp

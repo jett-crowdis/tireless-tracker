@@ -1,0 +1,53 @@
+Colors: GR
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-2
+
+1 Garruk Relentless
+1 Fauna Shaman
+1 Scavenging Ooze
+1 Arbor Elf
+1 Hornet Queen
+1 Avacyn's Pilgrim
+1 Domri, Chaos Bringer
+1 Emrakul, the Aeons Torn
+1 Noble Hierarch
+1 Domri, Anarch of Bolas
+1 Garruk Wildspeaker
+1 Reclamation Sage
+1 Thrun, the Last Troll
+1 Primeval Titan
+1 Karn Liberated
+1 Batterskull
+1 Green Sun's Zenith
+1 Vivien Reid
+1 Wall of Roots
+1 Nissa, Who Shakes the World
+1 Dragonlord Atarka
+1 Terastodon
+1 Through the Breach
+1 Stomping Ground
+1 Windswept Heath
+1 Wooded Foothills
+1 Chrome Mox
+5 Snow-Covered Mountain
+8 Snow-Covered Forest
+
+1 Nissa, Steward of Elements
+1 Wall of Omens
+1 Toxic Deluge
+1 Burst Lightning
+1 Reanimate
+1 Overgrown Tomb
+1 Monastery Swiftspear
+1 Sorcerous Spyglass
+1 Assassin's Trophy
+1 Stoneforge Mystic
+1 Kolaghan's Command
+1 Maelstrom Pulse
+1 Pernicious Deed
+1 Arc Lightning
+1 Wheel of Fortune
+1 Gideon of the Trials
+1 Experimental Frenzy
+1 Firebolt

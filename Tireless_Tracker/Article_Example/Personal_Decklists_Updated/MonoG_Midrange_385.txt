@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-1
+
+1 Solemn Simulacrum
+1 Joraga Treespeaker
+1 Wolfbriar Elemental
+1 Coldsteel Heart
+1 Nightpack Ambusher
+1 Courser of Kruphix
+1 Llanowar Elves
+1 Avacyn's Pilgrim
+1 Vivien Reid
+1 Woodfall Primus
+1 Karn Liberated
+1 Thragtusk
+1 Nissa, Who Shakes the World
+1 Eternal Witness
+1 Wild Growth
+1 Worn Powerstone
+1 Jadelight Ranger
+1 Umezawa's Jitte
+1 Garruk Relentless
+1 Sylvan Caryatid
+1 Harmonize
+1 Paradise Druid
+1 Utopia Sprawl
+1 Primeval Titan
+1 Strip Mine
+1 Gaea's Cradle
+1 Ancient Tomb
+13 Snow-Covered Forest
+
+1 Sheltered Thicket
+1 Nicol Bolas, God-Pharaoh
+1 Ilharg, the Raze-Boar
+1 Mirari's Wake
+1 Batterskull
+1 Gilded Lotus
+1 Restoration Angel
+1 Koth of the Hammer
+1 Xenagos, the Reveler
+1 Blade Splicer
+1 Maelstrom Pulse
+1 Grafted Wargear
+1 Champion of Wits
+1 Balance
+1 Winter Orb
+1 Sorcerous Spyglass
+1 Smuggler's Copter
+1 Kitesail Freebooter

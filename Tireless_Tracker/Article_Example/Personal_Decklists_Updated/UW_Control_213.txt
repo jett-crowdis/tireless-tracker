@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 0-3
+Games: 2-6
+
+1 Treachery
+1 Coldsteel Heart
+1 Talisman of Curiosity
+1 Elspeth, Sun's Champion
+1 Solemn Simulacrum
+1 Serum Visions
+1 Council's Judgment
+1 Basalt Monolith
+1 Wall of Omens
+1 Talisman of Progress
+1 Azorius Signet
+1 Teferi, Hero of Dominaria
+1 Ugin, the Spirit Dragon
+1 Monastery Mentor
+1 On Thin Ice
+1 Snapcaster Mage
+1 Supreme Verdict
+1 Moat
+1 Talisman of Conviction
+1 Fractured Identity
+1 Negate
+1 Serra the Benevolent
+1 Palace Jailer
+1 Cryptic Command
+1 Arid Mesa
+1 Frostwalk Bastion
+1 Hallowed Fountain
+1 Irrigated Farmland
+7 Snow-Covered Island
+5 Snow-Covered Plains
+
+1 Savannah
+1 Scattered Groves
+1 Temple Garden
+1 Treetop Village
+1 Enlightened Tutor
+1 Night's Whisper
+1 Merfolk Looter
+1 Kodama's Reach
+1 Oblivion Ring
+1 Nekrataal
+1 Thrun, the Last Troll
+1 Custodi Lich
+1 Elesh Norn, Grand Cenobite
+1 Karn Liberated
+1 Vedalken Shackles
+1 Venser, Shaper Savant
+1 Elspeth, Knight-Errant

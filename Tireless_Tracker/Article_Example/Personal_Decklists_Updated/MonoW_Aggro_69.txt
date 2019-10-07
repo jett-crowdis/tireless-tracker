@@ -1,0 +1,33 @@
+Colors: R
+Archetype: Aggro
+Record: 5-0
+Games: 10.0-2.5
+
+1 Dryad Militant
+1 Dauntless Bodyguard
+1 Isamaru, Hound of Konda
+1 Path to Exile
+1 Legion's Landing
+1 Kytheon, Hero of Akros
+1 Bonesplitter
+1 Declaration in Stone
+1 Umezawa's Jitte
+1 Stoneforge Mystic
+1 Thalia, Guardian of Thraben
+1 Knight of the Masses
+1 Journey to Nowhere
+1 Selfless Spirit
+1 Adanto Vanguard
+1 Enlisting Nomads
+1 Tithe Taker
+1 Thalia, Heretic Cathar
+1 Sword of Fire and Ice
+1 Spectral Procession
+1 Elspeth, Knight-Errant
+1 Armageddon
+1 Gideon, Ally of Zendikar
+1 Palace Jailer
+1 Mutavault
+1 Wasteland
+1 Mishra's Factory
+13 Plains

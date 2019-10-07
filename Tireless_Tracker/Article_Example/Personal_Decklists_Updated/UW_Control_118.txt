@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Azorius Signet
+1 Phyrexian Metamorph
+1 Elspeth, Sun's Champion
+1 Teferi, Hero of Dominaria
+1 Will Kenrith
+1 Treasure Cruise
+1 Day of Judgment
+1 Search for Azcanta
+1 Mox Diamond
+1 Path to Exile
+1 Dimir Signet
+1 Moat
+1 Upheaval
+1 Wall of Omens
+1 Fractured Identity
+1 Everflowing Chalice
+1 Simic Signet
+1 Grim Monolith
+1 Basalt Monolith
+1 Swords to Plowshares
+1 Walking Ballista
+1 Narset, Parter of Veils
+1 Snapcaster Mage
+1 Finale of Glory
+1 Hallowed Fountain
+1 Chrome Mox
+1 Irrigated Farmland
+6 Island
+7 Plains
+
+1 Sacred Foundry
+1 Temple Garden
+1 Hangarback Walker
+1 Enlightened Tutor
+1 Secure the Wastes
+1 Soldier of the Pantheon
+1 Declaration in Stone
+1 Solar Blaze
+1 Grafted Wargear
+1 Gideon of the Trials
+1 Archangel Avacyn
+1 Angel of Sanctions
+1 Lyra Dawnbringer
+1 Sun Titan
+1 Mulldrifter
+1 Negate
+1 Wrath of God
+1 Jace Beleren

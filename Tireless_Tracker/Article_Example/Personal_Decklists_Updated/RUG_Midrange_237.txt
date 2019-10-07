@@ -1,0 +1,54 @@
+Colors: RUG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-4
+
+1 Hexdrinker
+1 Fyndhorn Elves
+1 Wild Growth
+1 Hedron Archive
+1 Llanowar Elves
+1 Walking Ballista
+1 Myr Battlesphere
+1 Jadelight Ranger
+1 Channel
+1 Wurmcoil Engine
+1 Batterskull
+1 Carnage Tyrant
+1 Tireless Tracker
+1 Plow Under
+1 Elves of Deep Shadow
+1 Reclamation Sage
+1 Avacyn's Pilgrim
+1 Hydroid Krasis
+1 Arbor Elf
+1 Nissa, Vital Force
+1 Nissa, Steward of Elements
+1 Voracious Hydra
+1 Dragonlord Atarka
+1 Nissa, Voice of Zendikar
+1 Sheltered Thicket
+1 Wooded Foothills
+1 Lumbering Falls
+1 Breeding Pool
+1 Gaea's Cradle
+1 Snow-Covered Mountain
+2 Snow-Covered Island
+8 Snow-Covered Forest
+
+1 Collective Brutality
+1 Night's Whisper
+1 Bloodghast
+1 Nekrataal
+1 Overgrown Tomb
+1 Dark Confidant
+1 Justice Strike
+1 Maelstrom Pulse
+1 Light Up the Stage
+1 Braids, Cabal Minion
+1 Damnation
+1 Ravenous Chupacabra
+1 Flametongue Kavu
+1 Glorybringer
+1 Zealous Conscripts
+1 Lyra Dawnbringer

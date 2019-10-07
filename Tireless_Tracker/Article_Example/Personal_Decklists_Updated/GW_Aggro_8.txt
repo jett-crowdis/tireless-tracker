@@ -1,0 +1,36 @@
+Colors: GW
+Archetype: Aggro
+Record: 1-2
+Games: 3.0-4.5
+
+1 Llanowar Elves
+1 Kytheon, Hero of Akros
+1 Rancor
+1 Noble Hierarch
+1 Birds of Paradise
+1 Wild Nacatl
+1 Umezawa's Jitte
+1 Sylvan Library
+1 Journey to Nowhere
+1 Sinhama, the Emminent
+1 Sylvan Advocate
+1 Thalia, Guardian of Thraben
+1 Knight of the Masses
+1 Courser of Kruphix
+1 Council's Judgment
+1 Taika, Queen of Nistos
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Elspeth, Knight-Errant
+1 Surrak, the Hunt Caller
+1 Ravages of War
+1 Hero of Bladehold
+1 Symbol Status
+1 Scattered Groves
+1 Savannah
+1 Verdant Catacombs
+1 Marsh Flats
+1 Gaea's Cradle
+1 Taiga
+5 Forest
+6 Plains

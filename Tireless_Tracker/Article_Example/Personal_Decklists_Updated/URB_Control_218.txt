@@ -1,0 +1,53 @@
+Colors: URB
+Archetype: Control
+Record: 1-2
+Games: 4-4
+
+1 Inferno Titan
+1 Memory Lapse
+1 Hedron Archive
+1 Pyroclasm
+1 Chandra, Flamecaller
+1 Condescend
+1 Dreadbore
+1 Zealous Conscripts
+1 Scour All Possibilities
+1 Solemn Simulacrum
+1 Talisman of Dominance
+1 Rolling Earthquake
+1 Preordain
+1 True-Name Nemesis
+1 Lightning Bolt
+1 Saheeli, the Gifted
+1 Phyrexian Metamorph
+1 Control Magic
+1 Kolaghan's Command
+1 Searing Spear
+1 Daretti, Ingenious Iconoclast
+1 Doom Blade
+1 Badlands
+1 Blood Crypt
+1 Nicol Bolas, God-Pharaoh
+1 Lavaclaw Reaches
+1 Polluted Delta
+1 Sulfurous Springs
+1 Volcanic Island
+3 Snow-Covered Mountain
+8 Snow-Covered Island
+
+1 Gutterbones
+1 Chrome Mox
+1 Bomat Courier
+1 Looter il-Kor
+1 Winter Orb
+1 Dismissive Pyromancer
+1 Nekrataal
+1 Thrun, the Last Troll
+1 Koth of the Hammer
+1 Ilharg, the Raze-Boar
+1 Burning of Xinye
+1 Wildfire
+1 Hornet Queen
+1 Treasure Cruise
+1 Sundering Titan
+1 Emrakul, the Promised End

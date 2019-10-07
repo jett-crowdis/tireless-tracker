@@ -1,0 +1,36 @@
+Colors: RWB
+Archetype: Aggro
+Record: 2-4
+Games: 6.0-9.0
+
+1 Skullclamp
+1 Rakdos Cackler
+1 Soldier of the Pantheon
+1 Duress
+1 Gravecrawler
+1 Diregraf Ghoul
+1 Dread Wanderer
+1 Nightfall Stalker
+1 Smuggler's Copter
+1 Unexpectedly Absent
+1 Porcelain Legionnaire
+1 Thalia, Guardian of Thraben
+1 Cast Down
+1 Ulak, Heartless Warden
+1 Kitesail Freebooter
+1 Lingering Souls
+1 Vindicate
+1 Brimaz, King of Oreskos
+1 Oblivion Ring
+1 Hero of Bladehold
+1 Ravages of War
+1 Descent into Hell
+1 Snuff Out
+1 Experimental Frenzy
+1 Bloodstained Mire
+1 Scrubland
+1 Plateau
+1 Badlands
+1 Windswept Heath
+6 Plains
+5 Swamp

@@ -1,0 +1,53 @@
+Colors: GB
+Archetype: Midrange
+Record: 1-2
+Games: 4-4
+
+1 Demonic Tutor
+1 Liliana, Dreadhorde General
+1 Shriekmaw
+1 Deep Forest Hermit
+1 Garruk, Primal Hunter
+1 Kodama's Reach
+1 Fatal Push
+1 Scavenging Ooze
+1 Go for the Throat
+1 Recurring Nightmare
+1 Mox Diamond
+1 Acidic Slime
+1 Gonti, Lord of Luxury
+1 Grave Titan
+1 Necromancy
+1 Wall of Blossoms
+1 Vivien's Arkbow
+1 Assassin's Trophy
+1 Mind Twist
+1 Hexdrinker
+1 Pack Rat
+1 Bitterblossom
+1 Ravenous Chupacabra
+1 Bayou
+1 Bloodstained Mire
+1 Gaea's Cradle
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Polluted Delta
+1 Windswept Heath
+5 Snow-Covered Forest
+5 Snow-Covered Swamp
+
+1 Mutavault
+1 Entomb
+1 Kytheon, Hero of Akros
+1 Doom Blade
+1 Oona's Prowler
+1 Precinct Captain
+1 Life // Death
+1 Ashiok, Nightmare Weaver
+1 Vindicate
+1 Braids, Cabal Minion
+1 Mirari's Wake
+1 Trostani Discordant
+1 Terastodon
+1 Craterhoof Behemoth
+1 Woodfall Primus

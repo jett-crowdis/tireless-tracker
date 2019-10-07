@@ -1,0 +1,36 @@
+Colors: UB
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Coldsteel Heart
+1 Doom Blade
+1 Remand
+1 Karn Liberated
+1 Jace, the Mind Sculptor
+1 Thirst for Knowledge
+1 Treachery
+1 Memory Lapse
+1 Vedalken Shackles
+1 The Scarab God
+1 Search for Azcanta
+1 Fetid Pools
+1 Control Magic
+1 Mystical Tutor
+1 Polluted Delta
+1 Scalding Tarn
+1 Bayou
+1 Force of Will
+1 Cryptic Command
+1 Counterspell
+1 True-Name Nemesis
+1 Creeping Tar Pit
+1 Phyrexian Metamorph
+1 Liliana, the Last Hope
+1 Dismember
+1 Talisman of Curiosity
+1 Mox Diamond
+1 Ponder
+1 Underground Sea
+7 Snow-Covered Island
+5 Snow-Covered Swamp

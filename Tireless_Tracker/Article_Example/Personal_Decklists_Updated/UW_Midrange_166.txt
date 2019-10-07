@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Midrange
+Record: 1-2
+Games: 4-5
+
+1 Fractured Identity
+1 Treachery
+1 Snapcaster Mage
+1 Serra the Benevolent
+1 Phyrexian Revoker
+1 Wall of Omens
+1 Archangel Avacyn
+1 Blade Splicer
+1 Palace Jailer
+1 Chart a Course
+1 Remand
+1 Recruiter of the Guard
+1 Miscalculation
+1 Sower of Temptation
+1 Jace, the Mind Sculptor
+1 Jace, Vryn's Prodigy
+1 Vendilion Clique
+1 On Thin Ice
+1 Winds of Abandon
+1 Champion of Wits
+1 Condescend
+1 Remorseful Cleric
+1 Gideon Jura
+1 Celestial Colonnade
+1 Irrigated Farmland
+1 Polluted Delta
+1 Scalding Tarn
+1 Tundra
+6 Plains
+6 Island
+
+1 Temple Garden
+1 Diregraf Ghoul
+1 Enlightened Tutor
+1 Skymarcher Aspirant
+1 Channel
+1 Earthshaker Khenra
+1 Tithe Taker
+1 Arcane Artisan
+1 Thirst for Knowledge
+1 Courser of Kruphix
+1 Banishing Light
+1 Lingering Souls
+1 Control Magic
+1 Domri, Chaos Bringer
+1 Armageddon
+1 Ravages of War
+1 Smuggler's Copter

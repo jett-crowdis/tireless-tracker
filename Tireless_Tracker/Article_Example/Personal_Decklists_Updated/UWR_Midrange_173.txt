@@ -1,0 +1,54 @@
+Colors: UWR
+Archetype: Midrange
+Record: 1-2
+Games: 4-4
+
+1 Scour All Possibilities
+1 Glen Elendra Archmage
+1 Teferi, Hero of Dominaria
+1 Snapcaster Mage
+1 Sarkhan the Masterless
+1 Nature's Chant
+1 Justice Strike
+1 Whirler Rogue
+1 Talisman of Progress
+1 Tezzeret, Artifice Master
+1 Treasure Cruise
+1 Sword of Sinew and Steel
+1 Chandra, Flamecaller
+1 Path to Exile
+1 True-Name Nemesis
+1 Lightning Bolt
+1 Chain Lightning
+1 Control Magic
+1 Narset, Parter of Veils
+1 Wurmcoil Engine
+1 Jace Beleren
+1 Gideon Jura
+1 Wall of Omens
+1 Ancient Tomb
+1 Arid Mesa
+1 Fiery Islet
+1 Irrigated Farmland
+1 Prismatic Vista
+1 Sacred Foundry
+1 Scalding Tarn
+1 Tundra
+3 Mountain
+2 Plains
+4 Island
+
+1 Raging Ravine
+1 Scattered Groves
+1 Taiga
+1 Animate Dead
+1 Lotus Cobra
+1 Eternal Witness
+1 Song of the Dryads
+1 Seasoned Pyromancer
+1 Brimaz, King of Oreskos
+1 Urza, Lord High Artificer
+1 Siege-Gang Commander
+1 Angel of Sanctions
+1 Myr Battlesphere
+1 Ugin, the Spirit Dragon

@@ -1,0 +1,40 @@
+Colors: URW
+Archetype: Midrange
+Record: 2-1
+Games: 4.5-3.0
+
+1 Jace, Vryn's Prodigy
+1 Rift Chronicler
+1 Stoneforge Mystic
+1 Enlisting Nomads
+1 Sunforge Adept
+1 Skysea Smuggler
+1 Goblin Rabblemaster
+1 Hanweir Garrison
+1 Hellrider
+1 Batterskull
+1 Zealous Conscripts
+1 Elspeth, Sun's Champion
+1 Izzet Charm
+1 Izzet Signet
+1 Journey to Nowhere
+1 Dack Fayden
+1 Sword of War and Peace
+1 Jace, the Mind Sculptor
+1 Fact or Fiction
+1 Sram's Expertise
+1 Deep Analysis
+1 Mystic Confluence
+1 Dig Through Time
+1 Sacred Foundry
+1 Irrigated Farmland
+1 Mana Confluence
+1 Grand Coliseum
+1 Karakas
+1 Scalding Tarn
+1 Steam Vents
+1 Misty Rainforest
+1 Shivan Reef
+2 Mountain
+3 Island
+3 Plains

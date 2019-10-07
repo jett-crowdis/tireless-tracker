@@ -1,0 +1,53 @@
+Colors: GR
+Archetype: Midrange_Ramp
+Record: 1-1
+Games: 3-2
+
+1 Elvish Mystic
+1 Eternal Witness
+1 Nissa, Voice of Zendikar
+1 Avacyn's Pilgrim
+1 Tireless Tracker
+1 Oracle of Mul Daya
+1 Dragonlord Atarka
+1 Master of the Wild Hunt
+1 Chandra, Flamecaller
+1 Inferno Titan
+1 Coalition Relic
+1 Sylvan Library
+1 Plow Under
+1 Paradise Druid
+1 Deranged Hermit
+1 Thundermaw Hellkite
+1 Solemn Simulacrum
+1 Noble Hierarch
+1 Garruk Wildspeaker
+1 Joraga Treespeaker
+1 Territorial Hellkite
+1 Domri, Anarch of Bolas
+1 Wolfbriar Elemental
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Raging Ravine
+1 Scalding Tarn
+1 Sheltered Thicket
+1 Taiga
+4 Mountain
+7 Forest
+
+1 Ash Barrens
+1 Sphere of the Suns
+1 Sword of Body and Mind
+1 Life // Death
+1 Kitchen Finks
+1 Maelstrom Pulse
+1 Arc Lightning
+1 Gonti, Lord of Luxury
+1 Kalitas, Traitor of Ghet
+1 Saheeli, the Gifted
+1 Restoration Angel
+1 Mirari's Wake
+1 Hydroid Krasis
+1 Sarkhan, the Dragonspeaker
+1 Terastodon
+1 Karn Liberated

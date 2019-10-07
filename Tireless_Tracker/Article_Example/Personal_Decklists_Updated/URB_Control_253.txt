@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Control
+Record: 1-2
+Games: 2-4
+
+1 Grim Monolith
+1 Mystic Confluence
+1 Will Kenrith
+1 Torrential Gearhulk
+1 Damnation
+1 Spell Pierce
+1 Thundermaw Hellkite
+1 Thirst for Knowledge
+1 Thoughtseize
+1 Phyrexian Metamorph
+1 Glen Elendra Archmage
+1 Liliana, Dreadhorde General
+1 Vampiric Tutor
+1 Firebolt
+1 Chart a Course
+1 Mulldrifter
+1 Nicol Bolas, God-Pharaoh
+1 Glorybringer
+1 Arc Lightning
+1 Lightning Bolt
+1 Bitterblossom
+1 Magma Jet
+1 Go for the Throat
+1 Ancient Tomb
+1 Blood Crypt
+1 City of Brass
+1 Fiery Islet
+1 Lavaclaw Reaches
+1 Scalding Tarn
+1 Watery Grave
+3 Snow-Covered Swamp
+3 Snow-Covered Mountain
+4 Snow-Covered Island
+
+1 Wild Growth
+1 Grim Lavamancer
+1 Collective Brutality
+1 Winter Orb
+1 Lotus Cobra
+1 Arc Trail
+1 Dismissive Pyromancer
+1 Earthshaker Khenra
+1 Drana, Liberator of Malakir
+1 Vindicate
+1 Seasoned Pyromancer
+1 Jace Beleren
+1 Experimental Frenzy
+1 Burning of Xinye
+1 Wildfire

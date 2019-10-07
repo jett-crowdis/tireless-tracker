@@ -1,0 +1,37 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Utopia Sprawl
+1 Joraga Treespeaker
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Birds of Paradise
+1 Hexdrinker
+1 Green Sun's Zenith
+1 Paradise Druid
+1 Sylvan Caryatid
+1 Rofellos, Llanowar Emissary
+1 Sakura-Tribe Elder
+1 Eternal Witness
+1 Knight of Autumn
+1 Courser of Kruphix
+1 Tireless Tracker
+1 Nightpack Ambusher
+1 Garruk Wildspeaker
+1 Garruk Relentless
+1 Natural Order
+1 Biogenic Ooze
+1 Acidic Slime
+1 Craterhoof Behemoth
+1 Primeval Titan
+1 Wall of Roots
+1 Treetop Village
+1 Misty Rainforest
+1 Plains
+1 Temple Garden
+1 Windswept Heath
+1 Prismatic Vista
+1 Gaea's Cradle
+10 Snow-Covered Island

@@ -1,0 +1,30 @@
+Colors: U
+Archetype: Control
+Record: 0-2
+Games: 1-4
+
+1 Mulldrifter
+1 Ugin, the Spirit Dragon
+1 Thirst for Knowledge
+1 Everflowing Chalice
+1 Basalt Monolith
+1 Spell Pierce
+1 Ancient Tomb
+1 Sundering Titan
+1 Control Magic
+1 Colossus of Ruin
+1 Treasure Cruise
+1 Jace, Vryn's Prodigy
+1 Grim Monolith
+1 Negate
+1 Jace, the Mind Sculptor
+1 Tinker
+1 Coalition Relic
+1 Solemn Simulacrum
+1 Gilded Lotus
+1 Talisman of Creativity
+1 Counterspell
+1 Mana Leak
+1 Preordain
+1 Ponder
+16 Snow-Covered Islands

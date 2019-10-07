@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control
+Record: 0-3
+Games: 3-6
+
+1 Fact or Fiction
+1 Grave Titan
+1 Phantasmal Image
+1 Mesmeric Fiend
+1 Looter il-Kor
+1 Hostage Taker
+1 Liliana, Dreadhorde General
+1 Duress
+1 Ashiok, Nightmare Weaver
+1 Languish
+1 Mimic Vat
+1 Damnation
+1 Condescend
+1 Merfolk Looter
+1 Baleful Strix
+1 Mystic Confluence
+1 Mind Twist
+1 Shriekmaw
+1 Sower of Temptation
+1 Night's Whisper
+1 Torrential Gearhulk
+1 Gonti, Lord of Luxury
+1 Vedalken Shackles
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Underground Sea
+1 Watery Grave
+1 Shelldock Isle
+7 Snow-Covered Island
+5 Snow-Covered Swamp
+
+1 Frostwalk Bastion
+1 Mana Confluence
+1 Overgrown Tomb
+1 Bloodsoaked Champion
+1 Reanimate
+1 Jackal Pup
+1 Bloodghast
+1 Vivien's Arkbow
+1 Dismissive Pyromancer
+1 Lightning Strike
+1 Curse of Disturbance
+1 Ophiomancer
+1 Arcane Artisan
+1 Domri, Anarch of Bolas
+1 Braids, Cabal Minion
+1 Spawn of Mayhem
+1 Primeval Titan

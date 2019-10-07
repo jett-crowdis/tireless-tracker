@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Control_Combo
+Record: 0-3
+Games: 2-6
+
+1 Mana Drain
+1 Urza, Lord High Artificer
+1 Phyrexian Metamorph
+1 Toxic Deluge
+1 The Scarab God
+1 Go for the Throat
+1 Ulamog, the Ceaseless Hunger
+1 Talisman of Creativity
+1 Basalt Monolith
+1 Dig Through Time
+1 Night's Whisper
+1 Upheaval
+1 Sundering Titan
+1 Emrakul, the Promised End
+1 Mystic Confluence
+1 Grim Monolith
+1 Hedron Archive
+1 Saheeli, Sublime Artificer
+1 Vampiric Tutor
+1 Show and Tell
+1 Gilded Lotus
+1 Hostage Taker
+1 Sneak Attack
+1 City of Brass
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Marsh Flats
+1 Scalding Tarn
+1 Fiery Islet
+1 Snow-Covered Mountain
+4 Snow-Covered Swamp
+6 Snow-Covered Island
+
+1 Bayou
+1 Gaea's Cradle
+1 Scattered Groves
+1 Sensei's Divining Top
+1 Dryad Militant
+1 Grim Lavamancer
+1 Dreadbore
+1 Abrade
+1 Lightning Strike
+1 Nekrataal
+1 Ravenous Chupacabra
+1 Vivien Reid
+1 Will Kenrith
+1 Ancient Stone Idol
+1 Sower of Temptation
+1 Champion of Wits

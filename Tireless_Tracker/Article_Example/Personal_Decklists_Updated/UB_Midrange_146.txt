@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 2-1
+Games: 4-4
+
+1 Griselbrand
+1 Duress
+1 Chart a Course
+1 Arcane Artisan
+1 Baleful Strix
+1 Ashiok, Nightmare Weaver
+1 Champion of Wits
+1 Looter il-Kor
+1 Languish
+1 Mox Diamond
+1 Reanimate
+1 Hymn to Tourach
+1 Liliana of the Veil
+1 Animate Dead
+1 Mana Drain
+1 Ulamog, the Ceaseless Hunger
+1 Cryptic Command
+1 Liliana, Death's Majesty
+1 Snapcaster Mage
+1 Entomb
+1 Necromancy
+1 Mystical Tutor
+1 Search for Azcanta
+1 Emrakul, the Promised End
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Scalding Tarn
+1 Underground Sea
+6 Island
+6 Swamp
+
+1 Blood Crypt
+1 Sulfurous Springs
+1 Taiga
+1 Carnophage
+1 Dreadbore
+1 Dire Fleet Daredevil
+1 Goblin Cratermaker
+1 Curse of Disturbance
+1 Hellrider
+1 Siege-Gang Commander
+1 Wildfire
+1 Inferno Titan
+1 Emrakul, the Aeons Torn
+1 Heir of Falkenrath
+1 Condescend
+1 Brain Maggot
+1 Treasure Cruise

@@ -1,0 +1,33 @@
+Colors: UB
+Archetype: Control_Reanimator
+Record: 2-0
+Games: 4.0-1.0
+
+6 Island
+7 Swamp
+1 Fetid Pools
+1 Fiery Islet
+1 Watery Grave
+1 Shelldock Isle
+1 Grave Titan
+1 Nicol Bolas, God-Pharaoh
+1 Fact or Fiction
+1 Search for Azcanta
+1 Memory Lapse
+1 Reanimate
+1 Izzet Signet
+1 Life // Death
+1 Hostage Taker
+1 Consecrated Sphinx
+1 Jace, Vryn's Prodigy
+1 Liliana of the Veil
+1 Demonic Tutor
+1 Dance of the Dead
+1 Myr Battlesphere
+1 Cryptic Command
+1 Coalition Relic
+1 Ashiok, Nightmare Weaver
+1 Entomb
+1 Toxic Deluge
+1 Imperial Seal
+1 Control Magic

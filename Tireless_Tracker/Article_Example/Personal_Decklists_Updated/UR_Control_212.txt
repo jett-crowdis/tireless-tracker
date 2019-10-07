@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Control
+Record: 2-1
+Games: 4-2
+
+1 Lightning Bolt
+1 Preordain
+1 Dack Fayden
+1 Sarkhan the Masterless
+1 Watcher for Tomorrow
+1 Hedron Archive
+1 Condescend
+1 Zealous Conscripts
+1 Treasure Cruise
+1 Chandra, Torch of Defiance
+1 Consecrated Sphinx
+1 Worn Powerstone
+1 Saheeli, the Gifted
+1 Pyroclasm
+1 Koth of the Hammer
+1 Urza, Lord High Artificer
+1 Inferno Titan
+1 Izzet Charm
+1 Mana Drain
+1 Narset, Parter of Veils
+1 Thran Dynamo
+1 Abrade
+1 Miscalculation
+1 Fiery Islet
+1 Scalding Tarn
+1 Chrome Mox
+7 Snow-Covered Island
+7 Snow-Covered Mountain
+
+1 Tundra
+1 Plateau
+1 Carnophage
+1 Grim Lavamancer
+1 Go for the Throat
+1 Kitesail Freebooter
+1 Justice Strike
+1 Lightning Helix
+1 Dismissive Pyromancer
+1 Show and Tell
+1 Sword of Fire and Ice
+1 Legion Warboss
+1 Flametongue Kavu
+1 Day of Judgment
+1 Trostani Discordant
+1 Through the Breach
+1 Gideon Jura
+1 Torrential Gearhulk
+1 Thundermaw Hellkite

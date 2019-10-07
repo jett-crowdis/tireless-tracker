@@ -1,0 +1,39 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-5
+
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Paradise Druid
+1 Wall of Roots
+1 Chart a Course
+1 Ponder
+1 Mana Leak
+1 Negate
+1 Sylvan Caryatid
+1 Eternal Witness
+1 Nissa, Voice of Zendikar
+1 Tireless Tracker
+1 Opposition
+1 Phyrexian Metamorph
+1 Whirler Rogue
+1 Master of the Wild Hunt
+1 Natural Order
+1 Biogenic Ooze
+1 Deranged Hermit
+1 Hornet Queen
+1 Craterhoof Behemoth
+1 Utopia Sprawl
+1 Secure the Wastes
+1 Savannah
+1 Misty Rainforest
+1 Windswept Heath
+1 Breeding Pool
+1 Tropical Island
+5 Island
+5 Forest
+
+1 Firebolt

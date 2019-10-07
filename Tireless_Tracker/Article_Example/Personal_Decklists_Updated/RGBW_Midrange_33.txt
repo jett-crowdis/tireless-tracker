@@ -1,0 +1,40 @@
+Colors: BGWR
+Archetype: Midrange
+Record: 0-2
+Games: 1.0-4.0
+
+1 Deathrite Shaman
+1 Wasteland
+1 Tropical Island
+3 Forest
+1 Taika, Queen of Nistos
+4 Plains
+1 Taiga
+1 Sheltered Thicket
+1 Tarmogoyf
+1 Windswept Heath
+1 Sword of Feast and Famine
+1 Elspeth, Knight-Errant
+1 Cast Out
+1 Eternal Witness
+1 Polukranos, World Eater
+1 Thragtusk
+1 Tireless Tracker
+1 Wooded Foothills
+1 Warden of the First Tree
+1 Thalia, Heretic Cathar
+1 Elvish Mystic
+1 Plateau
+1 Bloodbraid Elf
+1 Sinhama, the Emminent
+1 Strip Mine
+1 Garruk Wildspeaker
+1 Scrubland
+1 Hero of Bladehold
+1 Batterskull
+1 Savannah
+1 Song of the Dryads
+1 Lingering Souls
+1 Brimaz, King of Oreskos
+1 Ajani Vengeant
+1 Ophiomancer

@@ -1,0 +1,55 @@
+Colors: RGB
+Archetype: Control_Combo
+Record: 2-1
+Games: 4-3
+
+1 Sneak Attack
+1 Mind Stone
+1 Wheel of Fortune
+1 Languish
+1 Dreadbore
+1 Imperial Seal
+1 Duress
+1 Maelstrom Pulse
+1 Ulamog, the Ceaseless Hunger
+1 Hymn to Tourach
+1 Vampiric Tutor
+1 Everflowing Chalice
+1 Emrakul, the Promised End
+1 Dismember
+1 Fatal Push
+1 Channel
+1 Assassin's Trophy
+1 Blast from the Past
+1 Mox Diamond
+1 Kolaghan's Command
+1 Oath of Druids
+1 Myr Battlesphere
+1 Thoughtseize
+1 Badlands
+1 Bayou
+1 Blast Zone
+1 Blood Crypt
+1 Prismatic Vista
+1 Stomping Ground
+1 Sulfurous Springs
+1 Taiga
+4 Snow-Covered Forest
+2 Snow-Covered Mountain
+3 Snow-Covered Swamp
+
+1 Scrubland
+1 Bloodsoaked Champion
+1 Adanto Vanguard
+1 Recurring Nightmare
+1 Knight of Autumn
+1 Feldon of the Third Path
+1 Braids, Cabal Minion
+1 Shriekmaw
+1 Gilded Lotus
+1 Burning of Xinye
+1 Inquisition of Kozilek
+1 Animate Dead
+1 Necromancy
+1 Life // Death
+1 Mountain

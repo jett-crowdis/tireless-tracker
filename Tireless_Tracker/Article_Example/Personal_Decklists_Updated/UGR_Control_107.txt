@@ -1,0 +1,61 @@
+Colors: UGR
+Archetype: Midrange_Combo
+Record: 1-2
+Games: 4-4
+
+1 Condescend
+1 Mana Drain
+1 Azorius Signet
+1 Grim Monolith
+1 Channel
+1 Oath of Druids
+1 Arc Trail
+1 Sylvan Library
+1 Sphere of the Suns
+1 Balance
+1 Mind Stone
+1 Prismatic Lens
+1 Coalition Relic
+1 Show and Tell
+1 Tinker
+1 Dack Fayden
+1 Kodama's Reach
+1 Sneak Attack
+1 Chandra, Torch of Defiance
+1 Emrakul, the Aeons Torn
+1 Blightsteel Colossus
+1 Sundering Titan
+1 Chandra, Flamecaller
+1 Everflowing Chalice
+1 Bloodstained Mire
+1 Yavimaya Coast
+1 Volcanic Island
+1 Plateau
+1 Wooded Foothills
+1 Shivan Reef
+2 Mountain
+2 Island
+5 Forest
+1 Plains
+
+1 Hangarback Walker
+1 Kitchen Finks
+1 Goblin Cratermaker
+1 Young Pyromancer
+1 Bayou
+1 Ilharg, the Raze-Boar
+1 Elves of Deep Shadow
+1 Commence the Endgame
+1 Solar Blaze
+1 Oblivion Ring
+1 Doom Whisperer
+1 Nekrataal
+1 Saheeli, the Gifted
+1 Arc Lightning
+1 Woodfall Primus
+1 Island
+1 Island
+1 Island
+1 Snow-Covered Island
+1 Plains
+1 Island

@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+1 Fiery Confluence
+1 Rakdos Cackler
+1 Goblin Cratermaker
+1 Falkenrath Gorger
+1 Chain Lightning
+1 Figure of Destiny
+1 Zurgo Bellstriker
+1 Stormblood Berserker
+1 Earthshaker Khenra
+1 Icehide Golem
+1 Incinerate
+1 Jackal Pup
+1 Firedrinker Satyr
+1 Grafted Wargear
+1 Kari Zev, Skyship Raider
+1 Hanweir Garrison
+1 Young Pyromancer
+1 Firebolt
+1 Monastery Swiftspear
+1 Goblin Rabblemaster
+1 Porcelain Legionnaire
+1 Sulfuric Vortex
+1 Territorial Hellkite
+1 Eidolon of the Great Revel
+1 Strip Mine
+1 Wasteland
+1 Chrome Mox
+13 Snow-Covered Mountain
+
+1 Godless Shrine
+1 Plateau
+1 Sacred Foundry
+1 Sunbaked Canyon
+1 Diregraf Ghoul
+1 Bonesplitter
+1 Heir of Falkenrath
+1 Phyrexian Revoker
+1 Pyroclasm
+1 Knight of Autumn
+1 Thundermaw Hellkite
+1 Chandra, Flamecaller
+1 Ancient Stone Idol
+1 Dire Fleet Daredevil
+1 Dismissive Pyromancer
+1 Hellrider
+1 Experimental Frenzy
+1 Magma Jet

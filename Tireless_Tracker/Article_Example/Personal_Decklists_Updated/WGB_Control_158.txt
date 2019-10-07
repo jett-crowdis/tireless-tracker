@@ -1,0 +1,54 @@
+Colors: WGB
+Archetype: Control
+Record: 0-3
+Games: 2-6
+
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Talisman of Curiosity
+1 Ravages of War
+1 Balance
+1 Gideon of the Trials
+1 Mirari's Wake
+1 Stoneforge Mystic
+1 Everflowing Chalice
+1 Talisman of Dominance
+1 Serra the Benevolent
+1 Vampiric Tutor
+1 Elesh Norn, Grand Cenobite
+1 Hero of Bladehold
+1 Sword of Fire and Ice
+1 Tidehollow Sculler
+1 Winds of Abandon
+1 Sun Titan
+1 Elspeth, Sun's Champion
+1 Hedron Archive
+1 Wall of Omens
+1 Tireless Tracker
+1 Vindicate
+1 Ancient Tomb
+1 Godless Shrine
+1 Marsh Flats
+1 Savannah
+1 Scattered Groves
+1 Silent Clearing
+1 Temple Garden
+1 Windswept Heath
+1 Mutavault
+2 Swamp
+1 Forest
+5 Plains
+
+1 Celestial Colonnade
+1 Sacred Foundry
+1 Sarcomancy
+1 Mana Tithe
+1 Mardu Woe-Reaper
+1 Sorcerous Spyglass
+1 Magma Jet
+1 Imposing Sovereign
+1 Kalitas, Traitor of Ghet
+1 Armageddon
+1 Smuggler's Copter
+1 Archangel Avacyn
+1 Day of Judgment

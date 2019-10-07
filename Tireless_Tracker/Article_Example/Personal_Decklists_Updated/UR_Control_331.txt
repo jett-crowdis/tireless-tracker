@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Control
+Record: 3-0
+Games: 6-1
+
+1 Fiery Confluence
+1 Chandra, Awakened Inferno
+1 Lightning Bolt
+1 Arc Trail
+1 Magma Jet
+1 Will Kenrith
+1 Force of Will
+1 Dig Through Time
+1 Consecrated Sphinx
+1 Chandra, Torch of Defiance
+1 Champion of Wits
+1 Thundermaw Hellkite
+1 Koth of the Hammer
+1 Dack Fayden
+1 Jace, Vryn's Prodigy
+1 Sarkhan the Masterless
+1 Spell Pierce
+1 Venser, Shaper Savant
+1 Glorybringer
+1 Scour All Possibilities
+1 Negate
+1 Searing Spear
+1 Walking Ballista
+1 Fiery Islet
+1 Prismatic Vista
+1 Scalding Tarn
+7 Snow-Covered Mountain
+7 Snow-Covered Island
+
+1 Hydroid Krasis
+1 Curse of Disturbance
+1 Damnation
+1 Day of Judgment
+1 Trostani Discordant
+1 Griselbrand
+1 Joraga Treespeaker
+1 Wasteland
+1 Imperial Seal
+1 Nature's Claim
+1 Unexpectedly Absent
+1 Sword of Sinew and Steel
+1 Feldon of the Third Path
+1 Light Up the Stage
+1 Ajani Vengeant
+1 Hellrider
+1 Gideon Jura
+1 Lightning Strike
+1 Flametongue Kavu

@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Control
+Record: 2-1
+Games: 5-4
+
+1 Talisman of Curiosity
+1 Dack Fayden
+1 Tezzeret, Artifice Master
+1 Izzet Charm
+1 Treachery
+1 Talisman of Dominance
+1 Venser, Shaper Savant
+1 Azorius Signet
+1 Inferno Titan
+1 Chandra, Torch of Defiance
+1 Vendilion Clique
+1 Chandra, Awakened Inferno
+1 Saheeli, the Gifted
+1 Worn Powerstone
+1 Everflowing Chalice
+1 Dig Through Time
+1 Walking Ballista
+1 Will Kenrith
+1 Mulldrifter
+1 Narset, Parter of Veils
+1 Hedron Archive
+1 Pyroclasm
+1 Counterspell
+1 Magma Jet
+1 Blast Zone
+7 Snow-Covered Island
+8 Snow-Covered Mountain
+
+1 Mutavault
+1 Nurturing Peatland
+1 Sulfurous Springs
+1 Tinker
+1 Winter Orb
+1 Baleful Strix
+1 Justice Strike
+1 Curse of Disturbance
+1 Goblin Rabblemaster
+1 Gonti, Lord of Luxury
+1 Nekrataal
+1 Supreme Verdict
+1 Hazoret the Fervent
+1 Nicol Bolas, God-Pharaoh
+1 Jace Beleren
+1 Sensei's Divining Top
+1 Mother of Runes
+1 Arc Lightning
+1 Mystical Tutor
+1 Rolling Earthquake

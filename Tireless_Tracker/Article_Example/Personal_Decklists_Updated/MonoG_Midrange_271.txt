@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-2
+
+1 Rofellos, Llanowar Emissary
+1 Primeval Titan
+1 Lotus Cobra
+1 Scavenging Ooze
+1 Karn, Scion of Urza
+1 Tireless Tracker
+1 Paradise Druid
+1 Hexdrinker
+1 Nightpack Ambusher
+1 Green Sun's Zenith
+1 Elves of Deep Shadow
+1 Overgrowth
+1 Nissa, Voice of Zendikar
+1 Craterhoof Behemoth
+1 Wild Growth
+1 Garruk Wildspeaker
+1 Garruk Relentless
+1 Jadelight Ranger
+1 Sword of Truth and Justice
+1 Harmonize
+1 Plow Under
+1 Kodama's Reach
+1 Horizon Canopy
+1 Wooded Foothills
+1 Skullclamp
+15 Snow-Covered Forest
+
+1 Mana Confluence
+1 Temple Garden
+1 Dauntless Bodyguard
+1 Kari Zev, Skyship Raider
+1 Kalitas, Traitor of Ghet
+1 Hero of Bladehold
+1 Ravages of War
+1 Mirari's Wake
+1 Through the Breach
+1 Sun Titan
+1 Vivien's Arkbow
+1 Jackal Pup
+1 Monastery Swiftspear
+1 Heir of Falkenrath
+1 Life // Death
+1 Banishing Light
+1 Fleetwheel Cruiser
+1 Thran Dynamo
+1 Hornet Queen
+1 Thrun, the Last Troll

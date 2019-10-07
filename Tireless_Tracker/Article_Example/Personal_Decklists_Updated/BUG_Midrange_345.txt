@@ -1,0 +1,54 @@
+Colors: BUG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 4-5
+
+1 Phyrexian Metamorph
+1 Courser of Kruphix
+1 Noble Hierarch
+1 Batterskull
+1 Hydroid Krasis
+1 Green Sun's Zenith
+1 Sakura-Tribe Elder
+1 Natural Order
+1 Elvish Mystic
+1 Primeval Titan
+1 Ugin, the Spirit Dragon
+1 Overgrowth
+1 Mulldrifter
+1 Lotus Cobra
+1 Mind Twist
+1 Channel
+1 Nightpack Ambusher
+1 Jadelight Ranger
+1 Wolfbriar Elemental
+1 Reclamation Sage
+1 Hornet Queen
+1 Vivien Reid
+1 Opposition
+1 Bayou
+1 Breeding Pool
+1 Gaea's Cradle
+1 Lumbering Falls
+1 Tropical Island
+1 Waterlogged Grove
+1 Windswept Heath
+1 Snow-Covered Swamp
+2 Snow-Covered Island
+7 Snow-Covered Forest
+
+1 Domri, Anarch of Bolas
+1 Ranger-Captain of Eos
+1 Braids, Cabal Minion
+1 Liliana, Dreadhorde General
+1 Sword of Sinew and Steel
+1 Goblin Cratermaker
+1 Young Pyromancer
+1 Oath of Druids
+1 Mutavault
+1 Hellrider
+1 Jackal Pup
+1 Blast from the Past
+1 Ancient Stone Idol
+1 Assassin's Trophy
+1 Negate

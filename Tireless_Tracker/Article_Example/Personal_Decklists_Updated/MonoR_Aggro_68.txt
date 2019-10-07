@@ -1,0 +1,30 @@
+Colors: R
+Archetype: Aggro
+Record: 5-1
+Games: 10.5-4.5
+
+1 Figure of Destiny
+1 Goblin Guide
+1 Monastery Swiftspear
+1 Zurgo Bellstriker
+1 Lightning Bolt
+1 Burst Lightning
+1 Chain Lightning
+1 Goblin Cratermaker
+1 Kari Zev, Skyship Raider
+1 Stormblood Berserker
+1 Earthshaker Khenra
+1 Keldon Marauders
+1 Arc Trail
+1 Abrade
+1 Magma Jet
+1 Hanweir Garrison
+1 Goblin Rabblemaster
+1 Sulfuric Vortex
+1 Grafted Wargear
+1 Light Up the Stage
+1 Hellrider
+1 Hazoret the Fervent
+1 Fireblast
+1 Experimental Frenzy
+16 Mountain

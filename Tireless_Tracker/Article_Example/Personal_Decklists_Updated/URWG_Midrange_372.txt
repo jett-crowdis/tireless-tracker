@@ -1,0 +1,53 @@
+Colors: UWRG
+Archetype: Midrange_Combo
+Record: 0-3
+Games: 1-6
+
+1 Mox Diamond
+1 Enlightened Tutor
+1 Arc Trail
+1 Nature's Chant
+1 Blast from the Past
+1 Abrade
+1 Oath of Druids
+1 Coldsteel Heart
+1 Grim Monolith
+1 Rolling Earthquake
+1 Winds of Abandon
+1 Show and Tell
+1 Tinker
+1 Sneak Attack
+1 Saheeli, the Gifted
+1 Vivien Reid
+1 Ilharg, the Raze-Boar
+1 Inferno Titan
+1 Emrakul, the Aeons Torn
+1 Dragonlord Atarka
+1 Myr Battlesphere
+1 Blightsteel Colossus
+1 Savannah
+1 Scattered Groves
+1 Horizon Canopy
+1 Polluted Delta
+1 Volcanic Island
+1 Stomping Ground
+1 Misty Rainforest
+1 Plateau
+1 Garruk Wildspeaker
+1 Lightning Strike
+1 Snow-Covered Forest
+4 Snow-Covered Mountain
+3 Snow-Covered Island
+
+1 Flickerwisp
+1 Nissa, Vital Force
+1 Feldon of the Third Path
+1 Arcane Artisan
+1 Earthshaker Khenra
+1 Domri, Chaos Bringer
+1 Narset, Parter of Veils
+1 Nicol Bolas, God-Pharaoh
+1 Knight of Autumn
+1 Ancient Stone Idol
+1 Domri, Anarch of Bolas
+1 Grim Lavamancer

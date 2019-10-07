@@ -1,0 +1,41 @@
+Colors: UWB
+Archetype: Midrange
+Record: 1-1
+Games: 2.5-2.5
+
+1 Mulldrifter
+1 Inkwell Leviathan
+1 Vindicate
+1 Baleful Strix
+1 Grave Titan
+1 Custodi Lich
+1 Mind Twist
+1 Recurring Nightmare
+1 Hymn to Tourach
+1 Nekrataal
+1 Diabolic Edict
+1 Volrath's Stronghold
+1 Toxic Deluge
+1 Damnation
+1 Azorius Signet
+1 Hangarback Walker
+1 Dimir Signet
+1 Balance
+1 Unexpectedly Absent
+1 Wall of Omens
+1 Moat
+1 Enlightened Tutor
+1 Tinker
+1 Vendilion Clique
+1 Tundra
+1 Scalding Tarn
+1 Fetid Pools
+1 Misty Rainforest
+1 Celestial Colonnade
+1 Scrubland
+1 Hallowed Fountain
+1 Marsh Flats
+1 Irrigated Farmland
+3 Swamp
+1 Island
+3 Plains

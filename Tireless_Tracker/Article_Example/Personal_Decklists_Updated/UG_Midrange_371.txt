@@ -1,0 +1,50 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-5
+
+1 Birds of Paradise
+1 Joraga Treespeaker
+1 Noble Hierarch
+1 Arbor Elf
+1 Sakura-Tribe Elder
+1 Wall of Roots
+1 Rofellos, Llanowar Emissary
+1 Paradise Druid
+1 Ice-Fang Coatl
+1 Scavenging Ooze
+1 Impulse
+1 Nissa, Voice of Zendikar
+1 Courser of Kruphix
+1 Reclamation Sage
+1 Nightpack Ambusher
+1 Opposition
+1 Garruk Relentless
+1 Wolfbriar Elemental
+1 Garruk, Primal Hunter
+1 Biogenic Ooze
+1 Primeval Titan
+1 Green Sun's Zenith
+1 Craterhoof Behemoth
+1 Voracious Hydra
+1 Gaea's Cradle
+1 Tropical Island
+1 Breeding Pool
+1 Waterlogged Grove
+3 Snow-Covered Island
+9 Snow-Covered Forest
+
+1 Overgrowth
+1 Siege-Gang Commander
+1 Plow Under
+1 Bribery
+1 Vivien's Arkbow
+1 Treetop Village
+1 Sulfuric Vortex
+1 Sacred Foundry
+1 Tezzeret, Artifice Master
+1 Fireblast
+1 Gilded Lotus
+1 Looter il-kor
+1 Imposing Sovereign
+1 Rakdos Cackler

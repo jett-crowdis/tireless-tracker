@@ -1,0 +1,33 @@
+Colors: U
+Archetype: Control
+Record: 0-1
+Games: 0.5-2.0
+
+1 Brainstorm
+1 Ponder
+1 Force Spike
+1 Looter Il-Kor
+1 Impulse
+1 Phyrexian Revoker
+1 Snapcaster Mage
+1 Spellskite
+1 Mana Drain
+1 Fire // Ice
+1 Counterspell
+1 Arcane Denial
+1 Coalition Relic
+1 Forbid
+1 Dream Noble
+1 Glen Elendra Archmage
+1 Control Magic
+1 Deep Analysis
+1 Cryptic Command
+1 Force of Will
+1 Consecrated Sphinx
+1 Ugin, the Spirit Dragon
+1 Fetid Pools
+1 Ancient Tomb
+1 Underground Sea
+1 Wasteland
+1 Marsh Flats
+13 Island

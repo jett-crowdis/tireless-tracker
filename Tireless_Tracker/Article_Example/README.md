@@ -1,0 +1,3 @@
+# Example Data
+
+Here is the example used in the article - data collected from my own cube (399 drafts). The misspellings file contains custom cards that I have used in my cube (which are not in Scryfall's database). You may also notice that some of the earlier decklists contain half wins or half losses - this is because I did not collect game information for these decks (only match records). Rather than throw out this data, I calculated the most likely game record resulting from a match record, which can lead to fractional wins. For example, the expected game record of a decklist that goes 2-1 is 4.5-3.

@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 4-2
+
+1 Sulfuric Vortex
+1 Searing Spear
+1 Chandra, Torch of Defiance
+1 Fireblast
+1 Light Up the Stage
+1 Dire Fleet Daredevil
+1 Porcelain Legionnaire
+1 Firedrinker Satyr
+1 Bomat Courier
+1 Figure of Destiny
+1 Goblin Guide
+1 Winter Orb
+1 Zurgo Bellstriker
+1 Hellrider
+1 Jackal Pup
+1 Kari Zev, Skyship Raider
+1 Lightning Bolt
+1 Incinerate
+1 Monastery Swiftspear
+1 Fiery Confluence
+1 Territorial Hellkite
+1 Goblin Rabblemaster
+1 Falkenrath Gorger
+1 Grafted Wargear
+1 Ancient Tomb
+1 Frostwalk Bastion
+1 Mishra's Factory
+13 Mountain
+
+1 Blast Zone
+1 Mana Confluence
+1 Windswept Heath
+1 Green Sun's Zenith
+1 Mana Tithe
+1 Scrapheap Scrounger
+1 Duskwatch Recruiter
+1 Wall of Roots
+1 Nissa, Steward of Elements
+1 Mimic Vat
+1 Kitchen Finks
+1 Knight of Autumn
+1 Nekrataal
+1 Spawn of Mayhem
+1 Thran Dynamo
+1 Day of Judgment
+1 Wildfire
+1 Siege-Gang Commander

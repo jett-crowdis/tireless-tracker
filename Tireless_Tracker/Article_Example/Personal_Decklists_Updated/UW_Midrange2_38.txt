@@ -1,0 +1,36 @@
+Colors: UW
+Archetype: Midrange
+Record: 1-0
+Games: 2.0-0.5
+
+1 Jace Beleren
+1 Condescend
+1 Cryptic Command
+1 Imposing Sovereign
+1 Mana Tithe
+1 Counterspell
+1 Wrath of God
+1 Deep Analysis
+1 Dragonlord Ojutai
+1 Preordain
+7 Island
+4 Plains
+1 Supreme Verdict
+1 Celestial Colonnade
+1 Brainstorm
+1 Banishing Light
+1 Impulse
+1 Sensei's Divining Top
+1 Monastery Mentor
+1 Miscalculation
+1 Path to Exile
+1 Mishra's Factory
+1 Hallowed Fountain
+1 Flooded Strand
+1 Swords to Plowshares
+1 Daze
+1 Balance
+1 Tundra
+1 Force of Will
+1 True-Name Nemesis
+1 Jace, the Mind Sculptor

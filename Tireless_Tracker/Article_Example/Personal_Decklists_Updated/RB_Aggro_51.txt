@@ -1,0 +1,32 @@
+Colors: RB
+Archetype: Aggro
+Record: 3-1
+Games: 6.5-3.5
+
+1 Gravecrawler
+1 Stromkirk Noble
+1 Rakdos Cackler
+1 Zurgo Bellstriker
+1 Carnophage
+1 Dread Wanderer
+1 Ember Magmar
+1 Stormblood Berserker
+1 Goblin Trailblazers
+1 Scrapheap Scrounger
+1 Kari Zev, Skyship Raider
+1 Ulak, Heartless Warden
+1 Drana, Liberator of Malakir
+1 Braids, Cabal Minion
+1 Zealous Conscripts
+1 Hellrider
+1 Lightning Strike
+1 Liliana of the Veil
+1 Collective Defiance
+1 Fiery Confluence
+1 Descent into Hell
+1 Fireblast
+1 Sulfurous Springs
+1 Gemstone Mine
+1 Mana Confluence
+6 Swamp
+9 Mountain

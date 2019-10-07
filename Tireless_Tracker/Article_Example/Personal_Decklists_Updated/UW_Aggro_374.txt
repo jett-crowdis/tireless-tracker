@@ -1,0 +1,52 @@
+Colors: UW
+Archetype: Aggro
+Record: 2-1
+Games: 4-2
+
+1 Mother of Runes
+1 Icehide Golem
+1 Dauntless Bodyguard
+1 Isamaru, Hound of Konda
+1 Mardu Woe-Reaper
+1 Giver of Runes
+1 On Thin Ice
+1 Bonesplitter
+1 Skymarcher Aspirant
+1 Selfless Spirit
+1 Negate
+1 Callous Dismissal
+1 Tithe Taker
+1 Memory Lapse
+1 Umezawa's Jitte
+1 Smuggler's Copter
+1 Sword of Fire and Ice
+1 True-Name Nemesis
+1 Monastery Mentor
+1 Vendilion Clique
+1 Armageddon
+1 Control Magic
+1 Condescend
+1 Sunbaked Canyon
+1 Strip Mine
+1 Windswept Heath
+1 Flooded Strand
+1 Celestial Colonnade
+1 Arid Mesa
+1 Tundra
+6 Snow-Covered Plains
+3 Snow-Covered Island
+1 Thalia, Guardian of Thraben
+
+1 Treasure Cruise
+1 Treachery
+1 Hero of Bladehold
+1 Stormblood Berserker
+1 Glorybringer
+1 Lyra Dawnbringer
+1 Legion Warboss
+1 Dread Wanderer
+1 Goblin Cratermaker
+1 Young Pyromancer
+1 Wall of Blossoms
+1 Finale of Glory
+1 Bomat Courier

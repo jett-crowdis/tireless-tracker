@@ -1,0 +1,38 @@
+Colors: UR
+Archetype: Aggro
+Record: 1-1
+Games: 2.5-2.5
+
+1 Zurgo Bellstriker
+1 Falkenrath Gorger
+1 Ponder
+1 Goblin Guide
+1 Bomat Courier
+1 Chain Lightning
+1 Serum Visions
+1 Lightning Bolt
+1 Rakdos Cackler
+1 Burst Lightning
+1 Goblin Cratermaker
+1 Kari Zev, Skyship Raider
+1 Searing Spear
+1 Abrade
+1 Earthshaker Khenra
+1 Eidolon of the Great Revel
+1 Hanweir Garrison
+1 Krenko, Tin Street Kingpin
+1 Vendilion Clique
+1 Sulfuric Vortex
+1 Goblin Rabblemaster
+1 Jace, the Mind Sculptor
+1 Koth of the Hammer
+1 Fact or Fiction
+6 Mountain
+2 Island
+1 Volcanic Island
+1 Scalding Tarn
+1 Misty Rainforest
+1 Fiery Islet
+1 City of Brass
+1 Arid Mesa
+1 Prismatic Vista

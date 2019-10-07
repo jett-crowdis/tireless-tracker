@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 2-5
+
+1 Mana Drain
+1 Teferi, Hero of Dominaria
+1 Worn Powerstone
+1 Remand
+1 Opposition
+1 Snapcaster Mage
+1 Glen Elendra Archmage
+1 Wall of Omens
+1 Angel of Invention
+1 Jace Beleren
+1 Path to Exile
+1 Miscalculation
+1 Negate
+1 Monastery Mentor
+1 Elspeth, Sun's Champion
+1 Venser, Shaper Savant
+1 Fractured Identity
+1 Secure the Wastes
+1 Unexpectedly Absent
+1 Phantasmal Image
+1 Gideon Jura
+1 Enlightened Tutor
+1 Dig Through Time
+1 Celestial Colonnade
+1 Hallowed Fountain
+1 Irrigated Farmland
+1 Tundra
+1 Blast Zone
+6 Island
+6 Plains
+
+1 Overgrown Tomb
+1 Sacred Foundry
+1 Mystical Tutor
+1 Sensei's Divining Top
+1 Arbor Elf
+1 Oona's Prowler
+1 Show and Tell
+1 Flickerwisp
+1 Supreme Verdict
+1 Gisela, the Broken Blade
+1 Wrath of God
+1 Liliana, Death's Majesty
+1 Glorybringer
+1 Lyra Dawnbringer
+1 Merfolk Looter
+1 Finale of Glory
+1 Umezawa's Jitte

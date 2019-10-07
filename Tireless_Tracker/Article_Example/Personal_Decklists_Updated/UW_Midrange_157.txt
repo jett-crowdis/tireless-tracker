@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Midrange
+Record: 2-2
+Games: 4-5
+
+1 Counterspell
+1 Fact or Fiction
+1 Jace, Vryn's Prodigy
+1 Miscalculation
+1 Gideon Jura
+1 Angel of Sanctions
+1 Unexpectedly Absent
+1 Monastery Mentor
+1 Restoration Angel
+1 Path to Exile
+1 On Thin Ice
+1 True-Name Nemesis
+1 Sword of Truth and Justice
+1 Gideon Blackblade
+1 Secure the Wastes
+1 Palace Jailer
+1 Gideon, Ally of Zendikar
+1 Porcelain Legionnaire
+1 Umezawa's Jitte
+1 Saheeli, Sublime Artificer
+1 Phantasmal Image
+1 Finale of Glory
+1 Remorseful Cleric
+1 Arid Mesa
+1 Hallowed Fountain
+1 Polluted Delta
+1 Tundra
+7 Plains
+6 Island
+
+1 Worn Powerstone
+1 Kari Zev, Skyship Raider
+1 Seasoned Pyromancer
+1 Hostage Taker
+1 Siege-Gang Commander
+1 Rishadan Port
+1 Bonesplitter
+1 Oath of Druids
+1 Justice Strike
+1 Dire Fleet Daredevil
+1 Arc Lightning
+1 Braids, Cabal Minion
+1 Sorin, Lord of Innistrad
+1 Gilded Lotus
+1 Angel of Invention
+1 Lyra Dawnbringer
+1 Kytheon, Hero of Akros
+1 Kitchen Finks

@@ -1,0 +1,33 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Bomat Courier
+1 Figure of Destiny
+1 Chain Lightning
+1 Monastery Swiftspear
+1 Firedrinker Satyr
+1 Goblin Guide
+1 Burst Lightning
+1 Jackal Pup
+1 Zurgo Bellstriker
+1 Porcelain Legionnaire
+1 Eidolon of the Great Revel
+1 Umezawa's Jitte
+1 Incinerate
+1 Earthshaker Khenra
+1 Goblin Cratermaker
+1 Arc Trail
+1 Dire Fleet Daredevil
+1 Seasoned Pyromancer
+1 Krenko, Tin Street Kingpin
+1 Sulfuric Vortex
+1 Blast from the Past
+1 Territorial Hellkite
+1 Fiery Confluence
+1 Chandra, Torch of Defiance
+1 Sunbaked Canyon
+1 Chrome Mox
+1 Rishadan Port
+13 Mountain

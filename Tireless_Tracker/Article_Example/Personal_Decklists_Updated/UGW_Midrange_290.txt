@@ -1,0 +1,54 @@
+Colors: UWG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 4-5
+
+1 Talisman of Curiosity
+1 Paradise Druid
+1 Joraga Treespeaker
+1 Hydroid Krasis
+1 Scour All Possibilities
+1 Plow Under
+1 Nissa, Who Shakes the World
+1 Jadelight Ranger
+1 Blightsteel Colossus
+1 Consecrated Sphinx
+1 Sylvan Caryatid
+1 Arbor Elf
+1 Fractured Identity
+1 Kodama's Reach
+1 Wild Growth
+1 Garruk Relentless
+1 Channel
+1 Ice-Fang Coatl
+1 Utopia Sprawl
+1 Nissa, Steward of Elements
+1 Venser, Shaper Savant
+1 Llanowar Elves
+1 Nissa, Voice of Zendikar
+1 Wall of Blossoms
+1 Arid Mesa
+1 Lumbering Falls
+1 Misty Rainforest
+1 Temple Garden
+1 Tropical Island
+4 Snow-Covered Island
+7 Snow-Covered Forest
+
+1 Mana Confluence
+1 Overgrown Tomb
+1 Steam Vents
+1 Mardu Woe-Reaper
+1 Search for Azcanta
+1 Scavenging Ooze
+1 Tidehollow Sculler
+1 Tithe Taker
+1 Necromancy
+1 Ashiok, Nightmare Weaver
+1 Domri, Chaos Bringer
+1 Territorial Hellkite
+1 Glorybringer
+1 Wildfire
+1 Sun Titan
+1 Dragonlord Atarka
+1 Island

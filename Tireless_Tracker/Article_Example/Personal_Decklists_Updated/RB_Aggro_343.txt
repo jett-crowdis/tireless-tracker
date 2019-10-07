@@ -1,0 +1,34 @@
+Colors: RB
+Archetype: Aggro
+Record: 2-0
+Games: 4-2
+
+1 Grim Lavamancer
+1 Skullclamp
+1 Bitterblossom
+1 Thoughtseize
+1 Light Up the Stage
+1 Rishadan Port
+1 Diregraf Ghoul
+1 Hellrider
+1 Kari Zev, Skyship Raider
+1 Nightfall Stalker
+1 Burst Lightning
+1 Spawn of Mayhem
+1 Blood Crypt
+1 Carnophage
+1 Polluted Delta
+1 Rakdos Cackler
+1 Mind Twist
+1 Blightwalker
+1 Incinerate
+1 Bloodsoaked Champion
+1 Legion Warboss
+1 Sulfuric Vortex
+1 Bloodghast
+1 Hazoret the Fervent
+1 Earthshaker Khenra
+1 Jackal Pup
+1 Lightning Bolt
+7 Snow-Covered Mountain
+6 Snow-Covered Swamp

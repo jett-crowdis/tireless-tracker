@@ -1,0 +1,33 @@
+Colors: WR
+Archetype: Aggro
+Record: 5-0
+Games: 10.0-2.5
+
+1 Mox Diamond
+1 Sacred Foundry
+1 Arid Mesa
+1 Skymarcher Aspirant
+1 Isamaru, Hound of Konda
+1 Jackal Pup
+1 Mother of Runes
+1 Falkenrath Gorger
+1 Dauntless Bodyguard
+1 Chain Lightning
+1 Dismember
+1 Swords to Plowshares
+1 Burst Lightning
+1 Kari Zev, Skyship Raider
+1 Young Pyromancer
+1 Remorseful Cleric
+1 Lightning Helix
+1 Journey to Nowhere
+1 Abrade
+1 Sword of Fire and Ice
+1 Gideon of the Trials
+1 Palace Jailer
+1 Gideon, Ally of Zendikar
+1 Ajani Vengeant
+1 Elspeth, Knight-Errant
+1 Stoneforge Mystic
+7 Plains
+7 Mountain

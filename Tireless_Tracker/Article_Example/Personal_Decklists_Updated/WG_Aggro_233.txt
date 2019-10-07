@@ -1,0 +1,34 @@
+Colors: WG
+Archetype: Aggro
+Record: 1-1
+Games: 2-2
+
+1 Mardu Woe-Reaper
+1 Utopia Sprawl
+1 Avacyn's Pilgrim
+1 Skymarcher Aspirant
+1 On Thin Ice
+1 Arbor Elf
+1 Isamaru, Hound of Konda
+1 Giver of Runes
+1 Kytheon, Hero of Akros
+1 Paradise Druid
+1 Imposing Sovereign
+1 Sinhama, the Emminent
+1 Precinct Captain
+1 Gideon of the Trials
+1 Kitchen Finks
+1 Brimaz, King of Oreskos
+1 Ranger-Captain of Eos
+1 Knight of Autumn
+1 Bloodthorn Carnation
+1 Restoration Angel
+1 Elspeth, Knight-Errant
+1 Hero of Bladehold
+1 Angel of Invention
+1 Scattered Groves
+1 Windswept Heath
+1 Wooded Foothills
+1 Silent Clearing
+7 Snow-Covered Plains
+5 Snow-Covered Forest

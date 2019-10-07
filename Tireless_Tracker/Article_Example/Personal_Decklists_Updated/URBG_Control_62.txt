@@ -1,0 +1,43 @@
+Colors: URBG
+Archetype: Control
+Record: 1-2
+Games: 3.0-4.5
+
+1 Everflowing Chalice
+1 Condescend
+1 Mystical Tutor
+1 Impulse
+1 Young Pyromancer
+1 Search for Azcanta
+1 Fire // Ice
+1 Demonic Tutor
+1 Negate
+1 Lightning Strike
+1 Pyroclasm
+1 Vendilion Clique
+1 Toxic Deluge
+1 Coalition Relic
+1 Jace, the Mind Sculptor
+1 Bribery
+1 Vivien Reid
+1 Plow Under
+1 Mind Twist
+1 Hydroid Krasis
+1 Will Kenrith
+1 Consecrated Sphinx
+1 Inferno Titan
+1 Tropical Island
+1 Sheltered Thicket
+1 Stomping Ground
+1 Volcanic Island
+1 Steam Vents
+1 Lumbering Falls
+1 Scalding Tarn
+1 Taiga
+1 Shivan Reef
+1 Blood Crypt
+1 Llanowar Wastes
+3 Island
+1 Swamp
+1 Forest
+1 Mountain

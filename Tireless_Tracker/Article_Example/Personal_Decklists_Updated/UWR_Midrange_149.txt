@@ -1,0 +1,54 @@
+Colors: UWR
+Archetype: Midrange
+Record: 2-2
+Games: 4-7
+
+1 Fractured Identity
+1 Will Kenrith
+1 Counterspell
+1 Teferi, Hero of Dominaria
+1 Moat
+1 Elspeth, Sun's Champion
+1 Supreme Verdict
+1 Glen Elendra Archmage
+1 Path to Exile
+1 Worn Powerstone
+1 Thirst for Knowledge
+1 True-Name Nemesis
+1 Watcher for Tomorrow
+1 Sarkhan the Masterless
+1 Narset, Parter of Veils
+1 Pyroclasm
+1 Callous Dismissal
+1 Bribery
+1 Swords to Plowshares
+1 Dack Fayden
+1 Elspeth, Knight-Errant
+1 Saheeli, the Gifted
+1 Sorcerous Spyglass
+1 Celestial Colonnade
+1 Irrigated Farmland
+1 Ash Barrens
+1 Plateau
+1 Sacred Foundry
+1 Steam Vents
+4 Mountain
+3 Plains
+4 Island
+
+1 Lumbering Falls
+1 Raging Ravine
+1 Hangarback Walker
+1 Rolling Earthquake
+1 Mana Tithe
+1 Phyrexian Revoker
+1 Vivien's Arkbow
+1 Vedalken Shackles
+1 Snuff Out
+1 Opposition
+1 Flametongue Kavu
+1 Koth of the Hammer
+1 Custodi Lich
+1 Mirari's Wake
+1 Torrential Gearhulk
+1 Nicol Bolas, God-Pharaoh

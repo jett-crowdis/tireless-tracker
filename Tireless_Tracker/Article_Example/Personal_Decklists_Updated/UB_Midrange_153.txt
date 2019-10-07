@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 0-3
+Games: 0-6
+
+1 Griselbrand
+1 Animate Dead
+1 Thoughtseize
+1 Spell Pierce
+1 Mimic Vat
+1 Dig Through Time
+1 Torrential Gearhulk
+1 Liliana, the Last Hope
+1 The Scarab God
+1 Remand
+1 Inquisition of Kozilek
+1 Ulamog, the Ceaseless Hunger
+1 Scour All Possibilities
+1 Heir of Falkenrath
+1 Glen Elendra Archmage
+1 Thirst for Knowledge
+1 Watcher for Tomorrow
+1 Duress
+1 Merfolk Looter
+1 Go for the Throat
+1 Sower of Temptation
+1 Dance of the Dead
+1 Mystical Tutor
+1 Fetid Pools
+1 Misty Rainforest
+1 Watery Grave
+7 Island
+7 Swamp
+
+1 Diregraf Ghoul
+1 Sarkhan the Masterless
+1 Custodi Lich
+1 Moat
+1 Braids, Cabal Minion
+1 Recruiter of the Guard
+1 Council's Judgment
+1 Blade Splicer
+1 Pernicious Deed
+1 Song of the Dryads
+1 Reclamation Sage
+1 Curse of Disturbance
+1 Scavenging Ooze
+1 Lotus Cobra
+1 Snapcaster Mage
+1 Gutterbones
+1 Callous Dismissal
+1 Enlightened Tutor
+1 Sensei's Divining Top

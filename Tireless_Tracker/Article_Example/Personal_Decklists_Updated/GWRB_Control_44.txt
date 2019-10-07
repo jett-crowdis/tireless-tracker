@@ -1,0 +1,44 @@
+Colors: RBGW
+Archetype: Control_Combo
+Record: 4-0
+Games: 8.0-2.0
+
+1 Scrubland
+1 Savannah
+1 Bayou
+1 Llanowar Wastes
+1 Horizon Canopy
+1 Bloodstained Mire
+1 Misty Rainforest
+1 Godless Shrine
+1 Badlands
+1 Flooded Strand
+1 Sacred Foundry
+1 Taiga
+1 Forest
+1 Mountain
+2 Plains
+1 Swamp
+1 Blitz Basilisk
+1 Wurmcoil Engine
+1 Elesh Norn, Grand Cenobite
+1 Griselbrand
+1 Woodfall Primus
+1 Reanimate
+1 Enlightened Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Entomb
+1 Dreadbore
+1 Lightning Helix
+1 Go for the Throat
+1 Animate Dead
+1 Oath of Druids
+1 Flowerescence
+1 Toxic Deluge
+1 Council's Judgment
+1 Wheel of Fortune
+1 Kolaghan's Command
+1 Sneak Attack
+1 Damnation
+1 Day of Judgment

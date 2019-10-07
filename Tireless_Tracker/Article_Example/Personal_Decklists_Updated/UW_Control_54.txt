@@ -1,0 +1,37 @@
+Colors: UW
+Archetype: Control
+Record: 1-1
+Games: 2.5-2.5
+
+1 Ponder
+1 Counterspell
+1 Mana Drain
+1 Remand
+1 Azorius Signet
+1 Jace, Vryn's Prodigy
+1 Wall of Omens
+1 Snapcaster Mage
+1 Everflowing Chalice
+1 Boros Signet
+1 Council's Judgment
+1 Coalition Relic
+1 Ashiok, Nightmare Weaver
+1 Fractured Identity
+1 Supreme Verdict
+1 Day of Judgment
+1 Glen Elendra Archmage
+1 Mystic Confluence
+1 Treachery
+1 Aetherling
+1 Karn Liberated
+1 Myr Battlesphere
+1 Dig Through Time
+1 Flooded Strand
+1 Hallowed Fountain
+1 Tundra
+1 Fetid Pools
+1 Misty Rainforest
+1 Scrubland
+1 Paliano, the High City
+6 Island
+4 Plains

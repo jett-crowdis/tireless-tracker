@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-2
+Games: 4-5
+
+1 Goblin Guide
+1 Grafted Wargear
+1 Firedrinker Satyr
+1 Krenko, Tin Street Kingpin
+1 Fiery Confluence
+1 Legion Warboss
+1 Winter Orb
+1 Sword of Fire and Ice
+1 Chandra, Torch of Defiance
+1 Falkenrath Gorger
+1 Koth of the Hammer
+1 Phyrexian Revoker
+1 Dismember
+1 Dire Fleet Daredevil
+1 Arc Trail
+1 Eidolon of the Great Revel
+1 Goblin Cratermaker
+1 Magma Jet
+1 Rakdos Cackler
+1 Light Up the Stage
+1 Wheel of Fortune
+1 Hazoret the Fervent
+1 Bonesplitter
+1 Mishra's Factory
+1 Rishadan Port
+15 Mountain
+
+1 Badlands
+1 Battlefield Forge
+1 Blast Zone
+1 Creeping Tar Pit
+1 Windswept Heath
+1 Secure the Wastes
+1 Lightning Helix
+1 Precinct Captain
+1 Thalia, Guardian of Thraben
+1 Hero's Downfall
+1 Blade Splicer
+1 Ravenous Chupacabra
+1 Harmonize
+1 Gisela, the Broken Blade
+1 Hero of Bladehold
+1 Lyra Dawnbringer
+1 Through the Breach
+1 Zealous Conscripts
+1 Siege-Gang Commander
+1 Glorybringer

@@ -1,0 +1,54 @@
+Colors: UWB
+Archetype: Control
+Record: 1-2
+Games: 2-5
+
+1 Mind Twist
+1 Thoughtseize
+1 Consecrated Sphinx
+1 True-Name Nemesis
+1 Thalia, Heretic Cathar
+1 Search for Azcanta
+1 Serra the Benevolent
+1 Grim Monolith
+1 Swords to Plowshares
+1 Coldsteel Heart
+1 Thirst for Knowledge
+1 Gilded Lotus
+1 Sword of Sinew and Steel
+1 Wall of Omens
+1 Umezawa's Jitte
+1 Gideon Jura
+1 Izzet Signet
+1 Mana Leak
+1 Monastery Mentor
+1 Karn Liberated
+1 Elspeth, Knight-Errant
+1 Batterskull
+1 Teferi, Time Raveler
+1 Ancient Tomb
+1 Celestial Colonnade
+1 Irrigated Farmland
+1 Marsh Flats
+1 Scrubland
+1 Watery Grave
+1 Snow-Covered Swamp
+6 Snow-Covered Island
+4 Snow-Covered Plains
+
+1 Badlands
+1 Dread Wanderer
+1 Fatal Push
+1 Kytheon, Hero of Akros
+1 Brain Maggot
+1 Winter Orb
+1 Balance
+1 Remorseful Cleric
+1 Selfless Spirit
+1 Tithe Taker
+1 Liliana, the Last Hope
+1 Sword of Feast and Famine
+1 Brimaz, King of Oreskos
+1 Braids, Cabal Minion
+1 Sphinx of the Steel Wind
+1 Myr Battlesphere

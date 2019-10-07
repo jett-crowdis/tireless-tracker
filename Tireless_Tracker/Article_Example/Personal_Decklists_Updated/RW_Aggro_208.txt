@@ -1,0 +1,53 @@
+Colors: RW
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+1 Smuggler's Copter
+1 Path to Exile
+1 Gideon of the Trials
+1 Unexpectedly Absent
+1 Thalia, Heretic Cathar
+1 Tithe Taker
+1 Porcelain Legionnaire
+1 Kitchen Finks
+1 Skymarcher Aspirant
+1 Mother of Runes
+1 Student of Warfare
+1 Banishing Light
+1 Flickerwisp
+1 Dauntless Bodyguard
+1 Thalia, Guardian of Thraben
+1 Precinct Captain
+1 Kytheon, Hero of Akros
+1 Armageddon
+1 Hero of Bladehold
+1 Mardu Woe-Reaper
+1 Bonesplitter
+1 Goblin Rabblemaster
+1 Searing Spear
+1 Magma Jet
+1 Marsh Flats
+1 Mana Confluence
+1 Sacred Foundry
+1 Strip Mine
+1 Sunbaked Canyon
+3 Snow-Covered Mountain
+7 Snow-Covered Plains
+1 Silent Clearing
+
+1 Falkenrath Gorger
+1 Zurgo Bellstriker
+1 Young Pyromancer
+1 Light Up the Stage
+1 Territorial Hellkite
+1 Spawn of Mayhem
+1 Celestial Colonnade
+1 Raging Ravine
+1 Condemn
+1 Sorcerous Spyglass
+1 Vindicate
+1 Lingering Souls
+1 Sorin, Lord of Innistrad
+1 Siege-Gang Commander
+1 Nicol Bolas, God-Pharaoh

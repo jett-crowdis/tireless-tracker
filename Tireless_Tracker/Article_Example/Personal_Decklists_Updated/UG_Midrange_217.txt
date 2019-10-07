@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-2
+
+1 Opposition
+1 Fyndhorn Elves
+1 Noble Hierarch
+1 Deep Forest Hermit
+1 Carnage Tyrant
+1 Birds of Paradise
+1 Arbor Elf
+1 Fauna Shaman
+1 Natural Order
+1 Wolfbriar Elemental
+1 Craterhoof Behemoth
+1 Sylvan Library
+1 Hexdrinker
+1 Ice-Fang Coatl
+1 Wall of Roots
+1 Biogenic Ooze
+1 Avacyn's Pilgrim
+1 Vivien Reid
+1 Elvish Mystic
+1 Paradise Druid
+1 Nissa, Steward of Elements
+1 Trumpeting Herd
+1 Reclamation Sage
+1 Elves of Deep Shadow
+1 Windswept Heath
+1 Tropical Island
+1 Gaea's Cradle
+1 Breeding Pool
+4 Snow-Covered Island
+8 Snow-Covered Forest
+
+1 Sacred Foundry
+1 Scattered Groves
+1 Nature's Claim
+1 Kytheon, Hero of Akros
+1 Wall of Blossoms
+1 Basalt Monolith
+1 Courser of Kruphix
+1 Jadelight Ranger
+1 Nissa, Voice of Zendikar
+1 Kitchen Finks
+1 Knight of Autumn
+1 Force of Will
+1 Mirari's Wake
+1 Torrential Gearhulk
+1 Woodfall Primus
+1 Scavenging Ooze
+1 Lotus Cobra

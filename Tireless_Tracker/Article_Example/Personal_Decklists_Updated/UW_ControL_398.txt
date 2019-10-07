@@ -1,0 +1,34 @@
+Colors: UW
+Archetype: Control
+Record: 0-2
+Games: 1-4
+
+1 Path to Exile
+1 Swords to Plowshares
+1 Brainstorm
+1 On Thin Ice
+1 Preordain
+1 Ponder
+1 Merfolk Looter
+1 Nature's Chant
+1 Search Azcanta
+1 Azorius Signet
+1 Teferi, Time Raveler
+1 Oblivion Ring
+1 Vedalken Shackles
+1 Monastery Mentor
+1 Thirst for Knowledge
+1 Supreme Verdict
+1 Solemn Simulacrum
+1 Venser, Shaper Savant
+1 Sower of Temptation
+1 Mystic Confluence
+1 Archangel Avacyn
+1 Will Kenrith
+1 Horizon Canopy
+1 Celestial Colonnade
+1 Irrigated Farmland
+1 Ancient Tomb
+1 Flooded Strand
+7 Snow-Covered Island
+5 Snow-Covered Plains

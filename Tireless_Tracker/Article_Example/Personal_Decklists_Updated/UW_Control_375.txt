@@ -1,0 +1,54 @@
+Colors: UW
+Archetype: Control
+Record: 3-0
+Games: 6-0
+
+1 Condemn
+1 Spell Pierce
+1 Swords to Plowshares
+1 Search for Azcanta
+1 Snapcaster Mage
+1 Unexpectedly Absent
+1 Talisman of Progress
+1 Azorius Signet
+1 Balance
+1 Watcher for Tomorrow
+1 Miscalculation
+1 Kitchen Finks
+1 Teferi, Time Raveler
+1 Gideon of the Trials
+1 Compulsive Research
+1 Wrath of God
+1 Serra the Benevolent
+1 Jace, the Mind Sculptor
+1 Day of Judgment
+1 Fractured Identity
+1 Dig Through Time
+1 Gideon Jura
+1 Teferi, Hero of Dominaria
+1 Irrigated Farmland
+1 Hallowed Fountain
+1 Blast Zone
+7 Snow-Covered Island
+7 Snow-Covered Plains
+
+1 Mishra's Factory
+1 Frostwalk Bastion
+1 Mutavault
+1 Sorcerous Spyglass
+1 Oblivion Ring
+1 Supreme Verdict
+1 Mulldrifter
+1 Moat
+1 Gideon Blackblade
+1 Angel of Invention
+1 Hostage Taker
+1 Will Kenrith
+1 Remorseful Cleric
+1 Falkenrath Gorger
+1 Zurgo Bellstriker
+1 Trostani Discordant
+1 Goblin Rabblemaster
+1 Goblin Guide
+1 Hydroid Krasis
+1 Elesh Norn, Grand Cenobite

@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-2
+
+1 Channel
+1 Thran Dynamo
+1 Hexdrinker
+1 Sylvan Library
+1 Wurmcoil Engine
+1 Plow Under
+1 Sylvan Caryatid
+1 Wild Growth
+1 Walking Ballista
+1 Paradise Druid
+1 Natural Order
+1 Birds of Paradise
+1 Elvish Mystic
+1 Biogenic Ooze
+1 Jadelight Ranger
+1 Nissa, Vital Force
+1 Woodfall Primus
+1 Coalition Relic
+1 Noble Hierarch
+1 Karn Liberated
+1 Emrakul, the Promised End
+1 Gilded Lotus
+1 Eternal Witness
+1 Wall of Blossoms
+1 Rishadan Port
+15 Snow-Covered Forest
+
+1 Bayou
+1 Flooded Strand
+1 Scattered Groves
+1 Temple Garden
+1 Imperial Seal
+1 Dire Fleet Daredevil
+1 Hero's Downfall
+1 Daretti, Ingenious Iconoclast
+1 Maelstrom Pulse
+1 Polukranos, World Eater
+1 Burning of Xinye
+1 Trumpeting Herd
+1 Xenagos, the Reveler
+1 Garruk, Primal Hunter
+1 Sundering Titan
+1 Harmonize
+1 Chandra, Torch of Defiance
+1 Domri, Chaos Bringer
+1 City of Brass
+1 Sheltered Thicket

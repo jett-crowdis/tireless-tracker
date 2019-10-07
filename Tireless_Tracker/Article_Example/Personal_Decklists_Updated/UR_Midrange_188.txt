@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Midrange_Combo
+Record: 2-1
+Games: 5-2
+
+1 Blightsteel Colossus
+1 Control Magic
+1 Blast from the Past
+1 Spell Pierce
+1 Brainstorm
+1 Through the Breach
+1 Incinerate
+1 Mana Drain
+1 Mox Diamond
+1 Emrakul, the Aeons Torn
+1 Chandra, Flamecaller
+1 Bribery
+1 Fiery Confluence
+1 Show and Tell
+1 Izzet Charm
+1 Snapcaster Mage
+1 Wheel of Fortune
+1 Sneak Attack
+1 Jace, Vryn's Prodigy
+1 Counterspell
+1 Abrade
+1 Arc Trail
+1 Myr Battlesphere
+1 Fiery Islet
+1 Scalding Tarn
+1 Steam Vents
+1 Waterlogged Grove
+7 Snow-Covered Island
+6 Snow-Covered Mountain
+
+1 Raging Ravine
+1 Sphinx of the Steel Wind
+1 Wildfire
+1 Koth of the Hammer
+1 Wolfbriar Elemental
+1 Porcelain Legionnaire
+1 Grafted Wargear
+1 Young Pyromancer
+1 Goblin Cratermaker
+1 Eidolon of the Great Revel
+1 Monastery Swiftspear
+1 Goblin Guide
+1 Firedrinker Satyr
+1 Falkenrath Gorger
+1 Nature's Claim
+1 Gravecrawler
+1 Firebolt
+1 Seasoned Pyromancer

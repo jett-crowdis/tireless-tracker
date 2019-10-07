@@ -1,0 +1,53 @@
+Colors: RB
+Archetype: Aggro
+Record: 0-3
+Games: 0-6
+
+1 Goblin Guide
+1 Falkenrath Gorger
+1 Earthshaker Khenra
+1 Stormblood Berserker
+1 Grafted Wargear
+1 Goblin Rabblemaster
+1 Doom Blade
+1 Mesmeric Fiend
+1 Gravecrawler
+1 Bloodsoaked Champion
+1 Kolaghan's Command
+1 Gutterbones
+1 Snuff Out
+1 Diregraf Ghoul
+1 Spawn of Mayhem
+1 Bloodghast
+1 Hymn to Tourach
+1 Curse of Disturbance
+1 Thoughtseize
+1 Light Up the Stage
+1 Firedrinker Satyr
+1 Dreadbore
+1 Experimental Frenzy
+1 Territorial Hellkite
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 Lavaclaw Reaches
+1 Marsh Flats
+1 Wasteland
+1 Wooded Foothills
+5 Swamp
+4 Mountain
+
+1 Nurturing Peatland
+1 Imperial Seal
+1 Enlightened Tutor
+1 Dance of the Dead
+1 Duskwatch Recruiter
+1 Hero's Downfall
+1 Blade Splicer
+1 Gonti, Lord of Luxury
+1 Kalitas, Traitor of Ghet
+1 Koth of the Hammer
+1 Day of Judgment
+1 Thundermaw Hellkite
+1 Burning of Xinye
+1 Chandra, Torch of Defiance

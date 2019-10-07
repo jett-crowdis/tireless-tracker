@@ -1,0 +1,32 @@
+Colors: UW
+Archetype: Midrange
+Record: 2-0
+Games: 4.0-1.0
+
+1 Phyrexian Metamorph
+1 Sword of Fire and Ice
+1 Karn Liberated
+1 Gideon, Ally of Zendikar
+1 Selfless Spirit
+1 Venser, Shaper Savant
+1 Phantasmal Image
+1 Elspeth, Knight-Errant
+1 Thirst for Knowledge
+1 Control Magic
+1 Man-o'-War
+1 Miscalculation
+1 Jace, the Mind Sculptor
+1 Stoneforge Mystic
+1 Mulldrifter
+1 Jace, Vryn's Prodigy
+1 Oblivion Ring
+1 Mystic Confluence
+1 Wall of Omens
+1 Thalia, Heretic Cathar
+1 Aetherling
+1 Worn Powerstone
+1 Counterspell
+1 Tundra
+1 Irrigated Farmland
+9 Island
+6 Plains

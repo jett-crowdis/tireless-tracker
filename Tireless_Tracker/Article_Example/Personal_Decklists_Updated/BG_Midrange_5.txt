@@ -1,0 +1,35 @@
+Colors: BG
+Archetype: Midrange_Reanimator
+Record: 0-2
+Games: 1.0-4.0
+
+1 Colossus of Ruin
+1 Ulamog, the Ceaseless Hunger
+1 Doom Blade
+1 Dance of the Dead
+1 Vampiric Tutor
+1 Animate Dead
+1 Reanimate
+1 Entomb
+1 Birds of Paradise
+1 Joraga Treespeaker
+1 Natural Order
+1 Lotus Cobra
+1 Channel
+1 Fauna Shaman
+1 Craterhoof Behemoth
+1 Sylvan Library
+1 Survival of the Fittest
+1 Symbol Status
+1 Wild Growth
+1 Noose Constrictor
+1 Elves of Deep Shadow
+1 Rofellos, Llanowar Emissary
+1 Primeval Titan
+1 Treetop Village
+1 Gaea's Cradle
+1 Windswept Heath
+1 Mishra's Factory
+1 Overgrown Tomb
+6 Forest
+6 Swamp

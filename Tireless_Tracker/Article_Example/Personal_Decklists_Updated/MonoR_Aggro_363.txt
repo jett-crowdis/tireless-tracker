@@ -1,0 +1,32 @@
+Colors: R
+Archetype: Aggro
+Record: 3-1
+Games: 7-4
+
+1 Goblin Guide
+1 Figure of Destiny
+1 Monastery Swiftspear
+1 Zurgo Bellstriker
+1 Firebolt
+1 Rakdos Cackler
+1 Falkenrath Gorger
+1 Stormblood Berserker
+1 Lightning Strike
+1 Kari Zev, Skyship Raider
+1 Magma Jet
+1 Earthshaker Khenra
+1 Young Pyromancer
+1 Smuggler's Copter
+1 Dire Fleet Daredevil
+1 Sulfuric Vortex
+1 Legion Warboss
+1 Blast from the Past
+1 Hellrider
+1 Experimental Frenzy
+1 Territorial Hellkite
+1 Thundermaw Hellkite
+1 Mishra's Factory
+1 Mutavault
+1 Rishadan Port
+1 Fiery Islet
+12 Snow-Covered Mountain

@@ -1,0 +1,35 @@
+Colors: UBG
+Archetype: Midrange
+Record: 2-2
+Games: 5.0-5.0
+
+1 Phantasmal Image
+1 Demonic Tutor
+1 Fyndhorn Elves
+1 Worn Powerstone
+1 Mana Confluence
+1 Craterhoof Behemoth
+1 Miscalculation
+1 Sower of Temptation
+1 Verdant Catacombs
+1 Doom Blade
+1 Polluted Delta
+1 Jace, the Mind Sculptor
+1 Underground Sea
+1 Joraga Treespeaker
+1 Lotus Cobra
+1 Rofellos, Llanowar Emissary
+1 Llanowar Elves
+1 Coldsteel Heart
+1 Green Sun's Zenith
+1 Garruk Wildspeaker
+1 Glen Elendra Archmage
+1 Simic Signet
+1 Breeding Pool
+1 Mystic Confluence
+1 Vampiric Tutor
+1 Venser, Shaper Savant
+1 Colossus of Ruin
+1 Acidic Slime
+7 Forest
+5 Island

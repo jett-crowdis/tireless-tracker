@@ -1,0 +1,53 @@
+Colors: RB
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Thoughtseize
+1 Rakdos Cackler
+1 Sarcomancy
+1 Winter Orb
+1 Kari Zev, Skyship Raider
+1 Go for the Throat
+1 Zurgo Bellstriker
+1 Earthshaker Khenra
+1 Arc Trail
+1 Mesmeric Fiend
+1 Burst Lightning
+1 Bitterblossom
+1 Dread Wanderer
+1 Falkenrath Gorger
+1 Brain Maggot
+1 Incinerate
+1 Gutterbones
+1 Dreadbore
+1 Diregraf Ghoul
+1 Inquisition of Kozilek
+1 Gravecrawler
+1 Scrapheap Scrounger
+1 Stormblood Berserker
+1 Mox Diamond
+1 Porcelain Legionnaire
+1 Prismatic Vista
+1 Sulfurous Springs
+7 Snow-Covered Swamp
+6 Snow-Covered Mountain
+
+1 Drana, Liberator of Malakir
+1 Liliana, the Last Hope
+1 Kolaghan's Command
+1 Vindicate
+1 Goblin Rabblemaster
+1 Ravenous Chupacabra
+1 Spawn of Mayhem
+1 Fleetwheel Cruiser
+1 Hellrider
+1 Custodi Lich
+1 Sun Titan
+1 Fiery Confluence
+1 Sulfuric Vortex
+1 Eidolon of the Great Revel
+1 Doom Blade
+1 Lavaclaw Reaches
+1 Arid Mesa
+1 Wooded Foothills

@@ -1,0 +1,54 @@
+Colors: RUG
+Archetype: Control_Combo
+Record: 1-2
+Games: 2-5
+
+1 Blightsteel Colossus
+1 Worn Powerstone
+1 Oath of Druids
+1 Fiery Confluence
+1 Woodfall Primus
+1 Ulamog, the Ceaseless Hunger
+1 Sneak Attack
+1 Talisman of Conviction
+1 Preordain
+1 Negate
+1 Arcane Artisan
+1 Sphinx of the Steel Wind
+1 Tinker
+1 Sensei's Divining Top
+1 Vampiric Tutor
+1 Toxic Deluge
+1 Through the Breach
+1 Show and Tell
+1 Chart a Course
+1 Bayou
+1 Blood Crypt
+1 Emrakul, the Aeons Torn
+1 Flooded Strand
+1 Stomping Ground
+1 Sulfurous Springs
+1 Taiga
+1 Tropical Island
+1 Underground Sea
+1 Verdant Catacombs
+3 Snow-Covered Island
+2 Snow-Covered Swamp
+3 Snow-Covered Mountain
+1 Arc Trail
+1 Doom Blade
+1 Garruk Relentless
+
+1 Fatal Push
+1 Giver of Runes
+1 Merfolk Looter
+1 Eternal Witness
+1 Domri, Anarch of Bolas
+1 Arc Lightning
+1 Domri, Chaos Bringer
+1 Xenagos, the Reveler
+1 Wildfire
+1 Pernicious Deed
+1 Utopia Sprawl
+1 Liliana, the Last Hope
+1 Harmonize

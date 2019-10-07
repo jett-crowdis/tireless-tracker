@@ -1,0 +1,54 @@
+Colors: WG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Craterhoof Behemoth
+1 Vivien Reid
+1 Fyndhorn Elves
+1 Garruk Relentless
+1 Courser of Kruphix
+1 Acidic Slime
+1 Harmonize
+1 Sword of Feast and Famine
+1 Tireless Tracker
+1 Knight of Autumn
+1 Llanowar Elves
+1 Noble Hierarch
+1 Plow Under
+1 Green Sun's Zenith
+1 Unexpectedly Absent
+1 Trumpeting Herd
+1 Secure the Wastes
+1 Elves of Deep Shadow
+1 Mind Twist
+1 Elvish Mystic
+1 Overgrowth
+1 Nissa, Voice of Zendikar
+1 Eternal Witness
+1 Restoration Angel
+1 Arid Mesa
+1 Horizon Canopy
+1 Marsh Flats
+1 Nurturing Peatland
+1 Savannah
+1 Scrubland
+1 Silent Clearing
+1 Temple Garden
+1 Windswept Heath
+5 Forest
+2 Plains
+
+1 Treetop Village
+1 Volrath's Stronghold
+1 Grim Lavamancer
+1 Scrapheap Scrounger
+1 Winter Orb
+1 Pernicious Deed
+1 Council's Judgment
+1 Wrath of God
+1 Liliana, Death's Majesty
+1 Sun Titan
+1 Selfless Spirit
+1 Oracle of Mul Daya
+2 Plains

@@ -1,0 +1,33 @@
+Colors: GB
+Archetype: Midrange
+Record: 0-4
+Games: 2.0-8.0
+
+1 Duress
+1 Birds of Paradise
+1 Elvish Mystic
+1 Avacyn's Pilgrim
+1 Lotus Cobra
+1 Sylvan Caryatid
+1 Wall of Roots
+1 Bitterblossom
+1 Assassin's Trophy
+1 Sakura-Tribe Elder
+1 Bloodthorn Carnation
+1 Courser of Kruphix
+1 Tireless Tracker
+1 Eternal Witness
+1 Kodama's Reach
+1 Oracle of Mul Daya
+1 Harmonize
+1 Gonti, Lord of Luxury
+1 Thragtusk
+1 Walking Ballista
+1 Nissa, Vital Force
+1 Green Sun's Zenith
+1 Primeval Titan
+1 Overgrown Tomb
+1 Verdant Catacombs
+1 Ancient Tomb
+8 Forest
+6 Swamp

@@ -1,0 +1,54 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 0-3
+Games: 2-6
+
+1 Rofellos, Llanowar Emissary
+1 Avacyn's Pilgrim
+1 Fyndhorn Elves
+1 Overgrowth
+1 Wolfbriar Elemental
+1 Reclamation Sage
+1 Biogenic Ooze
+1 Deranged Hermit
+1 Kitchen Finks
+1 Jace, the Mind Sculptor
+1 Opposition
+1 Miscalculation
+1 Harmonize
+1 Tireless Tracker
+1 Vivien's Arkbow
+1 Plow Under
+1 Wall of Roots
+1 Nissa, Voice of Zendikar
+1 Garruk Wildspeaker
+1 Arbor Elf
+1 Lotus Cobra
+1 Llanowar Elves
+1 Master of the Wild Hunt
+1 Whirler Rogue
+1 Breeding Pool
+1 Lumbering Falls
+1 Misty Rainforest
+8 Forest
+5 Island
+
+1 Volrath's Stronghold
+1 Hornet Queen
+1 Mirari's Wake
+1 Batterskull
+1 Restoration Angel
+1 Vedalken Shackles
+1 Sword of Feast and Famine
+1 Finale of Glory
+1 Dire Fleet Daredevil
+1 Assassin's Trophy
+1 Sorcerous Spyglass
+1 Merfolk Looter
+1 Bitterblossom
+1 Mystical Tutor
+1 Acidic Slime
+1 Thrun, the Last Troll
+1 Jadelight Ranger
+1 Nissa, Steward of Elements
+1 Forest

@@ -1,0 +1,53 @@
+Colors: RB
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Bloodsoaked Champion
+1 Lightning Bolt
+1 Lightning Strike
+1 Dread Wanderer
+1 Incinerate
+1 Diregraf Ghoul
+1 Icehide Golem
+1 Goblin Rabblemaster
+1 Jackal Pup
+1 Sulfuric Vortex
+1 Umezawa's Jitte
+1 Zurgo Bellstriker
+1 Hymn to Tourach
+1 Sarcomancy
+1 Skullclamp
+1 Goblin Guide
+1 Porcelain Legionnaire
+1 Dark Confidant
+1 Scrapheap Scrounger
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Bonesplitter
+1 Eidolon of the Great Revel
+1 Light Up the Stage
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Sulfurous Springs
+1 Strip Mine
+1 Verdant Catacombs
+1 Silent Clearing
+1 Chrome Mox
+4 Snow-Covered Swamp
+4 Snow-Covered Mountain
+
+1 Blast Zone
+1 Dance of the Dead
+1 Drana, Liberator of Malakir
+1 Wheel of Fortune
+1 Braids, Cabal Minion
+1 Kalitas, Traitor of Ghet
+1 Hero of Bladehold
+1 Krenko, Tin Street Kingpin
+1 Legion Warboss
+1 Liliana, the Last Hope
+1 Blast from the Past
+1 Monastery Swiftspear
+1 Spawn of Mayhem

@@ -1,0 +1,55 @@
+Colors: URB
+Archetype: Control
+Record: 1-2
+Games: 3-5
+
+1 Mox Diamond
+1 Bribery
+1 Saheeli, the Gifted
+1 The Scarab God
+1 Abrade
+1 Control Magic
+1 Hostage Taker
+1 Worn Powerstone
+1 Wurmcoil Engine
+1 Watcher for Tomorrow
+1 Brainstorm
+1 Blast from the Past
+1 Search for Azcanta
+1 Incinerate
+1 Baleful Strix
+1 Gilded Lotus
+1 Talisman of Dominance
+1 Vendilion Clique
+1 Inferno Titan
+1 Zealous Conscripts
+1 Izzet Charm
+1 Grave Titan
+1 Chandra, Flamecaller
+1 Ancient Tomb
+1 Blood Crypt
+1 Fetid Pools
+1 Steam Vents
+1 Underground Sea
+1 Watery Grave
+2 Snow-Covered Swamp
+4 Snow-Covered Island
+5 Snow-Covered Mountain
+
+1 Rishadan Port
+1 Sacred Foundry
+1 Collective Brutality
+1 Looter il-Kor
+1 Winter Orb
+1 Lightning Helix
+1 Eidolon of the Great Revel
+1 Life // Death
+1 Kalitas, Traitor of Ghet
+1 Nekrataal
+1 Xenagos, the Reveler
+1 Armageddon
+1 Thragtusk
+1 Wildfire
+1 Elesh Norn, Grand Cenobite
+1 Ancient Stone Idol
+1 Island

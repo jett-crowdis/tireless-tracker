@@ -1,0 +1,53 @@
+Colors: GB
+Archetype: Midrange_Ramp
+Record: 0-3
+Games: 2-6
+
+1 Recurring Nightmare
+1 Noble Hierarch
+1 Llanowar Elves
+1 Sakura-Tribe Elder
+1 Acidic Slime
+1 Terastodon
+1 Vivien Reid
+1 Eternal Witness
+1 Arbor Elf
+1 Natural Order
+1 Craterhoof Behemoth
+1 Finale of Devastation
+1 Karn Liberated
+1 Harmonize
+1 Sword of Body and Mind
+1 Demonic Tutor
+1 Elves of Deep Shadow
+1 Rofellos, Llanowar Emissary
+1 Garruk, Primal Hunter
+1 Overgrowth
+1 Woodfall Primus
+1 Assassin's Trophy
+1 Nissa, Vital Force
+1 Wild Growth
+1 Gaea's Cradle
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Treetop Village
+1 Wooded Foothills
+2 Swamp
+9 Forest
+
+1 Thrun, the Last Troll
+1 Stomping Ground
+1 Oona's Prowler
+1 Prismatic Lens
+1 Channel
+1 Duskwatch Recruiter
+1 Nissa, Steward of Elements
+1 Balance
+1 Hero's Downfall
+1 Tangle Wire
+1 Hanweir Garrison
+1 Krenko, Tin Street Kingpin
+1 Territorial Hellkite
+1 Hero of Bladehold
+1 Doom Whisperer
+1 Angel of Invention

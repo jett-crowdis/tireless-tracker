@@ -1,0 +1,40 @@
+Colors: UGB
+Archetype: Control
+Record: 0-2
+Games: 1.0-4.0
+
+1 Dimir Signet
+1 Nissa, Vital Force
+1 Everflowing Chalice
+1 Demonic Tutor
+1 Ashiok, Nightmare Weaver
+1 Coalition Relic
+1 Hydroid Krasis
+1 Compulsive Research
+1 Azorius Signet
+1 Lotus Cobra
+1 Jace, the Mind Sculptor
+1 Commence the Endgame
+1 Mana Drain
+1 Basalt Monolith
+1 Harmonize
+1 Dig Through Time
+1 Mox Diamond
+1 Mind Stone
+1 Sylvan Library
+1 Bribery
+1 Tezzeret, Artifice Master
+1 Thran Dynamo
+1 Ponder
+1 Torrential Gearhulk
+2 Forest
+1 Flooded Strand
+5 Island
+1 Fetid Pools
+1 Bayou
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Windswept Heath
+1 Wooded Foothills
+1 Breeding Pool
+1 Creeping Tar Pit

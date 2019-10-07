@@ -1,0 +1,37 @@
+Colors: RG
+Archetype: Aggro
+Record: 2-1
+Games: 4.5-3.0
+
+1 Wild Nacatl
+1 Purphoros, God of the Forge
+1 Sulfuric Vortex
+1 Searing Spear
+1 Territorial Hellkite
+1 Skullclamp
+1 Elvish Mystic
+1 Yasova Dragonclaw
+1 Defiant Subverter
+1 Kari Zev, Skyship Raider
+1 Arc Trail
+1 Goblin Guide
+1 Lightning Strike
+1 Plated Geopede
+1 Rancor
+1 Kird Ape
+1 Hanweir Garrison
+1 Taika, Queen of Nistos
+1 Tarmogoyf
+1 Symbol Status
+1 Chain Lightning
+1 Llanowar Elves
+1 Sylvan Library
+1 Kessig Prowler
+1 Sheltered Thicket
+1 Bloodstained Mire
+1 City of Brass
+1 Gaea's Cradle
+1 Taiga
+1 Stomping Ground
+5 Mountain
+5 Forest

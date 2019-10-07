@@ -1,0 +1,45 @@
+Colors: BRWG
+Archetype: Aggro
+Record: 0-2
+Games: 1.0-4.0
+
+1 Bitterblossom
+1 Goblin Rabblemaster
+1 Chrome Mox
+1 Overgrown Tomb
+1 Wooded Foothills
+1 Plains
+1 Elspeth, Knight-Errant
+1 Bloodthorn Carnation
+1 Flooded Strand
+1 Stoneforge Mystic
+1 Precinct Captain
+1 Soldier of the Pantheon
+1 Sinhama, the Emminent
+1 Verdant Catacombs
+1 Thalia, Guardian of Thraben
+1 Temple Garden
+1 Apex Tyrannotitans
+1 Winter Orb
+1 Stomping Ground
+1 Strip Mine
+1 Windswept Heath
+1 Savannah
+1 Misty Rainforest
+1 Palace Jailer
+1 Firedrinker Satyr
+1 Umezawa's Jitte
+1 Serra the Benevolent
+1 Adanto Vanguard
+1 Bayou
+1 Sacred Foundry
+1 Grafted Wargear
+1 Ravages of War
+1 Arid Mesa
+1 Taiga
+1 Gideon of the Trials
+1 Dryad Militant
+1 Bomat Courier
+1 Path to Exile
+1 Krenko, Tin Street Kingpin
+1 Skullclamp

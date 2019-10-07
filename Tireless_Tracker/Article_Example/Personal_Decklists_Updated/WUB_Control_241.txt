@@ -1,0 +1,54 @@
+Colors: WUB
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Coalition Relic
+1 Everflowing Chalice
+1 Mystic Confluence
+1 Karn Liberated
+1 Dig Through Time
+1 Thran Dynamo
+1 Ugin, the Spirit Dragon
+1 Jace, Vryn's Prodigy
+1 Teferi, Time Raveler
+1 Mind Twist
+1 Watcher for Tomorrow
+1 Vendilion Clique
+1 Moat
+1 Lingering Souls
+1 Ponder
+1 Gideon, Ally of Zendikar
+1 True-Name Nemesis
+1 On Thin Ice
+1 Wall of Omens
+1 Glen Elendra Archmage
+1 Karn, Scion of Urza
+1 Serra the Benevolent
+1 Nature's Chant
+1 Celestial Colonnade
+1 Scalding Tarn
+1 Scrubland
+1 Tundra
+1 Windswept Heath
+6 Snow-Covered Island
+4 Snow-Covered Plains
+2 Snow-Covered Swamp
+
+1 Plateau
+1 Hangarback Walker
+1 Thoughtseize
+1 Secure the Wastes
+1 Skymarcher Aspirant
+1 Survival of the Fittest
+1 Vivien's Arkbow
+1 Gideon of the Trials
+1 Braids, Cabal Minion
+1 Gonti, Lord of Luxury
+1 Kalitas, Traitor of Ghet
+1 Sorin, Lord of Innistrad
+1 Hazoret the Fervent
+1 Restoration Angel
+1 Tezzeret, Artifice Master
+1 Balance
+1 Grave Titan

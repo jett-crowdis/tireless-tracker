@@ -1,0 +1,55 @@
+Colors: URB
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Demonic Tutor
+1 Talisman of Progress
+1 Saheeli, the Gifted
+1 Chandra, Awakened Inferno
+1 Sarkhan the Masterless
+1 Mana Leak
+1 Ashiok, Nightmare Weaver
+1 Firebolt
+1 Azorius Signet
+1 Jace, the Mind Sculptor
+1 Mu Yanling, Sky Dancer
+1 Blast from the Past
+1 Nicol Bolas, God-Pharaoh
+1 Dreadbore
+1 Miscalculation
+1 Spell Pierce
+1 Callous Dismissal
+1 Dack Fayden
+1 Izzet Signet
+1 Kolaghan's Command
+1 Chandra, Torch of Defiance
+1 Kitesail Freebooter
+1 Shriekmaw
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Creeping Tar Pit
+1 Lavaclaw Reaches
+1 Misty Rainforest
+1 Steam Vents
+1 Volcanic Island
+4 Snow-Covered Mountain
+1 Snow-Covered Swamp
+3 Snow-Covered Island
+1 Watery Grave
+
+1 Mutavault
+1 Dread Wanderer
+1 Bitterblossom
+1 Brain Maggot
+1 Sorcerous Spyglass
+1 Earthshaker Khenra
+1 Sword of Sinew and Steel
+1 Spawn of Mayhem
+1 Garruk Wildspeaker
+1 Koth of the Hammer
+1 Custodi Lich
+1 Trostani Discordant
+1 Raging Ravine
+1 Swamp

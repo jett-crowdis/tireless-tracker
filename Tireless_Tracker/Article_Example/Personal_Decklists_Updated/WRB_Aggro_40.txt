@@ -1,0 +1,40 @@
+Colors: RWB
+Archetype: Aggro
+Record: 1-1
+Games: 2.5-2.5
+
+1 Scalding Tarn
+1 Brutal Negator
+4 Swamp
+1 Gravecrawler
+1 Zurgo Bellstriker
+1 Doom Blade
+1 Sacred Foundry
+1 Ignition Valkyrie
+1 Battlefield Forge
+1 Carnophage
+1 Mana Confluence
+3 Mountain
+1 Descent into Hell
+1 Ulak, Heartless Warden
+1 Spitting Widow
+1 Mox Diamond
+1 Thoughtseize
+1 Patient Veteran
+1 Incinerate
+1 Bloodghast
+1 Marsh Flats
+1 Caves of Koilos
+1 Lightning Helix
+1 Badlands
+1 Winter Orb
+1 Monastery Swiftspear
+1 Ember Magmar
+1 City of Brass
+1 Skullclamp
+1 Goblin Trailblazers
+1 Mother of Runes
+1 Goblin Rabblemaster
+1 Chandra, Torch of Defiance
+1 Grim Lavamancer
+1 Dread Wanderer

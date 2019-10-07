@@ -1,0 +1,37 @@
+Colors: URB
+Archetype: Midrange
+Record: 1-5
+Games: 4.5-10.5
+
+1 Lightning Bolt
+1 Ponder
+1 Preordain
+1 Thoughtseize
+1 Baleful Strix
+1 Coldsteel Heart
+1 Miscalculation
+1 Pack Rat
+1 Demonic Tutor
+1 Shriekmaw
+1 Ashiok, Nightmare Weaver
+1 Dream Noble
+1 Toxic Deluge
+1 Dack Fayden
+1 Liliana, the Last Hope
+1 Hedron Archive
+1 Jace, the Mind Sculptor
+1 Glen Elendra Archmage
+1 Ravenous Chupacabra
+1 Custodi Lich
+1 Mystic Confluence
+1 Gilded Lotus
+1 Treachery
+1 Polluted Delta
+1 Watery Grave
+1 Steam Vents
+1 Underground Sea
+1 Volcanic Island
+1 Fetid Pools
+1 Lavaclaw Reaches
+5 Island
+5 Swamp

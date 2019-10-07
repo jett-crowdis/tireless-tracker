@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Mystic Confluence
+1 Consecrated Sphinx
+1 Wrath of God
+1 Miscalculation
+1 Unexpectedly Absent
+1 Angel of Sanctions
+1 Search for Azcanta
+1 Coalition Relic
+1 Coldsteel Heart
+1 Day of Judgment
+1 Control Magic
+1 Dig Through Time
+1 Brainstorm
+1 Whirler Rogue
+1 Ponder
+1 Elspeth, Sun's Champion
+1 Sensei's Divining Top
+1 Secure the Wastes
+1 Force of Will
+1 Moat
+1 Lyra Dawnbringer
+1 Oblivion Ring
+1 Narset, Parter of Veils
+1 Celestial Colonnade
+1 Scalding Tarn
+8 Snow-Covered Plains
+7 Snow-Covered Island
+
+1 Godless Shrine
+1 Rishadan Port
+1 Silent Clearing
+1 Imperial Seal
+1 Mardu Woe-Reaper
+1 Izzet Charm
+1 Dire Fleet Daredevil
+1 Kari Zev, Skyship Raider
+1 Thalia, Guardian of Thraben
+1 Tithe Taker
+1 Ophiomancer
+1 Flickerwisp
+1 Polukranos, World Eater
+1 Koth of the Hammer
+1 Armageddon
+1 Sarkhan the Masterless
+1 Grave Titan
+1 Elesh Norn, Grand Cenobite
+1 Sun Titan
+1 Cryptic Command

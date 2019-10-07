@@ -1,0 +1,53 @@
+Colors: GR
+Archetype: Midrange
+Record: 2-1
+Games: 4-4
+
+1 Utopia Sprawl
+1 Llanowar Elves
+1 Avacyn's Pilgrim
+1 Wild Growth
+1 Lotus Cobra
+1 Fauna Shaman
+1 Izzet Signet
+1 Overgrowth
+1 Domri, Anarch of Bolas
+1 Jadelight Ranger
+1 Hanweir Garrison
+1 Dismember
+1 Garruk Wildspeaker
+1 Xenagos, the Reveler
+1 Master of the Wild Hunt
+1 Territorial Hellkite
+1 Wolfbriar Elemental
+1 Thrun, the Last Troll
+1 Thundermaw Hellkite
+1 Zealous Conscripts
+1 Garruk, Primal Hunter
+1 Vivien Reid
+1 Glorybringer
+1 Inferno Titan
+1 Scalding Tarn
+1 Taiga
+1 Treetop Village
+1 Gaea's Cradle
+1 Sheltered Thicket
+5 Forest
+6 Mountain
+
+1 Reanimate
+1 Through the Breach
+1 Emrakul, the Promised End
+1 Mystical Tutor
+1 Dig Through Time
+1 Dreadbore
+1 Finale of Devastation
+1 Llanowar Wastes
+1 Siege-Gang Commander
+1 Braids, Cabal Minion
+1 Scattered Groves
+1 Myr Battlesphere
+1 Maze of Ith
+1 Nissa, Steward of Elements
+1 Drana, Liberator of Malakir
+1 Green Sun's Zenith

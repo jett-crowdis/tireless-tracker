@@ -1,0 +1,54 @@
+Colors: UR
+Archetype: Control
+Record: 1-2
+Games: 2-5
+
+1 Sensei's Divining Top
+1 Serum Visions
+1 Ponder
+1 Lightning Bolt
+1 Firebolt
+1 Everflowing Chalice
+1 Phyrexian Revoker
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Pyroclasm
+1 Daretti, Ingenious Iconoclast
+1 Worn Powerstone
+1 Saheeli, Sublime Artificer
+1 Karn, Scion of Urza
+1 Hedron Archive
+1 Thran Dynamo
+1 Urza, Lord High Artificer
+1 Mystic Confluence
+1 Walking Ballista
+1 Ugin, the Spirit Dragon
+1 Consecrated Sphinx
+1 Chandra, Awakened Inferno
+1 Upheaval
+1 Sulfurous Springs
+1 Ash Barrens
+1 Fiery Islet
+1 Watery Grave
+1 Steam Vents
+1 Badlands
+1 Snow-Covered Swamp
+5 Snow-Covered Mountain
+5 Snow-Covered Island
+
+1 Monastery Swiftspear
+1 Scrapheap Scrounger
+1 Cloudkin Seer
+1 Champion of Wits
+1 Chain Lightning
+1 Sarkhan the Masterless
+1 Chandra, Flamecaller
+1 Krenko, Tin Street Kingpin
+1 Vedalken Shackles
+1 Burst Lightning
+1 Kalitas, Traitor of Ghet
+1 Dire Fleet Daredevil
+1 Lightning Helix
+1 Cavalier of Gales
+1 The Scarab God
+1 Territorial Hellkite

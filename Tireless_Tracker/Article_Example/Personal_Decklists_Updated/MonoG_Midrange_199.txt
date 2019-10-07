@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-2
+
+1 Birds of Paradise
+1 Joraga Treespeaker
+1 Phyrexian Metamorph
+1 Walking Ballista
+1 Hexdrinker
+1 Green Sun's Zenith
+1 Tireless Tracker
+1 Utopia Sprawl
+1 Carnage Tyrant
+1 Rofellos, Llanowar Emissary
+1 Fyndhorn Elves
+1 Sylvan Library
+1 Reclamation Sage
+1 Garruk Relentless
+1 Vivien Reid
+1 Thragtusk
+1 Fauna Shaman
+1 Llanowar Elves
+1 Primeval Titan
+1 Craterhoof Behemoth
+1 Wolfbriar Elemental
+1 Nature's Claim
+1 Noble Hierarch
+1 Sword of Fire and Ice
+1 Gaea's Cradle
+1 Treetop Village
+1 Verdant Catacombs
+13 Snow-Covered Forest
+
+1 Jackal Pup
+1 Monastery Swiftspear
+1 Scrapheap Scrounger
+1 Sulfuric Vortex
+1 Dryad Militant
+1 Mother of Runes
+1 Experimental Frenzy
+1 Flametongue Kavu
+1 Ilharg, the Raze-Boar
+1 Mana Confluence
+1 Umezawa's Jitte
+1 Nissa, Steward of Elements
+1 Mimic Vat
+1 Life // Death
+1 Feldon of the Third Path
+1 Thundermaw Hellkite
+1 Dragonlord Atarka
+1 Terastodon

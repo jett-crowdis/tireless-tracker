@@ -1,0 +1,33 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6.0-1.5
+
+14 Forest
+1 Oracle of Mul Daya
+1 Garruk Relentless
+1 Arbor Elf
+1 Rofellos, Llanowar Emissary
+1 Mutavault
+1 Harmonize
+1 Fauna Shaman
+1 Wild Growth
+1 Craterhoof Behemoth
+1 Sylvan Library
+1 Garruk Wildspeaker
+1 Green Sun's Zenith
+1 Eternal Witness
+1 Avacyn's Pilgrim
+1 Deranged Hermit
+1 Acidic Slime
+1 Carnage Tyrant
+1 Wooded Foothills
+1 Joraga Treespeaker
+1 Woodfall Primus
+1 Llanowar Elves
+1 Sakura-Tribe Elder
+1 Apex Tyrannotitans
+1 Plow Under
+1 Skullclamp
+1 Overgrowth
+1 Walking Ballista

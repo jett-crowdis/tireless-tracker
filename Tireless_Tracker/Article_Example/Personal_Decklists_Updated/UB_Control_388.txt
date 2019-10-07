@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 2-5
+
+1 Demonic Tutor
+1 Jace, Vryn's Prodigy
+1 Life // Death
+1 Duress
+1 Reanimate
+1 Liliana of the Veil
+1 Emrakul, the Promised End
+1 Ancient Stone Idol
+1 Mystical Tutor
+1 Entomb
+1 Toxic Deluge
+1 Imperial Seal
+1 Merfolk Looter
+1 Dig Through Time
+1 Sphinx of the Steel Wind
+1 Collective Brutality
+1 Dance of the Dead
+1 Counterspell
+1 Arcane Artisan
+1 Ulamog, the Ceaseless Hunger
+1 Brainstorm
+1 Thoughtseize
+1 Damnation
+1 Remand
+1 Bloodstained Mire
+1 Creeping Tar Pit
+1 Polluted Delta
+1 Scalding Tarn
+6 Snow-Covered Island
+6 Snow-Covered Swamp
+
+1 Mishra's Factory
+1 Mesmeric Fiend
+1 Hero's Downfall
+1 Kolaghan's Command
+1 Vindicate
+1 Legion Warboss
+1 Recruiter of the Guard
+1 Kalitas, Traitor of Ghet
+1 Thran Dynamo
+1 Thrun, the Last Troll
+1 Hero of Bladehold
+1 Sensei's Divining Top
+1 Go for the Throat
+1 Negate
+1 Nekrataal
+1 Cryptic Command
+1 Glen Elendra Archmage

@@ -1,0 +1,195 @@
+The following cards are not found in Scryfall's database:
+Blitz Basilisk in file UR_Control_228.txt
+Nightfall Stalker in file RB_Aggro_32.txt
+Rift Chronicler in file UWR_Aggro_16.txt
+Rift Chronicler in file UR_Aggro_48.txt
+Ember Magmar in file UR_Aggro_48.txt
+Nightfall Stalker in file RWB_Aggro_56.txt
+Ulak, Heartless Warden in file RWB_Aggro_56.txt
+Descent into Hell in file RWB_Aggro_56.txt
+Dream Noble in file UB_Control_14.txt
+Amulet of Power in file UB_Control_14.txt
+Blightwalker in file UB_Control_28.txt
+Brutal Negator in file MonoW_Aggro_99.txt
+Sunforge Adept in file MonoW_Aggro_99.txt
+Dream Noble in file URB_Control_266.txt
+Colossus of Ruin in file URB_Control_266.txt
+Ilharg, the Rage Boar in file URB_Control_266.txt
+Jace, the Mind Scupltor in file URB_Control_266.txt
+Colossus of Ruin in file BG_Midrange_5.txt
+Phyrexian Metamorph1 in file UW_Control_232.txt
+Arcane Savant/Fractured Identity in file UW_Control_232.txt
+island in file UW_Control_4.txt
+Dream Noble in file UGW_Midrange_344.txt
+Bloodthorn Carnation in file WBRG_Aggro_93.txt
+Sinhama, the Emminent in file WBRG_Aggro_93.txt
+Apex Tyrannotitans in file WBRG_Aggro_93.txt
+Blitz Basilisk in file GWRB_Control_44.txt
+Flowerescence in file GWRB_Control_44.txt
+Brutal Negator in file MonoW_Aggro_76.txt
+Dream Noble in file UB_Control_10.txt
+Blightwalker in file WB_Midrange_102.txt
+Colossus of Ruin in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Snow-Covered Islands in file MonoU_Control_342.txt
+Amulet of Power in file URB_Control_47.txt
+Blightwalker in file URB_Control_47.txt
+Brutal Negator in file GW_Aggro_50.txt
+Knight of the Masses in file GW_Aggro_50.txt
+Sunshell Cavaliers in file GW_Aggro_50.txt
+Taika, Queen of Nistos in file GW_Aggro_50.txt
+Emrakul the Promised End in file GB_Midrange_230.txt
+Reckless Pride in file GW_Aggro_6.txt
+Knight of the Masses in file GW_Aggro_6.txt
+Ravenous Lumberknot in file GW_Aggro_6.txt
+Taika, Queen of Nistos in file GW_Aggro_6.txt
+Bloodthorn Carnation in file MonoG_Midrange_222.txt
+Brutal Negator in file WB_Midrange_74.txt
+Ember Magmar in file RB_Aggro_51.txt
+Goblin Trailblazers in file RB_Aggro_51.txt
+Ulak, Heartless Warden in file RB_Aggro_51.txt
+Descent into Hell in file RB_Aggro_51.txt
+Colossus of Ruin in file MonoG_Midrange_27.txt
+Amulet of Power in file UWB_Control_11.txt
+Nightfall Stalker in file RB_Aggro_343.txt
+Blightwalker in file RB_Aggro_343.txt
+Apex Tyrannotitans in file MonoG_Ramp_55.txt
+Life//Death in file RB_Midrange_364.txt
+Zealous Conscript in file RB_Midrange_364.txt
+Blightwalker in file URB_Control_36.txt
+Colossus of Ruin in file URB_Control_36.txt
+Dream Noble in file UR_Midrange_101.txt
+Blitz Basilisk in file UR_Midrange_101.txt
+Dream Noble in file UB_Control_72.txt
+Dream Noble in file UG_Ramp_77.txt
+Colossus of Ruin in file UW_Control_85.txt
+Looter il-kor in file UG_Midrange_371.txt
+Ulak, Heartless Warden Vindicate in file WB_Aggro_268.txt
+Arcane Savant/Fractured Identity in file URWB_Control_267.txt
+Dream Noble in file UW_Control_84.txt
+Sinhama, the Emminent in file GW_Aggro_18.txt
+Reckless Pride in file GW_Aggro_18.txt
+Enlisting Nomads in file GW_Aggro_18.txt
+Sunshell Cavaliers in file GW_Aggro_18.txt
+Ravenous Lumberknot in file GW_Aggro_18.txt
+Knight of the Masses in file GW_Aggro_18.txt
+Ulak, Heartless Warden in file RB_Aggro_231.txt
+Nightfall Stalker in file RB_Aggro_225.txt
+Blightwalker in file RB_Aggro_225.txt
+Ulak, Heartless Warden in file RB_Aggro_225.txt
+Brutal Negator in file RB_Aggro_225.txt
+Nightfall Stalker in file WB_Aggro_65.txt
+Blightwalker in file WB_Aggro_65.txt
+Knight of the Masses in file WB_Aggro_65.txt
+Ulak, Heartless Warden in file WB_Aggro_65.txt
+Descent into Hell in file WB_Aggro_65.txt
+Blightwalker in file RB_Aggro_41.txt
+Ember Magmar in file RB_Aggro_41.txt
+Brutal Negator in file MonoR_Aggro_19.txt
+Ignition Valkyrie in file MonoR_Aggro_19.txt
+Ember Magmar in file MonoR_Aggro_19.txt
+Molten Reign in file MonoR_Aggro_19.txt
+Goblin Trailblazers in file MonoR_Aggro_19.txt
+Bloodthorn Carnation in file MonoG_Ramp_75.txt
+Apex Tyrannotitans in file MonoG_Ramp_75.txt
+Sinhama, the Emminent in file UGB_Aggro_3.txt
+Brutal Negator in file UGB_Aggro_3.txt
+Dream Noble in file UBR_Midrange_61.txt
+Colossus of Ruin in file RW_Control_70.txt
+Dream Noble in file UB_Control_42.txt
+Knight of the Masses in file UWB_Aggro_29.txt
+Defiant Subverter in file UWB_Aggro_29.txt
+Soul Shudder in file UWB_Aggro_29.txt
+Rift Chronicler in file URW_Midrange_43.txt
+Enlisting Nomads in file URW_Midrange_43.txt
+Sunforge Adept in file URW_Midrange_43.txt
+Skysea Smuggler in file URW_Midrange_43.txt
+Brutal Negator in file WRB_Aggro_40.txt
+Ignition Valkyrie in file WRB_Aggro_40.txt
+Descent into Hell in file WRB_Aggro_40.txt
+Ulak, Heartless Warden in file WRB_Aggro_40.txt
+Spitting Widow in file WRB_Aggro_40.txt
+Patient Veteran in file WRB_Aggro_40.txt
+Ember Magmar in file WRB_Aggro_40.txt
+Goblin Trailblazers in file WRB_Aggro_40.txt
+Apex Tyrannotitans in file MonoG_Ramp_89.txt
+Blitz Basilisk in file URG_Midrange_396.txt
+Colossus of Ruin in file URG_Midrange_396.txt
+Spitting Widow in file MonoB_Aggro_1.txt
+Nightfall Stalker in file MonoB_Aggro_1.txt
+Defiant Subverter in file MonoB_Aggro_1.txt
+Descent into Hell in file MonoB_Aggro_1.txt
+Dream Noble in file URB_Midrange_57.txt
+Defiant Subverter in file MonoW_Midrange_31.txt
+Knight of the Masses in file MonoW_Midrange_31.txt
+Enlisting Nomads in file MonoW_Midrange_31.txt
+Bloodthorn Carnation in file MonoG_Ramp_67.txt
+Bloodthorn Carnation in file GB_Midrange_80.txt
+Dream Noble in file UW_Midrange_368.txt
+Sunforge Adept in file UW_Midrange_368.txt
+Spitting Widow in file RB_Aggro_9.txt
+Nightfall Stalker in file RB_Aggro_9.txt
+Ember Magmar in file RB_Aggro_9.txt
+Defiant Subverter in file RB_Aggro_9.txt
+Ulak, Heartless Warden in file RB_Aggro_9.txt
+Brutal Negator in file RB_Aggro_9.txt
+Sinhama, the Emminent in file GW_Aggro_8.txt
+Knight of the Masses in file GW_Aggro_8.txt
+Taika, Queen of Nistos in file GW_Aggro_8.txt
+Amulet of Power in file BGRW_Midrange_17.txt
+Colossus of Ruin in file BGRW_Midrange_17.txt
+Sunshell Cavaliers in file GB_Midrange_0.txt
+Flowerescence in file GB_Midrange_0.txt
+Ravenous Lumberknot in file GB_Midrange_0.txt
+Amulet of Power in file GB_Midrange_0.txt
+Teferi, Hero for Dominaria in file UWRB_Control_397.txt
+Sunforge Adept in file WB_Midrange_79.txt
+Dream Noble in file UB_Control_92.txt
+Colossus of Ruin in file UB_Control_92.txt
+Defiant Subverter in file RG_Aggro_20.txt
+Taika, Queen of Nistos in file RG_Aggro_20.txt
+Goblin Trailblazers in file RB_Aggro_13.txt
+Ulak, Heartless Warden in file RB_Aggro_13.txt
+Amulet of Power in file URB_Midrange_37.txt
+Rift Chronicler in file URB_Midrange_37.txt
+Brutal Negator in file MonoR_Aggro_60.txt
+Sarkhan, the Masterless in file UR_Control_380.txt
+Blightwalker in file URB_Midrange2_23.txt
+Search Azcanta in file UW_ControL_398.txt
+Brutal Negator in file MonoW_Aggro_95.txt
+Colossus of Ruin in file UWB_Control_83.txt
+Taika, Queen of Nistos in file RGBW_Midrange_33.txt
+Sinhama, the Emminent in file RGBW_Midrange_33.txt
+Looter Il-Kor in file MonoU_Control_7.txt
+Dream Noble in file MonoU_Control_7.txt
+Amulet of Power in file UGRB_Control_2.txt
+Flowerescence in file UGRB_Control_2.txt
+Sinhama, the Emminent in file WG_Aggro_233.txt
+Bloodthorn Carnation in file WG_Aggro_233.txt
+Knight of the Masses in file MonoW_Aggro_69.txt
+Enlisting Nomads in file MonoW_Aggro_69.txt
+Murderous Rider in file URB_Midrange_395.txt
+Colossus of Ruin in file UGB_Midrange_45.txt
+Dream Noble in file UG_Aggro_35.txt
+Sunshell Cavaliers in file UG_Aggro_35.txt
+Reckless Pride in file UG_Aggro_35.txt
+Ravenous Lumberknot in file UG_Aggro_35.txt
+Sunforge Adept in file WBG_Midrange_64.txt
+Oracle of Mul Day in file WBG_Midrange_64.txt
+Colossus of Ruin in file UW_Control_229.txt
+Apex Tyrannotitans in file UG_Midrange_286.txt
+Dream Noble in file WUR_Control_98.txt

@@ -1,0 +1,54 @@
+Colors: WR
+Archetype: Aggro
+Record: 4-0
+Games: 8-3
+
+1 Sulfuric Vortex
+1 Lightning Bolt
+1 Stormblood Berserker
+1 Incinerate
+1 Abrade
+1 Bomat Courier
+1 Jackal Pup
+1 Searing Spear
+1 Blast from the Past
+1 Lightning Strike
+1 Experimental Frenzy
+1 Hellrider
+1 Chain Lightning
+1 Monastery Swiftspear
+1 Fireblast
+1 Zurgo Bellstriker
+1 Hanweir Garrison
+1 Pyroclasm
+1 Kari Zev, Skyship Raider
+1 Young Pyromancer
+1 Path to Exile
+1 Adanto Vanguard
+1 Isamaru, Hound of Konda
+1 Dauntless Bodyguard
+1 Bloodstained Mire
+1 Gemstone Mine
+1 Marsh Flats
+1 Plateau
+1 Strip Mine
+1 Wasteland
+3 Plains
+7 Mountain
+
+1 Dryad Militant
+1 Tangle Wire
+1 Anguished Unmaking
+1 Kolaghan's Command
+1 Feldon of the Third Path
+1 Banishing Light
+1 Flickerwisp
+1 Fleetwheel Cruiser
+1 Ajani Vengeant
+1 Solar Blaze
+1 Custodi Lich
+1 Angel of Invention
+1 Archangel Avacyn
+1 Wildfire
+1 Sun Titan
+1 Plains

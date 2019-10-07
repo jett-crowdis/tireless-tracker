@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Control
+Record: 1-2
+Games: 4-4
+
+1 Azorius Signet
+1 Worn Powerstone
+1 Preordain
+1 Vendilion Clique
+1 Glorybringer
+1 Chain Lightning
+1 Jace, the Mind Sculptor
+1 Izzet Signet
+1 Tinker
+1 Mana Leak
+1 Serum Visions
+1 Myr Battlesphere
+1 Karn Liberated
+1 Saheeli, Sublime Artificer
+1 Lightning Bolt
+1 Negate
+1 Fiery Confluence
+1 Talisman of Dominance
+1 Wurmcoil Engine
+1 Condescend
+1 Sundering Titan
+1 Chandra, Torch of Defiance
+1 Tezzeret, Artifice Master
+1 Ash Barrens
+1 Fiery Islet
+1 Shelldock Isle
+1 Mishra's Factory
+7 Snow-Covered Island
+6 Snow-Covered Mountain
+
+1 Plateau
+1 Raging Ravine
+1 Sheltered Thicket
+1 Sarcomancy
+1 Wall of Omens
+1 Ashiok, Nightmare Weaver
+1 Council's Judgment
+1 Gideon of the Trials
+1 Ajani Vengeant
+1 Arcane Savant
+1 Siege-Gang Commander
+1 Diregraf Ghoul
+1 Incinerate
+1 Lightning Strike
+1 Searing Spear
+1 Wildfire
+1 Pyroclasm
+1 Memory Lapse

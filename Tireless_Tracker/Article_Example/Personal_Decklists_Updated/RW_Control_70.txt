@@ -1,0 +1,33 @@
+Colors: RW
+Archetype: Control
+Record: 1-3
+Games: 3.5-6.5
+
+12 Mountain
+2 Plains
+1 Battlefield Forge
+1 Sacred Foundry
+1 Enlightened Tutor
+1 Boros Signet
+1 Coldsteel Heart
+1 Sorcerous Spyglass
+1 Azorius Signet
+1 Izzet Signet
+1 Simic Signet
+1 Feldon of the Third Path
+1 Worn Powerstone
+1 Saheeli, Sublime Artificer
+1 Basalt Monolith
+1 Chandra, Torch of Defiance
+1 Ravages of War
+1 Fiery Confluence
+1 Moat
+1 Ajani Vengeant
+1 Daretti, Scrap Savant
+1 Walking Ballista
+1 Colossus of Ruin
+1 Chandra, Flamecaller
+1 Burning of Xinye
+1 Wildfire
+1 Myr Battlesphere
+1 Ugin, the Spirit Dragon

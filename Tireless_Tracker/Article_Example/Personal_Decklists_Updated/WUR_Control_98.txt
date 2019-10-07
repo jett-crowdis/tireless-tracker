@@ -1,0 +1,36 @@
+Colors: UWR
+Archetype: Control
+Record: 1-1
+Games: 2.5-2.5
+
+1 Irrigated Farmland
+1 Chart a Course
+1 Lyra Dawnbringer
+1 Marsh Flats
+1 Scalding Tarn
+4 Plains
+1 Flooded Strand
+1 Dream Noble
+1 Day of Judgment
+5 Island
+1 Plateau
+1 Boros Signet
+1 Everflowing Chalice
+1 Sensei's Divining Top
+1 Teferi, Hero of Dominaria
+1 Remand
+1 Coldsteel Heart
+1 Dack Fayden
+1 Torrential Gearhulk
+1 Ajani Vengeant
+1 Preordain
+1 Monastery Mentor
+1 Commence the Endgame
+1 Tezzeret, Artifice Master
+1 Brainstorm
+1 Volcanic Island
+1 Miscalculation
+1 Counterspell
+1 Dig Through Time
+1 Wrath of God
+1 Supreme Verdict

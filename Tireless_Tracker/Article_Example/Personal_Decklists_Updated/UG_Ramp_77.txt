@@ -1,0 +1,40 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 3-1
+Games: 6.5-3.5
+
+1 Llanowar Elves
+1 Preordain
+1 Utopia Sprawl
+1 Elves of Deep Shadow
+1 Birds of Paradise
+1 Elvish Mystic
+1 Miscalculation
+1 Negate
+1 Phantasmal Image
+1 Sakura-Tribe Elder
+1 Jace, Vryn's Prodigy
+1 Memory Lapse
+1 Chart a Course
+1 Dream Noble
+1 Kodama's Reach
+1 Fact or Fiction
+1 Natural Order
+1 Fractured Identity
+1 Treachery
+1 Nissa, Vital Force
+1 Plow Under
+1 Vivien Reid
+1 Primeval Titan
+1 Hornet Queen
+1 Irrigated Farmland
+1 Yavimaya Coast
+1 Breeding Pool
+1 Tropical Island
+1 Shelldock Isle
+1 Gaea's Cradle
+1 Ancient Tomb
+1 Misty Rainforest
+5 Forest
+2 Island
+1 Plains

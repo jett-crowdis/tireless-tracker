@@ -1,0 +1,37 @@
+Colors: GW
+Archetype: Aggro
+Record: 3-1
+Games: 6.5-3.5
+
+1 Noble Hierarch
+1 Sinhama, the Emminent
+1 Steppe Lynx
+1 Reckless Pride
+1 Joraga Treespeaker
+1 Mirror Entity
+1 Isamaru, Hound of Konda
+1 Tireless Tracker
+1 Enlisting Nomads
+1 Surrak, the Hunt Caller
+1 Cast Out
+1 Pride Sovereign
+1 Hero of Bladehold
+1 Council's Judgment
+1 Sunshell Cavaliers
+1 Porcelain Legionnaire
+1 Ravenous Lumberknot
+1 Angel of Invention
+1 Adorned Pouncer
+1 Brimaz, King of Oreskos
+1 Deranged Hermit
+1 Knight of the Masses
+1 Mox Diamond
+1 Mother of Runes
+1 Ravages of War
+1 Savannah
+1 Temple Garden
+1 Paliano, the High City
+1 Horizon Canopy
+1 Windswept Heath
+5 Forest
+5 Plains

@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Talisman of Creativity
+1 Walking Ballista
+1 Cavalier of Gales
+1 Angel of Sanctions
+1 Winds of Abandon
+1 Watcher for Tomorrow
+1 Path to Exile
+1 Preordain
+1 Fact or Fiction
+1 Moat
+1 Restoration Angel
+1 Kitchen Finks
+1 Elspeth, Knight-Errant
+1 Teferi, Hero of Dominaria
+1 Grim Monolith
+1 Ponder
+1 Serra the Benevolent
+1 Day of Judgment
+1 Consecrated Sphinx
+1 True-Name Nemesis
+1 Wrath of God
+1 Unexpectedly Absent
+1 Celestial Colonnade
+1 Flooded Strand
+1 Elspeth, Sun's Champion
+1 Irrigated Farmland
+1 Prismatic Vista
+1 Chrome Mox
+6 Snow-Covered Island
+6 Snow-Covered Plains
+
+1 Lavaclaw Reaches
+1 Taiga
+1 Bloodsoaked Champion
+1 Dark Confidant
+1 Scavenging Ooze
+1 Dismember
+1 Spawn of Mayhem
+1 Sundering Titan
+1 Through the Breach
+1 Vivien Reid
+1 Hazoret the Fervent
+1 Treasure Cruise
+1 Flickerwisp
+1 Merfolk Looter
+1 Scour All Possibilities
+1 Supreme Verdict
+1 Archangel Avacyn

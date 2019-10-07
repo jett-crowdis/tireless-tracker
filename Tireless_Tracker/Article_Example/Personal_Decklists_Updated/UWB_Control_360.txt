@@ -1,0 +1,54 @@
+Colors: UWB
+Archetype: Control
+Record: 1-2
+Games: 4-5
+
+1 Mana Drain
+1 Worn Powerstone
+1 Glen Elendra Archmage
+1 Talisman of Dominance
+1 Mulldrifter
+1 Dig Through Time
+1 Vedalken Shackles
+1 Night's Whisper
+1 The Scarab God
+1 Solemn Simulacrum
+1 Teferi, Hero of Dominaria
+1 Torrential Gearhulk
+1 Path to Exile
+1 Upheaval
+1 Doom Blade
+1 Talisman of Creativity
+1 Lingering Souls
+1 Ugin, the Spirit Dragon
+1 Mox Diamond
+1 Karn, Scion of Urza
+1 Duress
+1 Thran Dynamo
+1 Toxic Deluge
+1 Ash Barrens
+1 Hallowed Fountain
+1 Marsh Flats
+1 Scrubland
+1 Silent Clearing
+1 Watery Grave
+6 Snow-Covered Island
+1 Snow-Covered Swamp
+4 Snow-Covered Plains
+
+1 Bayou
+1 Lightning Helix
+1 Whipflare
+1 Jadelight Ranger
+1 Flickerwisp
+1 Kalitas, Traitor of Ghet
+1 Spawn of Mayhem
+1 Sorin, Lord of Innistrad
+1 Zealous Conscripts
+1 Cavalier of Gales
+1 Nurturing Peatland
+1 Oath of Druids
+1 Carnage Tyrant
+1 Hymn to Tourach
+1 Control Magic
+1 Palace Jailer

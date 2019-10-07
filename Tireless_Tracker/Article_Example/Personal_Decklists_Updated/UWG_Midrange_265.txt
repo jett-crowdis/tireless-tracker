@@ -1,0 +1,54 @@
+Colors: UWG
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-1
+
+1 Opposition
+1 Hexdrinker
+1 Sakura-Tribe Elder
+1 Paradise Druid
+1 Jadelight Ranger
+1 Sword of Truth and Justice
+1 Lotus Cobra
+1 Fyndhorn Elves
+1 Utopia Sprawl
+1 Carnage Tyrant
+1 Ugin, the Spirit Dragon
+1 Primeval Titan
+1 Nightpack Ambusher
+1 Joraga Treespeaker
+1 Phyrexian Metamorph
+1 Noble Hierarch
+1 Smuggler's Copter
+1 Craterhoof Behemoth
+1 Trostani Discordant
+1 Arbor Elf
+1 Garruk, Primal Hunter
+1 Sylvan Caryatid
+1 Wild Growth
+1 Survival of the Fittest
+1 Breeding Pool
+1 Horizon Canopy
+1 Lumbering Falls
+1 Temple Garden
+1 Windswept Heath
+3 Snow-Covered Island
+1 Snow-Covered Plains
+7 Snow-Covered Forest
+
+1 Sarcomancy
+1 Bomat Courier
+1 Student of Warfare
+1 Vivien's Arkbow
+1 Justice Strike
+1 Pernicious Deed
+1 Blast from the Past
+1 Legion Warboss
+1 Lingering Souls
+1 Hedron Archive
+1 Thran Dynamo
+1 Domri, Chaos Bringer
+1 Hero of Bladehold
+1 Sarkhan the Masterless
+1 Archangel Avacyn
+1 Fireblast

@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Palace Jailer
+1 Elspeth, Knight-Errant
+1 Solemn Simulacrum
+1 Serra the Benevolent
+1 Moat
+1 Treasure Cruise
+1 Narset, Parter of Veils
+1 Mana Leak
+1 Condescend
+1 Mystic Confluence
+1 Wrath of God
+1 Wall of Omens
+1 Oblivion Ring
+1 Memory Lapse
+1 Mana Drain
+1 Teferi, Time Raveler
+1 Miscalculation
+1 Force of Will
+1 Ponder
+1 Mulldrifter
+1 Condemn
+1 Bribery
+1 Gideon Jura
+1 Celestial Colonnade
+1 Ancient Tomb
+1 Hallowed Fountain
+1 Shelldock Isle
+1 Tundra
+6 Snow-Covered Island
+6 Snow-Covered Plains
+
+1 Bayou
+1 City of Brass
+1 Sheltered Thicket
+1 Hangarback Walker
+1 Carnophage
+1 Mystical Tutor
+1 Figure of Destiny
+1 Tidehollow Sculler
+1 Arcane Artisan
+1 Knight of Autumn
+1 Maelstrom Pulse
+1 Flickerwisp
+1 Lingering Souls
+1 Sorin, Lord of Innistrad
+1 Xenagos, the Reveler
+1 Hazoret the Fervent
+1 Fetid Pools

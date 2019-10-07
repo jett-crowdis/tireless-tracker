@@ -1,0 +1,38 @@
+Colors: UGW
+Archetype: Midrange
+Record: 1-1
+Games: 3-2
+
+1 Knight of Autumn
+1 Trostani Discordant
+1 Dig Through Time
+1 Deep Forest Hermit
+1 Sylvan Library
+1 Brainstorm
+1 Wall of Roots
+1 Paradise Druid
+1 Nissa, Voice of Zendikar
+1 Joraga Treespeaker
+1 Talisman of Curiosity
+1 Opposition
+1 Tireless Tracker
+1 Serum Visions
+1 Mox Diamond
+1 Biogenic Ooze
+1 Kodama's Reach
+1 Carnage Tyrant
+1 Primeval Titan
+1 Craterhoof Behemoth
+1 Lotus Cobra
+1 Dream Noble
+1 Fact or Fiction
+1 Windswept Heath
+1 Scalding Tarn
+1 Taiga
+1 Treetop Village
+1 Shelldock Isle
+1 Horizon Canopy
+1 Temple Garden
+5 Snow-Covered Island
+1 Snow-Covered Plains
+4 Snow-Covered Forest

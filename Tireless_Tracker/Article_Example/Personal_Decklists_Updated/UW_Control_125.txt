@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Grim Monolith
+1 Boros Signet
+1 Everflowing Chalice
+1 Saheeli, Sublime Artificer
+1 Preordain
+1 Gideon Jura
+1 Supreme Verdict
+1 Elspeth, Sun's Champion
+1 Vedalken Shackles
+1 Wrath of God
+1 Basalt Monolith
+1 Ugin, the Spirit Dragon
+1 Upheaval
+1 Cryptic Command
+1 Tezzeret, Artifice Master
+1 Teferi, Hero of Dominaria
+1 Callous Dismissal
+1 Karn, Scion of Urza
+1 Memory Lapse
+1 Mana Drain
+1 Izzet Signet
+1 Ponder
+1 Venser, Shaper Savant
+1 Palace Jailer
+1 Tundra
+1 Shelldock Isle
+1 Polluted Delta
+1 Celestial Colonnade
+1 Chrome Mox
+6 Island
+5 Plains
+
+1 Mana Confluence
+1 Shivan Reef
+1 Volrath's Stronghold
+1 Rolling Earthquake
+1 Dreadbore
+1 Finale of Glory
+1 Tithe Taker
+1 Necromancy
+1 Daretti, Ingenious Iconoclast
+1 Brimaz, King of Oreskos
+1 Gideon Blackblade
+1 Hostage Taker
+1 Liliana, Death's Majesty
+1 Shriekmaw
+1 Nicol Bolas, God-Pharaoh
+1 Elesh Norn, Grand Cenobite

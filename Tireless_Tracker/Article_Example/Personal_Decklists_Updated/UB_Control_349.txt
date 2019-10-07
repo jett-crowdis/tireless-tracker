@@ -1,0 +1,54 @@
+Colors: UB
+Archetype: Control
+Record: 0-3
+Games: 1-6
+
+1 Talisman of Conviction
+1 Fact or Fiction
+1 Grave Titan
+1 Cavalier of Gales
+1 Fatal Push
+1 Ashiok, Nightmare Weaver
+1 Damnation
+1 Pack Rat
+1 Inquisition of Kozilek
+1 True-Name Nemesis
+1 Dig Through Time
+1 Coldsteel Heart
+1 Force of Will
+1 Liliana of the Veil
+1 Hymn to Tourach
+1 Remand
+1 Brain Maggot
+1 Talisman of Creativity
+1 Toxic Deluge
+1 Chart a Course
+1 Will Kenrith
+1 Dismember
+1 Basalt Monolith
+1 Venser, Shaper Savant
+1 Creeping Tar Pit
+1 Scalding Tarn
+1 Watery Grave
+7 Snow-Covered Swamp
+5 Snow-Covered Island
+1 Fiery Islet
+
+1 Badlands
+1 Wooded Foothills
+1 Bloodsoaked Champion
+1 Dread Wanderer
+1 Sarcomancy
+1 Goblin Guide
+1 Monastery Swiftspear
+1 Bloodghast
+1 Justice Strike
+1 Drana, Liberator of Malakir
+1 Arc Lightning
+1 Hanweir Garrison
+1 Wheel of Fortune
+1 Ravenous Chupacabra
+1 Day of Judgment
+1 Thundermaw Hellkite
+1 Ophiomancer
+1 Island

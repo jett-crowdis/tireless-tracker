@@ -1,0 +1,53 @@
+Colors: UWB
+Archetype: Control
+Record: 2-1
+Games: 4-3
+
+1 Balance
+1 Azorius Signet
+1 Supreme Verdict
+1 Monastery Mentor
+1 Consecrated Sphinx
+1 Spell Pierce
+1 Day of Judgment
+1 Talisman of Dominance
+1 Grim Monolith
+1 Ashiok, Nightmare Weaver
+1 Talisman of Conviction
+1 Snapcaster Mage
+1 Vedalken Shackles
+1 Finale of Glory
+1 Jace, the Mind Sculptor
+1 Elspeth, Sun's Champion
+1 Treachery
+1 Teferi, Hero of Dominaria
+1 Phyrexian Metamorph
+1 Chart a Course
+1 Sundering Titan
+1 Sphinx of the Steel Wind
+1 Tinker
+1 Irrigated Farmland
+1 Scalding Tarn
+1 Silent Clearing
+1 Underground Sea
+1 Chrome Mox
+6 Snow-Covered Plains
+6 Snow-Covered Island
+
+1 Horizon Canopy
+1 Lumbering Falls
+1 Temple Garden
+1 Enlightened Tutor
+1 Tithe Taker
+1 Show and Tell
+1 Grafted Wargear
+1 Krenko, Tin Street Kingpin
+1 Brimaz, King of Oreskos
+1 Gideon of the Trials
+1 Angel of Invention
+1 Angel of Sanctions
+1 Archangel Avacyn
+1 Craterhoof Behemoth
+1 Will Kenrith
+1 Callous Dismissal
+1 Mana Confluence

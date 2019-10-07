@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Midrange
+Record: 2-1
+Games: 5-3
+
+1 Ponder
+1 Narset, Parter of Veils
+1 Vedalken Shackles
+1 Spell Pierce
+1 Force of Will
+1 Sarkhan the Masterless
+1 Phantasmal Image
+1 Rolling Earthquake
+1 Jace Beleren
+1 Mu Yanling, Sky Dancer
+1 Memory Lapse
+1 Preordain
+1 Glen Elendra Archmage
+1 Tezzeret, Artifice Master
+1 Watcher for Tomorrow
+1 Coldsteel Heart
+1 Looter il-Kor
+1 Chandra, Flamecaller
+1 Burst Lightning
+1 Pyroclasm
+1 Magma Jet
+1 Dack Fayden
+1 Chandra, Torch of Defiance
+1 Bloodstained Mire
+1 Volcanic Island
+8 Snow-Covered Mountain
+7 Snow-Covered Island
+
+1 Blast Zone
+1 Blood Crypt
+1 Sulfurous Springs
+1 Hangarback Walker
+1 Fatal Push
+1 Student of Warfare
+1 Bitterblossom
+1 Justice Strike
+1 Dismissive Pyromancer
+1 Goblin Cratermaker
+1 Daretti, Ingenious Iconoclast
+1 Knight of Autumn
+1 Goblin Rabblemaster
+1 Legion Warboss
+1 Banishing Light
+1 Shriekmaw
+1 Batterskull
+1 Garruk, Primal Hunter
+1 Through the Breach
+1 Thundermaw Hellkite

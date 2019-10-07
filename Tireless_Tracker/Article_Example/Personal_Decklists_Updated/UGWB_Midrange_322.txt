@@ -1,0 +1,56 @@
+Colors: UGWB
+Archetype: Midrange
+Record: 2-1
+Games: 5-4
+
+1 Teferi, Time Raveler
+1 Kodama's Reach
+1 Primeval Titan
+1 Sakura-Tribe Elder
+1 Opposition
+1 Nissa, Voice of Zendikar
+1 Recurring Nightmare
+1 Biogenic Ooze
+1 Trostani Discordant
+1 Garruk Relentless
+1 Mulldrifter
+1 Solemn Simulacrum
+1 Gideon, Ally of Zendikar
+1 Sword of Fire and Ice
+1 Jace, the Mind Sculptor
+1 Sylvan Library
+1 Birds of Paradise
+1 Condemn
+1 Deep Forest Hermit
+1 Tidehollow Sculler
+1 Kitesail Freebooter
+1 Garruk Wildspeaker
+1 Angel of Invention
+1 Hallowed Fountain
+1 Misty Rainforest
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Scalding Tarn
+1 Temple Garden
+1 Tropical Island
+1 Tundra
+1 Verdant Catacombs
+1 Windswept Heath
+2 Snow-Covered Island
+1 Snow-Covered Plains
+3 Snow-Covered Forest
+1 Snow-Covered Swamp
+
+1 Godless Shrine
+1 Mana Confluence
+1 Plateau
+1 Raging Ravine
+1 Carnophage
+1 Everflowing Chalice
+1 Control Magic
+1 Batterskull
+1 Plow Under
+1 Siege-Gang Commander
+1 Carnage Tyrant
+1 Ajani Vengeant
+1 Plains

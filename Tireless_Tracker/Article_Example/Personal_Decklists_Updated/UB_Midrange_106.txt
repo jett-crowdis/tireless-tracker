@@ -1,0 +1,57 @@
+Colors: UB
+Archetype: Midrange
+Record: 0-3
+Games: 1-6
+
+1 Champion of Wits
+1 Serum Visions
+1 Life // Death
+1 Entomb
+1 Dimir Signet
+1 Snapcaster Mage
+1 Baleful Strix
+1 Griselbrand
+1 Jace, Vryn's Prodigy
+1 Mesmeric Fiend
+1 Night's Whisper
+1 Mulldrifter
+1 Sower of Temptation
+1 Toxic Deluge
+1 Bribery
+1 The Scarab God
+1 Go for the Throat
+1 Dance of the Dead
+1 Imperial Seal
+1 Merfolk Looter
+1 Miscalculation
+1 Compulsive Research
+1 Grave Titan
+1 Verdant Catacombs
+1 Watery Grave
+1 Creeping Tar Pit
+1 Ash Barrens
+1 Island
+2 Island
+3 Island
+2 Swamp
+2 Swamp
+3 Swamp
+
+1 Unexpectedly Absent
+1 Anguished Unmaking
+1 Sun Titan
+1 Sphinx of the Steel Wind
+1 Tezzeret, Artifice Master
+1 Fiery Confluence
+1 Feldon of the Third Path
+1 Vedalken Shackles
+1 Izzet Charm
+1 Diregraf Ghoul
+1 Overgrown Tomb
+1 Inquisition of Kozilek
+1 Brain Maggot
+1 Doom Blade
+1 Basalt Monolith
+1 Custodi Lich
+1 Thirst for Knowledge
+1 Arcane Artisan

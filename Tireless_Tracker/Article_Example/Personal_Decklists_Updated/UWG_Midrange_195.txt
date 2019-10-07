@@ -1,0 +1,54 @@
+Colors: UWG
+Archetype: Midrange
+Record: 2-1
+Games: 5-3
+
+1 Opposition
+1 Brimaz, King of Oreskos
+1 Archangel Avacyn
+1 Fractured Identity
+1 Serra the Benevolent
+1 Secure the Wastes
+1 Angel of Invention
+1 Mystic Confluence
+1 Vendilion Clique
+1 Condemn
+1 Blade Splicer
+1 Mardu Woe-Reaper
+1 Wall of Omens
+1 Sword of Truth and Justice
+1 Oblivion Ring
+1 Lyra Dawnbringer
+1 Remorseful Cleric
+1 Kitchen Finks
+1 Recruiter of the Guard
+1 Skullclamp
+1 Hero of Bladehold
+1 Knight of Autumn
+1 Hydroid Krasis
+1 Breeding Pool
+1 City of Brass
+1 Flooded Strand
+1 Misty Rainforest
+1 Prismatic Vista
+1 Savannah
+1 Scalding Tarn
+1 Tropical Island
+1 Windswept Heath
+5 Plains
+3 Island
+
+1 Carnophage
+1 Bitterblossom
+1 Izzet Signet
+1 Fauna Shaman
+1 Vivien's Arkbow
+1 Earthshaker Khenra
+1 Drana, Liberator of Malakir
+1 Vedalken Shackles
+1 Domri, Anarch of Bolas
+1 Kalitas, Traitor of Ghet
+1 Moat
+1 Garruk, Primal Hunter
+1 Hornet Queen
+2 Forest

@@ -1,0 +1,54 @@
+Colors: URGB
+Archetype: Control_Combo
+Record: 2-1
+Games: 4-2
+
+1 Izzet Signet
+1 Bribery
+1 Sarkhan the Masterless
+1 Izzet Charm
+1 Oath of Druids
+1 Vivien Reid
+1 Pernicious Deed
+1 Emrakul, the Aeons Torn
+1 Channel
+1 Kodama's Reach
+1 Inferno Titan
+1 Chain Lightning
+1 Maelstrom Pulse
+1 Fiery Confluence
+1 Garruk, Primal Hunter
+1 Ponder
+1 Mind Twist
+1 Emrakul, the Promised End
+1 Chandra, Torch of Defiance
+1 Sneak Attack
+1 Ilharg, the Raze-Boar
+1 Burst Lightning
+1 Woodfall Primus
+1 Badlands
+1 Bayou
+1 Lumbering Falls
+1 Nurturing Peatland
+1 Prismatic Vista
+1 Raging Ravine
+1 Sheltered Thicket
+1 Stomping Ground
+1 Verdant Catacombs
+1 Wooded Foothills
+2 Snow-Covered Island
+2 Snow-Covered Forest
+3 Snow-Covered Mountain
+
+1 Plateau
+1 Avacyn's Pilgrim
+1 Wall of Blossoms
+1 Goblin Cratermaker
+1 Imposing Sovereign
+1 Xenagos, the Reveler
+1 Flametongue Kavu
+1 Hazoret the Fervent
+1 Sphinx of the Steel Wind
+1 Primeval Titan
+1 Koth of the Hammer
+1 Dragonlord Atarka

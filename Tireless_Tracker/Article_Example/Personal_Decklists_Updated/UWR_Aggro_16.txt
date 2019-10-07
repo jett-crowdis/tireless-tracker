@@ -1,0 +1,39 @@
+Colors: UWR
+Archetype: Aggro
+Record: 1-2
+Games: 3.0-4.5
+
+1 Territorial Hellkite
+1 Abbot of Keral Keep
+1 Grim Lavamancer
+1 Monastery Swiftspear
+1 Pyroclasm
+1 Incinerate
+1 Young Pyromancer
+1 Searing Spear
+1 Firebolt
+1 Arc Trail
+1 Impulse
+1 Jace Beleren
+1 Remand
+1 Arcane Denial
+1 Thirst for Knowledge
+1 Compulsive Research
+1 Ponder
+1 Control Magic
+1 Monastery Mentor
+1 Council's Judgment
+1 Path to Exile
+1 Wrath of God
+1 Rift Chronicler
+1 Mox Diamond
+3 Plains
+4 Mountain
+2 Island
+1 Wasteland
+1 City of Brass
+1 Plateau
+1 Flooded Strand
+1 Polluted Delta
+1 Sacred Foundry
+1 Steam Vents

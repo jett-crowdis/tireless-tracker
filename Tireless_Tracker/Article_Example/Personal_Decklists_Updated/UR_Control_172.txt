@@ -1,0 +1,55 @@
+Colors: UR
+Archetype: Control_Combo
+Record: 3-0
+Games: 6-1
+
+1 Mana Drain
+1 Talisman of Creativity
+1 Sundering Titan
+1 Talisman of Conviction
+1 Gilded Lotus
+1 Basalt Monolith
+1 Walking Ballista
+1 Wheel of Fortune
+1 Ilharg, the Raze-Boar
+1 Mana Leak
+1 Inferno Titan
+1 Everflowing Chalice
+1 Emrakul, the Aeons Torn
+1 Thran Dynamo
+1 Vampiric Tutor
+1 Upheaval
+1 Mystic Confluence
+1 Counterspell
+1 Sneak Attack
+1 Thirst for Knowledge
+1 Grim Monolith
+1 Saheeli, the Gifted
+1 Mystical Tutor
+1 Dack Fayden
+1 Mana Confluence
+1 Chrome Mox
+1 Underground Sea
+1 Misty Rainforest
+5 Mountain
+7 Island
+
+1 Stomping Ground
+1 Flametongue Kavu
+1 Wickerbough Elder
+1 Sower of Temptation
+1 God-Eternal Kefnet
+1 Nekrataal
+1 Braids, Cabal Minion
+1 Pernicious Deed
+1 Reclamation Sage
+1 Sylvan Library
+1 Survival of the Fittest
+1 Hangarback Walker
+1 Blightsteel Colossus
+1 Griselbrand
+1 Callous Dismissal
+1 Remand
+1 Searing Spear
+1 Island
+1 Mountain

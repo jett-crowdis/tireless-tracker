@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 3-0
+Games: 6-2
+
+1 Chandra, Torch of Defiance
+1 Searing Spear
+1 Chain Lightning
+1 Jackal Pup
+1 Goblin Rabblemaster
+1 Fireblast
+1 Stormblood Berserker
+1 Experimental Frenzy
+1 Incinerate
+1 Winter Orb
+1 Legion Warboss
+1 Grim Lavamancer
+1 Abrade
+1 Firebolt
+1 Fiery Confluence
+1 Monastery Swiftspear
+1 Zurgo Bellstriker
+1 Hazoret the Fervent
+1 Sulfuric Vortex
+1 Sword of Fire and Ice
+1 Territorial Hellkite
+1 Tangle Wire
+1 Rishadan Port
+1 Wasteland
+1 Mox Diamond
+15 Mountain
+
+1 Reanimate
+1 Callous Dismissal
+1 Worn Powerstone
+1 Through the Breach
+1 Sarkhan, the Dragonspeaker
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Aeons Torn
+1 Shivan Reef
+1 Sulfurous Springs
+1 Battlefield Forge
+1 Diregraf Ghoul
+1 Oona's Prowler
+1 Toxic Deluge
+1 Mimic Vat
+1 Feldon of the Third Path
+1 Armageddon
+1 Vivien Reid
+1 Sarcomancy
+1 Control Magic
+1 Zealous Conscripts

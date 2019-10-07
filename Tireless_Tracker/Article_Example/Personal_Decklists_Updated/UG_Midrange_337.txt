@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Upheaval
+1 Elvish Mystic
+1 Ice-Fang Coatl
+1 Garruk, Primal Hunter
+1 Glen Elendra Archmage
+1 Hydroid Krasis
+1 Thrun, the Last Troll
+1 Llanowar Elves
+1 Treachery
+1 Garruk Relentless
+1 Sakura-Tribe Elder
+1 Compulsive Research
+1 Overgrowth
+1 Eternal Witness
+1 Survival of the Fittest
+1 Nissa, Voice of Zendikar
+1 Jace, the Mind Sculptor
+1 Birds of Paradise
+1 Avacyn's Pilgrim
+1 Opposition
+1 Solemn Simulacrum
+1 Sylvan Caryatid
+1 Thragtusk
+1 Nissa, Steward of Elements
+1 Breeding Pool
+1 Flooded Strand
+1 Tropical Island
+1 Waterlogged Grove
+5 Snow-Covered Island
+7 Snow-Covered Forest
+
+1 Bayou
+1 Horizon Canopy
+1 Nurturing Peatland
+1 Supreme Verdict
+1 Custodi Lich
+1 Shriekmaw
+1 Ancient Stone Idol
+1 Torrential Gearhulk
+1 Mutavault
+1 Entomb
+1 Callous Dismissal
+1 Arcane Artisan
+1 Show and Tell
+1 Elesh Norn, Grand Cenobite
+1 Cavalier of Gales
+1 Harmonize
+1 Hornet Queen

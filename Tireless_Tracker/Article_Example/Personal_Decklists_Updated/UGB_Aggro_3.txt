@@ -1,0 +1,40 @@
+Colors: UGB
+Archetype: Aggro
+Record: 1-1
+Games: 2.5-2.5
+
+1 Rancor
+1 Bonesplitter
+1 Noble Hierarch
+1 Deathrite Shaman
+1 Mana Drain
+1 Arcane Denial
+1 Tarmogoyf
+1 Go for the Throat
+1 Umezawa's Jitte
+1 Sinhama, the Emminent
+1 Smuggler's Copter
+1 Edric, Spymaster of Trest
+1 Brutal Negator
+1 True-Name Nemesis
+1 Sword of War and Peace
+1 Rishkar, Peema Renegade
+1 Ammit Eternal
+1 Grafted Wargear
+1 Imprisoned in the Moon
+1 Song of the Dryads
+1 Fleetwheel Cruiser
+1 Whirler Rogue
+1 Surrak, the Hunt Caller
+1 Cryptic Command
+1 Polluted Delta
+1 Tropical Island
+1 City of Brass
+1 Verdant Catacombs
+1 Flooded Strand
+1 Wooded Foothills
+1 Underground Sea
+1 Rishadan Port
+1 Breeding Pool
+3 Island
+4 Forest

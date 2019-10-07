@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange
+Record: 1-2
+Games: 4-5
+
+1 Mana Drain
+1 Chart a Course
+1 Sundering Titan
+1 Hymn to Tourach
+1 Grave Titan
+1 The Scarab God
+1 Liliana, the Last Hope
+1 Imperial Seal
+1 Glen Elendra Archmage
+1 Baleful Strix
+1 Torrential Gearhulk
+1 Ashiok, Nightmare Weaver
+1 Thirst for Knowledge
+1 Go for the Throat
+1 Entomb
+1 Animate Dead
+1 Jace, Vryn's Prodigy
+1 Duress
+1 Languish
+1 Narset, Parter of Veils
+1 Dance of the Dead
+1 Memory Lapse
+1 Champion of Wits
+1 Bloodstained Mire
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Underground Sea
+7 Swamp
+6 Island
+
+1 Bayou
+1 Blood Crypt
+1 Godless Shrine
+1 Llanowar Wastes
+1 Steam Vents
+1 Dread Wanderer
+1 Bonesplitter
+1 Student of Warfare
+1 Paradise Druid
+1 Survival of the Fittest
+1 Izzet Charm
+1 Anguished Unmaking
+1 Hellrider
+1 Tezzeret, Artifice Master
+1 Teferi, Hero of Dominaria
+1 Hero's Downfall
+1 Mesmeric Fiend
+1 Negate

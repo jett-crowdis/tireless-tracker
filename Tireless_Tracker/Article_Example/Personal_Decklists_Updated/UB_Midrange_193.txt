@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 3-5
+
+1 Tinker
+1 Counterspell
+1 Myr Battlesphere
+1 Everflowing Chalice
+1 Mystical Tutor
+1 Sundering Titan
+1 Looter il-Kor
+1 Griselbrand
+1 Thirst for Knowledge
+1 Consecrated Sphinx
+1 Azorius Signet
+1 Entomb
+1 Animate Dead
+1 Talisman of Conviction
+1 Tezzeret, Artifice Master
+1 Batterskull
+1 Merfolk Looter
+1 Jace, the Mind Sculptor
+1 Duress
+1 Imperial Seal
+1 Dance of the Dead
+1 Will Kenrith
+1 Inquisition of Kozilek
+1 Mana Confluence
+9 Snow-Covered Island
+7 Snow-Covered Swamp
+
+1 Celestial Colonnade
+1 Overgrown Tomb
+1 Terastodon
+1 Wrath of God
+1 Gonti, Lord of Luxury
+1 Wheel of Fortune
+1 Jadelight Ranger
+1 Eternal Witness
+1 Narset, Parter of Veils
+1 Hero's Downfall
+1 Balance
+1 Pyroclasm
+1 Show and Tell
+1 Justice Strike
+1 Wall of Blossoms
+1 Channel
+1 Taiga
+1 Silent Clearing
+1 Sacred Foundry
+1 Inferno Titan
+1 Ancient Stone Idol

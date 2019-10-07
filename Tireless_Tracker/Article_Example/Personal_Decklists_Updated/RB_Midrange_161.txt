@@ -1,0 +1,52 @@
+Colors: RB
+Archetype: Midrange_Reanimator
+Record: 3-0
+Games: 6-2
+
+1 Animate Dead
+1 Seasoned Pyromancer
+1 Griselbrand
+1 Wheel of Fortune
+1 Oona's Prowler
+1 Ilharg, the Raze-Boar
+1 Kolaghan's Command
+1 Dreadbore
+1 Sneak Attack
+1 Emrakul, the Aeons Torn
+1 Worn Powerstone
+1 Pack Rat
+1 Damnation
+1 Necromancy
+1 Duress
+1 Ulamog, the Ceaseless Hunger
+1 Mind Stone
+1 Demonic Tutor
+1 Dance of the Dead
+1 Sundering Titan
+1 Vampiric Tutor
+1 Reanimate
+1 Blightsteel Colossus
+1 Badlands
+1 Ash Barrens
+1 Blood Crypt
+1 Sulfurous Springs
+7 Mountain
+6 Swamp
+
+1 Bayou
+1 Scrubland
+1 Sensei's Divining Top
+1 Bitterblossom
+1 Stoneforge Mystic
+1 Hero's Downfall
+1 Legion Warboss
+2 Braids, Cabal Minion
+1 Thrun, the Last Troll
+1 Hazoret the Fervent
+1 Liliana, Death's Majesty
+1 Dragonlord Atarka
+1 Inferno Titan
+1 Languish
+1 Daretti, Ingenious Iconoclast
+1 Brain Maggot
+1 Mesmeric Fiend

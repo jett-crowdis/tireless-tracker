@@ -1,0 +1,38 @@
+Colors: UGB
+Archetype: Midrange
+Record: 1-1
+Games: 2.5-2.5
+
+2 Island
+7 Forest
+1 Swamp
+1 Joraga Treespeaker
+1 Primeval Titan
+1 Dismember
+1 Elvish Mystic
+1 Overgrown Tomb
+1 Treetop Village
+1 Nissa, Vital Force
+1 Mind Twist
+1 Noble Hierarch
+1 Master of the Wild Hunt
+1 Sword of Fire and Ice
+1 City of Brass
+1 Lumbering Falls
+1 Polluted Delta
+1 Prismatic Lens
+1 Llanowar Elves
+1 Nissa, Steward of Elements
+1 Acidic Slime
+1 Terastodon
+1 Go for the Throat
+1 Prismatic Vista
+1 Garruk Relentless
+1 Mox Diamond
+1 Utopia Sprawl
+1 Overgrowth
+1 Song of the Dryads
+1 Sylvan Caryatid
+1 Wall of Roots
+1 Hydroid Krasis
+1 Fyndhorn Elves

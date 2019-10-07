@@ -1,0 +1,40 @@
+Colors: UWB
+Archetype: Aggro
+Record: 1-2
+Games: 3.0-4.5
+
+1 Student of Warfare
+1 Kytheon, Hero of Akros
+1 Skullclamp
+1 Knight of the Masses
+1 Hymn to Tourach
+1 Miscalculation
+1 Diabolic Edict
+1 Adorned Pouncer
+1 Looter il-Kor
+1 Bitterblossom
+1 Stoneforge Mystic
+1 Phantasmal Image
+1 Defiant Subverter
+1 Soul Shudder
+1 Porcelain Legionnaire
+1 Vendilion Clique
+1 Thalia, Heretic Cathar
+1 Compulsive Research
+1 Mirror Entity
+1 Ammit Eternal
+1 Sword of Feast and Famine
+1 Jace, the Mind Sculptor
+1 Azorius Signet
+1 Grand Coliseum
+1 Arid Mesa
+1 Irrigated Farmland
+1 Mox Diamond
+1 City of Brass
+1 Bloodstained Mire
+1 Watery Grave
+1 Hallowed Fountain
+1 Godless Shrine
+2 Swamp
+4 Plains
+2 Island

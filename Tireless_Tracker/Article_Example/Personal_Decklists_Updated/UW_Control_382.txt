@@ -1,0 +1,33 @@
+Colors: UW
+Archetype: Control
+Record: 0-3
+Games: 2-6
+
+1 Unexpectedly Absent
+1 Path to Exile
+1 Swords to Plowshares
+1 Council's Judgment
+1 Oblivion Ring
+1 Winds of Abandon
+1 Wall of Omens
+1 Palace Jailer
+1 Gideon, Ally of Zendikar
+1 Restoration Angel
+1 Monastery Mentor
+1 Elspeth, Sun's Champion
+1 Counterspell
+1 Brainstorm
+1 Preordain
+1 Jace, Vryn's Prodigy
+1 Miscalculation
+1 Coalition Relic
+1 Snapcaster Mage
+1 Supreme Verdict
+1 Fractured Identity
+1 Teferi, Hero of Dominaria
+1 Sunbaked Canyon
+1 Fiery Islet
+1 Celestial Colonnade
+1 Hallowed Fountain
+7 Snow-Covered Plains
+6 Snow-Covered Island

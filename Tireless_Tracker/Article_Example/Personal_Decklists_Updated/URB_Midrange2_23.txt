@@ -1,0 +1,37 @@
+Colors: URB
+Archetype: Midrange
+Record: 0-3
+Games: 1.5-6.0
+
+1 Dack Fayden
+1 Glen Elendra Archmage
+1 Force Spike
+1 Hymn to Tourach
+1 Flametongue Kavu
+1 Vampire Nighthawk
+1 Daretti, Ingenious Iconoclast
+1 Dark Confidant
+1 Damnation
+1 Thoughtseize
+1 Kalitas, Traitor of Ghet
+1 Umezawa's Jitte
+1 Blightwalker
+1 Toxic Deluge
+1 Dreadbore
+1 Ashiok, Nightmare Weaver
+1 Inquisition of Kozilek
+1 Hero's Downfall
+1 Doom Blade
+1 Pack Rat
+1 Mana Leak
+1 Snapcaster Mage
+1 Deathrite Shaman
+1 Watery Grave
+1 Misty Rainforest
+1 Steam Vents
+1 Volcanic Island
+1 Badlands
+3 Island
+7 Swamp
+1 Mountain
+1 Gemstone Mine

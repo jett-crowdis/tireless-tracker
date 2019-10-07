@@ -1,0 +1,33 @@
+Colors: GR
+Archetype: Midrange_Ramp
+Record: 4-3
+Games: 9.5-8.0
+
+1 Green Sun's Zenith
+1 Fyndhorn Elves
+1 Wild Growth
+1 Utopia Sprawl
+1 Noble Hierarch
+1 Elves of Deep Shadow
+1 Birds of Paradise
+1 Vivien's Arkbow
+1 Paradise Druid
+1 Fauna Shaman
+1 Channel
+1 Wheel of Fortune
+1 Reclamation Sage
+1 Garruk Wildspeaker
+1 Sneak Attack
+1 Thran Dynamo
+1 Natural Order
+1 Plow Under
+1 Biogenic Ooze
+1 Vivien Reid
+1 Woodfall Primus
+1 Karn Liberated
+1 Craterhoof Behemoth
+1 Emrakul, the Aeons Torn
+1 Raging Ravine
+1 Sheltered Thicket
+12 Forest
+2 Mountain

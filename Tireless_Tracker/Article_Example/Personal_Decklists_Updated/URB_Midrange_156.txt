@@ -1,0 +1,55 @@
+Colors: UBR
+Archetype: Midrange
+Record: 2-1
+Games: 4-4
+
+1 Exhume
+1 Search for Azcanta
+1 Kitesail Freebooter
+1 Hymn to Tourach
+1 Brainstorm
+1 Grave Titan
+1 Kolaghan's Command
+1 Brain Maggot
+1 Night's Whisper
+1 Mesmeric Fiend
+1 Mystic Confluence
+1 Consecrated Sphinx
+1 God-Eternal Kefnet
+1 Looter il-Kor
+1 Pack Rat
+1 Negate
+1 Mind Stone
+1 Condescend
+1 Memory Lapse
+1 Liliana, Death's Majesty
+1 Doom Whisperer
+1 Daretti, Ingenious Iconoclast
+1 City of Brass
+1 Scalding Tarn
+1 Shelldock Isle
+1 Steam Vents
+1 Underground Sea
+4 Island
+6 Swamp
+1 Reanimate
+2 Mountain
+
+1 Scrubland
+1 Sheltered Thicket
+1 Dauntless Bodyguard
+1 Dark Confidant
+1 Assassin's Trophy
+1 Searing Spear
+1 Heirloom Blade
+1 Hanweir Garrison
+1 Brimaz, King of Oreskos
+1 Oblivion Ring
+1 Thalia, Heretic Cathar
+1 Thragtusk
+1 Ilharg, the Raze-Boar
+1 Fireblast
+1 Burning of Xinye
+1 Thundermaw Hellkite
+1 Inferno Titan
+2 Mountain

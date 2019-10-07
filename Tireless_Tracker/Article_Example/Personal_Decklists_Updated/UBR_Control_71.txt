@@ -1,0 +1,40 @@
+Colors: UBR
+Archetype: Control
+Record: 0-3
+Games: 1.5-6.0
+
+1 Imperial Seal
+1 Brainstorm
+1 Phyrexian Revoker
+1 Daze
+1 Miscalculation
+1 Negate
+1 Impulse
+1 Sphere of the Suns
+1 Grim Monolith
+1 Sword of Fire and Ice
+1 Dack Fayden
+1 Vedalken Shackles
+1 Vendilion Clique
+1 Tinker
+1 Saheeli, the Gifted
+1 Phyrexian Metamorph
+1 Gilded Lotus
+1 Tezzeret, Artifice Master
+1 Mulldrifter
+1 Wurmcoil Engine
+1 Torrential Gearhulk
+1 Consecrated Sphinx
+1 Ancient Stone Idol
+1 Dig Through Time
+6 Island
+1 City of Brass
+1 Strip Mine
+1 Mountain
+1 Steam Vents
+1 Shivan Reef
+1 Verdant Catacombs
+1 Swamp
+1 Scalding Tarn
+1 Blood Crypt
+1 Bloodstained Mire

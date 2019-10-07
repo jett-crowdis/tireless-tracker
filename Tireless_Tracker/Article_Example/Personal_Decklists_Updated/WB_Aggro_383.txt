@@ -1,0 +1,36 @@
+Colors: WB
+Archetype: Aggro
+Record: 1-1
+Games: 2-2
+
+1 Diregraf Ghoul
+1 Kitesail Freebooter
+1 Carnophage
+1 Scrapheap Scrounger
+1 Skullclamp
+1 Dark Confidant
+1 Dread Wanderer
+1 Silent Clearing
+1 Skymarcher Aspirant
+1 Inquisition of Kozilek
+1 Grafted Wargear
+1 Ranger-Captain of Eos
+1 Bitterblossom
+1 Marsh Flats
+1 Chrome Mox
+1 Scrubland
+1 Hymn to Tourach
+1 Gravecrawler
+1 Mother of Runes
+1 Godless Shrine
+1 Gideon Blackblade
+1 Reanimate
+1 Batterskull
+1 Blade Splicer
+1 Stoneforge Mystic
+1 Hero of Bladehold
+1 Tithe Taker
+1 Spawn of Mayhem
+1 Tidehollow Sculler
+6 Snow-Covered Swamp
+5 Snow-Covered Plains

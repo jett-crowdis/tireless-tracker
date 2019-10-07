@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 3-1
+Games: 6-2
+
+1 Thalia, Guardian of Thraben
+1 Tithe Taker
+1 Stoneforge Mystic
+1 Sword of Truth and Justice
+1 Icehide Golem
+1 Armageddon
+1 Student of Warfare
+1 Giver of Runes
+1 Ranger-Captain of Eos
+1 Isamaru, Hound of Konda
+1 Precinct Captain
+1 Mother of Runes
+1 Imposing Sovereign
+1 Gideon of the Trials
+1 Remorseful Cleric
+1 Thalia, Heretic Cathar
+1 Skymarcher Aspirant
+1 Kytheon, Hero of Akros
+1 Adanto Vanguard
+1 Selfless Spirit
+1 Dryad Militant
+1 Mardu Woe-Reaper
+1 Kitchen Finks
+1 Batterskull
+1 Rishadan Port
+1 Strip Mine
+1 Wasteland
+13 Plains
+
+1 Lavaclaw Reaches
+1 Stomping Ground
+1 Volrath's Stronghold
+1 Gravecrawler
+1 Imperial Seal
+1 Go for the Throat
+1 Oona's Prowler
+1 Scavenging Ooze
+1 Assassin's Trophy
+1 Wall of Omens
+1 Flickerwisp
+1 Oblivion Ring
+1 Whirler Rogue
+1 Restoration Angel
+1 Ilharg, the Raze-Boar
+1 Angel of Invention
+1 Lyra Dawnbringer
+1 Hornet Queen

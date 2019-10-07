@@ -1,0 +1,37 @@
+Colors: URB
+Archetype: Midrange
+Record: 2-1
+Games: 4.5-3.0
+
+1 Lightning Bolt
+1 Duress
+1 Faithless Looting
+1 Heir of Falkenrath
+1 Mana Drain
+1 Animate Dead
+1 Amulet of Power
+1 Dance of the Dead
+1 Rift Chronicler
+1 Go for the Throat
+1 Coldsteel Heart
+1 Dack Fayden
+1 Feldon of the Third Path
+1 Chromatic Lantern
+1 Skinrender
+1 Languish
+1 Fiery Confluence
+1 Sneak Attack
+1 Snuff Out
+1 Wurmcoil Engine
+1 Sundering Titan
+1 Siege-Gang Commander
+1 Grave Titan
+1 Underground Sea
+1 Evolving Wilds
+1 Shivan Reef
+1 Sulfurous Springs
+1 Fetid Pools
+1 Misty Rainforest
+5 Swamp
+4 Mountain
+2 Island

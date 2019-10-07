@@ -1,0 +1,52 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-3
+
+1 Fyndhorn Elves
+1 Opposition
+1 Master of the Wild Hunt
+1 Reclamation Sage
+1 Joraga Treespeaker
+1 Scavenging Ooze
+1 Avacyn's Pilgrim
+1 Phantasmal Image
+1 Smuggler's Copter
+1 Elvish Mystic
+1 Torrential Gearhulk
+1 Dismember
+1 Jadelight Ranger
+1 Garruk Relentless
+1 Garruk Wildspeaker
+1 Thragtusk
+1 Mystic Confluence
+1 Carnage Tyrant
+1 Birds of Paradise
+1 Miscalculation
+1 Dig Through Time
+1 Oracle of Mul Daya
+1 Nissa, Voice of Zendikar
+1 Primeval Titan
+1 Breeding Pool
+1 Lumbering Falls
+1 Misty Rainforest
+1 Polluted Delta
+1 Tropical Island
+5 Island
+6 Forest
+
+1 Scattered Groves
+1 Dreadhorde Invasion
+1 Mesmeric Fiend
+1 Sphere of the Suns
+1 Izzet Charm
+1 Show and Tell
+1 Maelstrom Pulse
+1 Spawn of Mayhem
+1 Trostani Discordant
+1 Gideon Jura
+1 Chandra, Flamecaller
+1 Vivien's Arkbow
+1 Kitchen Finks
+1 Commence the Endgame
+1 Polukranos, World Eater

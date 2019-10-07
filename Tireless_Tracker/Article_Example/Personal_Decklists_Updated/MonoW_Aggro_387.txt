@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+1 Thalia, Guardian of Thraben
+1 Dryad Militant
+1 Condemn
+1 Dauntless Bodyguard
+1 Tithe Taker
+1 Bonesplitter
+1 Student of Warfare
+1 Mox Diamond
+1 Unexpectedly Absent
+1 Precinct Captain
+1 Selfless Spirit
+1 Brimaz, King of Oreskos
+1 Imposing Sovereign
+1 Icehide Golem
+1 Isamaru, Hound of Konda
+1 Mother of Runes
+1 Stoneforge Mystic
+1 Adanto Vanguard
+1 Swords to Plowshares
+1 Kytheon, Hero of Akros
+1 Sword of Feast and Famine
+1 Skymarcher Aspirant
+1 Ranger-Captain of Eos
+1 Ravages of War
+1 Arid Mesa
+1 Frostwalk Bastion
+1 Wasteland
+13 Snow-Covered Plains
+
+1 Scattered Groves
+1 Scrubland
+1 Dread Wanderer
+1 Oona's Prowler
+1 Dreadbore
+1 Tidehollow Sculler
+1 Finale of Glory
+1 Curse of Disturbance
+1 Necromancy
+1 Gideon, Ally of Zendikar
+1 Serra the Benevolent
+1 Angel of Sanctions
+1 Gideon Jura
+1 Monastery Mentor
+1 Flickerwisp
+1 Council's Judgment
+1 Sword of Truth and Justice
+1 Kitchen Finks

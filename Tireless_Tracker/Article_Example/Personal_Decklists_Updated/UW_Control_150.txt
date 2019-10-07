@@ -1,0 +1,54 @@
+Colors: UW
+Archetype: Control
+Record: 0-3
+Games: 3-6
+
+1 Balance
+1 Thran Dynamo
+1 On Thin Ice
+1 Sphere of the Suns
+1 Izzet Signet
+1 Gideon, Ally of Zendikar
+1 Basalt Monolith
+1 Day of Judgment
+1 Everflowing Chalice
+1 Boros Signet
+1 Azorius Signet
+1 Monastery Mentor
+1 Walking Ballista
+1 Miscalculation
+1 Unexpectedly Absent
+1 Wheel of Fortune
+1 Wrath of God
+1 Hedron Archive
+1 Wurmcoil Engine
+1 Karn Liberated
+1 Finale of Glory
+1 Scour All Possibilities
+1 Ugin, the Spirit Dragon
+1 Ancient Tomb
+1 Blast Zone
+1 Frostwalk Bastion
+1 Chrome Mox
+2 Mountain
+4 Island
+7 Plains
+
+1 Diregraf Ghoul
+1 Serum Visions
+1 Enlightened Tutor
+1 Bloodghast
+1 Winter Orb
+1 Lightning Helix
+1 Dismissive Pyromancer
+1 Liliana, the Last Hope
+1 Toxic Deluge
+1 Arc Lightning
+1 Feldon of the Third Path
+1 Chandra, Torch of Defiance
+1 Tezzeret, Artifice Master
+1 Plow Under
+1 Zealous Conscripts
+1 Burning of Xinye
+1 Sun Titan
+1 Sphinx of the Steel Wind

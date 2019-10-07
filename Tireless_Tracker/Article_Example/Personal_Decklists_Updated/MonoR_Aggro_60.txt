@@ -1,0 +1,32 @@
+Colors: R
+Archetype: Aggro
+Record: 4-0
+Games: 8.0-2.0
+
+1 Chain Lightning
+1 Firedrinker Satyr
+1 Firebolt
+1 Bomat Courier
+1 Zurgo Bellstriker
+1 Lightning Bolt
+1 Goblin Guide
+1 Burst Lightning
+1 Abrade
+1 Umezawa's Jitte
+1 Dire Fleet Daredevil
+1 Goblin Cratermaker
+1 Stormblood Berserker
+1 Kari Zev, Skyship Raider
+1 Earthshaker Khenra
+1 Hanweir Garrison
+1 Brutal Negator
+1 Sulfuric Vortex
+1 Sword of Fire and Ice
+1 Legion Warboss
+1 Experimental Frenzy
+1 Fiery Confluence
+1 Koth of the Hammer
+1 Fireblast
+1 Strip Mine
+1 Wooded Foothills
+14 Mountain

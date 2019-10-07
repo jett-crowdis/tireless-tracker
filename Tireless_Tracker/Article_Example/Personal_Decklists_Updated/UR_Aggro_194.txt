@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+1 Fiery Confluence
+1 Preordain
+1 True-Name Nemesis
+1 Spell Pierce
+1 Memory Lapse
+1 Treasure Cruise
+1 Magma Jet
+1 Blast from the Past
+1 Firebolt
+1 Mox Diamond
+1 Chart a Course
+1 Condescend
+1 Monastery Swiftspear
+1 Incinerate
+1 Chain Lightning
+1 Grim Lavamancer
+1 Goblin Guide
+1 Zurgo Bellstriker
+1 Firedrinker Satyr
+1 Izzet Charm
+1 Bomat Courier
+1 Experimental Frenzy
+1 Arc Trail
+1 Goblin Rabblemaster
+1 Fiery Islet
+1 Volcanic Island
+1 Wooded Foothills
+7 Mountain
+6 Island
+
+1 Blood Crypt
+1 Dread Wanderer
+1 Smuggler's Copter
+1 Goblin Cratermaker
+1 Kodama's Reach
+1 Arc Lightning
+1 Feldon of the Third Path
+1 Sower of Temptation
+1 Glorybringer
+1 Ilharg, the Raze-Boar
+1 Siege-Gang Commander
+1 Thundermaw Hellkite
+1 Sulfuric Vortex
+1 Seasoned Pyromancer
+1 Jackal Pup
+1 Dreadbore
+1 Force of Will
+1 Saheeli, Sublime Artificer

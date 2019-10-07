@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Midrange
+Record: 1-2
+Games: 2-4
+
+1 Monastery Mentor
+1 Elspeth, Sun's Champion
+1 Teferi, Time Raveler
+1 Dig Through Time
+1 Jace, Vryn's Prodigy
+1 Path to Exile
+1 Gideon of the Trials
+1 Winds of Abandon
+1 Sensei's Divining Top
+1 Talisman of Progress
+1 Callous Dismissal
+1 Gideon, Ally of Zendikar
+1 Cryptic Command
+1 Gideon Jura
+1 Search for Azcanta
+1 Negate
+1 Swords to Plowshares
+1 Snapcaster Mage
+1 Council's Judgment
+1 Ravages of War
+1 Finale of Glory
+1 Jace Beleren
+1 Armageddon
+1 Frostwalk Bastion
+1 Hallowed Fountain
+1 Irrigated Farmland
+1 Marsh Flats
+1 Tundra
+1 Chrome Mox
+6 Island
+5 Plains
+
+1 Hangarback Walker
+1 Bloodsoaked Champion
+1 Dauntless Bodyguard
+1 Nissa, Steward of Elements
+1 Eidolon of the Great Revel
+1 Searing Spear
+1 Adanto Vanguard
+1 Flickerwisp
+1 Control Magic
+1 Domri, Chaos Bringer
+1 Mirari's Wake
+1 Sarkhan the Masterless
+1 Sphinx of the Steel Wind
+1 Angel of Sanctions
+1 Torrential Gearhulk
+1 Mother of Runes

@@ -1,0 +1,56 @@
+Colors: UBGR
+Archetype: Midrange_Combo
+Record: 2-1
+Games: 4-2
+
+1 Channel
+1 Ulamog, the Ceaseless Hunger
+1 Chart a Course
+1 Kodama's Reach
+1 Paradise Druid
+1 Utopia Sprawl
+1 Eternal Witness
+1 Solemn Simulacrum
+1 Survival of the Fittest
+1 Pernicious Deed
+1 Fact or Fiction
+1 Garruk Wildspeaker
+1 Gilded Lotus
+1 Prismatic Lens
+1 Mesmeric Fiend
+1 Griselbrand
+1 Sneak Attack
+1 Emrakul, the Promised End
+1 Fauna Shaman
+1 Assassin's Trophy
+1 Dragonlord Atarka
+1 Karn Liberated
+1 Maelstrom Pulse
+1 Bayou
+1 Breeding Pool
+1 Raging Ravine
+1 Steam Vents
+1 Stomping Ground
+1 Windswept Heath
+1 Treetop Village
+2 Mountain
+4 Forest
+2 Island
+2 Swamp
+
+1 Battlefield Forge
+1 Rishadan Port
+1 Savannah
+1 Entomb
+1 Dance of the Dead
+1 Dark Confidant
+1 Finale of Devastation
+1 Vivien's Arkbow
+1 Song of the Dryads
+1 Polukranos, World Eater
+1 Hostage Taker
+1 Xenagos, the Reveler
+1 Hazoret the Fervent
+1 Terastodon
+1 Thragtusk
+1 Mountain

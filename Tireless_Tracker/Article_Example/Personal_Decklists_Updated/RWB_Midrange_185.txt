@@ -1,0 +1,54 @@
+Colors: RWB
+Archetype: Midrange
+Record: 2-1
+Games: 4-3
+
+1 Solemn Simulacrum
+1 Pack Rat
+1 Sword of Sinew and Steel
+1 Dismember
+1 Enlightened Tutor
+1 Nature's Chant
+1 Collective Brutality
+1 Recurring Nightmare
+1 Demonic Tutor
+1 Sword of Fire and Ice
+1 Gideon, Ally of Zendikar
+1 Doom Blade
+1 Wall of Omens
+1 Lightning Bolt
+1 Vampiric Tutor
+1 Bitterblossom
+1 Angel of Sanctions
+1 Vindicate
+1 Lingering Souls
+1 Flametongue Kavu
+1 Lightning Helix
+1 Smuggler's Copter
+1 Arid Mesa
+1 Badlands
+1 Archangel Avacyn
+1 Blood Crypt
+1 Godless Shrine
+1 Lavaclaw Reaches
+1 Sacred Foundry
+1 Scrubland
+4 Snow-Covered Swamp
+2 Snow-Covered Mountain
+4 Snow-Covered Plains
+
+1 Diregraf Ghoul
+1 Entomb
+1 Earthshaker Khenra
+1 Kari Zev, Skyship Raider
+1 Magma Jet
+1 Nissa, Voice of Zendikar
+1 Arc Lightning
+1 Experimental Frenzy
+1 Ravages of War
+1 Griselbrand
+1 Elesh Norn, Grand Cenobite
+1 Doom Whisperer
+1 Go for the Throat
+1 Animate Dead
+1 Toxic Deluge

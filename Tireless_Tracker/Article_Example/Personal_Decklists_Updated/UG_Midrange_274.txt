@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-4
+
+1 Utopia Sprawl
+1 Ice-Fang Coatl
+1 Sylvan Caryatid
+1 Fauna Shaman
+1 Carnage Tyrant
+1 Nissa, Steward of Elements
+1 Courser of Kruphix
+1 Eternal Witness
+1 Opposition
+1 Garruk, Primal Hunter
+1 Birds of Paradise
+1 Voracious Hydra
+1 Mulldrifter
+1 Reclamation Sage
+1 Joraga Treespeaker
+1 Hydroid Krasis
+1 Noble Hierarch
+1 Fact or Fiction
+1 Deep Forest Hermit
+1 Wall of Roots
+1 Elvish Mystic
+1 Sakura-Tribe Elder
+1 Jace, Vryn's Prodigy
+1 Thirst for Knowledge
+1 Gaea's Cradle
+1 Lumbering Falls
+1 Polluted Delta
+1 Tropical Island
+1 Waterlogged Grove
+4 Snow-Covered Island
+7 Snow-Covered Forest
+
+1 Blast Zone
+1 Overgrown Tomb
+1 Stomping Ground
+1 Taiga
+1 Condescend
+1 Rakdos Cackler
+1 Dismissive Pyromancer
+1 Earthshaker Khenra
+1 Sword of Feast and Famine
+1 Daretti, Ingenious Iconoclast
+1 Braids, Cabal Minion
+1 Cryptic Command
+1 Xenagos, the Reveler
+1 Restoration Angel
+1 Myr Battlesphere
+1 Terastodon

@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Fractured Identity
+1 Jace, Vryn's Prodigy
+1 Bribery
+1 Treasure Cruise
+1 Mana Leak
+1 Teferi, Time Raveler
+1 Gideon Jura
+1 Unexpectedly Absent
+1 Brainstorm
+1 Council's Judgment
+1 Basalt Monolith
+1 Mystic Confluence
+1 Negate
+1 Elspeth, Sun's Champion
+1 Secure the Wastes
+1 Oblivion Ring
+1 Force of Will
+1 Merfolk Looter
+1 Treachery
+1 Coldsteel Heart
+1 Snapcaster Mage
+1 Ponder
+1 Monastery Mentor
+1 Celestial Colonnade
+1 Misty Rainforest
+1 Mana Confluence
+7 Snow-Covered Island
+7 Snow-Covered Plains
+
+1 Godless Shrine
+1 Fetid Pools
+1 Glorybringer
+1 Mirari's Wake
+1 Acidic Slime
+1 Eternal Witness
+1 Scroll of Fate
+1 Dire Fleet Daredevil
+1 Nissa, Steward of Elements
+1 Treetop Village
+1 Mishra's Factory
+1 Hostage Taker
+1 Baleful Strix
+1 Carnophage
+1 Tithe Taker
+1 Blade Splicer
+1 Restoration Angel
+1 Sword of Fire and Ice
+1 Callous Dismissal

@@ -1,0 +1,55 @@
+Colors: RUGW
+Archetype: Control
+Record: 1-2
+Games: 4-4
+
+1 Sneak Attack
+1 Coldsteel Heart
+1 Myr Battlesphere
+1 Basalt Monolith
+1 Fact or Fiction
+1 Enlightened Tutor
+1 Blightsteel Colossus
+1 Ilharg, the Raze-Boar
+1 Through the Breach
+1 Griselbrand
+1 Compulsive Research
+1 Thirst for Knowledge
+1 Oath of Druids
+1 Serum Visions
+1 Saheeli, the Gifted
+1 Talisman of Progress
+1 Emrakul, the Aeons Torn
+1 Jace, the Mind Sculptor
+1 Chain Lightning
+1 Show and Tell
+1 Pyroclasm
+1 Searing Spear
+1 Nissa, Steward of Elements
+1 Fiery Islet
+1 Sacred Foundry
+1 Sheltered Thicket
+1 Tropical Island
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Snow-Covered Forest
+4 Snow-Covered Island
+6 Snow-Covered Mountain
+
+1 Imperial Seal
+1 Reanimate
+1 Arc Trail
+1 Maelstrom Pulse
+1 Feldon of the Third Path
+1 Seasoned Pyromancer
+1 Sower of Temptation
+1 Fleetwheel Cruiser
+1 Sorin, Lord of Innistrad
+1 Flametongue Kavu
+1 Koth of the Hammer
+1 Territorial Hellkite
+1 Custodi Lich
+1 Doom Whisperer
+1 Hornet Queen
+1 Zealous Conscripts
+2 Forest

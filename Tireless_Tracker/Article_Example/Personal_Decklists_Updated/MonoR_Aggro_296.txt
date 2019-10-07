@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 3-0
+Games: 6-1
+
+1 Smuggler's Copter
+1 Chain Lightning
+1 Experimental Frenzy
+1 Searing Spear
+1 Fireblast
+1 Earthshaker Khenra
+1 Burst Lightning
+1 Zurgo Bellstriker
+1 Sulfuric Vortex
+1 Falkenrath Gorger
+1 Goblin Cratermaker
+1 Firebolt
+1 Rakdos Cackler
+1 Blast from the Past
+1 Lightning Strike
+1 Fiery Confluence
+1 Kari Zev, Skyship Raider
+1 Icehide Golem
+1 Lightning Bolt
+1 Figure of Destiny
+1 Goblin Guide
+1 Jackal Pup
+1 Bomat Courier
+1 Dismember
+1 Strip Mine
+1 Chrome Mox
+1 Wasteland
+13 Snow-Covered Mountain
+
+1 Serum Visions
+1 Kytheon, Hero of Akros
+1 Skymarcher Aspirant
+1 Scrapheap Scrounger
+1 Scavenging Ooze
+1 Dreadbore
+1 Dire Fleet Daredevil
+1 Thalia, Guardian of Thraben
+1 Kolaghan's Command
+1 Spawn of Mayhem
+1 Archangel Avacyn
+1 Wildfire
+1 Flametongue Kavu
+1 Seasoned Pyromancer
+1 Dismissive Pyromancer
+1 Krenko, Tin Street Kingpin
+1 Legion Warboss
+1 Grafted Wargear

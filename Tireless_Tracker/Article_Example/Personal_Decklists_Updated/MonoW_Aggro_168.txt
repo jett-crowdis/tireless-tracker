@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 2-1
+Games: 4-3
+
+1 Swords to Plowshares
+1 Council's Judgment
+1 Monastery Mentor
+1 Isamaru, Hound of Konda
+1 Gideon Blackblade
+1 Thalia, Heretic Cathar
+1 Dauntless Bodyguard
+1 Thalia, Guardian of Thraben
+1 Tithe Taker
+1 Giver of Runes
+1 Adanto Vanguard
+1 Skymarcher Aspirant
+1 Kitchen Finks
+1 On Thin Ice
+1 Mother of Runes
+1 Umezawa's Jitte
+1 Secure the Wastes
+1 Porcelain Legionnaire
+1 Kytheon, Hero of Akros
+1 Imposing Sovereign
+1 Precinct Captain
+1 Flickerwisp
+1 Lyra Dawnbringer
+1 Mutavault
+1 Silent Clearing
+1 Horizon Canopy
+14 Plains
+
+1 Spell Pierce
+1 Grim Lavamancer
+1 Night's Whisper
+1 Chart a Course
+1 Scavenging Ooze
+1 Vivien's Arkbow
+1 Compulsive Research
+1 Saheeli, Sublime Artificer
+1 Braids, Cabal Minion
+1 Xenagos, the Reveler
+1 Bribery
+1 Primeval Titan
+1 Dig Through Time
+1 Bayou
+1 Godless Shrine
+1 Temple Garden
+1 Mimic Vat
+1 Batterskull
+1 Windswept Heath

@@ -1,0 +1,40 @@
+Colors: UWG
+Archetype: Control
+Record: 2-2
+Games: 5.0-5.0
+
+1 Coalition Relic
+1 Supreme Verdict
+1 Force of Will
+1 Mind Twist
+1 Nissa, Steward of Elements
+1 Chromatic Lantern
+1 Grim Monolith
+1 Sower of Temptation
+1 Oracle of Mul Daya
+1 Vendilion Clique
+1 Upheaval
+1 Fractured Identity
+1 Acidic Slime
+1 Arbor Elf
+1 Garruk Relentless
+1 Trygon Predator
+1 Deep Analysis
+1 Balance
+1 Coldsteel Heart
+1 Mana Drain
+1 Nature's Lore
+1 Elspeth, Sun's Champion
+1 Jace Beleren
+1 Plateau
+1 Fetid Pools
+1 Scalding Tarn
+1 Breeding Pool
+1 Polluted Delta
+1 Scattered Groves
+1 Ancient Tomb
+1 Arid Mesa
+1 Yavimaya Coast
+2 Forest
+4 Island
+2 Plains

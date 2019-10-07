@@ -99,6 +99,7 @@ def simulate_spikein_dataset(trials):
         match_data[n]['percentage'] = percentage
         match_data[n]['average_games'] = np.average(average_games)
 
+    # write results
     with open('simulation_results.txt', 'w') as sim_results:
         for i in [100, 500, 1000, 10000]:
             sim_results.write('Number of tournaments: {}\n'.format(i))
@@ -109,15 +110,12 @@ def simulate_spikein_dataset(trials):
 
     return 0
 
-# TODO: Merge simulate_rankings with simulate_spikein_dataset
 def simulate_rankings(trials):
     '''Simulates then plots estimated rankings vs. true rankings.'''
 
     cube_strengths = stats.norm.rvs(5,2, size = 450)
     
-    match_data = defaultdict(lambda: {'average_rank':0, 'percentage':0, 'average_games':0})
     # loop through number of tournaments
-    
     rank_storage = []
 
     for trial in range(trials):

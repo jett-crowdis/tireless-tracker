@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 4-3
+
+1 Mox Diamond
+1 Figure of Destiny
+1 Eidolon of the Great Revel
+1 Stormblood Berserker
+1 Fireblast
+1 Incinerate
+1 Earthshaker Khenra
+1 Young Pyromancer
+1 Jackal Pup
+1 Searing Spear
+1 Falkenrath Gorger
+1 Firedrinker Satyr
+1 Light Up the Stage
+1 Fiery Confluence
+1 Monastery Swiftspear
+1 Experimental Frenzy
+1 Dismember
+1 Bomat Courier
+1 Zurgo Bellstriker
+1 Lightning Bolt
+1 Chain Lightning
+1 Goblin Guide
+1 Sulfuric Vortex
+1 Goblin Rabblemaster
+1 Mutavault
+1 Chrome Mox
+14 Mountain
+
+1 Rolling Earthquake
+1 Animate Dead
+1 Dreadbore
+1 Balance
+1 Selfless Spirit
+1 Sword of Fire and Ice
+1 Kolaghan's Command
+1 Ravages of War
+1 Sarkhan, the Dragonspeaker
+1 Thundermaw Hellkite
+1 Dismissive Pyromancer
+1 Pyroclasm
+1 Grafted Wargear
+1 Arc Lightning
+1 Hellrider
+1 Koth of the Hammer
+1 Legion Warboss
+1 Arc Trail
+1 Grim Lavamancer

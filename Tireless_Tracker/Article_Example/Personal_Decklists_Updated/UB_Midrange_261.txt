@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange
+Record: 2-1
+Games: 5-3
+
+1 Recurring Nightmare
+1 Demonic Tutor
+1 Duress
+1 Dark Confidant
+1 Jace, Vryn's Prodigy
+1 Solemn Simulacrum
+1 Shriekmaw
+1 Compulsive Research
+1 Go for the Throat
+1 Kalitas, Traitor of Ghet
+1 Miscalculation
+1 Bribery
+1 Bitterblossom
+1 The Scarab God
+1 Sower of Temptation
+1 Hostage Taker
+1 Pack Rat
+1 Nekrataal
+1 Mana Drain
+1 Animate Dead
+1 Whirler Rogue
+1 Ashiok, Nightmare Weaver
+1 Champion of Wits
+1 Polluted Delta
+8 Snow-Covered Island
+8 Snow-Covered Swamp
+
+1 Gravecrawler
+1 Sensei's Divining Top
+1 Bloodghast
+1 Oona's Prowler
+1 Snapcaster Mage
+1 Scrapheap Scrounger
+1 Talisman of Progress
+1 Arc Trail
+1 Drana, Liberator of Malakir
+1 Hero's Downfall
+1 Daretti, Ingenious Iconoclast
+1 Kolaghan's Command
+1 Feldon of the Third Path
+1 Krenko, Tin Street Kingpin
+1 Seasoned Pyromancer
+1 Fleetwheel Cruiser
+1 Flametongue Kavu
+1 Cavalier of Gales
+1 Zealous Conscripts
+1 Scour All Possibilities
+1 Spawn of Mayhem

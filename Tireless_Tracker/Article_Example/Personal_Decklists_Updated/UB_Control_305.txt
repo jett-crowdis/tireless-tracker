@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control
+Record: 0-3
+Games: 2-6
+
+1 Brainstorm
+1 Izzet Signet
+1 Torrential Gearhulk
+1 Chart a Course
+1 Inquisition of Kozilek
+1 Languish
+1 Search for Azcanta
+1 Ravenous Chupacabra
+1 Memory Lapse
+1 Champion of Wits
+1 Talisman of Progress
+1 Saheeli, Sublime Artificer
+1 Everflowing Chalice
+1 Liliana, the Last Hope
+1 Negate
+1 Worn Powerstone
+1 Cavalier of Gales
+1 Ugin, the Spirit Dragon
+1 Gonti, Lord of Luxury
+1 Mystic Confluence
+1 Upheaval
+1 Talisman of Creativity
+1 Basalt Monolith
+1 The Scarab God
+1 Ancient Tomb
+1 Creeping Tar Pit
+1 Flooded Strand
+1 Shelldock Isle
+1 Watery Grave
+6 Snow-Covered Swamp
+5 Snow-Covered Island
+
+1 Sacred Foundry
+1 Scattered Groves
+1 Terastodon
+1 Chandra, Flamecaller
+1 Sarkhan the Masterless
+1 Shriekmaw
+1 Koth of the Hammer
+1 Ajani Vengeant
+1 Thalia, Guardian of Thraben
+1 Abrade
+1 Fatal Push
+1 Merfolk Looter
+1 Drana, Liberator of Malakir
+1 Hostage Taker
+1 Tezzeret, Artifice Master
+1 Control Magic

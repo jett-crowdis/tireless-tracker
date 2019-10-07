@@ -1,0 +1,53 @@
+Colors: WB
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+1 Palace Jailer
+1 Imposing Sovereign
+1 Tithe Taker
+1 Icehide Golem
+1 Restoration Angel
+1 Lingering Souls
+1 Skymarcher Aspirant
+1 Stoneforge Mystic
+1 Thalia, Guardian of Thraben
+1 Porcelain Legionnaire
+1 Umezawa's Jitte
+1 Thalia, Heretic Cathar
+1 Isamaru, Hound of Konda
+1 Dryad Militant
+1 Selfless Spirit
+1 Sword of Sinew and Steel
+1 Ranger-Captain of Eos
+1 Elspeth, Knight-Errant
+1 Giver of Runes
+1 Scrapheap Scrounger
+1 Curse of Disturbance
+1 Vindicate
+1 Kitesail Freebooter
+1 Tidehollow Sculler
+1 Godless Shrine
+1 Scrubland
+1 Strip Mine
+1 Verdant Catacombs
+1 Wasteland
+6 Snow-Covered Plains
+5 Snow-Covered Swamp
+
+1 Bloodghast
+1 Recurring Nightmare
+1 Light Up the Stage
+1 Thrun, the Last Troll
+1 Xenagos, the Reveler
+1 Sheltered Thicket
+1 Gutterbones
+1 Oath of Druids
+1 Toxic Deluge
+1 Braids, Cabal Minion
+1 Ravenous Chupacabra
+1 Spawn of Mayhem
+1 Sorin, Lord of Innistrad
+1 Burning of Xinye
+1 Supreme Verdict
+1 Mutavault

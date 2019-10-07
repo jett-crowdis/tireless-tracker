@@ -1,0 +1,37 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 3-1
+Games: 7-5
+
+1 Avacyn's Pilgrim
+1 Noble Hierarch
+1 Fyndhorn Elves
+1 Utopia Sprawl
+1 Arbor Elf
+1 Elvish Mystic
+1 Birds of Paradise
+1 Ice-Fang Coatl
+1 Lotus Cobra
+1 Wall of Roots
+1 Mana Drain
+1 Sylvan Caryatid
+1 Scour All Possibilities
+1 Opposition
+1 Hexdrinker
+1 Garruk Relentless
+1 Whirler Rogue
+1 Oracle of Mul Daya
+1 Biogenic Ooze
+1 Nissa, Vital Force
+1 Nissa, Steward of Elements
+1 Upheaval
+1 Will Kenrith
+1 Ugin, the Spirit Dragon
+1 Gaea's Cradle
+1 Ancient Tomb
+1 Waterlogged Grove
+1 Lumbering Falls
+1 Breeding Pool
+1 Tropical Island
+4 Snow-Covered Island
+5 Snow-Covered Forest

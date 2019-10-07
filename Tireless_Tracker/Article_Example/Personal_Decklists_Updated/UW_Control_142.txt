@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 2-1
+Games: 5-4
+
+1 Swords to Plowshares
+1 Fractured Identity
+1 Consecrated Sphinx
+1 Preordain
+1 Snapcaster Mage
+1 Compulsive Research
+1 Elspeth, Sun's Champion
+1 God-Eternal Kefnet
+1 Jace Beleren
+1 Treachery
+1 Bribery
+1 Search for Azcanta
+1 Palace Jailer
+1 Moat
+1 Wrath of God
+1 Angel of Sanctions
+1 Fact or Fiction
+1 Vendilion Clique
+1 Solemn Simulacrum
+1 Prismatic Lens
+1 True-Name Nemesis
+1 Brainstorm
+1 Force of Will
+1 Celestial Colonnade
+1 Irrigated Farmland
+1 Marsh Flats
+8 Island
+6 Plains
+
+1 Green Sun's Zenith
+1 Eternal Witness
+1 Imposing Sovereign
+1 Spawn of Mayhem
+1 Oracle of Mul Daya
+1 Overgrown Tomb
+1 Temple Garden
+1 Yavimaya Coast
+1 Bloodsoaked Champion
+1 Bloodghast
+1 Finale of Devastation
+1 Flickerwisp
+1 Ajani Vengeant
+1 Domri, Chaos Bringer
+1 Xenagos, the Reveler
+1 Day of Judgment
+1 Angel of Invention
+1 Gisela, the Broken Blade
+1 Enlightened Tutor

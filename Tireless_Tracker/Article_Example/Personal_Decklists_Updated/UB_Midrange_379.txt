@@ -1,0 +1,35 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 2-1
+Games: 4-2
+
+1 Animate Dead
+1 Griselbrand
+1 Mind Twist
+1 Entomb
+1 Gonti, Lord of Luxury
+1 Watery Grave
+1 Ancient Tomb
+1 Dance of the Dead
+1 Imperial Seal
+1 Hero's Downfall
+1 Narset, Parter of Veils
+1 True-Name Nemesis
+1 Liliana of the Veil
+1 Creeping Tar Pit
+1 Hostage Taker
+1 Pack Rat
+1 Damnation
+1 Wurmcoil Engine
+1 Merfolk Looter
+1 Vampiric Tutor
+1 Treachery
+1 Chart a Course
+1 Grave Titan
+1 Underground Sea
+1 Thief of Sanity
+1 Flooded Strand
+1 Glen Elendra Archmage
+1 The Scarab God
+5 Snow-Covered Island
+7 Snow-Covered Swamp

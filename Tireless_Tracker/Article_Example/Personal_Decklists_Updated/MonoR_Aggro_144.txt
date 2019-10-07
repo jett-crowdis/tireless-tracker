@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 1-3
+Games: 2-8
+
+1 Lightning Bolt
+1 Rakdos Cackler
+1 Eidolon of the Great Revel
+1 Incinerate
+1 Zurgo Bellstriker
+1 Arc Trail
+1 Monastery Swiftspear
+1 Searing Spear
+1 Hanweir Garrison
+1 Falkenrath Gorger
+1 Smuggler's Copter
+1 Sulfuric Vortex
+1 Goblin Guide
+1 Jackal Pup
+1 Legion Warboss
+1 Fiery Confluence
+1 Kari Zev, Skyship Raider
+1 Young Pyromancer
+1 Burst Lightning
+1 Stormblood Berserker
+1 Porcelain Legionnaire
+1 Chain Lightning
+1 Seasoned Pyromancer
+1 Goblin Rabblemaster
+1 Mishra's Factory
+15 Mountain
+
+1 Bloodstained Mire
+1 Horizon Canopy
+1 Mana Confluence
+1 Overgrown Tomb
+1 Scrubland
+1 Wooded Foothills
+1 Dauntless Bodyguard
+1 Scrapheap Scrounger
+1 Justice Strike
+1 Sword of Feast and Famine
+1 Courser of Kruphix
+1 Kolaghan's Command
+1 Pernicious Deed
+1 Sword of Sinew and Steel
+1 Harmonize
+1 Hazoret the Fervent
+1 Territorial Hellkite
+1 Glorybringer
+1 Thundermaw Hellkite
+1 Magma Jet

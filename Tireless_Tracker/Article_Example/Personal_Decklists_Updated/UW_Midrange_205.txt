@@ -1,0 +1,54 @@
+Colors: UW
+Archetype: Midrange
+Record: 0-3
+Games: 3-6
+
+1 Skullclamp
+1 Monastery Mentor
+1 Chart a Course
+1 Serra the Benevolent
+1 Condemn
+1 Batterskull
+1 Callous Dismissal
+1 Fractured Identity
+1 Recruiter of the Guard
+1 Spell Pierce
+1 Counterspell
+1 Teferi, Time Raveler
+1 Elspeth, Knight-Errant
+1 Dauntless Bodyguard
+1 Kytheon, Hero of Akros
+1 Brimaz, King of Oreskos
+1 Restoration Angel
+1 Phantasmal Image
+1 Sword of Truth and Justice
+1 Thalia, Heretic Cathar
+1 Stoneforge Mystic
+1 Isamaru, Hound of Konda
+1 Lingering Souls
+1 Fetid Pools
+1 Hallowed Fountain
+1 Polluted Delta
+1 Windswept Heath
+1 Swamp
+6 Snow-Covered Plains
+6 Snow-Covered Island
+
+1 Blast Zone
+1 Bomat Courier
+1 Figure of Destiny
+1 Talisman of Creativity
+1 Winter Orb
+1 Eidolon of the Great Revel
+1 Selfless Spirit
+1 Compulsive Research
+1 Show and Tell
+1 Dack Fayden
+1 Arc Lightning
+1 God-Eternal Kefnet
+1 Solemn Simulacrum
+1 Territorial Hellkite
+1 Zealous Conscripts
+1 Ancient Stone Idol
+1 Student of Warfare
+1 Skymarcher Aspirant

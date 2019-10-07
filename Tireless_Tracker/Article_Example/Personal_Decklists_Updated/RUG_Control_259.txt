@@ -1,0 +1,54 @@
+Colors: RUG
+Archetype: Control_Combo
+Record: 2-1
+Games: 5-3
+
+1 Channel
+1 Ilharg, the Raze-Boar
+1 Emrakul, the Promised End
+1 Through the Breach
+1 Garruk Relentless
+1 Saheeli, the Gifted
+1 Sneak Attack
+1 Oath of Druids
+1 Talisman of Dominance
+1 Control Magic
+1 Woodfall Primus
+1 Rolling Earthquake
+1 Wheel of Fortune
+1 Arc Lightning
+1 Talisman of Creativity
+1 Dack Fayden
+1 Talisman of Curiosity
+1 Treachery
+1 Saheeli, Sublime Artificer
+1 Dragonlord Atarka
+1 Chandra, Torch of Defiance
+1 Inferno Titan
+1 Bloodstained Mire
+1 Fiery Islet
+1 Emrakul, the Aeons Torn
+1 Mana Confluence
+1 Nurturing Peatland
+1 Raging Ravine
+1 Shelldock Isle
+1 Sheltered Thicket
+1 Taiga
+1 Wooded Foothills
+3 Snow-Covered Island
+3 Snow-Covered Mountain
+2 Snow-Covered Forest
+
+1 Skymarcher Aspirant
+1 Scavenging Ooze
+1 Tinker
+1 Vedalken Shackles
+1 Domri, Anarch of Bolas
+1 Maelstrom Pulse
+1 Ranger-Captain of Eos
+1 Siege-Gang Commander
+1 Torrential Gearhulk
+1 Hornet Queen
+1 Terastodon
+1 Will Kenrith
+1 Nissa, Steward of Elements

@@ -1,0 +1,34 @@
+Colors: UR
+Archetype: Midrange
+Record: 1-1
+Games: 2.5-2.5
+
+1 Grim Monolith
+1 Chart a Course
+1 Memory Lapse
+1 Snapcaster Mage
+1 Prismatic Lens
+1 Negate
+1 Jace, Vryn's Prodigy
+1 Coldsteel Heart
+1 Counterspell
+1 Dream Noble
+1 Saheeli, Sublime Artificer
+1 Arcane Artisan
+1 Blast from the Past
+1 Chandra, Torch of Defiance
+1 Sneak Attack
+1 Control Magic
+1 Mystic Confluence
+1 Blitz Basilisk
+1 Treachery
+1 Consecrated Sphinx
+1 Blightsteel Colossus
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Aeons Torn
+1 Shelldock Isle
+1 Ash Barrens
+1 Steam Vents
+1 Wooded Foothills
+7 Island
+6 Mountain

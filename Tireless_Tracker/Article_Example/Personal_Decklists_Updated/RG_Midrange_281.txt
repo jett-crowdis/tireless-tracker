@@ -1,0 +1,54 @@
+Colors: RG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-5
+
+1 Elvish Mystic
+1 Utopia Sprawl
+1 Paradise Druid
+1 Vivien Reid
+1 Harmonize
+1 Nissa, Who Shakes the World
+1 Wolfbriar Elemental
+1 Domri, Chaos Bringer
+1 Domri, Anarch of Bolas
+1 Chandra, Flamecaller
+1 Avacyn's Pilgrim
+1 Kitchen Finks
+1 Chandra, Awakened Inferno
+1 Xenagos, the Reveler
+1 Wall of Roots
+1 Hydroid Krasis
+1 Sword of Sinew and Steel
+1 Wild Growth
+1 Chandra, Torch of Defiance
+1 Lotus Cobra
+1 Birds of Paradise
+1 Biogenic Ooze
+1 Garruk Wildspeaker
+1 Inferno Titan
+1 Breeding Pool
+1 Misty Rainforest
+1 Raging Ravine
+1 Stomping Ground
+1 Taiga
+4 Snow-Covered Mountain
+7 Snow-Covered Forest
+
+1 Wasteland
+1 Figure of Destiny
+1 Skymarcher Aspirant
+1 Abrade
+1 Dire Fleet Daredevil
+1 Dismissive Pyromancer
+1 Earthshaker Khenra
+1 Kari Zev, Skyship Raider
+1 Stormblood Berserker
+1 Liliana of the Veil
+1 Mimic Vat
+1 Hellrider
+1 Fireblast
+1 Wildfire
+1 Nicol Bolas, God-Pharaoh
+1 Glorybringer
+1 Mountain

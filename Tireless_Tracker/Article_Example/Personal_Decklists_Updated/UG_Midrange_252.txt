@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-3
+
+1 Fyndhorn Elves
+1 Utopia Sprawl
+1 Hydroid Krasis
+1 Consecrated Sphinx
+1 Paradise Druid
+1 Garruk Relentless
+1 Carnage Tyrant
+1 Noble Hierarch
+1 Joraga Treespeaker
+1 Ice-Fang Coatl
+1 Scour All Possibilities
+1 Birds of Paradise
+1 Hexdrinker
+1 Plow Under
+1 Llanowar Elves
+1 Upheaval
+1 Sylvan Library
+1 Deep Forest Hermit
+1 Courser of Kruphix
+1 Voracious Hydra
+1 Opposition
+1 Elvish Mystic
+1 Tireless Tracker
+1 Skullclamp
+1 Gaea's Cradle
+1 Misty Rainforest
+1 Mana Confluence
+4 Snow-Covered Island
+9 Snow-Covered Forest
+
+1 Treetop Village
+1 Dread Wanderer
+1 Gravecrawler
+1 Bonesplitter
+1 Oona's Prowler
+1 Scavenging Ooze
+1 Sword of Feast and Famine
+1 Goblin Rabblemaster
+1 Trumpeting Herd
+1 Thragtusk
+1 Mirari's Wake
+1 Terastodon
+1 Hornet Queen
+1 Karn Liberated
+1 Elves of Deep Shadow
+1 Overgrowth
+1 Harmonize
+1 Ugin, the Spirit Dragon

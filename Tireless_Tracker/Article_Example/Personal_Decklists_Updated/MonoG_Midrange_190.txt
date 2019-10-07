@@ -1,0 +1,52 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-3
+
+1 Rofellos, Llanowar Emissary
+1 Hexdrinker
+1 Harmonize
+1 Wall of Roots
+1 Garruk Wildspeaker
+1 Courser of Kruphix
+1 Wild Growth
+1 Deep Forest Hermit
+1 Sylvan Library
+1 Craterhoof Behemoth
+1 Overgrowth
+1 Paradise Druid
+1 Carnage Tyrant
+1 Birds of Paradise
+1 Elves of Deep Shadow
+1 Plow Under
+1 Arbor Elf
+1 Biogenic Ooze
+1 Green Sun's Zenith
+1 Natural Order
+1 Noble Hierarch
+1 Woodfall Primus
+1 Vivien Reid
+1 Joraga Treespeaker
+1 Blast Zone
+1 Gaea's Cradle
+1 Nurturing Peatland
+1 Treetop Village
+12 Snow-Covered Forest
+
+1 Falkenrath Gorger
+1 Assassin's Trophy
+1 Champion of Wits
+1 Grafted Wargear
+1 Maelstrom Pulse
+1 Hellrider
+1 Fireblast
+1 Emrakul, the Promised End
+1 Sword of Feast and Famine
+1 Scavenging Ooze
+1 Lotus Cobra
+1 Polukranos, World Eater
+1 Nissa, Voice of Zendikar
+1 Phyrexian Metamorph
+1 Utopia Sprawl
+1 Sakura-Tribe Elder
+1 Acidic Slime

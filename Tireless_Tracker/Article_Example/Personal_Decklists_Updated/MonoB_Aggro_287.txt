@@ -1,0 +1,52 @@
+Colors: B
+Archetype: Aggro
+Record: 2-1
+Games: 4-3
+
+1 Thoughtseize
+1 Kitesail Freebooter
+1 Umezawa's Jitte
+1 Diregraf Ghoul
+1 Sarcomancy
+1 Gravecrawler
+1 Inquisition of Kozilek
+1 Pack Rat
+1 Mind Twist
+1 Hymn to Tourach
+1 Brain Maggot
+1 Demonic Tutor
+1 Bloodsoaked Champion
+1 Curse of Disturbance
+1 Collective Brutality
+1 Spawn of Mayhem
+1 Dismember
+1 Oona's Prowler
+1 Gutterbones
+1 Dark Confidant
+1 Bonesplitter
+1 Phyrexian Revoker
+1 Drana, Liberator of Malakir
+1 Braids, Cabal Minion
+1 Mutavault
+1 Nurturing Peatland
+1 Strip Mine
+13 Snow-Covered Swamp
+
+1 Scrubland
+1 Verdant Catacombs
+1 Reanimate
+1 Animate Dead
+1 Survival of the Fittest
+1 Adanto Vanguard
+1 Winds of Abandon
+1 Hero's Downfall
+1 Sword of Fire and Ice
+1 Flickerwisp
+1 Ranger-Captain of Eos
+1 Braids, Cabal Minion
+1 Gonti, Lord of Luxury
+1 Kalitas, Traitor of Ghet
+1 Sorin, Lord of Innistrad
+1 Ravages of War
+1 Doom Whisperer
+1 Gideon Jura

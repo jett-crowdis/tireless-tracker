@@ -1,0 +1,53 @@
+Colors: GW
+Archetype: Midrange
+Record: 0-3
+Games: 0-6
+
+1 Sylvan Caryatid
+1 Thragtusk
+1 Swords to Plowshares
+1 Courser of Kruphix
+1 Jadelight Ranger
+1 Eternal Witness
+1 Knight of Autumn
+1 Sword of Feast and Famine
+1 Elves of Deep Shadow
+1 Plow Under
+1 Stoneforge Mystic
+1 Tireless Tracker
+1 Joraga Treespeaker
+1 Palace Jailer
+1 Gideon, Ally of Zendikar
+1 Nightpack Ambusher
+1 Reclamation Sage
+1 Thalia, Heretic Cathar
+1 Sword of Fire and Ice
+1 Llanowar Elves
+1 Secure the Wastes
+1 Nissa, Voice of Zendikar
+1 Thrun, the Last Troll
+1 City of Brass
+1 Horizon Canopy
+1 Savannah
+1 Scattered Groves
+1 Treetop Village
+6 Snow-Covered Forest
+6 Snow-Covered Plains
+
+1 Bomat Courier
+1 Green Sun's Zenith
+1 Burst Lightning
+1 Isamaru, Hound of Konda
+1 Winter Orb
+1 Channel
+1 Survival of the Fittest
+1 Magma Jet
+1 Tithe Taker
+1 Curse of Disturbance
+1 Toxic Deluge
+1 Sword of Truth and Justice
+1 Damnation
+1 Natural Order
+1 Elesh Norn, Grand Cenobite
+1 Karn Liberated
+1 Brimaz, King of Oreskos

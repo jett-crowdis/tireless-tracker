@@ -1,0 +1,53 @@
+Colors: RG
+Archetype: Midrange_Combo
+Record: 0-3
+Games: 1-6
+
+1 Blightsteel Colossus
+1 Sneak Attack
+1 Sundering Titan
+1 Through the Breach
+1 Chandra, Torch of Defiance
+1 Searing Spear
+1 Channel
+1 Wall of Roots
+1 Fauna Shaman
+1 Xenagos, the Reveler
+1 Sylvan Library
+1 Walking Ballista
+1 Ulamog, the Ceaseless Hunger
+1 Phyrexian Metamorph
+1 Griselbrand
+1 Emrakul, the Aeons Torn
+1 Wild Growth
+1 Tireless Tracker
+1 Elves of Deep Shadow
+1 Plow Under
+1 Nissa, Vital Force
+1 Thrun, the Last Troll
+1 Talisman of Conviction
+1 Stomping Ground
+1 Windswept Heath
+1 Arid Mesa
+7 Snow-Covered Mountain
+7 Snow-Covered Forest
+
+1 Bomat Courier
+1 Bloodghast
+1 Nature's Chant
+1 Maelstrom Pulse
+1 Supreme Verdict
+1 Hellrider
+1 Flooded Strand
+1 Plateau
+1 Sacred Foundry
+1 Mystical Tutor
+1 Memory Lapse
+1 Narset, Parter of Veils
+1 Gideon, Ally of Zendikar
+1 Lumbering Falls
+1 Nightpack Ambusher
+1 Savannah
+1 Siege-Gang Commander
+1 Assassin's Trophy
+1 Dryad Militant

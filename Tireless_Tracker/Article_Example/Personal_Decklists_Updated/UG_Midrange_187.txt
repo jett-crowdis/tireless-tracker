@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-2
+
+1 Arbor Elf
+1 Joraga Treespeaker
+1 Rofellos, Llanowar Emissary
+1 Vivien Reid
+1 Garruk Wildspeaker
+1 Sakura-Tribe Elder
+1 Thragtusk
+1 Courser of Kruphix
+1 Craterhoof Behemoth
+1 Green Sun's Zenith
+1 Fyndhorn Elves
+1 Tireless Tracker
+1 Elves of Deep Shadow
+1 Basalt Monolith
+1 Hydroid Krasis
+1 Garruk Relentless
+1 Lotus Cobra
+1 Oracle of Mul Daya
+1 Deep Forest Hermit
+1 Opposition
+1 Utopia Sprawl
+1 Acidic Slime
+1 Reclamation Sage
+1 Scavenging Ooze
+1 Tropical Island
+1 Windswept Heath
+1 Lumbering Falls
+1 Gaea's Cradle
+3 Snow-Covered Island
+9 Snow-Covered Forest
+
+1 Figure of Destiny
+1 Winter Orb
+1 Dread Wanderer
+1 Inquisition of Kozilek
+1 Bomat Courier
+1 Hazoret the Fervent
+1 Thundermaw Hellkite
+1 Blast Zone
+1 Strip Mine
+1 Savannah
+1 Hangarback Walker
+1 Sarcomancy
+1 Assassin's Trophy
+1 Gideon Jura
+1 Survival of the Fittest
+1 Overgrowth
+1 Thrun, the Last Troll

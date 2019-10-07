@@ -1,0 +1,55 @@
+Colors: W
+Archetype: Aggro
+Record: 3-0
+Games: 6-1
+
+1 Isamaru, Hound of Konda
+1 Blade Splicer
+1 Precinct Captain
+1 Mutavault
+1 Blast Zone
+1 Selfless Spirit
+1 Hero of Bladehold
+1 Ravages of War
+1 Brimaz, King of Oreskos
+1 History of Benalia
+1 Ancient Tomb
+1 Smuggler's Copter
+1 Student of Warfare
+1 Tithe Taker
+1 Dryad Militant
+1 Elspeth, Knight-Errant
+1 Thalia, Heretic Cathar
+1 Imposing Sovereign
+1 Umezawa's Jitte
+1 Path to Exile
+1 Gideon Blackblade
+1 Kytheon, Hero of Akros
+1 Sword of Body and Mind
+1 Remorseful Cleric
+1 Journey to Nowhere
+1 Bonesplitter
+1 Soldier of the Pantheon
+2 Plains
+5 Plains
+4 Plains
+2 Plains
+
+1 Chain Lightning
+1 Rakdos Cackler
+1 Experimental Frenzy
+1 Kalitas, Traitor of Ghet
+1 Pyroclasm
+1 Sarcomancy
+1 Torrential Gearhulk
+1 Looter il-Kor
+1 Sorcerous Spyglass
+1 Batterskull
+1 Angel of Invention
+1 Shriekmaw
+1 Burning of Xinye
+1 Recruiter of the Guard
+1 Fleetwheel Cruiser
+1 Gemstone Mine
+1 Underground Sea
+1 Blood Crypt

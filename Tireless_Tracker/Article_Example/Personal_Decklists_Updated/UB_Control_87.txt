@@ -1,0 +1,36 @@
+Colors: UB
+Archetype: Control
+Record: 1-1
+Games: 2.5-2.5
+
+1 Dark Confidant
+1 Force of Will
+1 Ophiomancer
+1 Coldsteel Heart
+1 The Scorpion God
+1 Inquisition of Kozilek
+1 Miscalculation
+1 Blast Zone
+1 Snapcaster Mage
+1 Prismatic Lens
+1 Cryptic Command
+1 Remand
+1 Treasure Cruise
+1 Baleful Strix
+1 Shelldock Isle
+1 Search for Azcanta
+1 Impulse
+1 Vampiric Tutor
+1 Consecrated Sphinx
+1 Hymn to Tourach
+1 Thoughtseize
+1 Glen Elendra Archmage
+1 Night's Whisper
+1 Hostage Taker
+1 Liliana of the Veil
+1 Forest
+6 Swamp
+5 Island
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Underground Sea

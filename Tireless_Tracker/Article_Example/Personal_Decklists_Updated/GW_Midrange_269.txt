@@ -1,0 +1,53 @@
+Colors: GW
+Archetype: Midrange
+Record: 2-1
+Games: 4-3
+
+1 Biogenic Ooze
+1 Arbor Elf
+1 Llanowar Elves
+1 Smuggler's Copter
+1 Ranger-Captain of Eos
+1 Vivien Reid
+1 Thalia, Heretic Cathar
+1 Armageddon
+1 Gideon of the Trials
+1 Unexpectedly Absent
+1 Avacyn's Pilgrim
+1 Fyndhorn Elves
+1 Council's Judgment
+1 Knight of Autumn
+1 Kitchen Finks
+1 Thragtusk
+1 Mother of Runes
+1 Sylvan Library
+1 Serra the Benevolent
+1 Path to Exile
+1 Wolfbriar Elemental
+1 Trostani Discordant
+1 Phyrexian Revoker
+1 Prismatic Vista
+1 Savannah
+1 Scattered Groves
+1 Windswept Heath
+1 City of Brass
+6 Snow-Covered Plains
+6 Snow-Covered Forest
+
+1 Ash Barrens
+1 Mishra's Factory
+1 Nurturing Peatland
+1 Grim Lavamancer
+1 Dryad Militant
+1 Assassin's Trophy
+1 Arc Trail
+1 Remorseful Cleric
+1 Tithe Taker
+1 Vindicate
+1 Hanweir Garrison
+1 Hostage Taker
+1 Doom Whisperer
+1 Angel of Sanctions
+1 Elesh Norn, Grand Cenobite
+1 Karn Liberated
+1 Nature's Claim

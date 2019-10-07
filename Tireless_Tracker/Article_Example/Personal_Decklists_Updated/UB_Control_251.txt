@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control
+Record: 1-2
+Games: 4-4
+
+1 True-Name Nemesis
+1 Talisman of Progress
+1 Snapcaster Mage
+1 Looter il-Kor
+1 Karn, Scion of Urza
+1 Venser, Shaper Savant
+1 Wurmcoil Engine
+1 Champion of Wits
+1 Nekrataal
+1 Worn Powerstone
+1 Demonic Tutor
+1 Miscalculation
+1 Recurring Nightmare
+1 Dark Confidant
+1 Hostage Taker
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 The Scarab God
+1 Shriekmaw
+1 Tinker
+1 Blightsteel Colossus
+1 Imperial Seal
+1 Vendilion Clique
+1 Underground Sea
+1 Shelldock Isle
+1 Strip Mine
+6 Snow-Covered Island
+8 Snow-Covered Swamp
+
+1 Breeding Pool
+1 Mutavault
+1 Overgrown Tomb
+1 Scrubland
+1 Sarcomancy
+1 Green Sun's Zenith
+1 Nature's Claim
+1 Monastery Swiftspear
+1 Bloodghast
+1 Scrapheap Scrounger
+1 Hero's Downfall
+1 Mimic Vat
+1 Cryptic Command
+1 Nightpack Ambusher
+1 Wolfbriar Elemental
+1 Gilded Lotus
+1 Trostani Discordant
+1 Ancient Stone Idol
+1 Nissa, Steward of Elements

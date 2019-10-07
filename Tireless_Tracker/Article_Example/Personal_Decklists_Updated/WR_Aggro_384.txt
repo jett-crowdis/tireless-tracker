@@ -1,0 +1,32 @@
+Colors: WR
+Archetype: Aggro
+Record: 1-3
+Games: 3-7
+
+1 Zurgo Bellstriker
+1 Krenko, Tin Street Kingpin
+1 Goblin Guide
+1 Kytheon, Hero of Akros
+1 Firedrinker Satyr
+1 Thalia, Guardian of Thraben
+1 Territorial Hellkite
+1 Sword of Fire and Ice
+1 Hazoret the Fervent
+1 Searing Spear
+1 Sword of Feast and Famine
+1 Dryad Militant
+1 Selfless Spirit
+1 Gideon of the Trials
+1 Dire Fleet Daredevil
+1 Porcelain Legionnaire
+1 Wheel of Fortune
+1 Dauntless Bodyguard
+1 Thundermaw Hellkite
+1 Adanto Vanguard
+1 Umezawa's Jitte
+1 Monastery Swiftspear
+1 Zealous Conscripts
+1 Brimaz, King of Oreskos
+1 Plateau
+8 Snow-Covered Mountain
+7 Snow-Covered Plains

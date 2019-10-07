@@ -1,0 +1,32 @@
+Colors: UB
+Archetype: Control_Reanimator
+Record: 0-2
+Games: 1.0-4.0
+
+1 Grave Titan
+1 Damnation
+1 Animate Dead
+1 Shriekmaw
+1 Blightwalker
+1 Nekrataal
+1 Solemn Simulacrum
+1 Phyrexian Metamorph
+1 Umezawa's Jitte
+1 Mana Drain
+1 Heir of Falkenrath
+1 Mimic Vat
+1 Shelldock Isle
+1 Tasigur, the Golden Fang
+1 Volrath's Stronghold
+1 Jace, Vryn's Prodigy
+1 Sower of Temptation
+1 Scrapheap Scrounger
+1 Elesh Norn, Grand Cenobite
+1 Oona's Prowler
+1 Necromancy
+1 Fetid Pools
+1 Languish
+1 Sphinx of the Steel Wind
+1 Ponder
+6 Swamp
+9 Island

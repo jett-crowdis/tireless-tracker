@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 1-2
+Games: 2-5
+
+1 Zurgo Bellstriker
+1 Fireblast
+1 Kari Zev, Skyship Raider
+1 Dismember
+1 Hanweir Garrison
+1 Figure of Destiny
+1 Magma Jet
+1 Hellrider
+1 Hazoret the Fervent
+1 Firebolt
+1 Blast from the Past
+1 Icehide Golem
+1 Winter Orb
+1 Monastery Swiftspear
+1 Dismissive Pyromancer
+1 Smuggler's Copter
+1 Rakdos Cackler
+1 Sulfuric Vortex
+1 Goblin Cratermaker
+1 Incinerate
+1 Eidolon of the Great Revel
+1 Abrade
+1 Dire Fleet Daredevil
+1 Mishra's Factory
+1 Rishadan Port
+1 Strip Mine
+14 Mountain
+
+1 Sulfurous Springs
+1 Carnophage
+1 Reanimate
+1 Mardu Woe-Reaper
+1 Student of Warfare
+1 Go for the Throat
+1 Izzet Charm
+1 Selfless Spirit
+1 Winds of Abandon
+1 Drana, Liberator of Malakir
+1 Daretti, Ingenious Iconoclast
+1 Banishing Light
+1 Custodi Lich
+1 Vivien Reid
+1 Angel of Invention
+1 Sphinx of the Steel Wind
+1 Sword of Truth and Justice
+1 Zealous Conscripts
+1 Feldon of the Third Path

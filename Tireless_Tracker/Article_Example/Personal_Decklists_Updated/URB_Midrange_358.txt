@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Midrange_Combo
+Record: 3-0
+Games: 6-2
+
+1 Entomb
+1 Liliana, the Last Hope
+1 Vampiric Tutor
+1 Reanimate
+1 Plague Engineer
+1 Heir of Falkenrath
+1 Languish
+1 Life // Death
+1 Sphinx of the Steel Wind
+1 Grim Monolith
+1 Demonic Tutor
+1 Shriekmaw
+1 Kitesail Freebooter
+1 Oona's Prowler
+1 Ashiok, Nightmare Weaver
+1 Compulsive Research
+1 Preordain
+1 Emrakul, the Promised End
+1 Dance of the Dead
+1 Grave Titan
+1 Necromancy
+1 Dack Fayden
+1 Inquisition of Kozilek
+1 Blood Crypt
+1 Bloodstained Mire
+1 Creeping Tar Pit
+1 Shelldock Isle
+1 Underground Sea
+1 Verdant Catacombs
+1 Snow-Covered Mountain
+6 Snow-Covered Swamp
+4 Snow-Covered Island
+
+1 Hornet Queen
+1 Giver of Runes
+1 Overgrown Tomb
+1 Vivien's Arkbow
+1 Goblin Cratermaker
+1 Wheel of Fortune
+1 Kolaghan's Command
+1 Trostani Discordant
+1 Brain Maggot
+1 Dark Confidant
+1 Mesmeric Fiend
+1 Vindicate
+1 Braids, Cabal Minion
+1 Custodi Lich
+1 Show and Tell
+1 Gonti, Lord of Luxury

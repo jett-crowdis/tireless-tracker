@@ -1,0 +1,33 @@
+Colors: UB
+Archetype: Control
+Record: 2-1
+Games: 4.5-3.0
+
+1 Miscalculation
+1 Worn Powerstone
+1 Treachery
+1 Glen Elendra Archmage
+1 Consecrated Sphinx
+1 Griselbrand
+1 Cryptic Command
+1 Jace, the Mind Sculptor
+1 Reanimate
+1 Karn Liberated
+1 Go for the Throat
+1 Jace, Vryn's Prodigy
+1 True-Name Nemesis
+1 Entomb
+1 Aetherling
+1 Dream Noble
+1 Wurmcoil Engine
+1 Sphere of the Suns
+1 Mana Drain
+1 Imprisoned in the Moon
+1 Animate Dead
+1 Amulet of Power
+1 Vedalken Shackles
+1 Watery Grave
+1 Shelldock Isle
+1 Underground Sea
+4 Swamp
+10 Island

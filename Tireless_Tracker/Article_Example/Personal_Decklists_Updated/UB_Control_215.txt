@@ -1,0 +1,55 @@
+Colors: UB
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Mystic Confluence
+1 Ponder
+1 Wurmcoil Engine
+1 Duress
+1 Phantasmal Image
+1 Toxic Deluge
+1 Ashiok, Nightmare Weaver
+1 Kitesail Freebooter
+1 Thoughtseize
+1 Hero's Downfall
+1 Mesmeric Fiend
+1 Mind Twist
+1 Coalition Relic
+1 Fractured Identity
+1 Languish
+1 Damnation
+1 Chart a Course
+1 Consecrated Sphinx
+1 Liliana, the Last Hope
+1 The Scarab God
+1 Tezzeret, Artifice Master
+1 Lingering Souls
+1 Myr Battlesphere
+1 Creeping Tar Pit
+5 Snow-Covered Island
+1 Marsh Flats
+1 Nurturing Peatland
+1 Snow-Covered Plains
+1 Silent Clearing
+5 Snow-Covered Swamp
+1 Tundra
+1 Underground Sea
+
+1 Mutavault
+1 Bloodsoaked Champion
+1 Dread Wanderer
+1 Condemn
+1 Reanimate
+1 Heir of Falkenrath
+1 Life // Death
+1 Banishing Light
+1 Ranger-Captain of Eos
+1 Kalitas, Traitor of Ghet
+1 Territorial Hellkite
+1 Gideon Jura
+1 Sun Titan
+1 Griselbrand
+1 Ancient Stone Idol
+1 Doom Whisperer
+1 Island

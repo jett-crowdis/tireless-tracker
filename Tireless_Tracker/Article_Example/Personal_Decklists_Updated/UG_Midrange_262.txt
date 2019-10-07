@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-2
+
+1 Jace, the Mind Sculptor
+1 Elvish Mystic
+1 Birds of Paradise
+1 Llanowar Elves
+1 Worn Powerstone
+1 Nissa, Vital Force
+1 Harmonize
+1 Trumpeting Herd
+1 Vivien Reid
+1 Mind Stone
+1 Everflowing Chalice
+1 Ice-Fang Coatl
+1 Plow Under
+1 Walking Ballista
+1 Counterspell
+1 Sword of Fire and Ice
+1 Acidic Slime
+1 Mox Diamond
+1 Wolfbriar Elemental
+1 Avacyn's Pilgrim
+1 Tireless Tracker
+1 Remand
+1 Dismember
+1 Wall of Blossoms
+1 City of Brass
+1 Gaea's Cradle
+1 Misty Rainforest
+1 Treetop Village
+1 Tropical Island
+6 Snow-Covered Forest
+5 Snow-Covered Island
+
+1 Blast Zone
+1 Hangarback Walker
+1 Gutterbones
+1 Burst Lightning
+1 Sorcerous Spyglass
+1 Assassin's Trophy
+1 Lightning Helix
+1 Adanto Vanguard
+1 Finale of Glory
+1 Basalt Monolith
+1 Braids, Cabal Minion
+1 Natural Order
+1 Ajani Vengeant
+1 Sorin, Lord of Innistrad
+1 Supreme Verdict
+1 Wildfire

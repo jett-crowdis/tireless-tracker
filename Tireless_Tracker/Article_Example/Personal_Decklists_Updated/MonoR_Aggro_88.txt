@@ -1,0 +1,34 @@
+Colors: R
+Archetype: Aggro
+Record: 2-0
+Games: 4.0-1.0
+
+1 Light Up the Stage
+1 Dismissive Pyromancer
+1 Fiery Confluence
+1 Stormblood Berserker
+1 Arc Trail
+1 Smuggler's Copter
+1 Legion Warboss
+1 Kari Zev, Skyship Raider
+1 Grim Lavamancer
+1 Lightning Strike
+1 Monastery Swiftspear
+1 Incinerate
+1 Firedrinker Satyr
+1 Searing Spear
+1 Chrome Mox
+1 Wheel of Fortune
+1 Experimental Frenzy
+1 Koth of the Hammer
+1 Chandra, Torch of Defiance
+1 Hellrider
+1 Sulfuric Vortex
+1 Young Pyromancer
+1 Figure of Destiny
+1 Goblin Rabblemaster
+1 Porcelain Legionnaire
+1 Wasteland
+1 Arid Mesa
+1 Ancient Tomb
+12 Mountain

@@ -1,0 +1,53 @@
+Colors: RB
+Archetype: Aggro
+Record: 2-1
+Games: 4-3
+
+1 Umezawa's Jitte
+1 Pack Rat
+1 Smuggler's Copter
+1 Phyrexian Revoker
+1 Dark Confidant
+1 Goblin Cratermaker
+1 Legion Warboss
+1 Firedrinker Satyr
+1 Earthshaker Khenra
+1 Kitesail Freebooter
+1 Dreadbore
+1 Jackal Pup
+1 Goblin Guide
+1 Hanweir Garrison
+1 Sulfuric Vortex
+1 Brain Maggot
+1 Doom Blade
+1 Falkenrath Gorger
+1 Bitterblossom
+1 Rakdos Cackler
+1 Zurgo Bellstriker
+1 Scrapheap Scrounger
+1 Stormblood Berserker
+1 Duress
+1 Arid Mesa
+1 Badlands
+1 Bloodstained Mire
+1 Polluted Delta
+1 Sulfurous Springs
+5 Snow-Covered Swamp
+6 Snow-Covered Mountain
+
+1 Raging Ravine
+1 Savannah
+1 Sheltered Thicket
+1 Fatal Push
+1 Utopia Sprawl
+1 Figure of Destiny
+1 Demonic Tutor
+1 Dire Fleet Daredevil
+1 Dismissive Pyromancer
+1 Young Pyromancer
+1 Braids, Cabal Minion
+1 Gonti, Lord of Luxury
+1 Custodi Lich
+1 Acidic Slime
+1 Bonesplitter
+1 Krenko, Tin Street Kingpin

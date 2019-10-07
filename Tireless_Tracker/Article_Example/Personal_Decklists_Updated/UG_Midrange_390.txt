@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 4-4
+
+1 Opposition
+1 Elves of Deep Shadow
+1 Natural Order
+1 Fauna Shaman
+1 Sakura-Tribe Elder
+1 Tireless Tracker
+1 Survival of the Fittest
+1 Plow Under
+1 Hexdrinker
+1 Elvish Mystic
+1 Nissa, Steward of Elements
+1 Garruk Wildspeaker
+1 Wall of Roots
+1 Ice-Fang Coatl
+1 Myr Battlesphere
+1 Acidic Slime
+1 Birds of Paradise
+1 Kodama's Reach
+1 Rofellos, Llanowar Emissary
+1 Hydroid Krasis
+1 Noble Hierarch
+1 Compulsive Research
+1 Biogenic Ooze
+1 Garruk, Primal Hunter
+1 Breeding Pool
+1 Lumbering Falls
+1 Misty Rainforest
+1 Verdant Catacombs
+3 Snow-Covered Island
+9 Snow-Covered Forest
+
+1 Hangarback Walker
+1 Gutterbones
+1 Bomat Courier
+1 Vivien's Arkbow
+1 Nature's Chant
+1 Ophiomancer
+1 Basalt Monolith
+1 Scroll of Fate
+1 Daretti, Ingenious Iconoclast
+1 Teferi, Time Raveler
+1 Braids, Cabal Minion
+1 Supreme Verdict
+1 Territorial Hellkite
+1 Palace Jailer
+1 Tezzeret, Artifice Master
+1 Treasure Cruise
+1 Vendilion Clique

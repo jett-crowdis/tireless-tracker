@@ -1,0 +1,53 @@
+Colors: WB
+Archetype: Aggro
+Record: 2-2
+Games: 4-4
+
+1 Smuggler's Copter
+1 Pack Rat
+1 Mother of Runes
+1 Porcelain Legionnaire
+1 Thoughtseize
+1 Skymarcher Aspirant
+1 Doom Blade
+1 Kytheon, Hero of Akros
+1 Swords to Plowshares
+1 Bloodsoaked Champion
+1 Duress
+1 Lingering Souls
+1 Umezawa's Jitte
+1 Diregraf Ghoul
+1 Vindicate
+1 Mind Twist
+1 Scrapheap Scrounger
+1 Kitesail Freebooter
+1 Skullclamp
+1 Dark Confidant
+1 Go for the Throat
+1 Sarcomancy
+1 Dreadhorde Invasion
+1 Gravecrawler
+1 Caves of Koilos
+1 City of Brass
+1 Flooded Strand
+1 Godless Shrine
+6 Plains
+6 Swamp
+
+1 Lavaclaw Reaches
+1 Llanowar Wastes
+1 Enlightened Tutor
+1 Mana Tithe
+1 Student of Warfare
+1 Night's Whisper
+1 Finale of Devastation
+1 Drana, Liberator of Malakir
+1 Mardu Strike Leader
+1 Mimic Vat
+1 Nekrataal
+1 Sorin, Lord of Innistrad
+1 Batterskull
+1 Armageddon
+1 Ravages of War
+1 Imposing Sovereign
+1 Gideon of the Trials

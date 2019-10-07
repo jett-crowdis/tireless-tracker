@@ -1,0 +1,55 @@
+Colors: URBW
+Archetype: Control
+Record: 2-1
+Games: 5-3
+
+1 Mind Twist
+1 Talisman of Progress
+1 Talisman of Conviction
+1 Baleful Strix
+1 Talisman of Curiosity
+1 Elspeth, Sun's Champion
+1 Saheeli, the Gifted
+1 Balance
+1 Inferno Titan
+1 Chandra, Flamecaller
+1 Fractured Identity
+1 Karn, Scion of Urza
+1 Path to Exile
+1 The Scarab God
+1 Saheeli, Sublime Artificer
+1 Night's Whisper
+1 Elspeth, Knight-Errant
+1 Scour All Possibilities
+1 Treasure Cruise
+1 Talisman of Dominance
+1 Swords to Plowshares
+1 Ugin, the Spirit Dragon
+1 Mind Stone
+1 Gideon, Ally of Zendikar
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Fiery Islet
+1 Hallowed Fountain
+1 Irrigated Farmland
+1 Scalding Tarn
+1 Steam Vents
+1 Underground Sea
+1 Swamp
+2 Snow-Covered Mountain
+1 Snow-Covered Island
+4 Snow-Covered Plains
+
+1 Unexpectedly Absent
+1 Overgrowth
+1 Ashiok, Nightmare Weaver
+1 Pernicious Deed
+1 Gonti, Lord of Luxury
+1 Whirler Rogue
+1 Thrun, the Last Troll
+1 Hazoret the Fervent
+1 Hero of Bladehold
+1 Wrath of God
+1 Gideon Jura
+1 Burning of Xinye
+1 Moat

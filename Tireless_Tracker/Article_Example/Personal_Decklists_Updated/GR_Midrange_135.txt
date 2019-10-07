@@ -1,0 +1,53 @@
+Colors: GR
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-4
+
+1 Craterhoof Behemoth
+1 Wild Growth
+1 Terastodon
+1 Woodfall Primus
+1 Glorybringer
+1 Fauna Shaman
+1 Nissa, Vital Force
+1 Kodama's Reach
+1 Scavenging Ooze
+1 Birds of Paradise
+1 Thundermaw Hellkite
+1 Utopia Sprawl
+1 Sylvan Library
+1 Wheel of Fortune
+1 Dragonlord Atarka
+1 Garruk Relentless
+1 Elvish Mystic
+1 Noble Hierarch
+1 Garruk, Primal Hunter
+1 Sneak Attack
+1 Elves of Deep Shadow
+1 Blast from the Past
+1 Ilharg, the Raze-Boar
+1 Gaea's Cradle
+1 Raging Ravine
+1 Scalding Tarn
+1 Sheltered Thicket
+1 Stomping Ground
+1 Taiga
+6 Forest
+5 Mountain
+
+1 Ash Barrens
+1 Gutterbones
+1 Legion's Landing
+1 Mana Tithe
+1 Goblin Cratermaker
+1 Life // Death
+1 Knight of Autumn
+1 Pernicious Deed
+1 Solar Blaze
+1 Sorin, Lord of Innistrad
+1 Flametongue Kavu
+1 Siege-Gang Commander
+1 Thragtusk
+1 Griselbrand
+1 Lightning Strike
+1 Hanweir Garrison

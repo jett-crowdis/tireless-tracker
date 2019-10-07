@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Goblin Guide
+1 Rakdos Cackler
+1 Icehide Golem
+1 Incinerate
+1 Monastery Swiftspear
+1 Kari Zev, Skyship Raider
+1 Territorial Hellkite
+1 Fiery Confluence
+1 Hellrider
+1 Chain Lightning
+1 Eidolon of the Great Revel
+1 Firebolt
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Arc Trail
+1 Jackal Pup
+1 Skullclamp
+1 Grim Lavamancer
+1 Firedrinker Satyr
+1 Light Up the Stage
+1 Bonesplitter
+1 Dire Fleet Daredevil
+1 Fireblast
+1 Chandra, Torch of Defiance
+1 Mishra's Factory
+1 Strip Mine
+1 Wasteland
+13 Snow-Covered Mountain
+
+1 Plateau
+1 Sulfurous Springs
+1 Rolling Earthquake
+1 Dauntless Bodyguard
+1 Mother of Runes
+1 Oath of Druids
+1 Vivien's Arkbow
+1 Justice Strike
+1 Narset, Parter of Veils
+1 Knight of Autumn
+1 Blade Splicer
+1 Braids, Cabal Minion
+1 Fleetwheel Cruiser
+1 Hedron Archive
+1 Hazoret the Fervent
+1 Armageddon
+1 Wrath of God
+1 Mutavault

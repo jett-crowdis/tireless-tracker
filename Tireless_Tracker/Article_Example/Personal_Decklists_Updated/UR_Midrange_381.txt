@@ -1,0 +1,35 @@
+Colors: UR
+Archetype: Midrange
+Record: 3-0
+Games: 6-3
+
+1 Tropical Island
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Polluted Delta
+1 Shelldock Isle
+1 Ponder
+1 Remand
+1 Search for Azcanta
+1 Pyroclasm
+1 Memory Lapse
+1 Watcher for Tomorrow
+1 Mana Drain
+1 Izzet Charm
+1 Phantasmal Image
+1 Thirst for Knowledge
+1 Dack Fayden
+1 Vendilion Clique
+1 Worn Powerstone
+1 Condescend
+1 Chandra, Torch of Defiance
+1 Fiery Confluence
+1 Jace, the Mind Sculptor
+1 Phyrexian Metamorph
+1 Force of Will
+1 Bribery
+1 Mystic Confluence
+1 Torrential Gearhulk
+1 Emrakul, the Promised End
+7 Snow-Covered Island
+6 Snow-Covered Mountain

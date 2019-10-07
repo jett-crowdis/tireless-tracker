@@ -1,0 +1,54 @@
+Colors: UWB
+Archetype: Control
+Record: 0-3
+Games: 1-6
+
+1 Jace, the Mind Sculptor
+1 Fact or Fiction
+1 Glen Elendra Archmage
+1 Force of Will
+1 Bitterblossom
+1 Mana Leak
+1 Bribery
+1 Serra the Benevolent
+1 Wall of Omens
+1 Gideon of the Trials
+1 Liliana, Dreadhorde General
+1 Oblivion Ring
+1 Consecrated Sphinx
+1 The Scarab God
+1 Negate
+1 Looter il-Kor
+1 Miscalculation
+1 Vampiric Tutor
+1 Angel of Sanctions
+1 Moat
+1 Unexpectedly Absent
+1 Mox Diamond
+1 Condemn
+1 Creeping Tar Pit
+1 Flooded Strand
+1 Hallowed Fountain
+1 Scrubland
+1 Silent Clearing
+1 Underground Sea
+2 Snow-Covered Swamp
+5 Snow-Covered Island
+4 Snow-Covered Plains
+
+1 Overgrown Tomb
+1 Diregraf Ghoul
+1 Dread Wanderer
+1 Dauntless Bodyguard
+1 Student of Warfare
+1 Assassin's Trophy
+1 Tidehollow Sculler
+1 Precinct Captain
+1 Selfless Spirit
+1 Show and Tell
+1 Domri, Anarch of Bolas
+1 Cryptic Command
+1 Angel of Invention
+1 Recruiter of the Guard
+1 Phantasmal Image
+1 City of Brass

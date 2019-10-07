@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 0-3
+Games: 2-6
+
+1 Sulfuric Vortex
+1 Umezawa's Jitte
+1 Eidolon of the Great Revel
+1 Young Pyromancer
+1 Magma Jet
+1 Stormblood Berserker
+1 Goblin Rabblemaster
+1 Monastery Swiftspear
+1 Zurgo Bellstriker
+1 Searing Spear
+1 Dismember
+1 Goblin Guide
+1 Firedrinker Satyr
+1 Rakdos Cackler
+1 Grafted Wargear
+1 Goblin Cratermaker
+1 Chain Lightning
+1 Jackal Pup
+1 Kari Zev, Skyship Raider
+1 Bomat Courier
+1 Seasoned Pyromancer
+1 Falkenrath Gorger
+1 Hanweir Garrison
+1 Abrade
+1 Mox Diamond
+1 Strip Mine
+1 Wasteland
+13 Snow-Covered Mountain
+
+1 Entomb
+1 Gravecrawler
+1 Imperial Seal
+1 Bonesplitter
+1 Rolling Earthquake
+1 Animate Dead
+1 Scrapheap Scrounger
+1 Lightning Helix
+1 Drana, Liberator of Malakir
+1 Liliana of the Veil
+1 Basalt Monolith
+1 Wheel of Fortune
+1 Ajani Vengeant
+1 Territorial Hellkite
+1 Thundermaw Hellkite
+1 Griselbrand
+1 Sword of Truth and Justice
+1 Grim Lavamancer

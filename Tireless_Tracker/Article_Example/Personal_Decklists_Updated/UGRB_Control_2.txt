@@ -1,0 +1,42 @@
+Colors: UGRB
+Archetype: Control_Combo
+Record: 1-1
+Games: 2.5-2.5
+
+1 Oath of Druids
+1 Lightning Strike
+1 Sylvan Library
+1 Amulet of Power
+1 Dimir Signet
+1 Dismember
+1 Grim Monolith
+1 Lotus Cobra
+1 Coldsteel Heart
+1 Flowerescence
+1 Compulsive Research
+1 Kolaghan's Command
+1 Kodama's Reach
+1 Thirst for Knowledge
+1 Sneak Attack
+1 Gilded Lotus
+1 Hedron Archive
+1 Burning of Xinye
+1 Inferno Titan
+1 Ulamog, the Ceaseless Hunger
+1 Myr Battlesphere
+1 Grave Titan
+1 Wurmcoil Engine
+1 Evolving Wilds
+1 Sulfurous Springs
+1 Bloodstained Mire
+1 Bayou
+1 Taiga
+1 Stomping Ground
+1 Ancient Tomb
+1 Misty Rainforest
+1 Scalding Tarn
+1 Llanowar Wastes
+2 Swamp
+3 Forest
+1 Island
+1 Mountain

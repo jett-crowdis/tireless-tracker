@@ -1,0 +1,34 @@
+Colors: WB
+Archetype: Midrange
+Record: 2-4
+Games: 6.0-9.0
+
+1 Mox Diamond
+1 Duress
+1 Hymn to Tourach
+1 Mind Stone
+1 Grim Monolith
+1 Hangarback Walker
+1 Bitterblossom
+1 Wall of Omens
+1 Pack Rat
+1 Unexpectedly Absent
+1 Toxic Deluge
+1 Coalition Relic
+1 Mimic Vat
+1 Recruiter of the Guard
+1 Sunforge Adept
+1 Sorin, Lord of Innistrad
+1 Gonti, Lord of Luxury
+1 Solemn Simulacrum
+1 Karn, Scion of Urza
+1 Angel of Sanctions
+1 Angel of Invention
+1 Grave Titan
+1 Ugin, the Spirit Dragon
+1 Godless Shrine
+1 Verdant Catacombs
+1 Caves of Koilos
+1 Flooded Strand
+7 Swamp
+6 Plains

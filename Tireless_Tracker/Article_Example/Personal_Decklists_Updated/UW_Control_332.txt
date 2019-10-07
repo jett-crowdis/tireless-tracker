@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 0-3
+Games: 0-6
+
+1 Coldsteel Heart
+1 Elspeth, Sun's Champion
+1 Teferi, Hero of Dominaria
+1 Mana Leak
+1 Phyrexian Metamorph
+1 Wrath of God
+1 Thirst for Knowledge
+1 Winds of Abandon
+1 Talisman of Conviction
+1 Azorius Signet
+1 Moat
+1 Recruiter of the Guard
+1 Finale of Glory
+1 Callous Dismissal
+1 Swords to Plowshares
+1 Supreme Verdict
+1 Talisman of Progress
+1 Sower of Temptation
+1 Preordain
+1 Mystic Confluence
+1 Serra the Benevolent
+1 Kitchen Finks
+1 Palace Jailer
+1 Condemn
+1 Celestial Colonnade
+1 Frostwalk Bastion
+1 Hallowed Fountain
+1 Tundra
+6 Snow-Covered Island
+6 Snow-Covered Plains
+
+1 Voracious Hydra
+1 Kari Zev, Skyship Raider
+1 Garruk, Primal Hunter
+1 Scattered Groves
+1 Mesmeric Fiend
+1 Oona's Prowler
+1 Oath of Druids
+1 Drana, Liberator of Malakir
+1 Sword of Fire and Ice
+1 Sword of Truth and Justice
+1 Vindicate
+1 Mystical Tutor
+1 Giver of Runes
+1 Enlightened Tutor
+1 Angel of Sanctions
+1 Lyra Dawnbringer
+1 Angel of Invention

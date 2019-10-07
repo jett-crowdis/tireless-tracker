@@ -1,0 +1,35 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 0-3
+Games: 1.5-6.0
+
+1 Sakura-Tribe Elder
+1 Avenger of Zendikar
+1 Lotus Cobra
+1 Polukranos, World Eater
+1 Show and Tell
+1 Craterhoof Behemoth
+1 Sylvan Caryatid
+1 Song of the Dryads
+1 Green Sun's Zenith
+1 Rofellos, Llanowar Emissary
+1 Harmonize
+1 Fyndhorn Elves
+1 Hornet Queen
+1 Eternal Witness
+1 True-Name Nemesis
+1 Mystic Snake
+1 Kodama's Reach
+1 Thrun, the Last Troll
+1 Nissa, Worldwaker
+1 Simic Signet
+1 Sylvan Advocate
+1 Wurmcoil Engine
+1 Basalt Monolith
+1 Birds of Paradise
+2 Wooded Foothills
+1 Tropical Island
+1 Verdant Catacombs
+1 Flooded Strand
+1 Island
+10 Forest

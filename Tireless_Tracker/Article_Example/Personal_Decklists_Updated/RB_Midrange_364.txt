@@ -1,0 +1,31 @@
+Colors: RB
+Archetype: Midrange_Combo
+Record: 0-3
+Games: 2-6
+
+9 Snow-Covered Swamp
+6 Snow-Covered Mountain
+1 Blood Crypt
+1 Thoughtseize
+1 Entomb
+1 Fatal Push
+1 Vampiric Tutor
+1 Chain Lightning
+1 Searing Spear
+1 Dance of the Dead
+1 Life//Death
+1 Kitesail Freebooter
+1 Abrade
+1 Pack Rat
+1 Seasoned Pyromancer
+1 Hero's Downfall
+1 Drana, Liberator of Malakir
+1 Feldon of the Third Path
+1 Wheel of Fortune
+1 Damnation
+1 Nekrataal
+1 Ilharg, the Raze-Boar
+1 Zealous Conscript
+1 Shriekmaw
+1 Inferno Titan
+1 Ulamog, the Ceaseless Hunger

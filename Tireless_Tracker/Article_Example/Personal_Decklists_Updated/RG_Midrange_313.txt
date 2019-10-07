@@ -1,0 +1,53 @@
+Colors: RG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Lightning Bolt
+1 Through the Breach
+1 Carnage Tyrant
+1 Utopia Sprawl
+1 Abrade
+1 Jadelight Ranger
+1 Scavenging Ooze
+1 Emrakul, the Aeons Torn
+1 Rofellos, Llanowar Emissary
+1 Channel
+1 Elves of Deep Shadow
+1 Tireless Tracker
+1 Voracious Hydra
+1 Lotus Cobra
+1 Sylvan Caryatid
+1 Magma Jet
+1 Domri, Anarch of Bolas
+1 Thragtusk
+1 Vivien Reid
+1 Ilharg, the Raze-Boar
+1 Domri, Chaos Bringer
+1 Zealous Conscripts
+1 Glorybringer
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+7 Snow-Covered Mountain
+7 Snow-Covered Forest
+
+1 Saheeli, the Gifted
+1 Steam Vents
+1 Badlands
+1 Rolling Earthquake
+1 Green Sun's Zenith
+1 Dire Fleet Daredevil
+1 Dismissive Pyromancer
+1 Goblin Cratermaker
+1 Pernicious Deed
+1 Damnation
+1 Nature's Chant
+1 Vivien's Arkbow
+1 Hanweir Garrison
+1 Thrun, the Last Troll
+1 Trostani Discordant
+1 Siege-Gang Commander
+1 Thundermaw Hellkite
+1 Chandra, Flamecaller
+1 Nightpack Ambusher

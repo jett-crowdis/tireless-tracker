@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 3-5
+
+1 Jace, the Mind Sculptor
+1 Elspeth, Knight-Errant
+1 Teferi, Hero of Dominaria
+1 Counterspell
+1 Secure the Wastes
+1 Serra the Benevolent
+1 Supreme Verdict
+1 Teferi, Time Raveler
+1 Azorius Signet
+1 Preordain
+1 Moat
+1 Wall of Omens
+1 Tezzeret, Artifice Master
+1 Callous Dismissal
+1 Solemn Simulacrum
+1 Winds of Abandon
+1 Condemn
+1 Watcher for Tomorrow
+1 Finale of Glory
+1 Wrath of God
+1 Basalt Monolith
+1 Sun Titan
+1 Dismember
+1 Hallowed Fountain
+1 Irrigated Farmland
+7 Snow-Covered Island
+8 Snow-Covered Plains
+
+1 Savannah
+1 Falkenrath Gorger
+1 Enlightened Tutor
+1 Fauna Shaman
+1 Dreadbore
+1 Lightning Helix
+1 Tidehollow Sculler
+1 Arcane Artisan
+1 Knight of Autumn
+1 Blade Splicer
+1 Flickerwisp
+1 Territorial Hellkite
+1 Hero of Bladehold
+1 Ravages of War
+1 Day of Judgment
+1 Force of Will
+1 Siege-Gang Commander
+1 Angel of Invention
+1 Myr Battlesphere
+1 Elesh Norn, Grand Cenobite

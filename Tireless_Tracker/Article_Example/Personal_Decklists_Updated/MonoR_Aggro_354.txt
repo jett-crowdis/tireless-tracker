@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Fiery Confluence
+1 Lightning Strike
+1 Firedrinker Satyr
+1 Arc Trail
+1 Fireblast
+1 Firebolt
+1 Falkenrath Gorger
+1 Goblin Rabblemaster
+1 Porcelain Legionnaire
+1 Incinerate
+1 Young Pyromancer
+1 Rakdos Cackler
+1 Zurgo Bellstriker
+1 Experimental Frenzy
+1 Eidolon of the Great Revel
+1 Kari Zev, Skyship Raider
+1 Sulfuric Vortex
+1 Jackal Pup
+1 Hanweir Garrison
+1 Chain Lightning
+1 Smuggler's Copter
+1 Dismissive Pyromancer
+1 Grim Lavamancer
+1 Grafted Wargear
+1 Sunbaked Canyon
+1 Wasteland
+1 Chrome Mox
+13 Snow-Covered Mountain
+
+1 Coalition Relic
+1 Liliana of the Veil
+1 Isamaru, Hound of Konda
+1 Go for the Throat
+1 Braids, Cabal Minion
+1 Badlands
+1 Gravecrawler
+1 Thoughtseize
+1 Sensei's Divining Top
+1 Sorcerous Spyglass
+1 Dreadbore
+1 Curse of Disturbance
+1 Hero's Downfall
+1 Sword of Feast and Famine
+1 Pernicious Deed
+1 Saheeli, Sublime Artificer
+1 Moat
+1 Deep Forest Hermit

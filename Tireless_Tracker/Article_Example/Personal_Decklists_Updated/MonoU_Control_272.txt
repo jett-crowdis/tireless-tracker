@@ -1,0 +1,52 @@
+Colors: U
+Archetype: Control
+Record: 0-3
+Games: 2-6
+
+1 Ulamog, the Ceaseless Hunger
+1 Mystic Confluence
+1 Treachery
+1 Snapcaster Mage
+1 Dig Through Time
+1 Show and Tell
+1 Sundering Titan
+1 Hedron Archive
+1 Mana Leak
+1 Worn Powerstone
+1 Preordain
+1 Bribery
+1 Will Kenrith
+1 Arcane Artisan
+1 Tinker
+1 Ponder
+1 Chart a Course
+1 Talisman of Curiosity
+1 Basalt Monolith
+1 Force of Will
+1 Blightsteel Colossus
+1 Spell Pierce
+1 Memory Lapse
+1 Shelldock Isle
+16 Snow-Covered Island
+
+1 Celestial Colonnade
+1 Scrapheap Scrounger
+1 Magma Jet
+1 Oath of Druids
+1 Domri, Anarch of Bolas
+1 Lingering Souls
+1 Languish
+1 Supreme Verdict
+1 Territorial Hellkite
+1 Day of Judgment
+1 Wrath of God
+1 Custodi Lich
+1 Dragonlord Atarka
+1 Mimic Vat
+1 Treasure Cruise
+1 Champion of Wits
+1 Compulsive Research
+1 Solemn Simulacrum
+1 Gilded Lotus
+1 Emrakul, the Promised End
+1 Looter il-Kor

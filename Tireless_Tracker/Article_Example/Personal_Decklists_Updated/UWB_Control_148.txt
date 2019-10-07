@@ -1,0 +1,54 @@
+Colors: UWB
+Archetype: Control
+Record: 2-1
+Games: 4-4
+
+1 Grim Monolith
+1 Consecrated Sphinx
+1 Grave Titan
+1 Mind Stone
+1 Damnation
+1 Shriekmaw
+1 Winds of Abandon
+1 Coalition Relic
+1 Simic Signet
+1 Dimir Signet
+1 Gilded Lotus
+1 Sensei's Divining Top
+1 Banishing Light
+1 Night's Whisper
+1 Gonti, Lord of Luxury
+1 Vindicate
+1 Vampiric Tutor
+1 Mind Twist
+1 Demonic Tutor
+1 Thoughtseize
+1 Mulldrifter
+1 Brainstorm
+1 Inquisition of Kozilek
+1 City of Brass
+1 Godless Shrine
+1 Hallowed Fountain
+1 Marsh Flats
+1 Polluted Delta
+1 Silent Clearing
+1 Watery Grave
+2 Island
+3 Plains
+5 Swamp
+
+1 Gutterbones
+1 Grim Lavamancer
+1 Bitterblossom
+1 Dark Confidant
+1 Exhume
+1 Kitesail Freebooter
+1 Hero's Downfall
+1 Ophiomancer
+1 Jace Beleren
+1 Daretti, Ingenious Iconoclast
+1 Brimaz, King of Oreskos
+1 Xenagos, the Reveler
+1 Nekrataal
+1 Blightsteel Colossus
+1 Dismember

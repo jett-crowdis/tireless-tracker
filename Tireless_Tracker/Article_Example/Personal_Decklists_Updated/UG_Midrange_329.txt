@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Elvish Mystic
+1 Tireless Tracker
+1 Survival of the Fittest
+1 Nightpack Ambusher
+1 Wild Growth
+1 Hexdrinker
+1 Birds of Paradise
+1 Woodfall Primus
+1 Myr Battlesphere
+1 Upheaval
+1 Opposition
+1 Kodama's Reach
+1 Nissa, Vital Force
+1 Nissa, Voice of Zendikar
+1 Deep Forest Hermit
+1 Fact or Fiction
+1 Solemn Simulacrum
+1 Paradise Druid
+1 Treasure Cruise
+1 Sylvan Caryatid
+1 Elves of Deep Shadow
+1 Courser of Kruphix
+1 Biogenic Ooze
+1 City of Brass
+1 Tropical Island
+1 Skullclamp
+8 Snow-Covered Forest
+6 Snow-Covered Island
+
+1 Lavaclaw Reaches
+1 Sunbaked Canyon
+1 Pyroclasm
+1 Sneak Attack
+1 Ilharg, the Raze-Boar
+1 Siege-Gang Commander
+1 Languish
+1 Vampiric Tutor
+1 Bloodghast
+1 Tidehollow Sculler
+1 Liliana, the Last Hope
+1 Necromancy
+1 Recurring Nightmare
+1 Mimic Vat
+1 Flickerwisp
+1 Horizon Canopy
+1 Liliana of the Veil
+1 Harmonize
+1 Plow Under

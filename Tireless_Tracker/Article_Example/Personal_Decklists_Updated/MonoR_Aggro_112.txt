@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 3-0
+Games: 6-3
+
+1 Fiery Confluence
+1 Fireblast
+1 Jackal Pup
+1 Searing Spear
+1 Rakdos Cackler
+1 Burst Lightning
+1 Earthshaker Khenra
+1 Figure of Destiny
+1 Legion Warboss
+1 Sulfuric Vortex
+1 Firebolt
+1 Goblin Rabblemaster
+1 Eidolon of the Great Revel
+1 Firedrinker Satyr
+1 Arc Trail
+1 Lightning Bolt
+1 Goblin Guide
+1 Incinerate
+1 Goblin Cratermaker
+1 Zurgo Bellstriker
+1 Experimental Frenzy
+1 Light Up the Stage
+1 Koth of the Hammer
+1 Winter Orb
+1 Strip Mine
+15 Mountain
+
+1 Blood Crypt
+1 Horizon Canopy
+1 Mana Confluence
+1 Plateau
+1 Sheltered Thicket
+1 Mind Twist
+1 Scrapheap Scrounger
+1 Fauna Shaman
+1 Oath of Druids
+1 Precinct Captain
+1 Drana, Liberator of Malakir
+1 Armageddon
+1 Elesh Norn, Grand Cenobite
+1 Glorybringer
+1 Flametongue Kavu
+1 Arc Lightning
+1 Dismissive Pyromancer
+1 Phyrexian Revoker
+1 Bonesplitter
+1 Grim Lavamancer

@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Midrange
+Record: 2-1
+Games: 4-3
+
+1 Ponder
+1 Talisman of Conviction
+1 Serum Visions
+1 Control Magic
+1 Spell Pierce
+1 Sarkhan the Masterless
+1 Saheeli, Sublime Artificer
+1 Izzet Charm
+1 Koth of the Hammer
+1 Dack Fayden
+1 Karn, Scion of Urza
+1 Chandra, Torch of Defiance
+1 Blast from the Past
+1 Vendilion Clique
+1 Cryptic Command
+1 Mu Yanling, Sky Dancer
+1 Lightning Strike
+1 Talisman of Dominance
+1 Will Kenrith
+1 Memory Lapse
+1 Sower of Temptation
+1 Sorcerous Spyglass
+1 Jace Beleren
+1 Fiery Islet
+1 Polluted Delta
+1 Scalding Tarn
+1 Shelldock Isle
+1 Volcanic Island
+6 Snow-Covered Island
+6 Snow-Covered Mountain
+
+1 Lavaclaw Reaches
+1 Lumbering Falls
+1 Mishra's Factory
+1 Sensei's Divining Top
+1 Student of Warfare
+1 Dance of the Dead
+1 Night's Whisper
+1 Phyrexian Revoker
+1 Scrapheap Scrounger
+1 Brimaz, King of Oreskos
+1 Kalitas, Traitor of Ghet
+1 Fleetwheel Cruiser
+1 Xenagos, the Reveler
+1 Hazoret the Fervent
+1 Batterskull
+1 Siege-Gang Commander
+1 Woodfall Primus

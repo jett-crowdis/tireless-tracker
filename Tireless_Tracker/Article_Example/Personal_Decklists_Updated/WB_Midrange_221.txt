@@ -1,0 +1,53 @@
+Colors: WB
+Archetype: Midrange
+Record: 0-3
+Games: 1-6
+
+1 Recurring Nightmare
+1 Dark Confidant
+1 Tidehollow Sculler
+1 Ravenous Chupacabra
+1 Pack Rat
+1 Stoneforge Mystic
+1 Vindicate
+1 Brain Maggot
+1 Recruiter of the Guard
+1 Ophiomancer
+1 Sword of Fire and Ice
+1 Mother of Runes
+1 Giver of Runes
+1 Palace Jailer
+1 Serra the Benevolent
+1 Batterskull
+1 Liliana of the Veil
+1 Blade Splicer
+1 Gideon, Ally of Zendikar
+1 Sword of Sinew and Steel
+1 Thalia, Heretic Cathar
+1 Demonic Tutor
+1 Drana, Liberator of Malakir
+1 Wasteland
+1 Sunbaked Canyon
+1 Scrubland
+1 Godless Shrine
+1 City of Brass
+1 Arid Mesa
+6 Snow-Covered Swamp
+5 Snow-Covered Plains
+
+1 Rishadan Port
+1 Grave Titan
+1 Archangel Avacyn
+1 Thragtusk
+1 Sorin, Lord of Innistrad
+1 Ajani Vengeant
+1 Braids, Cabal Minion
+1 Monastery Mentor
+1 Gideon Blackblade
+1 Flickerwisp
+1 Fatal Push
+1 Isamaru, Hound of Konda
+1 Bloodghast
+1 Oona's Prowler
+1 Student of Warfare
+1 Collective Brutality

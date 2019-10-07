@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 4-4
+
+1 Fractured Identity
+1 Talisman of Dominance
+1 Jace, Vryn's Prodigy
+1 Teferi, Time Raveler
+1 Gideon Jura
+1 Snapcaster Mage
+1 Elspeth, Knight-Errant
+1 Moat
+1 Treachery
+1 Grim Monolith
+1 Narset, Parter of Veils
+1 Tinker
+1 Wall of Omens
+1 Balance
+1 Thirst for Knowledge
+1 Izzet Signet
+1 Everflowing Chalice
+1 Saheeli, Sublime Artificer
+1 Blightsteel Colossus
+1 Winds of Abandon
+1 Sorcerous Spyglass
+1 Sphinx of the Steel Wind
+1 Gideon, Ally of Zendikar
+1 Teferi, Hero of Dominaria
+1 Ancient Tomb
+1 Celestial Colonnade
+1 Frostwalk Bastion
+1 Hallowed Fountain
+1 Irrigated Farmland
+1 Tundra
+5 Snow-Covered Plains
+5 Snow-Covered Island
+
+1 Mother of Runes
+1 Callous Dismissal
+1 Eidolon of the Great Revel
+1 Imposing Sovereign
+1 Sword of Truth and Justice
+1 Feldon of the Third Path
+1 Porcelain Legionnaire
+1 Sorin, Lord of Innistrad
+1 Xenagos, the Reveler
+1 Acidic Slime
+1 Lyra Dawnbringer
+1 Wildfire
+1 Phantasmal Image
+1 Urza, Lord High Artificer
+1 Finale of Glory

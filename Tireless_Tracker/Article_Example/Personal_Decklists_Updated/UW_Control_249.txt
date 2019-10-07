@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 2-1
+Games: 4-3
+
+1 Jace, Vryn's Prodigy
+1 Vedalken Shackles
+1 Vendilion Clique
+1 Counterspell
+1 Bribery
+1 Everflowing Chalice
+1 Solemn Simulacrum
+1 Monastery Mentor
+1 Watcher for Tomorrow
+1 Dig Through Time
+1 Will Kenrith
+1 Force of Will
+1 True-Name Nemesis
+1 Consecrated Sphinx
+1 Sower of Temptation
+1 Cavalier of Gales
+1 Mana Leak
+1 Snapcaster Mage
+1 Negate
+1 Ponder
+1 Chart a Course
+1 Teferi, Hero of Dominaria
+1 Grim Monolith
+1 Celestial Colonnade
+1 Shelldock Isle
+1 Tundra
+1 Windswept Heath
+2 Snow-Covered Plains
+11 Snow-Covered Island
+
+1 Bloodsoaked Champion
+1 Gutterbones
+1 Enlightened Tutor
+1 Merfolk Looter
+1 Hydroid Krasis
+1 Nissa, Steward of Elements
+1 Reclamation Sage
+1 Maelstrom Pulse
+1 Banishing Light
+1 Day of Judgment
+1 Sarkhan the Masterless
+1 Sun Titan
+1 Sundering Titan
+1 God-Eternal Kefnet
+1 Torrential Gearhulk
+1 Walking Ballista
+1 Tezzeret, Artifice Master
+1 Jace Beleren

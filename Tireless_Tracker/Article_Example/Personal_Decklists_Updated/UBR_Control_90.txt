@@ -1,0 +1,36 @@
+Colors: UBR
+Archetype: Control
+Record: 0-3
+Games: 1.5-6.0
+
+1 Imperial Seal
+1 Inquisition of Kozilek
+1 Chain Lightning
+1 Sensei's Divining Top
+1 Bitterblossom
+1 Baleful Strix
+1 Memory Lapse
+1 Doom Blade
+1 Dreadbore
+1 Night's Whisper
+1 Umezawa's Jitte
+1 Phantasmal Image
+1 Sphere of the Suns
+1 Liliana of the Veil
+1 Daretti, Ingenious Iconoclast
+1 Phyrexian Metamorph
+1 Worn Powerstone
+1 Languish
+1 Damnation
+1 Snuff Out
+1 The Scarab God
+1 Grave Titan
+1 Karn Liberated
+1 Scalding Tarn
+1 Lavaclaw Reaches
+1 Watery Grave
+1 Bloodstained Mire
+1 Blood Crypt
+7 Swamp
+3 Mountain
+2 Island

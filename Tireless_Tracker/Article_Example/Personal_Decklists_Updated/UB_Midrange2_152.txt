@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange
+Record: 1-2
+Games: 4-5
+
+1 Tinker
+1 Myr Battlesphere
+1 Baleful Strix
+1 Dismember
+1 Ugin, the Spirit Dragon
+1 Toxic Deluge
+1 Mulldrifter
+1 Phyrexian Revoker
+1 Sphere of the Suns
+1 Ophiomancer
+1 Mana Drain
+1 Scrapheap Scrounger
+1 Solemn Simulacrum
+1 Tezzeret, Artifice Master
+1 Gonti, Lord of Luxury
+1 Doom Blade
+1 Coldsteel Heart
+1 Coalition Relic
+1 Sundering Titan
+1 Shriekmaw
+1 Recurring Nightmare
+1 Liliana of the Veil
+1 Mox Diamond
+1 Creeping Tar Pit
+1 Ash Barrens
+8 Island
+7 Swamp
+
+1 Frostwalk Bastion
+1 Lavaclaw Reaches
+1 Hangarback Walker
+1 Grim Lavamancer
+1 Rolling Earthquake
+1 Mother of Runes
+1 Bloodghast
+1 Winter Orb
+1 Dreadbore
+1 Arc Trail
+1 Dismissive Pyromancer
+1 Precinct Captain
+1 Drana, Liberator of Malakir
+1 Banishing Light
+1 Supreme Verdict
+1 Batterskull
+1 Through the Breach
+1 Hero's Downfall
+1 Narset, Parter of Veils
+1 Snuff Out

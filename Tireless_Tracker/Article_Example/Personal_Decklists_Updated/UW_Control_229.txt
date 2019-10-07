@@ -1,0 +1,37 @@
+Colors: UW
+Archetype: Control
+Record: 1-3
+Games: 4-7
+
+1 Preordain
+1 Serum Visions
+1 Talisman of Progress
+1 Sphere of the Suns
+1 Talisman of Curiosity
+1 Izzet Signet
+1 Azorius Signet
+1 Teferi, Time Raveler
+1 Narset, Parter of Veils
+1 Monastery Mentor
+1 Tinker
+1 Jace Beleren
+1 Fact or Fiction
+1 Day of Judgment
+1 Moat
+1 Cryptic Command
+1 Teferi, Hero of Dominaria
+1 Bribery
+1 Fractured Identity
+1 Sphinx of the Steel Wind
+1 Colossus of Ruin
+1 Consecrated Sphinx
+1 Elspeth, Sun's Champion
+1 Marsh Flats
+1 Shelldock Isle
+1 Hallowed Fountain
+1 Godless Shrine
+1 Silent Clearing
+1 Ash Barrens
+1 Flooded Strand
+6 Snow-Covered Island
+3 Snow-Covered Plains

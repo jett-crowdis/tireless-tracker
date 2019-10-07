@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange
+Record: 2-1
+Games: 5-3
+
+1 Recurring Nightmare
+1 Glen Elendra Archmage
+1 Nekrataal
+1 Liliana, the Last Hope
+1 Venser, Shaper Savant
+1 Shriekmaw
+1 Ophiomancer
+1 Gonti, Lord of Luxury
+1 Watcher for Tomorrow
+1 The Scarab God
+1 Grave Titan
+1 Baleful Strix
+1 Demonic Tutor
+1 Hymn to Tourach
+1 Thoughtseize
+1 Champion of Wits
+1 Mana Drain
+1 Vendilion Clique
+1 Mesmeric Fiend
+1 Brain Maggot
+1 Dark Confidant
+1 Ashiok, Nightmare Weaver
+1 Custodi Lich
+1 Bloodstained Mire
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Polluted Delta
+1 Watery Grave
+6 Island
+6 Swamp
+
+1 Lavaclaw Reaches
+1 Overgrown Tomb
+1 Bitterblossom
+1 Doom Blade
+1 Scavenging Ooze
+1 Assassin's Trophy
+1 Light Up the Stage
+1 Braids, Cabal Minion
+1 Kalitas, Traitor of Ghet
+1 Zealous Conscripts
+1 Hornet Queen
+1 Treasure Cruise
+1 Woodfall Primus
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Promised End
+1 Snuff Out
+1 Callous Dismissal

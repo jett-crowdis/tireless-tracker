@@ -1,0 +1,53 @@
+Colors: UBR
+Archetype: Control_Combo
+Record: 0-3
+Games: 1-6
+
+1 Emrakul, the Aeons Torn
+1 Dimir Signet
+1 Boros Signet
+1 Wheel of Fortune
+1 Blast from the Past
+1 Saheeli, the Gifted
+1 Arcane Artisan
+1 Simic Signet
+1 Inferno Titan
+1 Vampiric Tutor
+1 Bribery
+1 Thran Dynamo
+1 Through the Breach
+1 Sorcerous Spyglass
+1 Saheeli, Sublime Artificer
+1 Wurmcoil Engine
+1 Coalition Relic
+1 Tezzeret, Artifice Master
+1 Grim Monolith
+1 Everflowing Chalice
+1 Search for Azcanta
+1 Blightsteel Colossus
+1 Chandra, Torch of Defiance
+1 Tinker
+1 Badlands
+1 Blood Crypt
+1 City of Brass
+1 Creeping Tar Pit
+1 Shivan Reef
+1 Volcanic Island
+1 Watery Grave
+4 Mountain
+5 Island
+
+1 Condescend
+1 Dreadhorde Invasion
+1 Hydroid Krasis
+1 Izzet Charm
+1 Abrade
+1 Mardu Strike Leader
+1 Necromancy
+1 Feldon of the Third Path
+1 God-Eternal Kefnet
+1 Ajani Vengeant
+1 Siege-Gang Commander
+1 Burning of Xinye
+1 Nicol Bolas, God-Pharaoh
+1 Mulldrifter

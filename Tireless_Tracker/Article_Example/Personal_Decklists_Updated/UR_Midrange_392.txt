@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Midrange
+Record: 0-3
+Games: 2-6
+
+1 Mana Drain
+1 Wurmcoil Engine
+1 Fact or Fiction
+1 Dack Fayden
+1 Karn, Scion of Urza
+1 Bribery
+1 Pyroclasm
+1 Thirst for Knowledge
+1 Magma Jet
+1 Talisman of Dominance
+1 Chandra, Flamecaller
+1 Talisman of Progress
+1 Ugin, the Spirit Dragon
+1 True-Name Nemesis
+1 Miscalculation
+1 Mu Yanling, Sky Dancer
+1 Sarkhan the Masterless
+1 Memory Lapse
+1 Izzet Charm
+1 Talisman of Creativity
+1 Narset, Parter of Veils
+1 Saheeli, the Gifted
+1 Treachery
+1 Prismatic Vista
+1 Volcanic Island
+1 Wooded Foothills
+7 Snow-Covered Mountain
+7 Snow-Covered Island
+
+1 Bloodsoaked Champion
+1 Diregraf Ghoul
+1 Dark Confidant
+1 Sword of Sinew and Steel
+1 Domri, Anarch of Bolas
+1 Krenko, Tin Street Kingpin
+1 Phyrexian Metamorph
+1 Cavalier of Gales
+1 Teferi, Hero of Dominaria
+1 Glorybringer
+1 Thundermaw Hellkite
+1 Zealous Conscripts
+1 Torrential Gearhulk
+1 Upheaval
+1 Elesh Norn, Grand Cenobite
+1 Lightning Strike
+1 Callous Dismissal
+1 Looter il-Kor
+1 Abrade

@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Stoneforge Mystic
+1 Armageddon
+1 Isamaru, Hound of Konda
+1 Kytheon, Hero of Akros
+1 Mardu Woe-Reaper
+1 Imposing Sovereign
+1 Dauntless Bodyguard
+1 Sword of Truth and Justice
+1 On Thin Ice
+1 Grafted Wargear
+1 Palace Jailer
+1 Bonesplitter
+1 Giver of Runes
+1 Brimaz, King of Oreskos
+1 Secure the Wastes
+1 Tithe Taker
+1 Council's Judgment
+1 Thalia, Guardian of Thraben
+1 Porcelain Legionnaire
+1 Adanto Vanguard
+1 Ranger-Captain of Eos
+1 Dryad Militant
+1 Precinct Captain
+1 Remorseful Cleric
+1 Frostwalk Bastion
+1 Horizon Canopy
+1 Mishra's Factory
+1 Mutavault
+12 Snow-Covered Plains
+
+1 Diregraf Ghoul
+1 Dread Wanderer
+1 Lotus Cobra
+1 Vindicate
+1 Nekrataal
+1 Nightpack Ambusher
+1 Wildfire
+1 Lyra Dawnbringer
+1 Ravages of War
+1 Hero of Bladehold
+1 Gideon of the Trials
+1 Sword of Feast and Famine
+1 Wall of Omens
+1 Banishing Light
+1 Recruiter of the Guard
+1 Student of Warfare
+1 Skullclamp

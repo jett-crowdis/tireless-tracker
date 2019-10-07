@@ -1,0 +1,33 @@
+Colors: UW
+Archetype: Control
+Record: 3-1
+Games: 6.5-3.5
+
+1 Path to Exile
+1 Mana Drain
+1 Phantasmal Image
+1 Search for Azcanta
+1 Mind Stone
+1 Azorius Signet
+1 Counterspell
+1 Monastery Mentor
+1 Phyrexian Metamorph
+1 True-Name Nemesis
+1 Recruiter of the Guard
+1 Coalition Relic
+1 Vendilion Clique
+1 Fact or Fiction
+1 Wrath of God
+1 Moat
+1 Sower of Temptation
+1 Arcane Savant
+1 Teferi, Hero of Dominaria
+1 Lyra Dawnbringer
+1 Bribery
+1 Sun Titan
+1 Wurmcoil Engine
+1 Shelldock Isle
+1 Scalding Tarn
+1 Tundra
+7 Island
+7 Plains

@@ -1,0 +1,30 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6.0-1.5
+
+1 Nature's Lore
+1 Thragtusk
+1 Reclamation Sage
+1 Hornet Queen
+1 Green Sun's Zenith
+1 Sylvan Library
+1 Birds of Paradise
+1 Garruk Relentless
+1 Garruk Wildspeaker
+1 Simic Signet
+1 Karn Liberated
+1 Joraga Treespeaker
+1 Oracle of Mul Daya
+1 Song of the Dryads
+1 Sakura-Tribe Elder
+1 Sylvan Caryatid
+1 Eternal Witness
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Worn Powerstone
+1 Deranged Hermit
+1 Harmonize
+1 Craterhoof Behemoth
+1 Colossus of Ruin
+16 Forest

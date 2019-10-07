@@ -1,0 +1,35 @@
+Colors: WB
+Archetype: Aggro
+Record: 2-1
+Games: 5-4
+
+6 Plains
+5 Swamp
+1 Arid Mesa
+1 Mana Confluence
+1 Scrubland
+1 Wasteland
+1 Chrome Mox
+1 Imposing Sovereign
+1 Diregraf Ghoul
+1 Thalia, Heretic Cathar
+1 Dark Confidant
+1 Skullclamp
+1 Winds of Abandon
+1 Mother of Runes
+1 Mardu Woe-Reaper
+1 Dismember
+1 Student of Warfare
+1 Scrapheap Scrounger
+1 Adanto Vanguard
+1 Skymarcher Aspirant
+1 Dryad Militant
+1 Rakdos Cackler
+1 Liliana, the Last Hope
+1 Pack Rat
+1 Fatal Push
+1 Palace Jailer
+1 Path to Exile
+1 Ulak, Heartless Warden Vindicate
+1 Smuggler's Copter
+1 Mind Twist

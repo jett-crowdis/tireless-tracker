@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Control_Combo
+Record: 1-2
+Games: 3-5
+
+1 Demonic Tutor
+1 Necromancy
+1 Life // Death
+1 Myr Battlesphere
+1 Grave Titan
+1 Collective Brutality
+1 Kitesail Freebooter
+1 Vampiric Tutor
+1 Reanimate
+1 Sneak Attack
+1 Oona's Prowler
+1 Toxic Deluge
+1 Animate Dead
+1 Wurmcoil Engine
+1 Heir of Falkenrath
+1 Through the Breach
+1 Liliana, the Last Hope
+1 Fact or Fiction
+1 Liliana, Dreadhorde General
+1 Show and Tell
+1 Sensei's Divining Top
+1 Hymn to Tourach
+1 Blightsteel Colossus
+1 Polluted Delta
+1 Prismatic Vista
+1 Volcanic Island
+1 Wooded Foothills
+8 Snow-Covered Swamp
+1 Snow-Covered Island
+4 Snow-Covered Mountain
+
+1 Godless Shrine
+1 Carnophage
+1 Mystical Tutor
+1 Assassin's Trophy
+1 Daretti, Ingenious Iconoclast
+1 Custodi Lich
+1 Doom Whisperer
+1 Treachery
+1 Acidic Slime
+1 Zealous Conscripts
+1 Lyra Dawnbringer
+1 Nicol Bolas, God-Pharaoh
+1 Imperial Seal
+1 Champion of Wits
+1 Looter il-Kor
+1 Thirst for Knowledge
+1 Tinker
+1 Arcane Artisan

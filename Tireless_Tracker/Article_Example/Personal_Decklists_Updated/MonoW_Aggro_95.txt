@@ -1,0 +1,32 @@
+Colors: W
+Archetype: Aggro
+Record: 1-1
+Games: 2.5-2.5
+
+14 Plains
+1 Wasteland
+1 Strip Mine
+1 Mother of Runes
+1 Palace Jailer
+1 Porcelain Legionnaire
+1 Kytheon, Hero of Akros
+1 Strip Mine
+1 Dauntless Bodyguard
+1 Adanto Vanguard
+1 Selfless Spirit
+1 Legion's Landing
+1 Gideon of the Trials
+1 Smuggler's Copter
+1 Declaration in Stone
+1 History of Benalia
+1 Stoneforge Mystic
+1 Brimaz, King of Oreskos
+1 Phyrexian Revoker
+1 Chrome Mox
+1 Gideon Blackblade
+1 Figure of Destiny
+1 Sword of War and Peace
+1 Brutal Negator
+1 Soldier of the Pantheon
+1 Batterskull
+1 Grafted Wargear

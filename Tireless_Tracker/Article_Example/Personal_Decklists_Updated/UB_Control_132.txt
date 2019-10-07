@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control
+Record: 2-1
+Games: 4-3
+
+1 Mystic Confluence
+1 Preordain
+1 Narset, Parter of Veils
+1 Torrential Gearhulk
+1 Mana Leak
+1 Impulse
+1 Force of Will
+1 Jace, Vryn's Prodigy
+1 Azorius Signet
+1 Will Kenrith
+1 Cryptic Command
+1 Baleful Strix
+1 Liliana, the Last Hope
+1 Vedalken Shackles
+1 The Scarab God
+1 Pack Rat
+1 Treachery
+1 Ponder
+1 Izzet Signet
+1 Hymn to Tourach
+1 Commence the Endgame
+1 Compulsive Research
+1 Ash Barrens
+1 Fetid Pools
+1 Scalding Tarn
+1 Shelldock Isle
+1 Underground Sea
+6 Swamp
+6 Island
+1 Hero's Downfall
+
+1 Llanowar Wastes
+1 Hangarback Walker
+1 Bitterblossom
+1 Smuggler's Copter
+1 Oath of Druids
+1 Life // Death
+1 Dack Fayden
+1 Domri, Anarch of Bolas
+1 Vindicate
+1 Krenko, Tin Street Kingpin
+1 Spawn of Mayhem
+1 Day of Judgment
+1 Trostani Discordant
+1 Zealous Conscripts
+1 Sun Titan
+1 Hornet Queen
+1 Nekrataal

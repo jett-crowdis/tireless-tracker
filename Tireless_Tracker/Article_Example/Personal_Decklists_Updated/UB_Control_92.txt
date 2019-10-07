@@ -1,0 +1,32 @@
+Colors: UB
+Archetype: Control
+Record: 1-2
+Games: 3.0-4.5
+
+8 Island
+7 Swamp
+1 Underground Sea
+1 Misty Rainforest
+1 Merfolk Looter
+1 Pack Rat
+1 True-Name Nemesis
+1 Dream Noble
+1 Myr Battlesphere
+1 Colossus of Ruin
+1 Ponder
+1 Reanimate
+1 Preordain
+1 Mystical Tutor
+1 Dance of the Dead
+1 Search for Azcanta
+1 Azorius Signet
+1 Go for the Throat
+1 Animate Dead
+1 Izzet Signet
+1 Ashiok, Nightmare Weaver
+1 Thirst for Knowledge
+1 Hedron Archive
+1 Control Magic
+1 Jace, the Mind Sculptor
+1 Mystic Confluence
+1 Treachery

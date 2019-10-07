@@ -1,0 +1,41 @@
+Colors: GWUR
+Archetype: Midrange
+Record: 1-2
+Games: 3.0-4.5
+
+1 Volcanic Island
+1 City of Brass
+1 Arid Mesa
+1 Windswept Heath
+1 Sheltered Thicket
+1 Hallowed Fountain
+1 Stomping Ground
+1 Tropical Island
+1 Mox Diamond
+1 Boros Signet
+1 Hedron Archive
+1 Azorius Signet
+1 Mana Drain
+1 Sylvan Library
+1 Bribery
+1 Dack Fayden
+1 Plow Under
+1 Mirari's Wake
+1 Dig Through Time
+1 Elspeth, Sun's Champion
+1 Birds of Paradise
+1 Arbor Elf
+1 Noble Hierarch
+1 Elvish Mystic
+1 Sakura-Tribe Elder
+1 Tireless Tracker
+1 Restoration Angel
+1 Oracle of Mul Daya
+1 Ulamog, the Ceaseless Hunger
+1 Dragonlord Atarka
+1 Ugin, the Spirit Dragon
+1 Thragtusk
+1 Primeval Titan
+2 Island
+1 Plains
+4 Forest

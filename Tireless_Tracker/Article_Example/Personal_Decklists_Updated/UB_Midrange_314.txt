@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 2-5
+
+1 Vampiric Tutor
+1 Necromancy
+1 Dismember
+1 Glen Elendra Archmage
+1 Pack Rat
+1 Imperial Seal
+1 Dance of the Dead
+1 Shriekmaw
+1 Heir of Falkenrath
+1 Animate Dead
+1 Reanimate
+1 Entomb
+1 Griselbrand
+1 Hostage Taker
+1 Myr Battlesphere
+1 Grave Titan
+1 The Scarab God
+1 Toxic Deluge
+1 Ulamog, the Ceaseless Hunger
+1 Jace, Vryn's Prodigy
+1 Merfolk Looter
+1 Baleful Strix
+1 Oona's Prowler
+1 Ash Barrens
+1 Bloodstained Mire
+1 Creeping Tar Pit
+1 Marsh Flats
+1 Watery Grave
+7 Snow-Covered Swamp
+5 Snow-Covered Island
+
+1 Bloodsoaked Champion
+1 Hymn to Tourach
+1 Wall of Blossoms
+1 Izzet Charm
+1 Hero's Downfall
+1 Thirst for Knowledge
+1 Worn Powerstone
+1 Light Up the Stage
+1 Gonti, Lord of Luxury
+1 Doom Whisperer
+1 Fireblast
+1 Dragonlord Atarka
+1 Nicol Bolas, God-Pharaoh
+1 Sorcerous Spyglass
+1 Bloodghast
+1 Night's Whisper
+1 Phantasmal Image

@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Midrange
+Record: 2-1
+Games: 5-3
+
+1 Reanimate
+1 Liliana, the Last Hope
+1 Vendilion Clique
+1 Hostage Taker
+1 Consecrated Sphinx
+1 Ponder
+1 Duress
+1 Watcher for Tomorrow
+1 Demonic Tutor
+1 Dack Fayden
+1 Dreadbore
+1 Krenko, Tin Street Kingpin
+1 Go for the Throat
+1 Legion Warboss
+1 Inferno Titan
+1 Control Magic
+1 Kolaghan's Command
+1 Champion of Wits
+1 Vampiric Tutor
+1 Territorial Hellkite
+1 Goblin Rabblemaster
+1 Daretti, Ingenious Iconoclast
+1 Blood Crypt
+1 Fetid Pools
+1 Lavaclaw Reaches
+1 Polluted Delta
+1 Prismatic Vista
+1 Strip Mine
+1 Sulfurous Springs
+1 Underground Sea
+1 Magma Jet
+3 Snow-Covered Mountain
+2 Snow-Covered Swamp
+4 Snow-Covered Island
+
+1 Hangarback Walker
+1 Oona's Prowler
+1 Merfolk Looter
+1 Dire Fleet Daredevil
+1 Stormblood Berserker
+1 Unexpectedly Absent
+1 Necromancy
+1 Arcane Artisan
+1 Lingering Souls
+1 Kalitas, Traitor of Ghet
+1 Koth of the Hammer
+1 Custodi Lich
+1 Fireblast
+1 Kari Zev, Skyship Raider

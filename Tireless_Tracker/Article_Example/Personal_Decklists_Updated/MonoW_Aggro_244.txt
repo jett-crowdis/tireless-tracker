@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 2-1
+Games: 4-4
+
+1 Palace Jailer
+1 Dryad Militant
+1 Giver of Runes
+1 Phyrexian Metamorph
+1 Thalia, Guardian of Thraben
+1 Batterskull
+1 Stoneforge Mystic
+1 Ranger-Captain of Eos
+1 Remorseful Cleric
+1 Umezawa's Jitte
+1 Imposing Sovereign
+1 Recruiter of the Guard
+1 Dauntless Bodyguard
+1 Adanto Vanguard
+1 Precinct Captain
+1 Kytheon, Hero of Akros
+1 Brimaz, King of Oreskos
+1 Secure the Wastes
+1 Gideon Blackblade
+1 Mardu Woe-Reaper
+1 Mother of Runes
+1 Armageddon
+1 Flickerwisp
+1 Condemn
+1 Mutavault
+1 Mishra's Factory
+1 Silent Clearing
+1 Horizon Canopy
+12 Snow-Covered Plains
+
+1 Marsh Flats
+1 Nurturing Peatland
+1 Raging Ravine
+1 Diregraf Ghoul
+1 Gravecrawler
+1 Serum Visions
+1 Mesmeric Fiend
+1 Phantasmal Image
+1 Fauna Shaman
+1 Dreadbore
+1 Curse of Disturbance
+1 Oblivion Ring
+1 Braids, Cabal Minion
+1 Glen Elendra Archmage
+1 Sorin, Lord of Innistrad
+1 Elesh Norn, Grand Cenobite
+1 Sphinx of the Steel Wind

@@ -1,0 +1,29 @@
+Colors: R
+Archetype: Aggro
+Record: 3-0
+Games: 6.0-1.5
+
+1 Brutal Negator
+1 Falkenrath Gorger
+1 Ignition Valkyrie
+1 Chandra, Torch of Defiance
+1 Bonesplitter
+1 Burst Lightning
+1 Collective Defiance
+1 Hangarback Walker
+1 Ember Magmar
+1 Stromkirk Noble
+1 Molten Reign
+1 Lightning Bolt
+1 Incinerate
+1 Fiery Confluence
+1 Smuggler's Copter
+1 Feldon of the Third Path
+1 Hellrider
+1 Fireblast
+1 Goblin Trailblazers
+1 Firebolt
+1 Keldon Marauders
+1 Rakdos Cackler
+1 Hazoret the Fervent
+17 Mountain

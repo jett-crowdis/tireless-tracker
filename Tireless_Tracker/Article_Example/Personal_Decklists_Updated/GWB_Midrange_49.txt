@@ -1,0 +1,34 @@
+Colors: GWB
+Archetype: Midrange
+Record: 2-2
+Games: 5.0-5.0
+
+1 Scrubland
+1 Scattered Groves
+1 Grand Coliseum
+1 Eternal Witness
+1 Noble Hierarch
+1 Survival of the Fittest
+1 Arbor Elf
+1 Thragtusk
+1 Sakura-Tribe Elder
+1 Lotus Cobra
+1 Grim Monolith
+1 Wurmcoil Engine
+1 Sphere of the Suns
+1 Coalition Relic
+1 Recurring Nightmare
+1 Doom Blade
+1 Entomb
+1 Animate Dead
+1 Reanimate
+1 Oona's Prowler
+1 Brimaz, King of Oreskos
+1 Gisela, the Broken Blade
+1 Baneslayer Angel
+1 Journey to Nowhere
+1 Cast Out
+1 Custodi Lich
+5 Forest
+5 Swamp
+4 Plains

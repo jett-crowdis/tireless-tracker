@@ -1,0 +1,55 @@
+Colors: GRB
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Ulamog, the Ceaseless Hunger
+1 Basalt Monolith
+1 Oath of Druids
+1 Pyroclasm
+1 Harmonize
+1 Inquisition of Kozilek
+1 Mox Diamond
+1 Coalition Relic
+1 Talisman of Creativity
+1 Damnation
+1 Kolaghan's Command
+1 Utopia Sprawl
+1 Ilharg, the Raze-Boar
+1 Emrakul, the Aeons Torn
+1 Fiery Confluence
+1 Emrakul, the Promised End
+1 Chandra, Torch of Defiance
+1 Doom Blade
+1 Mimic Vat
+1 Thran Dynamo
+1 Kodama's Reach
+1 Dack Fayden
+1 Dragonlord Atarka
+1 Bayou
+1 Blood Crypt
+1 Sheltered Thicket
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+3 Swamp
+4 Forest
+4 Mountain
+
+1 City of Brass
+1 Dance of the Dead
+1 Vivien's Arkbow
+1 Wall of Blossoms
+1 Hero's Downfall
+1 Ophiomancer
+1 Arc Lightning
+1 Hostage Taker
+1 Shriekmaw
+1 Mirari's Wake
+1 Ancient Stone Idol
+1 Rolling Earthquake
+1 Nature's Chant
+1 Karn Liberated
+1 Nissa, Vital Force
+1 Scattered Groves
+1 Swamp

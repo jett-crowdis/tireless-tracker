@@ -1,0 +1,53 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 4-3
+
+1 Sulfuric Vortex
+1 Firedrinker Satyr
+1 Goblin Rabblemaster
+1 Kari Zev, Skyship Raider
+1 Lightning Strike
+1 Zurgo Bellstriker
+1 Dire Fleet Daredevil
+1 Legion Warboss
+1 Firebolt
+1 Blast from the Past
+1 Searing Spear
+1 Abrade
+1 Eidolon of the Great Revel
+1 Magma Jet
+1 Stormblood Berserker
+1 Goblin Guide
+1 Rakdos Cackler
+1 Light Up the Stage
+1 Figure of Destiny
+1 Icehide Golem
+1 Young Pyromancer
+1 Hellrider
+1 Territorial Hellkite
+1 Experimental Frenzy
+15 Snow-Covered Mountain
+1 Sunbaked Canyon
+
+1 Badlands
+1 Sacred Foundry
+1 Savannah
+1 Sulfurous Springs
+1 Scrapheap Scrounger
+1 Sorcerous Spyglass
+1 Oath of Druids
+1 Necromancy
+1 Eternal Witness
+1 Feldon of the Third Path
+1 Thalia, Heretic Cathar
+1 Fleetwheel Cruiser
+1 Domri, Chaos Bringer
+1 Sorin, Lord of Innistrad
+1 Xenagos, the Reveler
+1 Chandra, Torch of Defiance
+1 Shriekmaw
+1 Thundermaw Hellkite
+1 Zealous Conscripts
+1 Chandra, Flamecaller
+1 Mountain

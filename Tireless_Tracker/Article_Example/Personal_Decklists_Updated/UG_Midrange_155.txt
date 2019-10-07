@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 4-0
+Games: 8-1
+
+1 Treachery
+1 Primeval Titan
+1 Opposition
+1 Garruk, Primal Hunter
+1 Kodama's Reach
+1 Natural Order
+1 Joraga Treespeaker
+1 Sword of Sinew and Steel
+1 Sylvan Library
+1 Llanowar Elves
+1 Arbor Elf
+1 Fyndhorn Elves
+1 Paradise Druid
+1 Fauna Shaman
+1 Hydroid Krasis
+1 Biogenic Ooze
+1 Craterhoof Behemoth
+1 Avacyn's Pilgrim
+1 Rofellos, Llanowar Emissary
+1 Hexdrinker
+1 Sakura-Tribe Elder
+1 Upheaval
+1 Overgrowth
+1 Woodfall Primus
+1 Wolfbriar Elemental
+1 Flooded Strand
+1 Gaea's Cradle
+1 Tropical Island
+1 Wooded Foothills
+7 Forest
+4 Island
+
+1 Dread Wanderer
+1 Isamaru, Hound of Konda
+1 Duskwatch Recruiter
+1 Sword of Feast and Famine
+1 Knight of Autumn
+1 Krenko, Tin Street Kingpin
+1 Trostani Discordant
+1 Wildfire
+1 Terastodon
+1 Venser, Shaper Savant
+1 Harmonize
+1 Cryptic Command
+1 Nissa, Steward of Elements
+1 Acidic Slime
+1 Trumpeting Herd
+1 Wall of Roots

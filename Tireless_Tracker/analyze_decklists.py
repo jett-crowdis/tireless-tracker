@@ -6,8 +6,6 @@ from collections import defaultdict
 import numpy as np
 import datetime
 from matplotlib import rc
-rc('font', **{'family': 'serif', 'serif': ['Computer Modern']})
-rc('text', usetex=True)
 import matplotlib.pyplot as plt
 
 def fetch_cards():
@@ -37,11 +35,13 @@ def make_deck(infile):
 
     with open(infile) as deck_file:
 
+        # extract deck "meta-data" - the colors, archetypes, and game records. Does not currently do anything with match records
         summary = [line.strip('\n') for line in deck_file.readlines()]
         deck_color = summary[0].split(':')[1].strip(' ')
         deck_archetypes = summary[1].split(':')[1].strip(' ').split('_')
         deck_record = map(float,summary[3].split(':')[1].strip(' ').split('-'))
         
+        # extract the cards in the decklist - will extract sideboard as well.
         cards = []
         for card_info in summary[5:]:
             card_info = card_info.strip('\n')
@@ -68,10 +68,12 @@ def extract_decklists(directory, magic_cards, date_arg):
     misspellings.write('The following cards are not found in Scryfall\'s database:\n')
     deck_dict = {}
 
+    # extract and make the decklist for every deck file in the input directory
     for i, infile in enumerate(os.listdir(directory)):
 
         if infile[-4:] != '.txt': continue # added to avoid '.DS_store', etc
 
+        # attempt to analyze decklist. If unable, skip it. Will extract date if it exists.
         try:
             maindeck, side, color, archetypes, win, loss = make_deck(os.path.join(directory,infile))
             
@@ -105,9 +107,15 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter):
     '''Analyzes card representation and win rates and exports them to csv'''
     
     card_dict = {}
+
+    # loop through dictionary, extract info on individual cards
     for deck_dict in deck_list_dict.values():
+
+        # extract deck, get its record
         deck = deck_dict['main']
         win, loss = map(int, deck_dict['record'])
+
+        # loop through cards in deck, check if they exist in Scryfall. If they do, store game information.
         for card in deck:
 
             if not magic_cards.get(card): continue
@@ -121,12 +129,14 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter):
 
     print('{} unique cards identified in decklists'.format(len(card_dict)))
 
+    # extract information about the cards from scryfall dictionary
     for card in card_dict.keys():
         color, cmc, card_type = magic_cards[card].values()
 
         for characteristic, value in zip(['color', 'cmc', 'type'], [color, cmc, find_card_type(card_type)]):
             card_dict[card][characteristic] = value
 
+    # store the results of the card analysis in a dataframe. Then calculate win %, apply filter, and export to csv.
     results = {card: {key: card_dict[card][key] for key in ['win', 'loss', 'num', 'color', 'cmc', 'type']} for card in card_dict.keys()}
     results_df = pd.DataFrame.from_dict(results, orient = 'index').reset_index()
     results_df.columns = ['Name','Win', 'Loss','Num','Color', 'CMC', 'Type']
@@ -139,20 +149,22 @@ def export_archetype_analysis(deck_list_dict):
     
     '''Analyzes archetype distribution and exports to csv. Will analyze by subtypes as well.'''
     
-    archetype_dict = super_archetypes = defaultdict(lambda: {'num':0, 'win': 0, 'loss': 0})
+    archetype_dict = defaultdict(lambda: {'num':0, 'win': 0, 'loss': 0})
 
     archetypes = []
+
+    # loop through each deck, and store archetype information
     for deck_dict in deck_list_dict.values():
         wins, losses = map(int, deck_dict['record'])
 
         archetypes.extend(deck_dict['archetypes'])        
-        if len(deck_dict['archetypes']) == 1: string = 'Pure'
         for archetype in deck_dict['archetypes']:
 
             archetype_dict[archetype]['num'] += 1
             archetype_dict[archetype]['win'] += wins
             archetype_dict[archetype]['loss'] += losses
 
+    # convert archetype analysis to dataframe, calculate winrates, then export.
     archetype_df = pd.DataFrame.from_dict(archetype_dict, orient = 'index').reset_index()
     archetype_df.columns = ['Archetype','Num','Win', 'Loss']
     archetype_df['Win %'] = archetype_df['Win']/(archetype_df['Win'] + archetype_df['Loss'])
@@ -164,6 +176,8 @@ def export_color_analysis(deck_dict, magic_cards):
     '''Analyze color distribution in cards and decks and exports to csv'''
 
     deck_colors, card_colors = [], defaultdict(lambda: [])
+    
+    # loop through decklists, and for each extract the deck colors and the colors of the nonland cards
     for deck in deck_dict.values():
         
         main_colors = [magic_cards[card]['color'] for card in deck['main'] if magic_cards.get(card) and find_card_type(magic_cards[card]['type']) != 'Land']
@@ -171,26 +185,37 @@ def export_color_analysis(deck_dict, magic_cards):
         colors, counts = np.unique(main_colors, return_counts = True)
         counts = counts/sum(counts)
         color_dict = dict(zip(colors, counts))
+
+        # only consider a color when it is more than 15% of a deck's composition (prevents splashed outliers from shifting the analysis)
         for color, count in color_dict.items():
             if count > 0.15: card_colors[color].append(count)
 
+    # calculate the average for deck colors and card colors
     deck_color, deck_num = np.unique(deck_colors, return_counts = True)
     card_colors = {color:np.average(counts) for color, counts in card_colors.items()}
 
+    # export analysis
     color_df = pd.DataFrame.from_dict(dict(zip(deck_color, deck_num/sum(deck_num))), orient = 'index').reset_index()
     color_df.columns = ['Color','Deck_Spread']
     color_df['Card_Spread'] = [card_colors[color] for color in deck_color]
     color_df.to_csv('Color_Analysis.csv', index = False)
 
 def export_timecourse_analysis(deck_dict, window):
+
+    '''If specified, analyze the decklists and the archetype win rates over time. Returns a dataframe that is then plotted.'''
+
+    # extract all the archetypes present in the decklists, and the corresponding dates
     decklists = deck_dict.values()
     archetypes = [deck['archetypes'] for deck in decklists]
     archetypes = list(set([archetype for archetype_list in archetypes for archetype in archetype_list]))
     dates = [deck['date'] for deck in decklists]
 
-    sorted_decklists = [deck for _, deck in sorted(zip(dates,decklists), key=lambda pair: datetime.datetime.strptime(pair[0], "%m%d%Y"))]
+    # sort the decklists based on the date they were added.
+    sorted_decklists = [deck for _, deck in sorted(zip(dates,decklists))]
     window_num = len(sorted_decklists) - window + 1
     storage_matrix = np.zeros([len(archetypes), window_num])
+
+    # conduct a sliding window analysis, storing the average win rate for the archetypes during this window.
     for i in range(window_num):
         decklist_window = sorted_decklists[i:i+window]
         for j, archetype in enumerate(archetypes):
@@ -201,7 +226,10 @@ def export_timecourse_analysis(deck_dict, window):
 
 def plot_timecourse(archetypes, storage_matrix):
 
+    '''Given a dataframe containing time course information, plot the win rates'''
     fig, ax = plt.subplots(1,1, figsize = (10,6))
+
+    # only does this for the super archetypes (Aggro, Midrange, Control). Other archetypes are too infrequent to get a good picture.
     colors = {'Aggro':'#ffa600', 'Midrange':'#bc5090', 'Control':'#003f5c'}
     for i, archetype in enumerate(archetypes):
         if archetype in ['Reanimator', 'Combo', 'Ramp']: continue
@@ -233,14 +261,19 @@ def main():
     date_arg = args.date
     window = args.window
 
+    # get cards from scryfall
     magic_cards = fetch_cards()
+
+    # extract decklists 
     deck_dict = extract_decklists(decklist_folder, magic_cards, date_arg)
     print('{} decks extracted.'.format(len(deck_dict)))
 
+    # export the card, archetype, and color analysis
     export_card_analysis(deck_dict, magic_cards, card_filter)
     export_archetype_analysis(deck_dict)
     export_color_analysis(deck_dict, magic_cards)
     
+    # if specified, output time course analysis too.
     if date_arg: 
         archetypes, timecourse = export_timecourse_analysis(deck_dict, window)
         plot_timecourse(archetypes, timecourse)

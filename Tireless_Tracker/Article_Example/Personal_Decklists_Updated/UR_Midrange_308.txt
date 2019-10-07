@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Midrange_Combo
+Record: 1-2
+Games: 3-5
+
+1 Sneak Attack
+1 Myr Battlesphere
+1 Treachery
+1 Inferno Titan
+1 Serum Visions
+1 Glen Elendra Archmage
+1 Jace, the Mind Sculptor
+1 Dack Fayden
+1 Grim Monolith
+1 Talisman of Curiosity
+1 Emrakul, the Aeons Torn
+1 Tinker
+1 Dig Through Time
+1 Spell Pierce
+1 Mystical Tutor
+1 Mana Leak
+1 Preordain
+1 Pyroclasm
+1 Solemn Simulacrum
+1 Show and Tell
+1 Through the Breach
+1 Fact or Fiction
+1 Blightsteel Colossus
+1 Bloodstained Mire
+1 Underground Sea
+8 Snow-Covered Island
+7 Snow-Covered Mountain
+
+1 Carnophage
+1 Irrigated Farmland
+1 Badlands
+1 Blast Zone
+1 Student of Warfare
+1 Channel
+1 Izzet Charm
+1 Daretti, Ingenious Iconoclast
+1 Pernicious Deed
+1 Arc Lightning
+1 Krenko, Tin Street Kingpin
+1 Seasoned Pyromancer
+1 Kalitas, Traitor of Ghet
+1 Mulldrifter
+1 Gilded Lotus
+1 Dragonlord Atarka
+1 Ancient Stone Idol
+1 Karn, Scion of Urza
+1 Scour All Possibilities
+1 Griselbrand

@@ -1,0 +1,55 @@
+Colors: URBG
+Archetype: Midrange_Combo
+Record: 2-1
+Games: 5-2
+
+1 Grim Monolith
+1 Vampiric Tutor
+1 Everflowing Chalice
+1 Talisman of Conviction
+1 Show and Tell
+1 Oath of Druids
+1 Whipflare
+1 Through the Breach
+1 Sylvan Library
+1 Mana Leak
+1 Preordain
+1 Terastodon
+1 Spell Pierce
+1 Assassin's Trophy
+1 Coalition Relic
+1 Sneak Attack
+1 Blightsteel Colossus
+1 Tinker
+1 Izzet Signet
+1 Inferno Titan
+1 Will Kenrith
+1 Serum Visions
+1 Wheel of Fortune
+1 Emrakul, the Aeons Torn
+1 Badlands
+1 Bayou
+1 City of Brass
+1 Fetid Pools
+1 Fiery Islet
+1 Mana Confluence
+1 Shelldock Isle
+1 Sulfurous Springs
+1 Tropical Island
+1 Waterlogged Grove
+3 Snow-Covered Forest
+3 Snow-Covered Mountain
+
+1 Temple Garden
+1 Green Sun's Zenith
+1 Secure the Wastes
+1 Scavenging Ooze
+1 Knight of Autumn
+1 Pernicious Deed
+1 Wrath of God
+1 Lyra Dawnbringer
+1 Arc Trail
+1 Nissa, Vital Force
+1 Sacred Foundry
+2 Island
+1 Swamp

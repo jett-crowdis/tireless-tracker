@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 3-0
+Games: 6-3
+
+1 Counterspell
+1 Azorius Signet
+1 Talisman of Creativity
+1 Snapcaster Mage
+1 Finale of Glory
+1 Wrath of God
+1 On Thin Ice
+1 Gideon Jura
+1 Serra the Benevolent
+1 Bribery
+1 Dig Through Time
+1 Solemn Simulacrum
+1 Watcher for Tomorrow
+1 Glen Elendra Archmage
+1 Mana Leak
+1 Banishing Light
+1 Force of Will
+1 Fractured Identity
+1 Treachery
+1 Karn, Scion of Urza
+1 Control Magic
+1 Balance
+1 Nature's Chant
+1 Ancient Tomb
+1 Irrigated Farmland
+1 Shelldock Isle
+1 Tundra
+6 Snow-Covered Island
+7 Snow-Covered Plains
+
+1 Godless Shrine
+1 Mother of Runes
+1 Student of Warfare
+1 Izzet Charm
+1 Young Pyromancer
+1 Remorseful Cleric
+1 Hero's Downfall
+1 Arcane Artisan
+1 Lingering Souls
+1 Oblivion Ring
+1 Languish
+1 Thran Dynamo
+1 Moat
+1 Lyra Dawnbringer
+1 Venser, Shaper Savant
+1 Supreme Verdict
+1 Sorcerous Spyglass
+1 Gideon of the Trials

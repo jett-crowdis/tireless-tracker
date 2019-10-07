@@ -1,0 +1,57 @@
+Colors: URWG
+Archetype: Control
+Record: 2-1
+Games: 4-3
+
+1 Talisman of Dominance
+1 Phyrexian Metamorph
+1 Sphere of the Suns
+1 Brainstorm
+1 Wild Growth
+1 Fractured Identity
+1 Mulldrifter
+1 Scour All Possibilities
+1 Jace, Vryn's Prodigy
+1 Thirst for Knowledge
+1 Thran Dynamo
+1 Myr Battlesphere
+1 Rolling Earthquake
+1 Talisman of Creativity
+1 Everflowing Chalice
+1 Ponder
+1 Karn Liberated
+1 Primeval Titan
+1 Inferno Titan
+1 Mana Leak
+1 Magma Jet
+1 Control Magic
+1 Dragonlord Atarka
+1 Sylvan Library
+1 Ancient Tomb
+1 Bayou
+1 Breeding Pool
+1 Fiery Islet
+1 Misty Rainforest
+1 Scattered Groves
+1 Stomping Ground
+1 Taiga
+1 Volcanic Island
+2 Forest
+2 Mountain
+3 Island
+
+1 Carnophage
+1 Balance
+1 Domri, Anarch of Bolas
+1 Maelstrom Pulse
+1 Goblin Rabblemaster
+1 Languish
+1 Ravenous Chupacabra
+1 Batterskull
+1 Emrakul, the Aeons Torn
+1 Chandra, Flamecaller
+1 Narset, Parter of Veils
+1 Looter il-Kor
+1 Mountain
+1 Forest
+1 Plains

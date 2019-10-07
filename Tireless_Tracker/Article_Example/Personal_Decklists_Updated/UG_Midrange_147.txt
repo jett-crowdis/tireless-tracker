@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-1
+
+1 Treachery
+1 Remand
+1 Noble Hierarch
+1 Upheaval
+1 Arbor Elf
+1 Biogenic Ooze
+1 Phantasmal Image
+1 Nissa, Vital Force
+1 Jace, Vryn's Prodigy
+1 Negate
+1 Preordain
+1 Venser, Shaper Savant
+1 Wild Growth
+1 Fauna Shaman
+1 Memory Lapse
+1 Fact or Fiction
+1 Lotus Cobra
+1 Llanowar Elves
+1 Channel
+1 Oracle of Mul Daya
+1 Hydroid Krasis
+1 Sylvan Library
+1 Dig Through Time
+1 Nissa, Steward of Elements
+1 Breeding Pool
+1 Flooded Strand
+1 Shelldock Isle
+1 Tropical Island
+1 Waterlogged Grove
+6 Island
+5 Forest
+
+1 Sarcomancy
+1 Duskwatch Recruiter
+1 Survival of the Fittest
+1 Nature's Chant
+1 Tidehollow Sculler
+1 Song of the Dryads
+1 Maelstrom Pulse
+1 Braids, Cabal Minion
+1 God-Eternal Kefnet
+1 Urza, Lord High Artificer
+1 Domri, Chaos Bringer
+1 Dragonlord Atarka
+1 Sword of Fire and Ice
+1 Spell Pierce
+1 Wickerbough Elder
+1 Reclamation Sage

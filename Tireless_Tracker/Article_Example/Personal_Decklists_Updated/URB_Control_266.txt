@@ -1,0 +1,39 @@
+Colors: URB
+Archetype: Control
+Record: 1-1
+Games: 2-2
+
+4 Island
+2 Swamp
+3 Mountain
+1 Watery Grave
+1 Steam Vents
+1 Sulfurous Springs
+1 Ancient Tomb
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Badlands
+1 Blood Crypt
+1 Pyroclasm
+1 Toxic Deluge
+1 Inferno Titan
+1 Hedron Archive
+1 Sundering Titan
+1 Basalt Monolith
+1 Vampiric Tutor
+1 Thran Dynamo
+1 Dack Fayden
+1 Dig Through Time
+1 Tinker
+1 Fiery Confluence
+1 Spell Pierce
+1 Izzet Signet
+1 Demonic Tutor
+1 Dream Noble
+1 Wurmcoil Engine
+1 Colossus of Ruin
+1 Jace, Vryn's Prodigy
+1 The Scarab God
+1 Ilharg, the Rage Boar
+1 Coldsteel Heart
+1 Jace, the Mind Scupltor

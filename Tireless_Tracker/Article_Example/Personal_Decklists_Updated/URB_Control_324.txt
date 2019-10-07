@@ -1,0 +1,55 @@
+Colors: URB
+Archetype: Control
+Record: 0-3
+Games: 1-6
+
+1 Fiery Confluence
+1 Coalition Relic
+1 Saheeli, the Gifted
+1 Chandra, Awakened Inferno
+1 Dack Fayden
+1 Mind Stone
+1 Damnation
+1 Night's Whisper
+1 Mind Twist
+1 Vampiric Tutor
+1 Hedron Archive
+1 Lightning Bolt
+1 Baleful Strix
+1 Thoughtseize
+1 Thirst for Knowledge
+1 Inquisition of Kozilek
+1 Demonic Tutor
+1 Saheeli, Sublime Artificer
+1 Talisman of Curiosity
+1 Izzet Signet
+1 Fatal Push
+1 Sarkhan the Masterless
+1 Arid Mesa
+1 Blood Crypt
+1 Nicol Bolas, God-Pharaoh
+1 Fiery Islet
+1 Steam Vents
+2 Snow-Covered Island
+6 Snow-Covered Swamp
+5 Snow-Covered Mountain
+
+1 Brain Maggot
+1 Phyrexian Revoker
+1 Justice Strike
+1 Balance
+1 Curse of Disturbance
+1 Hero's Downfall
+1 Ophiomancer
+1 Imperial Seal
+1 Seasoned Pyromancer
+1 Gideon Blackblade
+1 Braids, Cabal Minion
+1 Koth of the Hammer
+1 Custodi Lich
+1 Garruk, Primal Hunter
+1 Glorybringer
+1 Mimic Vat
+1 Phyrexian Metamorph
+1 Mystical Tutor
+1 Swamp

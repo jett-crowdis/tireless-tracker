@@ -1,0 +1,54 @@
+Colors: UBGR
+Archetype: Midrange_Combo
+Record: 1-2
+Games: 2-4
+
+1 Emrakul, the Aeons Torn
+1 Mana Leak
+1 Spell Pierce
+1 Search for Azcanta
+1 Mystical Tutor
+1 Ulamog, the Ceaseless Hunger
+1 Griselbrand
+1 Night's Whisper
+1 Life // Death
+1 Baleful Strix
+1 Preordain
+1 Solemn Simulacrum
+1 Treasure Cruise
+1 Mana Drain
+1 Worn Powerstone
+1 Brainstorm
+1 Mystic Confluence
+1 Compulsive Research
+1 Show and Tell
+1 Languish
+1 Ilharg, the Raze-Boar
+1 Scour All Possibilities
+1 Pernicious Deed
+1 Bloodstained Mire
+1 Nurturing Peatland
+1 Raging Ravine
+1 Shelldock Isle
+1 Stomping Ground
+1 Taiga
+1 Verdant Catacombs
+1 Snow-Covered Mountain
+3 Snow-Covered Swamp
+6 Snow-Covered Island
+
+1 Sheltered Thicket
+1 Gravecrawler
+1 Firedrinker Satyr
+1 Enlightened Tutor
+1 Heir of Falkenrath
+1 Mesmeric Fiend
+1 Dismissive Pyromancer
+1 Remorseful Cleric
+1 Harmonize
+1 Ajani Vengeant
+1 Domri, Chaos Bringer
+1 Bitterblossom
+1 Firebolt
+1 Looter il-Kor
+1 Gonti, Lord of Luxury

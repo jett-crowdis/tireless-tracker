@@ -1,0 +1,52 @@
+Colors: W
+Archetype: Aggro
+Record: 1-2
+Games: 3-5
+
+1 Stoneforge Mystic
+1 Giver of Runes
+1 Ranger-Captain of Eos
+1 Gideon Blackblade
+1 Skullclamp
+1 Mardu Woe-Reaper
+1 Student of Warfare
+1 Dauntless Bodyguard
+1 Imposing Sovereign
+1 Dryad Militant
+1 Brimaz, King of Oreskos
+1 Umezawa's Jitte
+1 Phyrexian Revoker
+1 Remorseful Cleric
+1 Skymarcher Aspirant
+1 Blade Splicer
+1 Adanto Vanguard
+1 On Thin Ice
+1 Armageddon
+1 Thalia, Guardian of Thraben
+1 Precinct Captain
+1 Icehide Golem
+1 Mother of Runes
+1 Isamaru, Hound of Konda
+1 Mutavault
+1 Silent Clearing
+1 Chrome Mox
+13 Snow-Covered Plains
+
+1 Ash Barrens
+1 Bonesplitter
+1 Brain Maggot
+1 Pyroclasm
+1 Balance
+1 Liliana, the Last Hope
+1 Knight of Autumn
+1 Kolaghan's Command
+1 Legion Warboss
+1 Sorin, Lord of Innistrad
+1 Day of Judgment
+1 Custodi Lich
+1 Trostani Discordant
+1 Nicol Bolas, God-Pharaoh
+1 Fleetwheel Cruiser
+1 Recruiter of the Guard
+1 Flickerwisp
+1 Restoration Angel

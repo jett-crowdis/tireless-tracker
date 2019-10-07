@@ -1,0 +1,52 @@
+Colors: WB
+Archetype: Midrange
+Record: 1-2
+Games: 4-4
+
+1 Vampiric Tutor
+1 Spawn of Mayhem
+1 Swords to Plowshares
+1 Thoughtseize
+1 Mind Twist
+1 Sensei's Divining Top
+1 Declaration in Stone
+1 Bitterblossom
+1 Disenchant
+1 Hymn to Tourach
+1 Dark Confidant
+1 Liliana, the Last Hope
+1 Banishing Light
+1 Mimic Vat
+1 Liliana of the Veil
+1 Lingering Souls
+1 Solemn Simulacrum
+1 Palace Jailer
+1 Gideon, Ally of Zendikar
+1 Gonti, Lord of Luxury
+1 Damnation
+1 Hero's Downfall
+1 Finale of Glory
+1 Scrubland
+1 Godless Shrine
+1 Marsh Flats
+1 Flooded Strand
+1 Polluted Delta
+6 Plains
+6 Swamp
+
+1 True-Name Nemesis
+1 Languish
+1 Badlands
+1 Moat
+1 Flickerwisp
+1 Carnophage
+1 Adanto Vanguard
+1 Irrigated Farmland
+1 Control Magic
+1 Wrath of God
+1 Mardu Strike Leader
+1 Heir of Falkenrath
+1 Tangle Wire
+1 Dreadhorde Invasion
+1 Bloodghast
+1 Monastery Swiftspear

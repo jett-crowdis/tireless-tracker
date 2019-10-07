@@ -1,0 +1,54 @@
+Colors: UWR
+Archetype: Midrange
+Record: 0-3
+Games: 1-6
+
+1 Sarkhan the Masterless
+1 Karn, Scion of Urza
+1 Saheeli, Sublime Artificer
+1 Arc Trail
+1 Teferi, Hero of Dominaria
+1 Wrath of God
+1 Ajani Vengeant
+1 Supreme Verdict
+1 Teferi, Time Raveler
+1 Dack Fayden
+1 Chandra, Flamecaller
+1 Watcher for Tomorrow
+1 Lightning Helix
+1 Tezzeret, Artifice Master
+1 Prismatic Lens
+1 Magma Jet
+1 Coalition Relic
+1 Solemn Simulacrum
+1 Path to Exile
+1 Karn Liberated
+1 Mulldrifter
+1 Serum Visions
+1 Hedron Archive
+1 Arid Mesa
+1 Fiery Islet
+1 Misty Rainforest
+1 Plateau
+1 Sacred Foundry
+1 Steam Vents
+1 Sunbaked Canyon
+1 Wooded Foothills
+3 Mountain
+4 Island
+2 Plains
+
+1 Horizon Canopy
+1 Raging Ravine
+1 Savannah
+1 Stomping Ground
+1 Wild Growth
+1 Grim Lavamancer
+1 Giver of Runes
+1 Domri, Anarch of Bolas
+1 Urza, Lord High Artificer
+1 Xenagos, the Reveler
+1 Garruk, Primal Hunter
+1 Vivien Reid
+1 Arc Lightning
+1 Glorybringer

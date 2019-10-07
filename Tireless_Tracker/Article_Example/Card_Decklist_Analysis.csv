@@ -1,0 +1,261 @@
+Name,Win,Loss,Num,Color,CMC,Type,Win %
+Abrade,112,103,25,R,2.0,Instant,0.5209302325581395
+Adanto Vanguard,106,84,23,W,2.0,Creature,0.5578947368421052
+Ancient Tomb,142,161,39,,0.0,Land,0.46864686468646866
+Animate Dead,83,96,24,B,2.0,Enchantment,0.46368715083798884
+Arbor Elf,167,125,35,G,1.0,Creature,0.571917808219178
+Arc Trail,99,99,24,R,2.0,Sorcery,0.5
+Arid Mesa,166,142,40,,0.0,Land,0.538961038961039
+"Ashiok, Nightmare Weaver",127,144,33,BU,3.0,Planeswalker,0.46863468634686345
+Avacyn's Pilgrim,160,103,33,GW,1.0,Creature,0.6083650190114068
+Azorius Signet,144,150,39,UW,2.0,Artifact,0.4897959183673469
+Badlands,128,121,32,BR,0.0,Land,0.5140562248995983
+Balance,100,83,24,W,2.0,Sorcery,0.546448087431694
+Baleful Strix,85,136,29,BU,2.0,Creature,0.38461538461538464
+Basalt Monolith,120,143,33,,3.0,Artifact,0.45627376425855515
+Bayou,86,71,21,BG,0.0,Land,0.5477707006369427
+Biogenic Ooze,160,121,34,G,5.0,Creature,0.5693950177935944
+Birds of Paradise,197,166,43,G,1.0,Creature,0.5426997245179064
+Bitterblossom,69,95,22,B,2.0,Enchantment,0.42073170731707316
+Blast from the Past,113,113,28,R,3.0,Instant,0.5
+Blightsteel Colossus,99,100,25,,12.0,Creature,0.49748743718592964
+Blood Crypt,102,123,31,BR,0.0,Land,0.4533333333333333
+Bloodstained Mire,144,152,38,,0.0,Land,0.4864864864864865
+Bonesplitter,95,82,23,,1.0,Artifact,0.536723163841808
+Brainstorm,83,111,28,U,1.0,Instant,0.42783505154639173
+Breeding Pool,153,123,35,GU,0.0,Land,0.5543478260869565
+Bribery,139,161,36,U,5.0,Sorcery,0.4633333333333333
+"Brimaz, King of Oreskos",87,85,21,W,3.0,Creature,0.5058139534883721
+Burst Lightning,135,84,25,R,1.0,Instant,0.6164383561643836
+Celestial Colonnade,111,111,30,UW,0.0,Land,0.5
+Chain Lightning,164,134,36,R,1.0,Sorcery,0.5503355704697986
+"Chandra, Torch of Defiance",133,109,32,R,4.0,Planeswalker,0.5495867768595041
+Channel,88,88,22,G,2.0,Sorcery,0.5
+Chart a Course,121,147,34,U,2.0,Sorcery,0.45149253731343286
+Chrome Mox,162,140,41,,0.0,Artifact,0.5364238410596026
+City of Brass,74,103,25,,0.0,Land,0.4180790960451977
+Coalition Relic,141,183,43,,3.0,Artifact,0.4351851851851852
+Coldsteel Heart,153,166,41,,2.0,Artifact,0.47962382445141066
+Compulsive Research,118,124,30,U,3.0,Sorcery,0.48760330578512395
+Condescend,114,105,28,U,1.0,Instant,0.5205479452054794
+Consecrated Sphinx,148,148,40,U,6.0,Creature,0.5
+Control Magic,112,95,27,U,4.0,Enchantment,0.5410628019323671
+Council's Judgment,128,103,30,W,3.0,Sorcery,0.5541125541125541
+Counterspell,152,148,41,U,2.0,Instant,0.5066666666666667
+Courser of Kruphix,117,98,25,G,3.0,Creature,0.5441860465116279
+Craterhoof Behemoth,174,130,36,G,8.0,Creature,0.5723684210526315
+Creeping Tar Pit,129,164,37,BU,0.0,Land,0.4402730375426621
+Cryptic Command,103,84,26,U,4.0,Instant,0.5508021390374331
+Dack Fayden,123,138,33,RU,3.0,Planeswalker,0.47126436781609193
+Damnation,84,105,25,B,4.0,Sorcery,0.4444444444444444
+Dance of the Dead,84,106,26,B,2.0,Enchantment,0.4421052631578947
+Dark Confidant,92,85,23,B,2.0,Creature,0.519774011299435
+Dauntless Bodyguard,112,91,24,W,1.0,Creature,0.5517241379310345
+Demonic Tutor,137,142,38,B,2.0,Sorcery,0.4910394265232975
+Dig Through Time,143,158,40,U,8.0,Instant,0.4750830564784053
+Dismember,154,132,38,B,3.0,Instant,0.5384615384615384
+Doom Blade,91,105,27,B,2.0,Instant,0.4642857142857143
+Dryad Militant,103,77,22,GW,1.0,Creature,0.5722222222222222
+Duress,121,142,31,B,1.0,Sorcery,0.4600760456273764
+"Elspeth, Knight-Errant",123,107,29,W,4.0,Planeswalker,0.5347826086956522
+"Elspeth, Sun's Champion",113,147,33,W,6.0,Planeswalker,0.4346153846153846
+Elves of Deep Shadow,111,107,26,BG,1.0,Creature,0.5091743119266054
+Elvish Mystic,158,130,36,G,1.0,Creature,0.5486111111111112
+"Emrakul, the Aeons Torn",107,108,27,,15.0,Creature,0.49767441860465117
+Entomb,88,101,25,B,1.0,Instant,0.4656084656084656
+Eternal Witness,81,91,22,G,3.0,Creature,0.47093023255813954
+Everflowing Chalice,120,128,34,,0.0,Artifact,0.4838709677419355
+Fact or Fiction,140,158,38,U,4.0,Instant,0.4697986577181208
+Falkenrath Gorger,117,89,25,R,1.0,Creature,0.5679611650485437
+Fauna Shaman,144,100,30,G,2.0,Creature,0.5901639344262295
+Fetid Pools,160,159,42,BU,0.0,Land,0.5015673981191222
+Fiery Confluence,170,119,38,R,4.0,Sorcery,0.5882352941176471
+Fiery Islet,100,106,27,RU,0.0,Land,0.4854368932038835
+Figure of Destiny,118,70,24,RW,1.0,Creature,0.6276595744680851
+Fireblast,124,68,23,R,6.0,Instant,0.6458333333333334
+Firebolt,112,80,24,R,1.0,Sorcery,0.5833333333333334
+Firedrinker Satyr,112,94,27,R,1.0,Creature,0.5436893203883495
+Flooded Strand,131,139,38,,0.0,Land,0.48518518518518516
+Force of Will,126,112,32,U,5.0,Instant,0.5294117647058824
+Forest,1688,1423,361,G,0.0,Land,0.5425908068145291
+Fractured Identity,147,141,34,UW,5.0,Sorcery,0.5104166666666666
+Fyndhorn Elves,180,118,36,G,1.0,Creature,0.6040268456375839
+Gaea's Cradle,199,136,40,G,0.0,Land,0.5940298507462687
+Garruk Relentless,147,118,32,BG,4.0,Planeswalker,0.5547169811320755
+Garruk Wildspeaker,169,128,35,G,4.0,Planeswalker,0.569023569023569
+"Garruk, Primal Hunter",97,73,21,G,5.0,Planeswalker,0.5705882352941176
+"Gideon, Ally of Zendikar",149,142,37,W,4.0,Planeswalker,0.5120274914089347
+Gilded Lotus,66,99,22,,5.0,Artifact,0.4
+Glen Elendra Archmage,133,156,38,U,4.0,Creature,0.4602076124567474
+Go for the Throat,72,89,22,B,2.0,Instant,0.4472049689440994
+Goblin Guide,132,107,29,R,1.0,Creature,0.5523012552301255
+Goblin Rabblemaster,103,106,27,R,3.0,Creature,0.49282296650717705
+Godless Shrine,103,96,24,BW,0.0,Land,0.5175879396984925
+Grafted Wargear,97,96,26,,3.0,Artifact,0.5025906735751295
+Grave Titan,118,155,35,B,6.0,Creature,0.43223443223443225
+Green Sun's Zenith,136,112,28,G,1.0,Sorcery,0.5483870967741935
+Grim Monolith,151,148,38,,2.0,Artifact,0.5050167224080268
+Griselbrand,92,102,26,B,8.0,Creature,0.4742268041237113
+Hallowed Fountain,125,140,35,UW,0.0,Land,0.4716981132075472
+Hedron Archive,103,119,28,,4.0,Artifact,0.46396396396396394
+Hexdrinker,139,85,27,G,1.0,Creature,0.6205357142857143
+Horizon Canopy,103,79,23,GW,0.0,Land,0.5659340659340659
+Hydroid Krasis,105,83,24,GU,2.0,Creature,0.5585106382978723
+Hymn to Tourach,121,134,34,B,2.0,Sorcery,0.4745098039215686
+Icehide Golem,100,91,24,,1.0,Creature,0.5235602094240838
+Incinerate,137,101,31,R,2.0,Instant,0.5756302521008403
+Inferno Titan,101,104,26,R,6.0,Creature,0.4926829268292683
+Inquisition of Kozilek,76,86,23,B,1.0,Sorcery,0.4691358024691358
+Irrigated Farmland,116,119,31,UW,0.0,Land,0.49361702127659574
+"Isamaru, Hound of Konda",141,90,29,W,1.0,Creature,0.6103896103896104
+Island,1959,2085,547,U,0.0,Land,0.4844213649851632
+Izzet Signet,131,145,34,RU,2.0,Artifact,0.4746376811594203
+"Jace, Vryn's Prodigy",174,185,49,U,2.0,Creature,0.48467966573816157
+"Jace, the Mind Sculptor",154,167,42,U,4.0,Planeswalker,0.4797507788161994
+Jackal Pup,121,76,24,R,1.0,Creature,0.6142131979695431
+Joraga Treespeaker,167,108,34,G,1.0,Creature,0.6072727272727273
+"Kari Zev, Skyship Raider",148,99,30,R,2.0,Creature,0.5991902834008097
+Karn Liberated,127,110,32,,7.0,Planeswalker,0.5358649789029536
+Kitesail Freebooter,104,93,23,B,2.0,Creature,0.5279187817258884
+Kodama's Reach,102,100,26,G,3.0,Sorcery,0.504950495049505
+Kolaghan's Command,94,85,23,BR,3.0,Instant,0.5251396648044693
+"Kytheon, Hero of Akros",136,107,31,W,1.0,Creature,0.5596707818930041
+Lightning Bolt,188,135,40,R,1.0,Instant,0.5820433436532507
+Liliana of the Veil,102,149,33,B,3.0,Planeswalker,0.4063745019920319
+"Liliana, the Last Hope",104,105,26,B,3.0,Planeswalker,0.49760765550239233
+Llanowar Elves,150,121,33,G,1.0,Creature,0.5535055350553506
+Lotus Cobra,131,129,31,G,2.0,Creature,0.5038461538461538
+Lumbering Falls,97,80,22,GU,0.0,Land,0.5480225988700564
+Magma Jet,101,108,25,R,2.0,Instant,0.48325358851674644
+Mana Drain,150,160,40,U,2.0,Instant,0.4838709677419355
+Mana Leak,149,163,40,U,2.0,Instant,0.4775641025641026
+Marsh Flats,104,106,30,,0.0,Land,0.49523809523809526
+Memory Lapse,137,116,33,U,2.0,Instant,0.541501976284585
+Merfolk Looter,56,96,21,U,2.0,Creature,0.3684210526315789
+Mind Stone,136,128,32,,2.0,Artifact,0.5151515151515151
+Mind Twist,168,167,42,B,1.0,Sorcery,0.5014925373134328
+Miscalculation,118,141,35,U,2.0,Instant,0.4555984555984556
+Mishra's Factory,104,74,23,,0.0,Land,0.5842696629213483
+Misty Rainforest,154,152,42,,0.0,Land,0.5032679738562091
+Monastery Mentor,92,114,28,W,3.0,Creature,0.44660194174757284
+Monastery Swiftspear,108,92,24,R,1.0,Creature,0.54
+Mother of Runes,121,105,30,W,1.0,Creature,0.5353982300884956
+Mountain,2000,1549,440,R,0.0,Land,0.5635390250774867
+Mox Diamond,194,171,47,,0.0,Artifact,0.5315068493150685
+Mulldrifter,92,117,27,U,5.0,Creature,0.44019138755980863
+Myr Battlesphere,97,100,26,,7.0,Creature,0.49238578680203043
+Mystic Confluence,140,154,37,U,5.0,Instant,0.47619047619047616
+"Narset, Parter of Veils",90,84,21,U,3.0,Planeswalker,0.5172413793103449
+Natural Order,152,118,31,G,4.0,Sorcery,0.562962962962963
+Negate,87,113,27,U,2.0,Instant,0.435
+"Nissa, Vital Force",100,90,22,G,5.0,Planeswalker,0.5263157894736842
+"Nissa, Voice of Zendikar",79,79,21,G,3.0,Planeswalker,0.5
+Noble Hierarch,173,120,37,GUW,1.0,Creature,0.590443686006826
+On Thin Ice,85,103,24,W,1.0,Enchantment,0.4521276595744681
+Opposition,128,104,29,U,4.0,Enchantment,0.5517241379310345
+Pack Rat,118,147,32,B,2.0,Creature,0.44528301886792454
+Palace Jailer,136,144,34,W,4.0,Creature,0.4857142857142857
+Paradise Druid,135,91,28,G,2.0,Creature,0.5973451327433629
+Path to Exile,162,148,40,W,1.0,Instant,0.5225806451612903
+Phantasmal Image,93,88,22,U,2.0,Creature,0.5138121546961326
+Phyrexian Metamorph,122,130,33,U,4.0,Creature,0.48412698412698413
+Plains,1871,1565,451,W,0.0,Land,0.5445285215366705
+Plow Under,92,87,22,G,5.0,Sorcery,0.5139664804469274
+Polluted Delta,166,180,43,,0.0,Land,0.4797687861271676
+Ponder,181,191,51,U,1.0,Sorcery,0.48655913978494625
+Porcelain Legionnaire,159,145,39,W,3.0,Creature,0.5230263157894737
+Preordain,131,156,39,U,1.0,Sorcery,0.4564459930313589
+Primeval Titan,141,99,29,G,6.0,Creature,0.5875
+Prismatic Vista,82,76,21,,0.0,Land,0.5189873417721519
+Rakdos Cackler,135,100,28,BR,1.0,Creature,0.574468085106383
+Reanimate,104,96,26,B,1.0,Sorcery,0.52
+Remand,115,116,29,U,2.0,Instant,0.49783549783549785
+Rishadan Port,103,72,22,,0.0,Land,0.5885714285714285
+"Rofellos, Llanowar Emissary",141,110,29,G,2.0,Creature,0.5617529880478087
+"Saheeli, Sublime Artificer",91,114,26,RU,3.0,Planeswalker,0.44390243902439025
+Sakura-Tribe Elder,125,101,26,G,2.0,Creature,0.5530973451327433
+Scalding Tarn,190,184,50,,0.0,Land,0.5080213903743316
+Scrubland,98,104,28,BW,0.0,Land,0.48514851485148514
+Search for Azcanta,119,111,29,U,2.0,Enchantment,0.5173913043478261
+Searing Spear,126,111,30,R,2.0,Instant,0.5316455696202531
+Serra the Benevolent,67,96,21,W,4.0,Planeswalker,0.4110429447852761
+Serum Visions,83,98,24,U,1.0,Sorcery,0.4585635359116022
+Shelldock Isle,186,168,46,U,0.0,Land,0.5254237288135594
+Shriekmaw,88,116,25,B,5.0,Creature,0.43137254901960786
+Silent Clearing,81,88,22,BW,0.0,Land,0.47928994082840237
+Skullclamp,167,124,36,,1.0,Artifact,0.5738831615120275
+Skymarcher Aspirant,101,74,23,W,1.0,Creature,0.5771428571428572
+Smuggler's Copter,164,106,35,,2.0,Artifact,0.6074074074074074
+Snapcaster Mage,131,150,38,U,2.0,Creature,0.46619217081850534
+Sneak Attack,134,119,32,R,4.0,Enchantment,0.5296442687747036
+Snow-Covered Forest,2043,1515,476,G,0.0,Land,0.5741989881956155
+Snow-Covered Island,2693,2843,737,U,0.0,Land,0.4864523121387283
+Snow-Covered Mountain,1946,1828,489,R,0.0,Land,0.5156332803391627
+Snow-Covered Plains,1685,1804,458,W,0.0,Land,0.4829464029807968
+Snow-Covered Swamp,1202,1413,357,B,0.0,Land,0.4596558317399618
+Solemn Simulacrum,133,147,36,,4.0,Creature,0.475
+Spell Pierce,113,97,28,U,1.0,Instant,0.5380952380952381
+Steam Vents,112,132,31,RU,0.0,Land,0.45901639344262296
+Stomping Ground,76,82,22,GR,0.0,Land,0.4810126582278481
+Stoneforge Mystic,121,113,30,W,2.0,Creature,0.5170940170940171
+Stormblood Berserker,112,82,23,R,2.0,Creature,0.5773195876288659
+Strip Mine,188,136,41,,0.0,Land,0.5802469135802469
+Sulfuric Vortex,159,118,35,R,3.0,Enchantment,0.5740072202166066
+Sulfurous Springs,82,77,21,BR,0.0,Land,0.5157232704402516
+Sundering Titan,94,100,23,,8.0,Creature,0.4845360824742268
+Swamp,1471,1753,417,B,0.0,Land,0.45626550868486354
+Sword of Fire and Ice,93,75,21,,3.0,Artifact,0.5535714285714286
+Swords to Plowshares,138,137,37,W,1.0,Instant,0.5018181818181818
+Sylvan Caryatid,117,105,27,G,2.0,Creature,0.527027027027027
+Sylvan Library,198,130,42,G,2.0,Enchantment,0.6036585365853658
+Taiga,82,78,22,GR,0.0,Land,0.5125
+Talisman of Conviction,79,93,22,RW,2.0,Artifact,0.45930232558139533
+Talisman of Creativity,73,96,21,RU,2.0,Artifact,0.4319526627218935
+Talisman of Curiosity,94,117,26,GU,2.0,Artifact,0.44549763033175355
+Talisman of Dominance,98,101,24,BU,2.0,Artifact,0.49246231155778897
+"Teferi, Hero of Dominaria",102,123,28,UW,5.0,Planeswalker,0.4533333333333333
+"Tezzeret, Artifice Master",83,100,23,U,5.0,Planeswalker,0.453551912568306
+"Thalia, Guardian of Thraben",121,109,28,W,2.0,Creature,0.5260869565217391
+"Thalia, Heretic Cathar",114,107,28,W,3.0,Creature,0.5158371040723982
+The Scarab God,110,134,32,BU,5.0,Creature,0.45081967213114754
+Thirst for Knowledge,126,150,35,U,3.0,Instant,0.45652173913043476
+Thoughtseize,131,153,36,B,1.0,Sorcery,0.4612676056338028
+Thragtusk,94,82,21,G,5.0,Creature,0.5340909090909091
+Thran Dynamo,101,111,27,,4.0,Artifact,0.47641509433962265
+Tinker,108,130,30,U,3.0,Sorcery,0.453781512605042
+Tireless Tracker,141,137,34,G,3.0,Creature,0.5071942446043165
+Toxic Deluge,103,165,36,B,3.0,Sorcery,0.3843283582089552
+Treachery,165,156,41,U,5.0,Enchantment,0.514018691588785
+Tropical Island,158,132,36,GU,0.0,Land,0.5448275862068965
+True-Name Nemesis,147,135,36,U,3.0,Creature,0.5212765957446809
+Tundra,113,110,32,UW,0.0,Land,0.5067264573991032
+"Ugin, the Spirit Dragon",150,177,40,,8.0,Planeswalker,0.45871559633027525
+"Ulamog, the Ceaseless Hunger",97,127,30,,10.0,Creature,0.4330357142857143
+Umezawa's Jitte,145,127,35,,2.0,Artifact,0.5330882352941176
+Underground Sea,167,161,44,BU,0.0,Land,0.5091463414634146
+Unexpectedly Absent,107,120,27,W,2.0,Instant,0.4713656387665198
+Upheaval,127,84,26,U,6.0,Sorcery,0.6018957345971564
+Utopia Sprawl,120,97,26,G,1.0,Enchantment,0.5529953917050692
+Vampiric Tutor,122,160,37,B,1.0,Instant,0.4326241134751773
+Vendilion Clique,140,132,34,U,3.0,Creature,0.5147058823529411
+"Venser, Shaper Savant",97,93,23,U,4.0,Creature,0.5105263157894737
+Verdant Catacombs,129,153,36,,0.0,Land,0.4574468085106383
+Vivien Reid,123,101,27,G,5.0,Planeswalker,0.5491071428571429
+Volcanic Island,97,120,28,RU,0.0,Land,0.4470046082949309
+Walking Ballista,116,89,25,,0.0,Creature,0.5658536585365853
+Wall of Omens,82,108,25,W,2.0,Creature,0.43157894736842106
+Wall of Roots,112,103,27,G,2.0,Creature,0.5209302325581395
+Wasteland,108,91,26,,0.0,Land,0.542713567839196
+Watcher for Tomorrow,88,87,22,U,2.0,Creature,0.5028571428571429
+Waterlogged Grove,99,70,21,GU,0.0,Land,0.5857988165680473
+Watery Grave,144,193,43,BU,0.0,Land,0.42729970326409494
+Wheel of Fortune,103,87,22,R,3.0,Sorcery,0.5421052631578948
+Wild Growth,130,99,28,G,1.0,Enchantment,0.5676855895196506
+Will Kenrith,104,103,25,U,6.0,Planeswalker,0.5024154589371981
+Windswept Heath,158,146,40,,0.0,Land,0.5197368421052632
+Wooded Foothills,142,141,36,,0.0,Land,0.5017667844522968
+Woodfall Primus,111,82,22,G,8.0,Creature,0.5751295336787565
+Worn Powerstone,134,136,33,,3.0,Artifact,0.4962962962962963
+Wrath of God,90,77,23,W,4.0,Sorcery,0.5389221556886228
+Wurmcoil Engine,126,148,35,,6.0,Creature,0.45985401459854014
+Zurgo Bellstriker,138,101,29,R,1.0,Creature,0.5774058577405857

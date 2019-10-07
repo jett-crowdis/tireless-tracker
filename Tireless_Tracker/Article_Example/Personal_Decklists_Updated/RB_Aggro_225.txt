@@ -1,0 +1,38 @@
+Colors: RB
+Archetype: Aggro
+Record: 3-0
+Games: 6-3
+
+1 Fiery Islet
+1 Strip Mine
+1 Blood Crypt
+1 Lavaclaw Reaches
+1 Badlands
+1 Wooded Foothills
+1 Polluted Delta
+1 Dread Wanderer
+1 Lightning Bolt
+1 Diregraf Ghoul
+1 Nightfall Stalker
+1 Falkenrath Gorger
+1 Gravecrawler
+1 Duress
+1 Carnophage
+1 Mox Diamond
+1 Kitesail Freebooter
+1 Dreadbore
+1 Dark Confidant
+1 Scrapheap Scrounger
+1 Kari Zev, Skyship Raider
+1 Searing Spear
+1 Blightwalker
+1 Bloodghast
+1 Ulak, Heartless Warden
+1 Brutal Negator
+1 Legion Warboss
+1 Kolaghan's Command
+1 Spawn of Mayhem
+1 Hellrider
+1 Snuff Out
+3 Mountain
+6 Swamp

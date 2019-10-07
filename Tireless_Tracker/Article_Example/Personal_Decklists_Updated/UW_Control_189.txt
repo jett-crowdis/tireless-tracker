@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Control
+Record: 1-2
+Games: 3-5
+
+1 Ugin, the Spirit Dragon
+1 Serum Visions
+1 Teferi, Hero of Dominaria
+1 Jace Beleren
+1 Mind Stone
+1 Will Kenrith
+1 Serra the Benevolent
+1 Supreme Verdict
+1 Talisman of Creativity
+1 Teferi, Time Raveler
+1 Coldsteel Heart
+1 Miscalculation
+1 Cryptic Command
+1 Ponder
+1 Treachery
+1 Winds of Abandon
+1 Monastery Mentor
+1 Swords to Plowshares
+1 Talisman of Curiosity
+1 Search for Azcanta
+1 Venser, Shaper Savant
+1 Force of Will
+1 Unexpectedly Absent
+1 Ancient Tomb
+1 Celestial Colonnade
+1 Horizon Canopy
+1 Marsh Flats
+1 Tundra
+6 Snow-Covered Island
+6 Snow-Covered Plains
+
+1 Light Up the Stage
+1 Sulfuric Vortex
+1 Nissa, Steward of Elements
+1 Scrapheap Scrounger
+1 Stormblood Berserker
+1 Finale of Glory
+1 Zurgo Bellstriker
+1 Grim Lavamancer
+1 Nurturing Peatland
+1 Ice-Fang Coatl
+1 Drana, Liberator of Malakir
+1 Kalitas, Traitor of Ghet
+1 Sarkhan the Masterless
+1 Mirari's Wake
+1 God-Eternal Kefnet
+1 Banishing Light
+1 Angel of Invention

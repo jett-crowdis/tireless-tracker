@@ -1,0 +1,53 @@
+Colors: UW
+Archetype: Midrange
+Record: 2-1
+Games: 4-4
+
+1 Treachery
+1 Balance
+1 Narset, Parter of Veils
+1 Gideon Jura
+1 Gideon of the Trials
+1 Archangel Avacyn
+1 On Thin Ice
+1 Mana Leak
+1 Stoneforge Mystic
+1 Talisman of Conviction
+1 Control Magic
+1 Monastery Mentor
+1 Sower of Temptation
+1 God-Eternal Kefnet
+1 Coldsteel Heart
+1 Fractured Identity
+1 Banishing Light
+1 Sword of Sinew and Steel
+1 Sorcerous Spyglass
+1 Memory Lapse
+1 Council's Judgment
+1 Everflowing Chalice
+1 Hangarback Walker
+1 Celestial Colonnade
+1 Chrome Mox
+7 Snow-Covered Plains
+8 Snow-Covered Island
+
+1 Marsh Flats
+1 Sacred Foundry
+1 Diregraf Ghoul
+1 Sensei's Divining Top
+1 Firedrinker Satyr
+1 Giver of Runes
+1 Doom Blade
+1 Kitesail Freebooter
+1 Night's Whisper
+1 Justice Strike
+1 Abrade
+1 Show and Tell
+1 Jadelight Ranger
+1 Krenko, Tin Street Kingpin
+1 Spawn of Mayhem
+1 Fleetwheel Cruiser
+1 Hedron Archive
+1 Hellrider
+1 Zealous Conscripts
+1 Sundering Titan

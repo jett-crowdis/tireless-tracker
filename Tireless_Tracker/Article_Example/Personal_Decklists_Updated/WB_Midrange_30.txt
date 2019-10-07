@@ -1,0 +1,33 @@
+Colors: WB
+Archetype: Midrange
+Record: 1-1
+Games: 2.5-2.5
+
+1 Mother of Runes
+1 Vampiric Tutor
+1 Everflowing Chalice
+1 Declaration in Stone
+1 Selfless Spirit
+1 Mind Stone
+1 Demonic Tutor
+1 Vampire Nighthawk
+1 Dismember
+1 Blade Splicer
+1 Liliana of the Veil
+1 Vindicate
+1 Lingering Souls
+1 Anguished Unmaking
+1 Flickerwisp
+1 Banishing Light
+1 Parallax Wave
+1 Gisela, the Broken Blade
+1 Wrath of God
+1 Moat
+1 Baneslayer Angel
+1 Reveillark
+1 Angel of Invention
+1 Caves of Koilos
+1 Windswept Heath
+1 Scrubland
+8 Plains
+6 Swamp

@@ -1,0 +1,52 @@
+Colors: U
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Treachery
+1 Ugin, the Spirit Dragon
+1 Miscalculation
+1 Narset, Parter of Veils
+1 Snapcaster Mage
+1 Urza, Lord High Artificer
+1 Arcane Artisan
+1 Sensei's Divining Top
+1 Thran Dynamo
+1 Ponder
+1 Basalt Monolith
+1 Tinker
+1 Blightsteel Colossus
+1 Show and Tell
+1 Karn, Scion of Urza
+1 Izzet Signet
+1 Mana Drain
+1 Tezzeret, Artifice Master
+1 Jace Beleren
+1 Counterspell
+1 Glen Elendra Archmage
+1 Vedalken Shackles
+1 Ulamog, the Ceaseless Hunger
+1 Hangarback Walker
+1 Flooded Strand
+1 Shelldock Isle
+14 Snow-Covered Island
+
+1 Gaea's Cradle
+1 Blast Zone
+1 Breeding Pool
+1 Lumbering Falls
+1 Carnophage
+1 Secure the Wastes
+1 Heir of Falkenrath
+1 Ice-Fang Coatl
+1 Ashiok, Nightmare Weaver
+1 Knight of Autumn
+1 Braids, Cabal Minion
+1 Mirari's Wake
+1 Torrential Gearhulk
+1 Merfolk Looter
+1 Phantasmal Image
+1 Compulsive Research
+1 Condescend
+1 Mu Yanling, Sky Dancer
+1 Sphinx of the Steel Wind

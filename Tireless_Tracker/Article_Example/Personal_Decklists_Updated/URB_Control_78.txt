@@ -1,0 +1,37 @@
+Colors: URB
+Archetype: Control
+Record: 3-2
+Games: 7.0-5.5
+
+1 Chain Lightning
+1 Spell Pierce
+1 Burst Lightning
+1 Mana Leak
+1 Impulse
+1 Boros Signet
+1 Izzet Signet
+1 Looter il-Kor
+1 Counterspell
+1 Ashiok, Nightmare Weaver
+1 Basalt Monolith
+1 Thirst for Knowledge
+1 Worn Powerstone
+1 Jace, the Mind Sculptor
+1 Hostage Taker
+1 Bribery
+1 Tezzeret, Artifice Master
+1 Glorybringer
+1 Mystic Confluence
+1 Dig Through Time
+1 Inferno Titan
+1 Will Kenrith
+1 Walking Ballista
+1 Shivan Reef
+1 Watery Grave
+1 Fetid Pools
+1 Badlands
+1 Chrome Mox
+1 Arid Mesa
+1 Swamp
+6 Island
+4 Mountain

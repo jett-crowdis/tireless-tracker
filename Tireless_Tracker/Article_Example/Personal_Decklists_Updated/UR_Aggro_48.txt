@@ -1,0 +1,36 @@
+Colors: UR
+Archetype: Aggro
+Record: 1-3
+Games: 3.5-6.5
+
+1 Falkenrath Gorger
+1 Control Magic
+1 Bonesplitter
+1 Arc Trail
+1 Man-o'-War
+1 Grafted Wargear
+1 Vendilion Clique
+1 Grim Lavamancer
+1 Sulfuric Vortex
+1 Snapcaster Mage
+1 Goblin Rabblemaster
+1 Chain Lightning
+1 Scrapheap Scrounger
+1 Incinerate
+1 Sword of War and Peace
+1 Strip Mine
+1 Koth of the Hammer
+1 Rift Chronicler
+1 Monastery Swiftspear
+1 Kari Zev, Skyship Raider
+1 Porcelain Legionnaire
+1 Zurgo Bellstriker
+1 Lightning Bolt
+1 Goblin Guide
+1 Blood Crypt
+1 Ember Magmar
+1 Steam Vents
+1 Young Pyromancer
+1 Rakdos Cackler
+5 Island
+6 Mountain

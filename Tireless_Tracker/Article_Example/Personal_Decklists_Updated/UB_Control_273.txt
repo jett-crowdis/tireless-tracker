@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Control_Reanimator
+Record: 3-0
+Games: 6-0
+
+1 The Scarab God
+1 Dismember
+1 Animate Dead
+1 True-Name Nemesis
+1 Griselbrand
+1 Inquisition of Kozilek
+1 Serum Visions
+1 Ashiok, Nightmare Weaver
+1 Entomb
+1 Consecrated Sphinx
+1 Reanimate
+1 Dance of the Dead
+1 Glen Elendra Archmage
+1 Imperial Seal
+1 Demonic Tutor
+1 Damnation
+1 Merfolk Looter
+1 Kitesail Freebooter
+1 Search for Azcanta
+1 Scour All Possibilities
+1 Grave Titan
+1 Baleful Strix
+1 Fetid Pools
+1 Marsh Flats
+1 Ancient Stone Idol
+1 Misty Rainforest
+1 Scalding Tarn
+1 Underground Sea
+6 Snow-Covered Island
+6 Snow-Covered Swamp
+
+1 Silent Clearing
+1 Giver of Runes
+1 Callous Dismissal
+1 Sorcerous Spyglass
+1 Channel
+1 Wall of Blossoms
+1 Goblin Cratermaker
+1 Imposing Sovereign
+1 Kolaghan's Command
+1 Pernicious Deed
+1 Goblin Rabblemaster
+1 Sorin, Lord of Innistrad
+1 Glorybringer
+1 Emrakul, the Aeons Torn
+1 Jace Beleren
+1 Go for the Throat
+1 Night's Whisper

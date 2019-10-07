@@ -1,0 +1,34 @@
+Colors: UR
+Archetype: Control_Combo
+Record: 2-2
+Games: 6-5
+
+1 Volcanic Island
+1 Scalding Tarn
+1 Misty Rainforest
+1 Steam Vents
+7 Snow-Covered Island
+6 Snow-Covered Mountain
+1 Watcher for Tomorrow
+1 Talisman of Dominance
+1 Grim Monolith
+1 Jace, Vryn's Prodigy
+1 Remand
+1 Everflowing Chalice
+1 Arcane Artisan
+1 True-Name Nemesis
+1 Vendilion Clique
+1 Dack Fayden
+1 Thirst for Knowledge
+1 Venser, Shaper Savant
+1 Glen Elendra Archmage
+1 Sneak Attack
+1 Force of Will
+1 Treachery
+1 Blitz Basilisk
+1 Mystic Confluence
+1 Inferno Titan
+1 Torrential Gearhulk
+1 Wurmcoil Engine
+1 Dig Through Time
+1 Emrakul, the Aeons Torn

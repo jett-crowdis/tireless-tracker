@@ -1,0 +1,53 @@
+Colors: WB
+Archetype: Control
+Record: 2-1
+Games: 4-3
+
+1 Serra the Benevolent
+1 Coalition Relic
+1 Day of Judgment
+1 Condemn
+1 Wall of Omens
+1 Secure the Wastes
+1 Walking Ballista
+1 Ophiomancer
+1 Azorius Signet
+1 Gideon Jura
+1 Talisman of Conviction
+1 Unexpectedly Absent
+1 Palace Jailer
+1 Lingering Souls
+1 Gideon of the Trials
+1 Mind Twist
+1 Elspeth, Sun's Champion
+1 Elspeth, Knight-Errant
+1 Swords to Plowshares
+1 Path to Exile
+1 Gideon, Ally of Zendikar
+1 Night's Whisper
+1 Recruiter of the Guard
+1 Arid Mesa
+1 Godless Shrine
+1 Scrubland
+1 Silent Clearing
+6 Snow-Covered Swamp
+7 Snow-Covered Plains
+
+1 Gravecrawler
+1 Mardu Woe-Reaper
+1 Bloodghast
+1 Dark Confidant
+1 Winter Orb
+1 Kitesail Freebooter
+1 Imposing Sovereign
+1 Kodama's Reach
+1 Kolaghan's Command
+1 Braids, Cabal Minion
+1 Thran Dynamo
+1 Custodi Lich
+1 Doom Whisperer
+1 Mirari's Wake
+1 Doom Blade
+1 Nekrataal
+1 Sorin, Lord of Innistrad
+1 Elesh Norn, Grand Cenobite

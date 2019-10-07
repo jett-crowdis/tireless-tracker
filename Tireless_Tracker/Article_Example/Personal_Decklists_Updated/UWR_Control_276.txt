@@ -1,0 +1,54 @@
+Colors: UWR
+Archetype: Control
+Record: 1-2
+Games: 3-5
+
+1 Chandra, Torch of Defiance
+1 Justice Strike
+1 Balance
+1 Monastery Mentor
+1 Control Magic
+1 Wall of Omens
+1 Pyroclasm
+1 Lightning Bolt
+1 Talisman of Creativity
+1 Dack Fayden
+1 Negate
+1 Vendilion Clique
+1 Wurmcoil Engine
+1 Brainstorm
+1 Oblivion Ring
+1 Coldsteel Heart
+1 Talisman of Dominance
+1 Swords to Plowshares
+1 Teferi, Hero of Dominaria
+1 Saheeli, Sublime Artificer
+1 Teferi, Time Raveler
+1 Ajani Vengeant
+1 Inferno Titan
+1 Fiery Islet
+1 Flooded Strand
+1 Hallowed Fountain
+1 Plateau
+1 Steam Vents
+1 Volcanic Island
+4 Snow-Covered Mountain
+4 Snow-Covered Plains
+3 Snow-Covered Island
+
+1 Burst Lightning
+1 Firedrinker Satyr
+1 Enlightened Tutor
+1 Kytheon, Hero of Akros
+1 Student of Warfare
+1 Izzet Charm
+1 Dire Fleet Daredevil
+1 Searing Spear
+1 Young Pyromancer
+1 Flametongue Kavu
+1 Hazoret the Fervent
+1 Cavalier of Gales
+1 Burning of Xinye
+1 Tezzeret, Artifice Master
+1 Incinerate
+1 Moat

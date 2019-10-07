@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange
+Record: 1-2
+Games: 3-5
+
+1 The Scarab God
+1 Duress
+1 Shriekmaw
+1 Memory Lapse
+1 Brain Maggot
+1 Force of Will
+1 Ravenous Chupacabra
+1 Coalition Relic
+1 Negate
+1 Jace, the Mind Sculptor
+1 Mind Twist
+1 Ashiok, Nightmare Weaver
+1 Search for Azcanta
+1 Liliana, the Last Hope
+1 Kitesail Freebooter
+1 Preordain
+1 Baleful Strix
+1 Serum Visions
+1 Demonic Tutor
+1 Pack Rat
+1 Recurring Nightmare
+1 Looter il-Kor
+1 Toxic Deluge
+1 Blast Zone
+1 Creeping Tar Pit
+1 Fetid Pools
+1 Polluted Delta
+1 Shelldock Isle
+7 Swamp
+5 Island
+
+1 Frostwalk Bastion
+1 Volrath's Stronghold
+1 Green Sun's Zenith
+1 Oona's Prowler
+1 Talisman of Curiosity
+1 Oath of Druids
+1 Necromancy
+1 Vindicate
+1 Arc Lightning
+1 Harmonize
+1 Ravages of War
+1 Doom Whisperer
+1 Liliana, Death's Majesty
+1 Nicol Bolas, God-Pharaoh
+1 Emrakul, the Promised End
+1 Will Kenrith
+1 Miscalculation

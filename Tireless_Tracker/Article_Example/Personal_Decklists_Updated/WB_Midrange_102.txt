@@ -1,0 +1,35 @@
+Colors: WB
+Archetype: Midrange
+Record: 0-2
+Games: 1.0-4.0
+
+1 Thoughtseize
+1 Mother of Runes
+1 Skullclamp
+1 Inquisition of Kozilek
+1 Doom Blade
+1 Bitterblossom
+1 Night's Whisper
+1 Tithe Taker
+1 Blightwalker
+1 Hangarback Walker
+1 Pack Rat
+1 Umezawa's Jitte
+1 Demonic Tutor
+1 Recurring Nightmare
+1 Vindicate
+1 Anguished Unmaking
+1 Oblivion Ring
+1 Lingering Souls
+1 Liliana of the Veil
+1 Ravenous Chupacabra
+1 Gonti, Lord of Luxury
+1 Archangel Avacyn
+1 Grave Titan
+1 Godless Shrine
+1 Windswept Heath
+1 Scrubland
+1 Polluted Delta
+1 Ancient Tomb
+7 Swamp
+5 Plains

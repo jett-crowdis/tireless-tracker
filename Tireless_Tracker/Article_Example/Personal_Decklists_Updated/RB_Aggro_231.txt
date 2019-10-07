@@ -1,0 +1,36 @@
+Colors: RB
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+6 Mountain
+5 Swamp
+1 Firedrinker Satyr
+1 Goblin Guide
+1 Jackal Pup
+1 Dread Wanderer
+1 Doom Blade
+1 Goblin Cratermaker
+1 Kari Zev, Skyship Raider
+1 Porcelain Legionnaire
+1 Dismissive Pyromancer
+1 Searing Spear
+1 Umezawa's Jitte
+1 Ulak, Heartless Warden
+1 Magma Jet
+1 Scrapheap Scrounger
+1 Arc Trail
+1 Dire Fleet Daredevil
+1 Grafted Wargear
+1 Light Up the Stage
+1 Hazoret the Fervent
+1 Nekrataal
+1 Koth of the Hammer
+1 Hellrider
+1 Glorybringer
+1 Bloodstained Mire
+1 Blood Crypt
+1 Sunbaked Canyon
+1 Badlands
+1 Mishra's Factory
+1 Polluted Delta

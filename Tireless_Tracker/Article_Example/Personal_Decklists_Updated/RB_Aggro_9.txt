@@ -1,0 +1,35 @@
+Colors: RB
+Archetype: Aggro
+Record: 1-2
+Games: 3.0-4.5
+
+1 Mox Diamond
+1 Chain Lightning
+1 Skullclamp
+1 Spitting Widow
+1 Nightfall Stalker
+1 Zurgo Bellstriker
+1 Ember Magmar
+1 Lightning Bolt
+1 Dread Wanderer
+1 Gravecrawler
+1 Carnophage
+1 Defiant Subverter
+1 Scrapheap Scrounger
+1 Kari Zev, Skyship Raider
+1 Go for the Throat
+1 Bloodghast
+1 Dreadbore
+1 Ulak, Heartless Warden
+1 Arc Lightning
+1 Sword of Fire and Ice
+1 Brutal Negator
+1 Fiery Confluence
+1 Snuff Out
+1 Fireblast
+1 Mana Confluence
+1 City of Brass
+1 Badlands
+1 Bloodstained Mire
+6 Mountain
+6 Swamp

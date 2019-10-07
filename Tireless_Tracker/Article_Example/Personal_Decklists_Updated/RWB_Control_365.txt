@@ -1,0 +1,39 @@
+Colors: RWB
+Archetype: Control
+Record: 3-1
+Games: 8-2
+
+1 Wasteland
+1 Prismatic Vista
+1 Strip Mine
+1 Scrubland
+1 Marsh Flats
+1 Verdant Catacombs
+1 Arid Mesa
+1 Enlightened Tutor
+1 Mind Stone
+1 Talisman of Creativity
+1 Hymn to Tourach
+1 Everflowing Chalice
+1 Grim Monolith
+1 Bloodghast
+1 Balance
+1 Talisman of Dominance
+1 Vindicate
+1 Worn Powerstone
+1 Kolaghan's Command
+1 Gideon of the Trials
+1 Gonti, Lord of Luxury
+1 Spawn of Mayhem
+1 Moat
+1 Ravages of War
+1 Chandra, Torch of Defiance
+1 Hedron Archive
+1 Lyra Dawnbringer
+1 Custodi Lich
+1 Archangel Avacyn
+1 Sundering Titan
+1 Chandra, Flamecaller
+4 Snow-Covered Plains
+3 Snow-Covered Swamp
+1 Snow-Covered Mountain

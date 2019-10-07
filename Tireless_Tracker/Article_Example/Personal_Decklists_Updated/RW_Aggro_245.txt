@@ -1,0 +1,53 @@
+Colors: RW
+Archetype: Aggro
+Record: 0-3
+Games: 2-6
+
+1 Sulfuric Vortex
+1 Dismember
+1 Fireblast
+1 Firebolt
+1 Stormblood Berserker
+1 Justice Strike
+1 Bomat Courier
+1 Territorial Hellkite
+1 Bonesplitter
+1 Porcelain Legionnaire
+1 Krenko, Tin Street Kingpin
+1 Falkenrath Gorger
+1 Seasoned Pyromancer
+1 Hanweir Garrison
+1 Magma Jet
+1 Thalia, Heretic Cathar
+1 Ravages of War
+1 Searing Spear
+1 Smuggler's Copter
+1 Dire Fleet Daredevil
+1 Selfless Spirit
+1 Fleetwheel Cruiser
+1 Phyrexian Revoker
+1 Sunbaked Canyon
+1 Strip Mine
+1 Mana Confluence
+1 Arid Mesa
+5 Snow-Covered Plains
+8 Snow-Covered Mountain
+
+1 Flooded Strand
+1 Savannah
+1 Temple Garden
+1 Hangarback Walker
+1 Elves of Deep Shadow
+1 Scrapheap Scrounger
+1 Tidehollow Sculler
+1 Domri, Anarch of Bolas
+1 Vindicate
+1 Blade Splicer
+1 Lingering Souls
+1 Braids, Cabal Minion
+1 Spawn of Mayhem
+1 Domri, Chaos Bringer
+1 Xenagos, the Reveler
+1 Thundermaw Hellkite
+1 Wildfire
+1 Ajani Vengeant

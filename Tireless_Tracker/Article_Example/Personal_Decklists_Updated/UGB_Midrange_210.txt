@@ -1,0 +1,53 @@
+Colors: UGB
+Archetype: Midrange
+Record: 1-2
+Games: 3-5
+
+1 Jace, the Mind Sculptor
+1 Ponder
+1 Scour All Possibilities
+1 Vendilion Clique
+1 Sower of Temptation
+1 Eternal Witness
+1 Sword of Truth and Justice
+1 Nissa, Vital Force
+1 Sylvan Library
+1 Utopia Sprawl
+1 Remand
+1 Harmonize
+1 Lotus Cobra
+1 Mana Leak
+1 Demonic Tutor
+1 Ice-Fang Coatl
+1 Sakura-Tribe Elder
+1 Nissa, Steward of Elements
+1 Scavenging Ooze
+1 Garruk Relentless
+1 Arbor Elf
+1 Jadelight Ranger
+1 Dig Through Time
+1 Bloodstained Mire
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Tropical Island
+1 Watery Grave
+1 Windswept Heath
+6 Snow-Covered Forest
+5 Snow-Covered Island
+
+1 Mishra's Factory
+1 Sarcomancy
+1 Bloodghast
+1 Hero's Downfall
+1 Daretti, Ingenious Iconoclast
+1 Saheeli, Sublime Artificer
+1 Kalitas, Traitor of Ghet
+1 Polukranos, World Eater
+1 Tezzeret, Artifice Master
+1 Wildfire
+1 Woodfall Primus
+1 Wall of Blossoms
+1 Whirler Rogue
+1 Trumpeting Herd
+1 Nature's Claim
+1 Search for Azcanta

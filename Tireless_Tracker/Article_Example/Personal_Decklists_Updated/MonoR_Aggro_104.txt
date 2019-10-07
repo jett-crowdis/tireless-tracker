@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 4-4
+
+1 Jackal Pup
+1 Krenko, Tin Street Kingpin
+1 Falkenrath Gorger
+1 Abrade
+1 Blast from the Past
+1 Porcelain Legionnaire
+1 Sulfuric Vortex
+1 Figure of Destiny
+1 Light Up the Stage
+1 Earthshaker Khenra
+1 Bomat Courier
+1 Incinerate
+1 Magma Jet
+1 Hellrider
+1 Lightning Bolt
+1 Stormblood Berserker
+1 Koth of the Hammer
+1 Dire Fleet Daredevil
+1 Goblin Guide
+1 Zurgo Bellstriker
+1 Searing Spear
+1 Eidolon of the Great Revel
+1 Winter Orb
+1 Fireblast
+1 Rishadan Port
+1 Strip Mine
+1 Horizon Canopy
+13 Mountain
+
+1 Carnage Tyrant
+1 Gravecrawler
+1 Kolaghan's Command
+1 Thragtusk
+1 Ophiomancer
+1 Supreme Verdict
+1 Song of the Dryads
+1 Wildfire
+1 Sarkhan, the Dragonspeaker
+1 Ajani Vengeant
+1 Sword of Fire and Ice
+1 Sword of Feast and Famine
+1 Battlefield Forge
+1 City of Brass
+1 Sulfurous Springs
+1 Stomping Ground
+1 Phyrexian Revoker
+1 Grafted Wargear

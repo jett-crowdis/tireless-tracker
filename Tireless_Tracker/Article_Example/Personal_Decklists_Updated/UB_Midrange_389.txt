@@ -1,0 +1,53 @@
+Colors: UB
+Archetype: Midrange
+Record: 1-2
+Games: 2-4
+
+1 Jace, the Mind Sculptor
+1 Inquisition of Kozilek
+1 Consecrated Sphinx
+1 Shriekmaw
+1 Fatal Push
+1 Ashiok, Nightmare Weaver
+1 Hymn to Tourach
+1 Recurring Nightmare
+1 Mulldrifter
+1 Watcher for Tomorrow
+1 Dismember
+1 The Scarab God
+1 Gonti, Lord of Luxury
+1 Sower of Temptation
+1 Brain Maggot
+1 Chart a Course
+1 Mind Twist
+1 Plague Engineer
+1 Grave Titan
+1 Bitterblossom
+1 Animate Dead
+1 Custodi Lich
+1 Underground Sea
+1 Watery Grave
+1 Silent Clearing
+1 Nurturing Peatland
+1 Doom Blade
+6 Snow-Covered Island
+7 Snow-Covered Swamp
+
+1 Carnophage
+1 Heir of Falkenrath
+1 Mind Stone
+1 Search for Azcanta
+1 Winds of Abandon
+1 Vedalken Shackles
+1 Braids, Cabal Minion
+1 Sorin, Lord of Innistrad
+1 Hellrider
+1 Day of Judgment
+1 Force of Will
+1 Mystic Confluence
+1 Trostani Discordant
+1 Wildfire
+1 Liliana, Dreadhorde General
+1 Wall of Omens
+1 Hallowed Fountain
+1 Celestial Colonnade

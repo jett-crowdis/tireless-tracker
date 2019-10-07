@@ -1,0 +1,56 @@
+Colors: UWR
+Archetype: Control
+Record: 1-2
+Games: 2-4
+
+1 Mox Diamond
+1 Tinker
+1 Coalition Relic
+1 Vedalken Shackles
+1 Preordain
+1 Spell Pierce
+1 Hedron Archive
+1 Upheaval
+1 Winds of Abandon
+1 Wurmcoil Engine
+1 Mystic Confluence
+1 Coldsteel Heart
+1 Condescend
+1 Sensei's Divining Top
+1 Lightning Strike
+1 Tezzeret, Artifice Master
+1 Treachery
+1 Compulsive Research
+1 Cryptic Command
+1 Negate
+1 Day of Judgment
+1 Mystical Tutor
+1 Lightning Helix
+1 Flooded Strand
+1 Hallowed Fountain
+1 Plateau
+1 Prismatic Vista
+1 Sacred Foundry
+1 Scalding Tarn
+2 Plains
+1 Mountain
+1 Shelldock Isle
+1 Chrome Mox
+6 Island
+
+1 Gutterbones
+1 Night's Whisper
+1 Survival of the Fittest
+1 Tidehollow Sculler
+1 Tithe Taker
+1 Blade Splicer
+1 Flickerwisp
+1 Gideon Blackblade
+1 Oblivion Ring
+1 Hazoret the Fervent
+1 Wildfire
+1 Angel of Invention
+1 Sower of Temptation
+1 Hangarback Walker
+2 Island
+1 Plains

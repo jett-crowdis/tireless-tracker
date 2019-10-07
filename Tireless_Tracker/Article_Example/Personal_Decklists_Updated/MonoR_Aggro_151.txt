@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 5-2
+
+1 Abrade
+1 Firedrinker Satyr
+1 Experimental Frenzy
+1 Rakdos Cackler
+1 Fiery Confluence
+1 Burst Lightning
+1 Legion Warboss
+1 Falkenrath Gorger
+1 Monastery Swiftspear
+1 Icehide Golem
+1 Incinerate
+1 Stormblood Berserker
+1 Bomat Courier
+1 Blast from the Past
+1 Jackal Pup
+1 Lightning Bolt
+1 Firebolt
+1 Figure of Destiny
+1 Chain Lightning
+1 Goblin Guide
+1 Light Up the Stage
+1 Sulfuric Vortex
+1 Goblin Rabblemaster
+1 Lightning Strike
+1 Fiery Islet
+1 Mishra's Factory
+1 Strip Mine
+1 Chrome Mox
+12 Mountain
+
+1 Blood Crypt
+1 Plateau
+1 Verdant Catacombs
+1 Mana Leak
+1 Nature's Chant
+1 Treasure Cruise
+1 Feldon of the Third Path
+1 Adanto Vanguard
+1 Badlands
+1 Grafted Wargear
+1 Eternal Witness
+1 Wheel of Fortune
+1 Ranger-Captain of Eos
+1 Damnation
+1 Territorial Hellkite
+1 Force of Will
+1 Goblin Cratermaker

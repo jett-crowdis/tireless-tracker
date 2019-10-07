@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Control
+Record: 3-1
+Games: 7-3
+
+1 Talisman of Curiosity
+1 Chandra, Awakened Inferno
+1 Grim Monolith
+1 Talisman of Conviction
+1 Magma Jet
+1 Breeding Pool
+1 Scalding Tarn
+1 Upheaval
+1 Fact or Fiction
+1 Raging Ravine
+1 Lightning Bolt
+1 Blightsteel Colossus
+1 Tezzeret, Artifice Master
+1 Sylvan Library
+1 Talisman of Dominance
+1 Izzet Signet
+1 Ugin, the Spirit Dragon
+1 Azorius Signet
+1 Tinker
+1 Myr Battlesphere
+1 Spell Pierce
+1 Steam Vents
+1 Chandra, Flamecaller
+1 Solemn Simulacrum
+1 Saheeli, Sublime Artificer
+1 Walking Ballista
+1 Mind Stone
+6 Snow-Covered Island
+6 Snow-Covered Mountain
+
+1 Sarkhan, the Masterless
+1 Thragtusk
+1 Kodama's Reach
+1 Dimir Signet
+1 Oath of Druids
+1 Wild Growth
+1 Sacred Foundry
+1 Hydroid Krasis
+1 Savannah
+1 Nissa, Steward of Elements
+1 Nissa, Voice of Zendikar
+1 Voracious Hydra
+1 Daretti, Ingenious Iconoclast
+1 Firebolt
+1 Sphinx of the Steel Wind
+1 Jace Beleren
+1 Fetid Pools
+1 Domri, Chaos Bringer

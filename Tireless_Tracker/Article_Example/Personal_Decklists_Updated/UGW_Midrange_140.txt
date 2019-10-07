@@ -1,0 +1,54 @@
+Colors: UGW
+Archetype: Control_Combo
+Record: 2-1
+Games: 5-4
+
+1 Tinker
+1 Blightsteel Colossus
+1 Condescend
+1 Balance
+1 Ancient Stone Idol
+1 Disenchant
+1 Phyrexian Revoker
+1 Ponder
+1 Grim Monolith
+1 Mystic Confluence
+1 Sensei's Divining Top
+1 Upheaval
+1 Karn Liberated
+1 Coldsteel Heart
+1 Channel
+1 Simic Signet
+1 Sphere of the Suns
+1 Dig Through Time
+1 Primeval Titan
+1 Impulse
+1 Oath of Druids
+1 Will Kenrith
+1 Banishing Light
+1 Ancient Tomb
+1 Arid Mesa
+1 Savannah
+1 Scattered Groves
+1 Tropical Island
+1 Tundra
+3 Forest
+3 Plains
+5 Island
+
+1 Secure the Wastes
+1 Brain Maggot
+1 Duskwatch Recruiter
+1 Unexpectedly Absent
+1 Wall of Omens
+1 Drana, Liberator of Malakir
+1 Krenko, Tin Street Kingpin
+1 Show and Tell
+1 Lingering Souls
+1 Oblivion Ring
+1 Venser, Shaper Savant
+1 Koth of the Hammer
+1 Hero of Bladehold
+1 Doom Whisperer
+1 Trostani Discordant
+1 Commence the Endgame

@@ -1,0 +1,32 @@
+Colors: UW
+Archetype: Control
+Record: 3-0
+Games: 6-2
+
+1 Brainstorm
+1 Ponder
+1 Condescend
+1 Serum Visions
+1 Stoneforge Mystic
+1 Memory Lapse
+1 Jace, Vryn's Prodigy
+1 Azorius Signet
+1 Chart a Course
+1 Blade Splicer
+1 Recruiter of the Guard
+1 Vendilion Clique
+1 True-Name Nemesis
+1 Phyrexian Metamorph1
+1 Control Magic
+1 God-Eternal Kefnet
+1 Wrath of God
+1 Batterskull
+1 Treachery
+1 Force of Will
+1 Arcane Savant/Fractured Identity
+1 Elspeth, Sun's Champion
+1 Torrential Gearhulk
+1 Scalding Tarn
+1 Irrigated Farmland
+7 Snow-Covered Plains
+8 Snow-Covered Island

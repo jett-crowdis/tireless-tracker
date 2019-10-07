@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Games: 1-2
+Record: 3-7
+
+1 Icehide Golem
+1 Legion Warboss
+1 Firedrinker Satyr
+1 Lightning Strike
+1 Blast from the Past
+1 Grim Lavamancer
+1 Burst Lightning
+1 Chain Lightning
+1 Arc Trail
+1 Goblin Rabblemaster
+1 Hellrider
+1 Winter Orb
+1 Goblin Guide
+1 Young Pyromancer
+1 Monastery Swiftspear
+1 Abrade
+1 Eidolon of the Great Revel
+1 Grafted Wargear
+1 Wheel of Fortune
+1 Goblin Cratermaker
+1 Sword of Truth and Justice
+1 Dismissive Pyromancer
+1 Glorybringer
+1 Rishadan Port
+1 Wasteland
+1 Chrome Mox
+14 Snow-Covered Mountain
+
+1 Sulfurous Springs
+1 Waterlogged Grove
+1 Fatal Push
+1 Brain Maggot
+1 Dark Confidant
+1 Go for the Throat
+1 Sorcerous Spyglass
+1 Wall of Roots
+1 Council's Judgment
+1 Gideon of the Trials
+1 Languish
+1 Flametongue Kavu
+1 Plow Under
+1 Vivien Reid
+1 Angel of Invention
+1 Angel of Sanctions
+1 Sword of Sinew and Steel
+1 Feldon of the Third Path
+1 Blast Zone

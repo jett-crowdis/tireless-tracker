@@ -1,0 +1,55 @@
+Colors: UGRW
+Archetype: Control_Combo
+Record: 2-1
+Games: 5-2
+
+1 Balance
+1 Hedron Archive
+1 Blightsteel Colossus
+1 Azorius Signet
+1 Mana Leak
+1 Thirst for Knowledge
+1 Prismatic Lens
+1 Ancient Stone Idol
+1 Channel
+1 Tinker
+1 Oath of Druids
+1 Mystic Confluence
+1 Kodama's Reach
+1 Chart a Course
+1 Commence the Endgame
+1 Garruk, Primal Hunter
+1 Dig Through Time
+1 Spell Pierce
+1 Bribery
+1 Counterspell
+1 Simic Signet
+1 Search for Azcanta
+1 Nissa, Steward of Elements
+1 Sneak Attack
+1 Arid Mesa
+1 Breeding Pool
+1 Hallowed Fountain
+1 Horizon Canopy
+1 Irrigated Farmland
+1 Misty Rainforest
+1 Savannah
+1 Verdant Catacombs
+1 Blood Crypt
+1 Mountain
+3 Forest
+3 Island
+
+1 Bayou
+1 Treetop Village
+1 Sakura-Tribe Elder
+1 Arcane Artisan
+1 Jace Beleren
+1 Pernicious Deed
+1 Council's Judgment
+1 History of Benalia
+1 Monastery Mentor
+1 Day of Judgment
+1 Burning of Xinye
+1 Thran Dynamo
+1 Forest

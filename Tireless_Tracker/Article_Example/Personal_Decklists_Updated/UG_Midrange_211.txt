@@ -1,0 +1,53 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 3-0
+Games: 6-1
+
+1 Natural Order
+1 Elvish Mystic
+1 Birds of Paradise
+1 Walking Ballista
+1 Hydroid Krasis
+1 Wild Growth
+1 Garruk Wildspeaker
+1 Will Kenrith
+1 Grim Monolith
+1 Llanowar Elves
+1 Tireless Tracker
+1 Hexdrinker
+1 Craterhoof Behemoth
+1 Avacyn's Pilgrim
+1 Biogenic Ooze
+1 Vivien Reid
+1 Wolfbriar Elemental
+1 Fyndhorn Elves
+1 Phyrexian Metamorph
+1 Fauna Shaman
+1 Upheaval
+1 Primeval Titan
+1 Noble Hierarch
+1 Wall of Roots
+1 Ash Barrens
+1 Breeding Pool
+1 Gaea's Cradle
+1 Lumbering Falls
+1 Shelldock Isle
+1 Waterlogged Grove
+3 Snow-Covered Island
+7 Snow-Covered Forest
+
+1 Dryad Militant
+1 Giver of Runes
+1 Phantasmal Image
+1 Phyrexian Revoker
+1 Survival of the Fittest
+1 Vivien's Arkbow
+1 Nissa, Voice of Zendikar
+1 Recruiter of the Guard
+1 Xenagos, the Reveler
+1 Garruk, Primal Hunter
+1 Archangel Avacyn
+1 Hornet Queen
+1 Ancient Stone Idol
+1 Blightsteel Colossus
+1 Thragtusk

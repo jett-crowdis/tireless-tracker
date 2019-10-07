@@ -1,0 +1,53 @@
+Colors: UWB
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Mana Drain
+1 Fractured Identity
+1 Fact or Fiction
+1 Coldsteel Heart
+1 Search for Azcanta
+1 Will Kenrith
+1 Solemn Simulacrum
+1 Narset, Parter of Veils
+1 Baleful Strix
+1 Talisman of Dominance
+1 Talisman of Curiosity
+1 Mind Stone
+1 Elspeth, Sun's Champion
+1 Condescend
+1 Force of Will
+1 Vedalken Shackles
+1 Hostage Taker
+1 Saheeli, Sublime Artificer
+1 Snapcaster Mage
+1 Consecrated Sphinx
+1 Treachery
+1 Bribery
+1 Brainstorm
+1 Jace Beleren
+1 Fetid Pools
+1 Polluted Delta
+1 Shelldock Isle
+6 Snow-Covered Plains
+7 Snow-Covered Island
+
+1 Mishra's Factory
+1 Bloodsoaked Champion
+1 Go for the Throat
+1 Hymn to Tourach
+1 Pack Rat
+1 Izzet Charm
+1 Tithe Taker
+1 Vindicate
+1 Banishing Light
+1 Languish
+1 Archangel Avacyn
+1 Liliana, Dreadhorde General
+1 Torrential Gearhulk
+1 Treasure Cruise
+1 Venser, Shaper Savant
+1 Serum Visions
+1 Sower of Temptation
+1 Monastery Mentor

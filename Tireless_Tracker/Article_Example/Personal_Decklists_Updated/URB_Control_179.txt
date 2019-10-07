@@ -1,0 +1,54 @@
+Colors: URB
+Archetype: Control_Reanimator
+Record: 0-3
+Games: 2-4
+
+1 Grim Monolith
+1 Sneak Attack
+1 Fact or Fiction
+1 Ugin, the Spirit Dragon
+1 Remand
+1 Vampiric Tutor
+1 Ilharg, the Raze-Boar
+1 Ancient Stone Idol
+1 Search for Azcanta
+1 Merfolk Looter
+1 Dance of the Dead
+1 Exhume
+1 Talisman of Conviction
+1 Worn Powerstone
+1 Griselbrand
+1 Toxic Deluge
+1 Wheel of Fortune
+1 Duress
+1 Reanimate
+1 Oona's Prowler
+1 Kolaghan's Command
+1 Counterspell
+1 Terastodon
+1 Badlands
+1 Blood Crypt
+1 Steam Vents
+1 Sulfurous Springs
+1 Underground Sea
+1 Verdant Catacombs
+4 Swamp
+2 Mountain
+5 Island
+
+1 Celestial Colonnade
+1 Sheltered Thicket
+1 Sarcomancy
+1 Serum Visions
+1 Dismissive Pyromancer
+1 Drana, Liberator of Malakir
+1 Sword of Fire and Ice
+1 Legion Warboss
+1 Brimaz, King of Oreskos
+1 Experimental Frenzy
+1 Sarkhan the Masterless
+1 Burning of Xinye
+1 Show and Tell
+1 Will Kenrith
+1 Nicol Bolas, God-Pharaoh
+1 Saheeli, the Gifted

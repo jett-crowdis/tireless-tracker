@@ -1,0 +1,37 @@
+Colors: URB
+Archetype: Midrange
+Record: 0-3
+Games: 1.5-6.0
+
+1 Magma Jet
+1 Fact or Fiction
+1 Baleful Strix
+1 Bitterblossom
+1 Nicol Bolas, God-Pharaoh
+1 Kolaghan's Command
+1 Shriekmaw
+1 Tasigur, the Golden Fang
+1 Brainstorm
+1 Dragonlord Silumgar
+1 Into the Roil
+1 Vampiric Tutor
+1 Abbot of Keral Keep
+1 Go for the Throat
+1 Impulse
+1 Grim Lavamancer
+1 Memory Lapse
+1 Izzet Charm
+1 Young Pyromancer
+1 Abrade
+1 Condescend
+1 Gilded Lotus
+1 Blast from the Past
+1 Chrome Mox
+1 Blood Crypt
+1 Shivan Reef
+1 Sulfurous Springs
+1 Shelldock Isle
+1 Evolving Wilds
+4 Swamp
+3 Mountain
+4 Island

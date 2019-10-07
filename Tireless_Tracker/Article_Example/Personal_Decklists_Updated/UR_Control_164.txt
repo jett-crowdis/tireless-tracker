@@ -1,0 +1,53 @@
+Colors: UR
+Archetype: Control
+Record: 1-2
+Games: 4-5
+
+1 Tinker
+1 Preordain
+1 Talisman of Progress
+1 Negate
+1 God-Eternal Kefnet
+1 Scour All Possibilities
+1 Fact or Fiction
+1 Sorcerous Spyglass
+1 Talisman of Conviction
+1 Counterspell
+1 Talisman of Curiosity
+1 Brainstorm
+1 Ugin, the Spirit Dragon
+1 Bribery
+1 Will Kenrith
+1 Basalt Monolith
+1 Izzet Charm
+1 Talisman of Creativity
+1 Narset, Parter of Veils
+1 Wurmcoil Engine
+1 Vedalken Shackles
+1 Firebolt
+1 Force of Will
+1 Zealous Conscripts
+1 Flooded Strand
+1 Volcanic Island
+1 Chrome Mox
+4 Mountain
+9 Island
+
+1 Nurturing Peatland
+1 Dread Wanderer
+1 Gravecrawler
+1 Rolling Earthquake
+1 Justice Strike
+1 Sword of Fire and Ice
+1 Song of the Dryads
+1 Feldon of the Third Path
+1 Flametongue Kavu
+1 Trostani Discordant
+1 Through the Breach
+1 Hornet Queen
+1 Sphinx of the Steel Wind
+1 Ancient Stone Idol
+1 Lightning Strike
+1 Torrential Gearhulk
+1 Compulsive Research
+1 Blast from the Past

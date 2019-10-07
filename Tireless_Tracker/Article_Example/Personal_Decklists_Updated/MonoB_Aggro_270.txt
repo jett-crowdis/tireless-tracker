@@ -1,0 +1,52 @@
+Colors: B
+Archetype: Aggro
+Record: 1-2
+Games: 3-4
+
+1 Mind Twist
+1 Liliana, the Last Hope
+1 Pack Rat
+1 Hymn to Tourach
+1 Diregraf Ghoul
+1 Shriekmaw
+1 Curse of Disturbance
+1 Bloodsoaked Champion
+1 Icehide Golem
+1 Mesmeric Fiend
+1 Carnophage
+1 Recurring Nightmare
+1 Sarcomancy
+1 Collective Brutality
+1 Grafted Wargear
+1 Porcelain Legionnaire
+1 Mox Diamond
+1 Bloodghast
+1 Gutterbones
+1 Dark Confidant
+1 Bonesplitter
+1 Doom Blade
+1 Fatal Push
+1 Gravecrawler
+1 Mutavault
+1 Wasteland
+1 Chrome Mox
+13 Snow-Covered Swamp
+
+1 Sheltered Thicket
+1 Sulfurous Springs
+1 Bomat Courier
+1 Condemn
+1 Mind Stone
+1 Survival of the Fittest
+1 Tidehollow Sculler
+1 Thalia, Guardian of Thraben
+1 Sword of Sinew and Steel
+1 Brimaz, King of Oreskos
+1 Braids, Cabal Minion
+1 Experimental Frenzy
+1 Zealous Conscripts
+1 Fireblast
+1 Nekrataal
+1 Oona's Prowler
+1 Sword of Fire and Ice
+1 Ravenous Chupacabra

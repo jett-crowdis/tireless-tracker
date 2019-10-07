@@ -1,0 +1,37 @@
+Colors: UGB
+Archetype: Midrange_Ramp
+Record: 2-0
+Games: 4-1
+
+1 Joraga Treespeaker
+1 Elvish Mystic
+1 Elves of Deep Shadow
+1 Avacyn's Pilgrim
+1 Gilded Goose
+1 Once Upon a Time
+1 Fauna Shaman
+1 Sylvan Library
+1 Scavenging Ooze
+1 Reclamation Sage
+1 Courser of Kruphix
+1 Nissa, Voice of Zendikar
+1 Oko, Thief of Crowns
+1 Kitchen Finks
+1 Voracious Hydra
+1 Natural Order
+1 Questing Beast
+1 Harmonize
+1 Craterhoof Behemoth
+1 Nissa, Who Shakes the World
+1 Deep Forest Hermit
+1 Biogenic Ooze
+1 Garruk, Cursed Huntsman
+1 Waterlogged Grove
+1 Chrome Mox
+1 Gaea's Cradle
+1 Windswept Heath
+1 Nurturing Peatland
+1 Tropical Island
+1 Bayou
+1 Snow-Covered Island
+8 Snow-Covered Forest

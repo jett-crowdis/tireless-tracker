@@ -1,0 +1,52 @@
+Colors: R
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Goblin Guide
+1 Blast from the Past
+1 Light Up the Stage
+1 Krenko, Tin Street Kingpin
+1 Falkenrath Gorger
+1 Chain Lightning
+1 Experimental Frenzy
+1 Monastery Swiftspear
+1 Firedrinker Satyr
+1 Rakdos Cackler
+1 Young Pyromancer
+1 Firebolt
+1 Incinerate
+1 Kari Zev, Skyship Raider
+1 Skullclamp
+1 Eidolon of the Great Revel
+1 Sulfuric Vortex
+1 Earthshaker Khenra
+1 Fiery Confluence
+1 Searing Spear
+1 Fireblast
+1 Hanweir Garrison
+1 Dire Fleet Daredevil
+1 Hellrider
+1 Mishra's Factory
+1 Sunbaked Canyon
+1 Chrome Mox
+13 Snow-Covered Mountain
+
+1 Lavaclaw Reaches
+1 Plateau
+1 Windswept Heath
+1 Mother of Runes
+1 Lightning Helix
+1 Thalia, Guardian of Thraben
+1 Domri, Anarch of Bolas
+1 Feldon of the Third Path
+1 Fleetwheel Cruiser
+1 Ajani Vengeant
+1 Xenagos, the Reveler
+1 Koth of the Hammer
+1 Ilharg, the Raze-Boar
+1 Zealous Conscripts
+1 Angel of Invention
+1 Archangel Avacyn
+1 Liliana, Dreadhorde General
+1 Griselbrand

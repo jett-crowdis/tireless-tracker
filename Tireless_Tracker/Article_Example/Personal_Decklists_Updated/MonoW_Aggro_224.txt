@@ -1,0 +1,31 @@
+Colors: W
+Archetype: Aggro
+Record: 0-4
+Games: 3-8
+
+1 Giver of Runes
+1 On Thin Ice
+1 Mother of Runes
+1 Kytheon, Hero of Akros
+1 Bonesplitter
+1 Icehide Golem
+1 Dryad Militant
+1 Dauntless Bodyguard
+1 Path to Exile
+1 Nature's Chant
+1 Tithe Taker
+1 Adanto Vanguard
+1 Imposing Sovereign
+1 Stoneforge Mystic
+1 Thalia, Guardian of Thraben
+1 Precinct Captain
+1 Unexpectedly Absent
+1 Ranger-Captain of Eos
+1 Thalia, Heretic Cathar
+1 Sword of War and Peace
+1 Gideon Blackblade
+1 Palace Jailer
+1 Armageddon
+1 Gideon, Ally of Zendikar
+15 Snow-Covered Plains
+1 Mutavault

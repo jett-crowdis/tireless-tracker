@@ -1,0 +1,52 @@
+Colors: RB
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 4-5
+
+1 Sneak Attack
+1 Through the Breach
+1 Inferno Titan
+1 Sundering Titan
+1 Thundermaw Hellkite
+1 Wheel of Fortune
+1 Faithless Looting
+1 Worn Powerstone
+1 Boros Signet
+1 Thoughtseize
+1 Kitesail Freebooter
+1 Mimic Vat
+1 Feldon of the Third Path
+1 Liliana, Death's Majesty
+1 Dance of the Dead
+1 Griselbrand
+1 Animate Dead
+1 Blightsteel Colossus
+1 Blast from the Past
+1 Night's Whisper
+1 Ravenous Chupacabra
+1 Liliana of the Veil
+1 Dreadbore
+1 Badlands
+1 Lavaclaw Reaches
+1 Sulfurous Springs
+7 Swamp
+7 Mountain
+
+1 Taiga
+1 Bloodsoaked Champion
+1 Dread Wanderer
+1 Bomat Courier
+1 Heir of Falkenrath
+1 Mardu Strike Leader
+1 Domri, Anarch of Bolas
+1 Edric, Spymaster of Trest
+1 Sorin, Lord of Innistrad
+1 Mirari's Wake
+1 Nicol Bolas, God-Pharaoh
+1 Sorcerous Spyglass
+1 Ophiomancer
+1 Nekrataal
+1 Hazoret the Fervent
+1 Gilded Lotus
+1 Zealous Conscripts
+1 Chain Lightning

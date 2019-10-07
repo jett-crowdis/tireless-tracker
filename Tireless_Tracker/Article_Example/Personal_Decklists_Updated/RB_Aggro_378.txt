@@ -1,0 +1,35 @@
+Colors: RB
+Archetype: Aggro
+Record: 2-2
+Games: 5-5
+
+1 Bloodsoaked Champion
+1 Sulfuric Vortex
+1 Glorybringer
+1 Stormblood Berserker
+1 Experimental Frenzy
+1 Icehide Golem
+1 Figure of Destiny
+1 Incinerate
+1 Kari Zev, Skyship Raider
+1 Dreadbore
+1 Blast from the Past
+1 Abrade
+1 Goblin Cratermaker
+1 Bomat Courier
+1 Seasoned Pyromancer
+1 Verdant Catacombs
+1 Badlands
+1 Falkenrath Gorger
+1 Bloodstained Mire
+1 Chain Lightning
+1 Thoughtseize
+1 Smuggler's Copter
+1 Burst Lightning
+1 Young Pyromancer
+1 Kolaghan's Command
+1 Strip Mine
+1 Light Up the Stage
+1 Goblin Rabblemaster
+7 Snow-Covered Mountain
+5 Snow-Covered Swamp

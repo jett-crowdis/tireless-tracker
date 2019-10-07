@@ -1,0 +1,54 @@
+Colors: UWR
+Archetype: Control
+Record: 0-3
+Games: 1-6
+
+1 Izzet Signet
+1 Mind Stone
+1 Saheeli, Sublime Artificer
+1 Dack Fayden
+1 Chandra, Awakened Inferno
+1 Karn, Scion of Urza
+1 Urza, Lord High Artificer
+1 Basalt Monolith
+1 Talisman of Creativity
+1 Coalition Relic
+1 Coldsteel Heart
+1 Talisman of Curiosity
+1 Talisman of Progress
+1 Ajani Vengeant
+1 Chandra, Torch of Defiance
+1 Cavalier of Gales
+1 Sarkhan the Masterless
+1 Blast from the Past
+1 Serum Visions
+1 Fractured Identity
+1 Dig Through Time
+1 Pyroclasm
+1 Brainstorm
+1 Jace Beleren
+1 Flooded Strand
+1 Sunbaked Canyon
+1 Volcanic Island
+1 Snow-Covered Plains
+6 Snow-Covered Mountain
+6 Snow-Covered Island
+
+1 Blast Zone
+1 Wasteland
+1 Grim Lavamancer
+1 Umezawa's Jitte
+1 Young Pyromancer
+1 Feldon of the Third Path
+1 Legion Warboss
+1 Seasoned Pyromancer
+1 Banishing Light
+1 Braids, Cabal Minion
+1 Nekrataal
+1 Venser, Shaper Savant
+1 Batterskull
+1 Koth of the Hammer
+1 Woodfall Primus
+1 Gilded Lotus
+1 Flametongue Kavu
+1 Cryptic Command

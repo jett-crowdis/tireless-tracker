@@ -1,0 +1,53 @@
+Colors: W
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Armageddon
+1 Path to Exile
+1 Kytheon, Hero of Akros
+1 Skymarcher Aspirant
+1 Precinct Captain
+1 Figure of Destiny
+1 Brimaz, King of Oreskos
+1 Icehide Golem
+1 Giver of Runes
+1 On Thin Ice
+1 Flickerwisp
+1 Monastery Mentor
+1 Gideon Blackblade
+1 Tithe Taker
+1 Council's Judgment
+1 Swords to Plowshares
+1 Isamaru, Hound of Konda
+1 Palace Jailer
+1 Recruiter of the Guard
+1 Dauntless Bodyguard
+1 Selfless Spirit
+1 Mardu Woe-Reaper
+1 Stoneforge Mystic
+1 Chrome Mox
+1 Rishadan Port
+1 Wasteland
+13 Snow-Covered Plains
+1 Adanto Vanguard
+
+1 Gutterbones
+1 Savannah
+1 Sensei's Divining Top
+1 Secure the Wastes
+1 Arc Trail
+1 Earthshaker Khenra
+1 Lightning Strike
+1 Grafted Wargear
+1 Mimic Vat
+1 Vindicate
+1 Sulfuric Vortex
+1 Braids, Cabal Minion
+1 Zealous Conscripts
+1 Angel of Invention
+1 Archangel Avacyn
+1 Sun Titan
+1 Hero of Bladehold
+1 Gideon of the Trials
+1 Plains

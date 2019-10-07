@@ -1,0 +1,34 @@
+Colors: G
+Archetype: Midrange_Ramp
+Record: 5-2
+Games: 11.0-6.5
+
+1 Joraga Treespeaker
+1 Skullclamp
+1 Elvish Mystic
+1 Birds of Paradise
+1 Arbor Elf
+1 Avacyn's Pilgrim
+1 Rofellos, Llanowar Emissary
+1 Sylvan Caryatid
+1 Sakura-Tribe Elder
+1 Lotus Cobra
+1 Sylvan Library
+1 Courser of Kruphix
+1 Tireless Tracker
+1 Bloodthorn Carnation
+1 Oracle of Mul Daya
+1 Symbol Status
+1 Harmonize
+1 Fractured Identity
+1 Thragtusk
+1 Nissa, Vital Force
+1 Hornet Queen
+1 Sundering Titan
+1 Ulamog, the Ceaseless Hunger
+1 Gaea's Cradle
+1 Wooded Foothills
+12 Forest
+1 Windswept Heath
+1 Temple Garden
+1 Hallowed Fountain
