@@ -155,7 +155,11 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
 
     if card_filter:
         results_df = results_df.loc[results_df['Num'] > card_filter]
-    results_df.to_csv('Card_Decklist_Analysis.csv', index = False)
+
+    win_percent_sorted = results_df.sort_values(by = 'Win %', ascending = False)
+    norm_percent_sorted = results_df.sort_values(by = 'Win %/Arch %', ascending = False)
+    win_percent_sorted.to_csv('Card_Analysis_Win%.csv', index = False)
+    norm_percent_sorted.to_csv('Card_Analysis_Norm%.csv', index = False)
 
     return card_dict
 
