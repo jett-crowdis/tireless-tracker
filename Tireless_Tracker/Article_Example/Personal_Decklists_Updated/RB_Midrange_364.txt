@@ -13,7 +13,7 @@ Games: 2-6
 1 Chain Lightning
 1 Searing Spear
 1 Dance of the Dead
-1 Life//Death
+1 Life // Death
 1 Kitesail Freebooter
 1 Abrade
 1 Pack Rat
@@ -25,7 +25,7 @@ Games: 2-6
 1 Damnation
 1 Nekrataal
 1 Ilharg, the Raze-Boar
-1 Zealous Conscript
+1 Zealous Conscripts
 1 Shriekmaw
 1 Inferno Titan
 1 Ulamog, the Ceaseless Hunger

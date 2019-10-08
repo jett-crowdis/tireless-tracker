@@ -33,7 +33,7 @@ Games: 7-3
 6 Snow-Covered Island
 6 Snow-Covered Mountain
 
-1 Sarkhan, the Masterless
+1 Sarkhan the Masterless
 1 Thragtusk
 1 Kodama's Reach
 1 Dimir Signet

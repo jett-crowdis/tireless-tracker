@@ -16,14 +16,14 @@ Games: 6-2
 1 Recruiter of the Guard
 1 Vendilion Clique
 1 True-Name Nemesis
-1 Phyrexian Metamorph1
+1 Phyrexian Metamorph
 1 Control Magic
 1 God-Eternal Kefnet
 1 Wrath of God
 1 Batterskull
 1 Treachery
 1 Force of Will
-1 Arcane Savant/Fractured Identity
+1 Arcane Savant
 1 Elspeth, Sun's Champion
 1 Torrential Gearhulk
 1 Scalding Tarn

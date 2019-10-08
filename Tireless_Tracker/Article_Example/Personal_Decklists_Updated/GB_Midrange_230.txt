@@ -24,7 +24,7 @@ Games: 1-4
 1 Hornet Queen
 1 Karn Liberated
 1 Ugin, the Spirit Dragon
-1 Emrakul the Promised End
+1 Emrakul, the Promised End
 1 Emrakul, the Aeons Torn
 1 Nurturing Peatland
 1 Treetop Village

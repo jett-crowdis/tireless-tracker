@@ -22,7 +22,7 @@ Games: 6.0-1.5
 1 Sunforge Adept
 1 Knight of Autumn
 1 Recruiter of the Guard
-1 Oracle of Mul Day
+1 Oracle of Mul Daya
 1 Archangel Avacyn
 1 Trostani Discordant
 1 Angel of Sanctions

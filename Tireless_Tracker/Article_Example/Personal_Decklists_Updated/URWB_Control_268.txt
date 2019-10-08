@@ -16,7 +16,7 @@ Games: 4-5
 1 Arc Trail
 1 Fact or Fiction
 1 Glen Elendra Archmage
-1 Arcane Savant/Fractured Identity
+1 Arcane Savant
 1 Vedalken Shackles
 1 Teferi, Hero of Dominaria
 1 Ashiok, Nightmare Weaver

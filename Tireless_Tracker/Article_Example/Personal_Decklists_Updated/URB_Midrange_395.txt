@@ -21,7 +21,7 @@ Games: 4-1
 1 Liliana, the Last Hope
 1 Jace Beleren
 1 Mu Yanling, Sky Dancer
-1 Murderous Rider
+1 Murderous Rider // Swift End
 1 Damnation
 1 Fiery Confluence
 1 Cryptic Command

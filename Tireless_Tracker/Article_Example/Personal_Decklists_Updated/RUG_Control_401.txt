@@ -1,0 +1,56 @@
+Colors: RUG
+Archetype: Control_Combo
+Record: 1-3
+Games: 2-7
+
+1 Serum Visions
+1 Arcum's Astrolabe
+1 Chrome Mox
+1 Preordain
+1 Talisman of Curiosity
+1 Grim Monolith
+1 Pyroclasm
+1 Miscalculation
+1 Memory Lapse
+1 Oath of Druids
+1 Talisman of Conviction
+1 Coalition Relic
+1 Dack Fayden
+1 Worn Powerstone
+1 Saheeli, the Gifted
+1 The Antiquities War
+1 Cryptic Command
+1 Chandra, Torch of Defiance
+1 Fact or Fiction
+1 Solemn Simulacrum
+1 Dig Through Time
+1 Wurmcoil Engine
+1 Emrakul, the Aeons Torn
+1 Blightsteel Colossus
+1 Tundra
+1 Arid Mesa
+1 Flooded Strand
+1 Volcanic Island
+1 Wooded Foothills
+1 Urza, Lord High Artificer
+5 Snow-Covered Island
+3 Snow-Covered Mountain
+1 Snow-Covered Forest
+
+1 Goblin Cratermaker
+1 Sun Titan
+1 Glen Elendra Archmage
+1 Thirst for Knowledge
+1 Hostage Taker
+1 Brazen Borrower // Petty Theft
+1 Torrential Gearhulk
+1 Supreme Verdict
+1 Scattered Groves
+1 Vindicate
+1 Bonesplitter
+1 Wrath of God
+1 Hangarback Walker
+1 Dauntless Bodyguard
+1 Giant Killer // Chop Down
+1 Domri, Anarch of Bolas
+1 Nicol Bolas, God-Pharaoh

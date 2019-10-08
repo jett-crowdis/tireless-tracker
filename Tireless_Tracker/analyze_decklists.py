@@ -39,8 +39,8 @@ def make_deck(infile):
         summary = [line.strip('\n') for line in deck_file.readlines()]
         deck_color = summary[0].split(':')[1].strip(' ')
         deck_archetypes = summary[1].split(':')[1].strip(' ').split('_')
-        deck_record = map(float,summary[3].split(':')[1].strip(' ').split('-'))
-        
+        deck_record = list(map(float,summary[3].split(':')[1].strip(' ').split('-')))
+
         # extract the cards in the decklist - will extract sideboard as well.
         cards = []
         for card_info in summary[5:]:
@@ -102,9 +102,10 @@ def find_card_type(full_type):
 
     return None
 
-def export_card_analysis(deck_list_dict, magic_cards, card_filter):
+def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dict):
     
-    '''Analyzes card representation and win rates and exports them to csv'''
+    '''Analyzes card representation and win rates and exports them to csv. If the normalize argument is true, it normalizes 
+    card win rates to the deck win rates.'''
     
     card_dict = {}
 
@@ -115,17 +116,23 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter):
         deck = deck_dict['main']
         win, loss = map(int, deck_dict['record'])
 
+        # get the deck archetype for normalization
+        archetypes = deck_dict['archetypes']
+        if len(archetypes) == 1: archetype = 'Pure ' + archetypes[0]
+        else: archetype = archetypes[-1]
+
         # loop through cards in deck, check if they exist in Scryfall. If they do, store game information.
         for card in deck:
-
+            
             if not magic_cards.get(card): continue
 
             if card not in card_dict.keys():
-                card_dict[card] = {'win': win, 'loss': loss, 'num': 0}
+                card_dict[card] = {'win': win, 'loss': loss, 'num': 1, 'archetypes': [archetype]}
             else:
                 card_dict[card]['num'] += 1
                 card_dict[card]['win'] += win
                 card_dict[card]['loss'] += loss
+                card_dict[card]['archetypes'] += [archetype]
 
     print('{} unique cards identified in decklists'.format(len(card_dict)))
 
@@ -136,14 +143,21 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter):
         for characteristic, value in zip(['color', 'cmc', 'type'], [color, cmc, find_card_type(card_type)]):
             card_dict[card][characteristic] = value
 
+        # get win rates and perform normalization by archetype win rate
+        card_dict[card]['win %'] = card_dict[card]['win']/(card_dict[card]['win'] + card_dict[card]['loss'])
+        archetype_winrates = [archetype_dict[archetype]['Win %'] for archetype in card_dict[card]['archetypes']]
+        card_dict[card]['win %/arch %'] = card_dict[card]['win %']/np.average(archetype_winrates)
+
     # store the results of the card analysis in a dataframe. Then calculate win %, apply filter, and export to csv.
-    results = {card: {key: card_dict[card][key] for key in ['win', 'loss', 'num', 'color', 'cmc', 'type']} for card in card_dict.keys()}
+    results = {card: {key: card_dict[card][key] for key in ['win', 'loss', 'num', 'color', 'cmc', 'type', 'win %', 'win %/arch %']} for card in card_dict.keys()}
     results_df = pd.DataFrame.from_dict(results, orient = 'index').reset_index()
-    results_df.columns = ['Name','Win', 'Loss','Num','Color', 'CMC', 'Type']
-    results_df['Win %'] = results_df['Win']/(results_df['Win'] + results_df['Loss'])
+    results_df.columns = ['Name','Win', 'Loss','Num','Color', 'CMC', 'Type', 'Win %', 'Win %/Arch %']
+
     if card_filter:
         results_df = results_df.loc[results_df['Num'] > card_filter]
     results_df.to_csv('Card_Decklist_Analysis.csv', index = False)
+
+    return card_dict
 
 def export_archetype_analysis(deck_list_dict):
     
@@ -155,20 +169,33 @@ def export_archetype_analysis(deck_list_dict):
 
     # loop through each deck, and store archetype information
     for deck_dict in deck_list_dict.values():
+        
         wins, losses = map(int, deck_dict['record'])
 
-        archetypes.extend(deck_dict['archetypes'])        
+        archetypes.extend(deck_dict['archetypes'])    
+        
+        if len(deck_dict['archetypes']) == 1:
+            archetype = deck_dict['archetypes'][0]
+            archetype_dict['Pure ' + archetype]['num'] += 1
+            archetype_dict['Pure ' + archetype]['win'] += wins
+            archetype_dict['Pure ' + archetype]['loss'] += losses
+
         for archetype in deck_dict['archetypes']:
 
             archetype_dict[archetype]['num'] += 1
             archetype_dict[archetype]['win'] += wins
             archetype_dict[archetype]['loss'] += losses
 
+    # calculate win rates for each archetype
+    for archetype in archetype_dict:
+        archetype_dict[archetype]['Win %'] = archetype_dict[archetype]['win']/(archetype_dict[archetype]['win'] + archetype_dict[archetype]['loss'])
+    
     # convert archetype analysis to dataframe, calculate winrates, then export.
     archetype_df = pd.DataFrame.from_dict(archetype_dict, orient = 'index').reset_index()
-    archetype_df.columns = ['Archetype','Num','Win', 'Loss']
-    archetype_df['Win %'] = archetype_df['Win']/(archetype_df['Win'] + archetype_df['Loss'])
+    archetype_df.columns = ['Archetype','Num','Win', 'Loss', 'Win %']
     archetype_df.to_csv('Archetype_Analysis.csv', index = False)
+
+    return archetype_dict
 
 
 def export_color_analysis(deck_dict, magic_cards):
@@ -208,7 +235,7 @@ def export_timecourse_analysis(deck_dict, window):
     decklists = deck_dict.values()
     archetypes = [deck['archetypes'] for deck in decklists]
     archetypes = list(set([archetype for archetype_list in archetypes for archetype in archetype_list]))
-    dates = [deck['date'] for deck in decklists]
+    dates = [int(deck['date']) for deck in decklists]
 
     # sort the decklists based on the date they were added.
     sorted_decklists = [deck for _, deck in sorted(zip(dates,decklists))]
@@ -269,12 +296,14 @@ def main():
     print('{} decks extracted.'.format(len(deck_dict)))
 
     # export the card, archetype, and color analysis
-    export_card_analysis(deck_dict, magic_cards, card_filter)
-    export_archetype_analysis(deck_dict)
+    print('Analyzing archetypes, cards, and colors...')
+    archetype_dict = export_archetype_analysis(deck_dict)
+    export_card_analysis(deck_dict, magic_cards, card_filter, archetype_dict)
     export_color_analysis(deck_dict, magic_cards)
     
     # if specified, output time course analysis too.
     if date_arg: 
+        print('Analyzing time course...')
         archetypes, timecourse = export_timecourse_analysis(deck_dict, window)
         plot_timecourse(archetypes, timecourse)
 

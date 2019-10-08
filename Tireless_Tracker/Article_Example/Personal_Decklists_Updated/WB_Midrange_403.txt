@@ -1,0 +1,57 @@
+Colors: WB
+Archetype: Midrange
+Record: 4-0
+Games: 8-3
+
+1 Marsh Flats
+1 Swords to Plowshares
+1 Thoughtseize
+1 Blightwalker
+1 Fabled Passage
+1 Gonti, Lord of Luxury
+1 Sword of Feast and Famine
+1 Go for the Throat
+1 Thalia, Guardian of Thraben
+1 Reanimate
+1 Path to Exile
+1 Shriekmaw
+1 Animate Dead
+1 Umezawa's Jitte
+1 Bitterblossom
+1 Dark Confidant
+1 Murderous Rider // Swift End
+1 Smuggler's Copter
+1 Pack Rat
+1 Toxic Deluge
+1 Badlands
+1 Stoneforge Mystic
+1 Giver of Runes
+1 Liliana, the Last Hope
+1 Demonic Tutor
+1 Tidehollow Sculler
+1 Rankle, Master of Pranks
+9 Snow-Covered Swamp
+1 Badlands
+4 Snow-Covered Plains
+
+1 Inferno Titan
+1 Dreadbore
+1 Kolaghan's Command
+1 Goblin Guide
+1 Sneak Attack
+1 Siege-Gang Commander
+1 Lavaclaw Reaches
+1 Temple Garden
+1 Stomping Ground
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Carnophage
+1 Damnation
+1 Blood Crypt
+1 Ravenous Chupacabra
+1 Izzet Signet
+1 Monastery Mentor
+1 Recruiter of the Guard
+1 Plague Engineer
+1 Brainstorm
+1 Vendilion Clique

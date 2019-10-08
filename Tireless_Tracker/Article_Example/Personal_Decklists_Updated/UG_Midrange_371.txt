@@ -45,6 +45,6 @@ Games: 3-5
 1 Tezzeret, Artifice Master
 1 Fireblast
 1 Gilded Lotus
-1 Looter il-kor
+1 Looter il-Kor
 1 Imposing Sovereign
 1 Rakdos Cackler

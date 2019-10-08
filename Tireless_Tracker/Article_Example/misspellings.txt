@@ -12,15 +12,11 @@ Amulet of Power in file UB_Control_14.txt
 Blightwalker in file UB_Control_28.txt
 Brutal Negator in file MonoW_Aggro_99.txt
 Sunforge Adept in file MonoW_Aggro_99.txt
-Dream Noble in file URB_Control_266.txt
-Colossus of Ruin in file URB_Control_266.txt
-Ilharg, the Rage Boar in file URB_Control_266.txt
-Jace, the Mind Scupltor in file URB_Control_266.txt
 Colossus of Ruin in file BG_Midrange_5.txt
-Phyrexian Metamorph1 in file UW_Control_232.txt
-Arcane Savant/Fractured Identity in file UW_Control_232.txt
-island in file UW_Control_4.txt
+Dream Noble in file URB_Control_267.txt
+Colossus of Ruin in file URB_Control_267.txt
 Dream Noble in file UGW_Midrange_344.txt
+Apex Tyrannotitans in file UG_Midrange_266.txt
 Bloodthorn Carnation in file WBRG_Aggro_93.txt
 Sinhama, the Emminent in file WBRG_Aggro_93.txt
 Apex Tyrannotitans in file WBRG_Aggro_93.txt
@@ -30,29 +26,12 @@ Brutal Negator in file MonoW_Aggro_76.txt
 Dream Noble in file UB_Control_10.txt
 Blightwalker in file WB_Midrange_102.txt
 Colossus of Ruin in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
-Snow-Covered Islands in file MonoU_Control_342.txt
 Amulet of Power in file URB_Control_47.txt
 Blightwalker in file URB_Control_47.txt
 Brutal Negator in file GW_Aggro_50.txt
 Knight of the Masses in file GW_Aggro_50.txt
 Sunshell Cavaliers in file GW_Aggro_50.txt
 Taika, Queen of Nistos in file GW_Aggro_50.txt
-Emrakul the Promised End in file GB_Midrange_230.txt
 Reckless Pride in file GW_Aggro_6.txt
 Knight of the Masses in file GW_Aggro_6.txt
 Ravenous Lumberknot in file GW_Aggro_6.txt
@@ -68,18 +47,18 @@ Amulet of Power in file UWB_Control_11.txt
 Nightfall Stalker in file RB_Aggro_343.txt
 Blightwalker in file RB_Aggro_343.txt
 Apex Tyrannotitans in file MonoG_Ramp_55.txt
-Life//Death in file RB_Midrange_364.txt
-Zealous Conscript in file RB_Midrange_364.txt
+Blightwalker in file WB_Midrange_403.txt
 Blightwalker in file URB_Control_36.txt
 Colossus of Ruin in file URB_Control_36.txt
 Dream Noble in file UR_Midrange_101.txt
 Blitz Basilisk in file UR_Midrange_101.txt
+Descent into Hell in file MonoR_Aggro_400.txt
+Sunforge Adept in file MonoR_Aggro_400.txt
 Dream Noble in file UB_Control_72.txt
 Dream Noble in file UG_Ramp_77.txt
 Colossus of Ruin in file UW_Control_85.txt
-Looter il-kor in file UG_Midrange_371.txt
-Ulak, Heartless Warden Vindicate in file WB_Aggro_268.txt
-Arcane Savant/Fractured Identity in file URWB_Control_267.txt
+Ulak, Heartless Warden Vindicate in file WB_Aggro_269.txt
+Blitz Basilisk in file UG_Midrange_402.txt
 Dream Noble in file UW_Control_84.txt
 Sinhama, the Emminent in file GW_Aggro_18.txt
 Reckless Pride in file GW_Aggro_18.txt
@@ -156,7 +135,6 @@ Sunshell Cavaliers in file GB_Midrange_0.txt
 Flowerescence in file GB_Midrange_0.txt
 Ravenous Lumberknot in file GB_Midrange_0.txt
 Amulet of Power in file GB_Midrange_0.txt
-Teferi, Hero for Dominaria in file UWRB_Control_397.txt
 Sunforge Adept in file WB_Midrange_79.txt
 Dream Noble in file UB_Control_92.txt
 Colossus of Ruin in file UB_Control_92.txt
@@ -167,14 +145,11 @@ Ulak, Heartless Warden in file RB_Aggro_13.txt
 Amulet of Power in file URB_Midrange_37.txt
 Rift Chronicler in file URB_Midrange_37.txt
 Brutal Negator in file MonoR_Aggro_60.txt
-Sarkhan, the Masterless in file UR_Control_380.txt
 Blightwalker in file URB_Midrange2_23.txt
-Search Azcanta in file UW_ControL_398.txt
 Brutal Negator in file MonoW_Aggro_95.txt
 Colossus of Ruin in file UWB_Control_83.txt
 Taika, Queen of Nistos in file RGBW_Midrange_33.txt
 Sinhama, the Emminent in file RGBW_Midrange_33.txt
-Looter Il-Kor in file MonoU_Control_7.txt
 Dream Noble in file MonoU_Control_7.txt
 Amulet of Power in file UGRB_Control_2.txt
 Flowerescence in file UGRB_Control_2.txt
@@ -182,14 +157,11 @@ Sinhama, the Emminent in file WG_Aggro_233.txt
 Bloodthorn Carnation in file WG_Aggro_233.txt
 Knight of the Masses in file MonoW_Aggro_69.txt
 Enlisting Nomads in file MonoW_Aggro_69.txt
-Murderous Rider in file URB_Midrange_395.txt
 Colossus of Ruin in file UGB_Midrange_45.txt
 Dream Noble in file UG_Aggro_35.txt
 Sunshell Cavaliers in file UG_Aggro_35.txt
 Reckless Pride in file UG_Aggro_35.txt
 Ravenous Lumberknot in file UG_Aggro_35.txt
 Sunforge Adept in file WBG_Midrange_64.txt
-Oracle of Mul Day in file WBG_Midrange_64.txt
 Colossus of Ruin in file UW_Control_229.txt
-Apex Tyrannotitans in file UG_Midrange_286.txt
 Dream Noble in file WUR_Control_98.txt

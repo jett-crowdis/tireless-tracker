@@ -1,0 +1,57 @@
+Colors: UG
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Mox Diamond
+1 Mind Twist
+1 Green Sun's Zenith
+1 Wild Growth
+1 Elvish Mystic
+1 Llanowar Elves
+1 Spell Pierce
+1 Negate
+1 Sylvan Library
+1 Nissa, Steward of Elements
+1 Wall of Blossoms
+1 Talisman of Curiosity
+1 Mana Leak
+1 Ice-Fang Coatl
+1 Knight of Autumn
+1 Nissa, Voice of Zendikar
+1 True-Name Nemesis
+1 Reclamation Sage
+1 Garruk Wildspeaker
+1 Sower of Temptation
+1 Wolfbriar Elemental
+1 Opposition
+1 Mystic Confluence
+1 Treachery
+1 Deep Forest Hermit
+1 Horizon Canopy
+1 Polluted Delta
+1 Misty Rainforest
+1 Tropical Island
+1 Gaea's Cradle
+1 Windswept Heath
+1 Snow-Covered Plains
+4 Snow-Covered Forest
+4 Snow-Covered Island
+
+1 Ilharg, the Raze-Boar
+1 Azorius Signet
+1 Hymn to Tourach
+1 Elspeth, Sun's Champion
+1 Raging Ravine
+1 Ranger-Captain of Eos
+1 Bloodsoaked Champion
+1 Witching Well
+1 Night's Whisper
+1 Porcelain Legionnaire
+1 Emrakul, the Promised End
+1 Thalia, Heretic Cathar
+1 Balance
+1 Channel
+1 Skullclamp
+1 Myr Battlesphere
+1 Blitz Basilisk

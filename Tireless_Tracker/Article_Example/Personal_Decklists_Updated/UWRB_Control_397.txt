@@ -21,7 +21,7 @@ Games: 3-0
 1 Languish
 1 Tezzeret, Artifice Master
 1 Treachery
-1 Teferi, Hero for Dominaria
+1 Teferi, Hero of Dominaria
 1 The Scarab God
 1 Upheaval
 5 Snow-Covered Swamp

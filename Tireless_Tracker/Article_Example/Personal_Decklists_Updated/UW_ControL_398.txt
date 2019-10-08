@@ -11,7 +11,7 @@ Games: 1-4
 1 Ponder
 1 Merfolk Looter
 1 Nature's Chant
-1 Search Azcanta
+1 Search for Azcanta
 1 Azorius Signet
 1 Teferi, Time Raveler
 1 Oblivion Ring

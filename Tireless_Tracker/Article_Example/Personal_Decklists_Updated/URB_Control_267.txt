@@ -34,6 +34,6 @@ Games: 2-2
 1 Colossus of Ruin
 1 Jace, Vryn's Prodigy
 1 The Scarab God
-1 Ilharg, the Rage Boar
+1 Ilharg, the Raze-Boar
 1 Coldsteel Heart
-1 Jace, the Mind Scupltor
+1 Jace, the Mind Sculptor

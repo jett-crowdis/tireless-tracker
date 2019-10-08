@@ -6,7 +6,7 @@ Games: 0.5-2.0
 1 Brainstorm
 1 Ponder
 1 Force Spike
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Impulse
 1 Phyrexian Revoker
 1 Snapcaster Mage

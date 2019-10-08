@@ -27,4 +27,4 @@ Games: 1-4
 1 Mana Leak
 1 Preordain
 1 Ponder
-16 Snow-Covered Islands
+16 Snow-Covered Island

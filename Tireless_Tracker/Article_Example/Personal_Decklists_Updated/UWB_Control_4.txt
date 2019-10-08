@@ -1,4 +1,4 @@
-Colors: UW
+Colors: UWB
 Archetype: Control
 Record: 1-1
 Games: 2.5-2.5
@@ -30,7 +30,6 @@ Games: 2.5-2.5
 1 Shelldock Isle
 1 Scrubland
 1 Fetid Pools
-5 Island
-1 island
+6 Island
 6 Plains
 1 Swamp
