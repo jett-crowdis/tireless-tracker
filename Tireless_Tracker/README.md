@@ -39,12 +39,12 @@ python analyze_decklists.py --deck_folder {your folder name} --filter {filter} -
 ```
 For example, you can regenerate the analysis used in the article by cloning this repo and using 
 ```
-python analyze_decklists.py --deck_folder Personal_Decklists --filter 20 --date True --window 70
+python analyze_decklists.py --deck_folder Article_Example/Personal_Decklists_Updated --filter 20 --date True --window 70
 ```
 
 ### Decklist Formatting
 
-The script expects decklists to be formatted in a specific way. This formatting is very sensitive and the script will break if a decklist is not formatted correctly. Check the decklists in `Personal_Decklists` for an example. Specifically, the format is:
+The script expects decklists to be formatted in a specific way. This formatting is very sensitive and the script will break if a decklist is not formatted correctly. Check the decklists in `Personal_Decklists_Updated` for an example. Specifically, the format is:
 ```
 Colors: WUBRG
 Archetype: Superarchetype_Subarchetype
