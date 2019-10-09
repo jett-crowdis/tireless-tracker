@@ -16,13 +16,14 @@ The script takes in one required argument and three optional arguments:
 * `date` (optional, default False): Boolean for if the decklists have associated date information. If `True`, the script will perform a rolling average analysis of archetype winrates.
 * `window` (optional, default = 100): The size of the sliding window for use if `date` argument is `True`.
 
-The script outputs four files:
+The script outputs a variety of files:
 
-* `Card_Decklist_Analysis.csv`: csv file that contains the win rates of individual cards. Be careful when interpreting this!
+* `Card_Analysis_{}%.csv`: these csv files contain the results of the individual card analysis. The same data is shown in three ways: sorting by win rate (Win%), normalized win rate (Norm%), and maindeck rate (Main%). Be careful when interpreting these files -- it is highly unlikely that you have enough decklists for them to be truly meaningful.
 * `Color_Analysis.csv`: csv file that contains the results of color distribution analysis (in decklists and in cards).
 * `Archetype_Analysis.csv`: csv file that contains the results of archetype win rates.
 * `Archetype_Winrates.png`: if `date` in inputs is `True`, this file contains a graph depicting the win rates over time. If `date` is False, it is not created.
 * `Misspellings.txt`: if the script encounters a card not found in Scryfall's database, it will skip it and write the card and file name to this file.
+* `Cube_Analysis.xlsx`: an excel file that contains all the above information together.
 
 ### Usage
 Place your folder of decklists in the same directory as `analyze_decklists.py`. Then run the following on the command line (requires Python to be installed)
@@ -37,7 +38,7 @@ To specify a filter or to do timecourse analysis, use the following syntax. You 
 ```
 python analyze_decklists.py --deck_folder {your folder name} --filter {filter} --date {True or False} --window {window size} 
 ```
-For example, you can regenerate the analysis used in the article by cloning this repo and using 
+For example, you can regenerate the analysis used in the article by cloning this repo, navigating to the repo directory, and using 
 ```
 python analyze_decklists.py --deck_folder Article_Example/Personal_Decklists_Updated --filter 20 --date True --window 70
 ```
@@ -66,6 +67,7 @@ The maindeck comes first, then the sideboard, separated by a line break. A few n
 * The script does not recognize lowercase colors as splashed. Gb and GB are treated the same way.
 * The super archetype belongs to every deck and the subarchetype is optional (ie Control_Reanimator). They must be separated by `_`. When analyzing win rates, the script will analyze a decklist containing a superarchetype and a subarchetype as counting towards both.
 * Record and Games contain the same information on different levels. A deck that goes 3-0 can have a game record ranging from 6-0 to 6-3. Currently the script only analyzes game records - this will change soon.
+* The sideboard is optional. The script will restrict calculating the maindeck % of a card to decklists with sideboards. 
 
 ### Note on Dates: 
 

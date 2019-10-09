@@ -179,11 +179,15 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
         results_df = results_df.loc[results_df['Num'] > card_filter]
 
     #export analyses, sorting by Win %, Win %/Arch %, and Main %
-    results_df.sort_values(by = 'Win %', ascending = False).to_csv('Card_Analysis_Win%.csv', index = False)
-    results_df.sort_values(by = 'Win %/Arch %', ascending = False).to_csv('Card_Analysis_Norm%.csv', index = False)
-    results_df.sort_values(by = 'Main %', ascending = False).to_csv('Card_Analysis_Main%.csv', index = False)
+    win_df = results_df.sort_values(by = 'Win %', ascending = False)
+    norm_df = results_df.sort_values(by = 'Win %/Arch %', ascending = False)
+    main_df = results_df.sort_values(by = 'Main %', ascending = False)
 
-    return card_dict
+    win_df.to_csv('Card_Analysis_Win%.csv', index = False)
+    norm_df.to_csv('Card_Analysis_Norm%.csv', index = False)
+    main_df.to_csv('Card_Analysis_Main%.csv', index = False)
+
+    return win_df, norm_df, main_df
 
 def export_archetype_analysis(deck_list_dict):
     
@@ -221,7 +225,7 @@ def export_archetype_analysis(deck_list_dict):
     archetype_df.columns = ['Archetype','Num','Win', 'Loss', 'Win %']
     archetype_df.to_csv('Archetype_Analysis.csv', index = False)
 
-    return archetype_dict
+    return archetype_dict, archetype_df
 
 
 def export_color_analysis(deck_dict, magic_cards):
@@ -252,6 +256,8 @@ def export_color_analysis(deck_dict, magic_cards):
     color_df.columns = ['Color','Deck_Spread']
     color_df['Card_Spread'] = [card_colors[color] for color in deck_color]
     color_df.to_csv('Color_Analysis.csv', index = False)
+
+    return color_df
 
 def export_timecourse_analysis(deck_dict, window):
 
@@ -323,10 +329,15 @@ def main():
 
     # export the card, archetype, and color analysis
     print('Analyzing archetypes, cards, and colors...')
-    archetype_dict = export_archetype_analysis(deck_dict)
-    export_card_analysis(deck_dict, magic_cards, card_filter, archetype_dict)
-    export_color_analysis(deck_dict, magic_cards)
+    archetype_dict, archetype_df = export_archetype_analysis(deck_dict)
+    win_df, norm_df, main_df = export_card_analysis(deck_dict, magic_cards, card_filter, archetype_dict)
+    color_df = export_color_analysis(deck_dict, magic_cards)
     
+    sheet_names = ['Archetypes', 'Win %', 'Norm %', 'Main %', 'Colors']
+    with pd.ExcelWriter('Cube_Analysis.xlsx') as writer:  
+        for df, name in zip([archetype_df, win_df, norm_df, main_df, color_df], sheet_names):
+            df.to_excel(writer, sheet_name = name, index = False)
+
     # if specified, output time course analysis too.
     if date_arg: 
         print('Analyzing time course...')
