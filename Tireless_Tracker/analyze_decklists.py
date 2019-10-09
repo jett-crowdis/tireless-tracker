@@ -107,13 +107,13 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
     '''Analyzes card representation and win rates and exports them to csv. If the normalize argument is true, it normalizes 
     card win rates to the deck win rates.'''
     
-    card_dict = {}
+    card_dict = defaultdict(lambda: {'win': 0, 'loss': 0, 'num': 0, 'archetypes': [], 'main %': []})
 
     # loop through dictionary, extract info on individual cards
     for deck_dict in deck_list_dict.values():
 
         # extract deck, get its record
-        deck = deck_dict['main']
+        deck, side = deck_dict['main'], deck_dict['side']
         win, loss = map(int, deck_dict['record'])
 
         # get the deck archetype for normalization
@@ -126,13 +126,22 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
             
             if not magic_cards.get(card): continue
 
-            if card not in card_dict.keys():
-                card_dict[card] = {'win': win, 'loss': loss, 'num': 1, 'archetypes': [archetype]}
-            else:
+            else: 
                 card_dict[card]['num'] += 1
                 card_dict[card]['win'] += win
                 card_dict[card]['loss'] += loss
                 card_dict[card]['archetypes'] += [archetype]
+                
+                # if there is SB info for this deck, note that the card is in the main over the side
+                if side: card_dict[card]['main %'] += [1]
+
+        # loop through sideboard if not empty, noting that the cards are in the side over main
+        for card in side:
+
+            if not magic_cards.get(card): continue
+
+            else: card_dict[card]['main %'] += [0]
+            
 
     print('{} unique cards identified in decklists'.format(len(card_dict)))
 
@@ -140,8 +149,21 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
     for card in card_dict.keys():
         color, cmc, card_type = magic_cards[card].values()
 
+        # add card characteristics
         for characteristic, value in zip(['color', 'cmc', 'type'], [color, cmc, find_card_type(card_type)]):
             card_dict[card][characteristic] = value
+
+        # calculate the maindeck % rate if sideboard information exists for any of the decks that contain the card
+        if len(card_dict[card]['main %']) != 0:
+            card_dict[card]['main %'] = np.average(card_dict[card]['main %'])
+
+            # if the card has only ever been sideboarded, it won't contain a win %, etc so skip those analyses.
+            if card_dict[card]['main %'] == 0:
+                card_dict[card]['win %'], card_dict[card]['win %/arch %'] = 'NA', 'NA'
+                continue
+
+        else:
+            card_dict[card]['main %'] = 'NA'
 
         # get win rates and perform normalization by archetype win rate
         card_dict[card]['win %'] = card_dict[card]['win']/(card_dict[card]['win'] + card_dict[card]['loss'])
@@ -149,17 +171,17 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
         card_dict[card]['win %/arch %'] = card_dict[card]['win %']/np.average(archetype_winrates)
 
     # store the results of the card analysis in a dataframe. Then calculate win %, apply filter, and export to csv.
-    results = {card: {key: card_dict[card][key] for key in ['win', 'loss', 'num', 'color', 'cmc', 'type', 'win %', 'win %/arch %']} for card in card_dict.keys()}
+    results = {card: {key: card_dict[card][key] for key in ['win', 'loss', 'num', 'color', 'cmc', 'type', 'main %', 'win %', 'win %/arch %']} for card in card_dict.keys()}
     results_df = pd.DataFrame.from_dict(results, orient = 'index').reset_index()
-    results_df.columns = ['Name','Win', 'Loss','Num','Color', 'CMC', 'Type', 'Win %', 'Win %/Arch %']
+    results_df.columns = ['Name','Win', 'Loss','Num','Color', 'CMC', 'Type', 'Main %', 'Win %', 'Win %/Arch %']
 
     if card_filter:
         results_df = results_df.loc[results_df['Num'] > card_filter]
 
-    win_percent_sorted = results_df.sort_values(by = 'Win %', ascending = False)
-    norm_percent_sorted = results_df.sort_values(by = 'Win %/Arch %', ascending = False)
-    win_percent_sorted.to_csv('Card_Analysis_Win%.csv', index = False)
-    norm_percent_sorted.to_csv('Card_Analysis_Norm%.csv', index = False)
+    #export analyses, sorting by Win %, Win %/Arch %, and Main %
+    results_df.sort_values(by = 'Win %', ascending = False).to_csv('Card_Analysis_Win%.csv', index = False)
+    results_df.sort_values(by = 'Win %/Arch %', ascending = False).to_csv('Card_Analysis_Norm%.csv', index = False)
+    results_df.sort_values(by = 'Main %', ascending = False).to_csv('Card_Analysis_Main%.csv', index = False)
 
     return card_dict
 
