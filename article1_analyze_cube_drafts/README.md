@@ -1,6 +1,6 @@
-# Tireless Tracker
+# Analyzing your own Cube drafts
 
-This code accompanies the Sigma Cubing - Tireless Tracker article. There are two scripts in this directory:
+This code accompanies the Tireless Tracker article Analyzing your own Cube drafts. There are two scripts in this directory:
 
 1. `analyze_decklists.py`: this script analyzes an input folder of decklists and outputs various analyses.
 2. `simulations.py`: this script contains the code that generates the simulations I used in the article. 
@@ -95,5 +95,3 @@ This function takes in a number of input trials and simulates a card win rate da
 ### `simulate_rankings`
 
 This function simulates a 10,000 tournament dataset with as many trials as specified, averaging the results over trials. It then produces a graph that depicts the true ranking of cards vs. the simulated ranking. For the example used in the article, I used `trials = 20,000`, which takes about 3 hours to run in total. Note that for this function, the top 23 cards are not selected and all 45 cards are used. This is because selecting the top 23 cards eliminates the ability to evaluate very weak cards, which I wanted to demonstrate with the graph.
-
-
