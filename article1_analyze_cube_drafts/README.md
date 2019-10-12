@@ -69,6 +69,10 @@ The maindeck comes first, then the sideboard, separated by a line break. A few n
 * Record and Games contain the same information on different levels. A deck that goes 3-0 can have a game record ranging from 6-0 to 6-3. Currently the script only analyzes game records - this will change soon.
 * The sideboard is optional. The script will restrict calculating the maindeck % of a card to decklists with sideboards. 
 
+### Note on Archetype Analysis:
+
+The script will analyze "pure" archetypes as well as combined archetypes. This means that if a deck list is categorized as Control_Reanimator, it will count towards Control and Reanimator, but not "Pure Control". Only a decklist categorized as Control alone will count towards "Pure Control".
+
 ### Note on Dates: 
 
 If you would like the script to do a time course analysis of your decklists, the "dates" are simply integers added to the end of files. See the example data used for the article for details. The dates must be added in this way.
