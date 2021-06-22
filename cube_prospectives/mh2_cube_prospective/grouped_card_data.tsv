@@ -1,0 +1,432 @@
+cubeType	name	testers	averageRating	rankingStDev
+Pauper	Abundant Harvest	9	2.511	0.653
+Pauper	Arcbound Mouser	1	1.5	0
+Pauper	Arcbound Slasher	3	1.9	0.794
+Pauper	Arcbound Tracker	4	1.925	0.608
+Pauper	Arcus Acolyte	1	1	0
+Pauper	Bannerhide Krushok	12	2.625	0.501
+Pauper	Battle Plan	1	2.2	0
+Pauper	Blacksmith's Skill	2	1.2	0
+Pauper	Bone Shards	3	1.533	0.551
+Pauper	Bottle Golems	4	2	0.707
+Pauper	Break Ties	5	1.92	0.507
+Pauper	Breathless Knight	5	1.6	0.381
+Pauper	Cabal Initiate	3	1.667	0.764
+Pauper	Captured by Lagacs	9	2.222	0.622
+Pauper	Chatterstorm	3	1.867	0.808
+Pauper	Chrome Courier	1	2	0
+Pauper	Deepwood Denizen	5	1.64	0.351
+Pauper	Dihada's Ploy	3	2.133	0.503
+Pauper	Discerning Taste	2	1.95	0.354
+Pauper	Disciple of the Sun	5	1.84	0.422
+Pauper	Drey Keeper	6	2.2	0.369
+Pauper	Duskshell Crawler	5	1.38	0.522
+Pauper	Etherium Spinner	10	1.69	0.555
+Pauper	Fairgrounds Patrol	2	1.5	0
+Pauper	Faithless Salvaging	2	1.35	0.495
+Pauper	Floodhound	4	1.95	0.412
+Pauper	Flourishing Strike	5	1.94	0.72
+Pauper	Fodder Tosser	1	1.2	0
+Pauper	Foul Watcher	2	1.75	0.354
+Pauper	Foundry Helix	1	1.5	0
+Pauper	Funnel-Web Recluse	2	1.6	0.424
+Pauper	Galvanic Relay	1	1.7	0
+Pauper	Gargadon	8	1.862	0.588
+Pauper	Glimmer Bairn	4	1.975	0.685
+Pauper	Goblin Anarchomancer	7	1.929	0.423
+Pauper	Guardian Kirin	2	1.85	0.212
+Pauper	Hard Evidence	10	2.16	0.606
+Pauper	Hell Mongrel	3	1.633	0.551
+Pauper	Jade Avenger	4	1.625	0.568
+Pauper	Jewel-Eyed Cobra	1	2	0
+Pauper	Kitchen Imp	2	1.6	0.566
+Pauper	Knighted Myr	5	2	0.381
+Pauper	Late to Dinner	4	2.1	0.548
+Pauper	Lazotep Chancellor	1	1	0
+Pauper	Lightning Spear	5	2.06	0.639
+Pauper	Loathsome Curator	7	2.1	0.619
+Pauper	Lose Focus	7	2.386	0.634
+Pauper	Marble Gargoyle	1	1.2	0
+Pauper	Mental Journey	5	2.18	0.61
+Pauper	Mine Collapse	3	1.633	0.651
+Pauper	Mount Velus Manticore	1	2	0
+Pauper	Myr Scrapling	3	1.167	0.153
+Pauper	Nested Shambler	10	2.05	0.628
+Pauper	Orchard Strider	3	2.033	0.404
+Pauper	Ornithopter of Paradise	8	2.1	0.607
+Pauper	Parcel Myr	1	1.3	0
+Pauper	Phantasmal Dreadmaw	6	1.533	0.739
+Pauper	Piercing Rays	5	2.3	0.324
+Pauper	Rakdos Headliner	1	1.5	0
+Pauper	Revolutionist	1	2	0
+Pauper	Rift Sower	5	1.5	0.354
+Pauper	Shattered Ego	1	1	0
+Pauper	Sinister Starfish	6	2.133	0.728
+Pauper	Skophos Reaver	5	2.08	0.76
+Pauper	Smell Fear	4	1.675	0.222
+Pauper	So Shiny	1	1.4	0
+Pauper	Soul of Migration	4	1.925	0.737
+Pauper	Step Through	4	1.725	0.556
+Pauper	Storm God's Oracle	5	1.84	0.541
+Pauper	Tavern Scoundrel	2	1.6	0.849
+Pauper	Terminal Agony	1	2	0
+Pauper	Tizerus Charger	2	1.15	0.212
+Pauper	Tragic Fall	5	2.4	0.552
+Pauper	Unbounded Potential	7	2.029	0.489
+Pauper	Unholy Heat	1	1.2	0
+Pauper	Urban Daggertooth	5	2.04	0.365
+Pauper	Vermin Gorger	5	1.84	0.297
+Pauper	Wavesifter	8	2.338	0.521
+Pauper	World-Weary	2	1.95	1.344
+Peasant	Abiding Grace	3	1.7	0.5
+Peasant	Abundant Harvest	13	2.469	0.407
+Peasant	Aeromoeba	1	2.4	0
+Peasant	Arcbound Shikari	1	1.9	0
+Peasant	Arcbound Slasher	1	2	0
+Peasant	Arcbound Tracker	2	2.15	1.202
+Peasant	Archfiend of Sorrows	10	2.24	0.599
+Peasant	Arcus Acolyte	3	2.267	0.252
+Peasant	Bannerhide Krushok	10	2.26	0.477
+Peasant	Barbed Spike	11	1.973	0.352
+Peasant	Batterbone	1	1.2	0
+Peasant	Blacksmith's Skill	1	1.7	0
+Peasant	Blazing Rootwalla	4	2.1	0.707
+Peasant	Bone Shards	9	2.111	0.711
+Peasant	Bottle Golems	2	2.2	0.283
+Peasant	Brainstone	1	1.7	0
+Peasant	Break Ties	2	1.9	0.141
+Peasant	Breathless Knight	2	1.9	0.566
+Peasant	Burdened Aerialist	1	2.3	0
+Peasant	Cabal Initiate	2	2.4	0
+Peasant	Captain Ripley Vance	4	2.05	0.819
+Peasant	Captured by Lagacs	3	1.967	0.115
+Peasant	Clattering Augur	2	1.9	0.141
+Peasant	Combine Chrysalis	1	1.7	0
+Peasant	Constable of the Realm	4	2.25	0.173
+Peasant	Deepwood Denizen	1	1.8	0
+Peasant	Discerning Taste	1	2	0
+Peasant	Disciple of the Sun	1	1	0
+Peasant	Dragon's Rage Channeler	15	2.347	0.28
+Peasant	Drossforge Bridge	1	2	0
+Peasant	Duskshell Crawler	4	1.375	0.45
+Peasant	Fairgrounds Patrol	2	2.05	0.636
+Peasant	Faithless Salvaging	2	1.9	0.141
+Peasant	Fast // Furious	4	2.125	0.486
+Peasant	Flametongue Yearling	13	2.692	0.301
+Peasant	Flay Essence	4	1.95	0.342
+Peasant	Flourishing Strike	1	1.9	0
+Peasant	Fodder Tosser	1	2	0
+Peasant	Foul Watcher	1	2.3	0
+Peasant	Foundation Breaker	6	2.233	0.398
+Peasant	Ghost-Lit Drifter	1	2.3	0
+Peasant	Glinting Creeper	3	1.8	0.4
+Peasant	Glorious Enforcer	4	1.55	0.635
+Peasant	Goblin Anarchomancer	5	1.72	0.661
+Peasant	Goblin Traprunner	1	1.3	0
+Peasant	Graceful Restoration	4	2.125	0.65
+Peasant	Hard Evidence	9	2.144	0.57
+Peasant	Hell Mongrel	1	1.8	0
+Peasant	Herd Baloth	8	1.963	0.55
+Peasant	Jade Avenger	1	2.2	0
+Peasant	Jewel-Eyed Cobra	1	2.3	0
+Peasant	Kaleidoscorch	2	2.1	0.566
+Peasant	Kitchen Imp	2	2.3	0.99
+Peasant	Knighted Myr	2	1.85	0.212
+Peasant	Late to Dinner	3	1.933	0.404
+Peasant	Lazotep Chancellor	1	2.3	0
+Peasant	Legion Vanguard	8	1.925	0.292
+Peasant	Lightning Spear	1	2.5	0
+Peasant	Liquimetal Torque	1	2	0
+Peasant	Loathsome Curator	3	1.8	0.2
+Peasant	Lose Focus	8	2.412	0.488
+Peasant	Mental Journey	3	1.667	0.569
+Peasant	Millikin	1	1.1	0
+Peasant	Mine Collapse	1	1.1	0
+Peasant	Mistvault Bridge	1	2	0
+Peasant	Monoskelion	3	2.133	0.503
+Peasant	Necromancer's Familiar	1	2	0
+Peasant	Nested Shambler	6	1.767	0.509
+Peasant	Ornithopter of Paradise	9	2.489	0.392
+Peasant	Phantasmal Dreadmaw	1	2	0
+Peasant	Piercing Rays	1	1.7	0
+Peasant	Prismatic Ending	6	2.05	0.235
+Peasant	Prophetic Titan	5	2.2	0.458
+Peasant	Radiant Epicure	1	1.5	0
+Peasant	Rakdos Headliner	8	2.238	0.691
+Peasant	Ravenous Squirrel	7	2.214	0.273
+Peasant	Razortide Bridge	1	2	0
+Peasant	Rift Sower	1	2	0
+Peasant	Road // Ruin	3	1.767	0.379
+Peasant	Rustvale Bridge	1	2	0
+Peasant	Said // Done	1	1.7	0
+Peasant	Sanctuary Raptor	1	2.2	0
+Peasant	Scour the Desert	2	2.45	0.354
+Peasant	Scurry Oak	10	2.23	0.302
+Peasant	Scuttletide	3	2.5	0.436
+Peasant	Silverbluff Bridge	1	2.2	0
+Peasant	Sinister Starfish	6	2.233	0.528
+Peasant	Skophos Reaver	2	2.4	0.849
+Peasant	Skyblade's Boon	1	1.4	0
+Peasant	Smell Fear	2	2.2	0.141
+Peasant	So Shiny	1	2.8	0
+Peasant	Soul of Migration	1	1.6	0
+Peasant	Specimen Collector	1	2.6	0
+Peasant	Squirrel Sanctuary	2	1.7	0.283
+Peasant	Steel Dromedary	1	2.5	0
+Peasant	Step Through	1	2.3	0
+Peasant	Sudden Edict	3	1.533	0.473
+Peasant	Sweep the Skies	2	1.75	0.354
+Peasant	The Underworld Cookbook	5	2.4	0.652
+Peasant	Thraben Watcher	4	2.15	0.289
+Peasant	Tide Shaper	1	1.3	0
+Peasant	Timeless Witness	13	2.477	0.365
+Peasant	Tireless Provisioner	13	2.554	0.389
+Peasant	Tizerus Charger	1	1.4	0
+Peasant	Tormod's Cryptkeeper	2	1.7	0.283
+Peasant	Tragic Fall	1	1.8	0
+Peasant	Unbounded Potential	4	1.825	0.35
+Peasant	Underworld Hermit	3	1.633	0.289
+Peasant	Unholy Heat	2	1.7	0.424
+Peasant	Vermin Gorger	3	1.333	0.153
+Peasant	Vile Entomber	9	1.889	0.398
+Peasant	Wavesifter	2	1.95	0.212
+Peasant	Wren's Run Hydra	3	2.233	0.208
+Peasant	Young Necromancer	7	1.9	0.374
+Unrestricted	Abiding Grace	10	1.78	0.437
+Unrestricted	Abundant Harvest	112	2.522	0.445
+Unrestricted	Academy Manufactor	6	1.8	0.54
+Unrestricted	Aeromoeba	2	1.8	0.283
+Unrestricted	"Aeve, Progenitor Ooze"	5	1.68	0.68
+Unrestricted	Arcbound Javelineer	11	1.927	0.417
+Unrestricted	Arcbound Mouser	5	1.6	0.394
+Unrestricted	Arcbound Prototype	5	1.8	0.745
+Unrestricted	Arcbound Shikari	7	1.729	0.692
+Unrestricted	Arcbound Slasher	1	1	0
+Unrestricted	Arcbound Tracker	7	1.914	0.567
+Unrestricted	Arcbound Whelp	2	1.7	0.424
+Unrestricted	Archfiend of Sorrows	5	1.84	0.754
+Unrestricted	Archon of Cruelty	97	2.203	0.395
+Unrestricted	Arcus Acolyte	9	2.167	0.391
+Unrestricted	Asmoranomardicadaistinaculdacar	7	1.886	0.652
+Unrestricted	Bannerhide Krushok	8	2.062	0.475
+Unrestricted	Barbed Spike	33	1.876	0.564
+Unrestricted	Batterbone	1	1.8	0
+Unrestricted	Battle Plan	3	2.267	0.379
+Unrestricted	Blacksmith's Skill	8	2.1	0.665
+Unrestricted	Blazing Rootwalla	26	2.158	0.508
+Unrestricted	Blessed Respite	1	2	0
+Unrestricted	Bloodbraid Marauder	16	1.8	0.45
+Unrestricted	Bone Shards	64	1.945	0.473
+Unrestricted	Brainstone	14	1.786	0.533
+Unrestricted	Break Ties	7	1.914	0.672
+Unrestricted	Break the Ice	6	1.783	0.454
+Unrestricted	Breathless Knight	3	2	0.346
+Unrestricted	Breya's Apprentice	42	2.019	0.558
+Unrestricted	Cabal Coffers	2	2.05	0.354
+Unrestricted	Cabal Initiate	15	1.8	0.474
+Unrestricted	Calibrated Blast	4	1.775	0.685
+Unrestricted	Caprichrome	1	2	0
+Unrestricted	Captain Ripley Vance	8	1.75	0.396
+Unrestricted	Captured by Lagacs	5	1.62	0.585
+Unrestricted	Carth the Lion	4	1.575	0.492
+Unrestricted	"Chainer, Nightmare Adept"	2	2.1	0.141
+Unrestricted	"Chatterfang, Squirrel General"	16	2.094	0.465
+Unrestricted	Chatterstorm	9	2.156	0.577
+Unrestricted	Chef's Kiss	4	1.875	0.538
+Unrestricted	Chitterspitter	13	1.838	0.634
+Unrestricted	Chrome Courier	2	2.05	0.071
+Unrestricted	Clattering Augur	5	1.86	0.623
+Unrestricted	Combine Chrysalis	2	1.5	0.424
+Unrestricted	Constable of the Realm	2	1.75	0.354
+Unrestricted	Crack Open	3	1.933	1.007
+Unrestricted	"Dakkon, Shadow Slayer"	39	2.054	0.494
+Unrestricted	Damn	198	2.759	0.348
+Unrestricted	Darkmoss Bridge	6	2.333	0.532
+Unrestricted	Dauthi Voidwalker	149	2.487	0.41
+Unrestricted	Deepwood Denizen	4	2.2	0.648
+Unrestricted	Dermotaxi	12	1.608	0.48
+Unrestricted	Diamond Lion	9	1.622	0.659
+Unrestricted	Dihada's Ploy	1	1.4	0
+Unrestricted	Discerning Taste	5	1.78	0.807
+Unrestricted	Disciple of the Sun	1	1.4	0
+Unrestricted	Dragon's Rage Channeler	77	2.148	0.556
+Unrestricted	Dress Down	5	1.64	0.623
+Unrestricted	Drossforge Bridge	6	2.417	0.492
+Unrestricted	Duskshell Crawler	4	1.75	0.645
+Unrestricted	Echoing Return	1	2	0
+Unrestricted	Endurance	60	2.042	0.535
+Unrestricted	Esper Sentinel	108	2.103	0.536
+Unrestricted	Etherium Spinner	2	2.1	1.273
+Unrestricted	Ethersworn Sphinx	7	2	0.351
+Unrestricted	Fae Offering	2	2.3	0
+Unrestricted	Fairgrounds Patrol	2	1.75	0.495
+Unrestricted	Faithless Salvaging	14	1.757	0.306
+Unrestricted	Fast // Furious	5	1.86	0.428
+Unrestricted	Feast of Sanity	3	2.333	0.569
+Unrestricted	Filigree Attendant	4	1.825	0.33
+Unrestricted	Fire // Ice	4	2.6	0.183
+Unrestricted	Flame Blitz	8	1.675	0.42
+Unrestricted	Flame Rift	3	2.667	0.289
+Unrestricted	Flametongue Yearling	129	2.291	0.436
+Unrestricted	Flay Essence	21	2.138	0.583
+Unrestricted	Floodhound	4	1.775	0.634
+Unrestricted	Flourishing Strike	1	1	0
+Unrestricted	Foundation Breaker	35	2.017	0.423
+Unrestricted	Foundry Helix	3	1.9	0.5
+Unrestricted	Fractured Sanity	4	1.625	0.675
+Unrestricted	Funnel-Web Recluse	2	1.15	0.212
+Unrestricted	Fury	130	2.379	0.423
+Unrestricted	Gaea's Will	17	2.118	0.464
+Unrestricted	Galvanic Relay	4	2.15	0.723
+Unrestricted	Garth One-Eye	8	2.038	0.707
+Unrestricted	General Ferrous Rokiric	37	1.959	0.496
+Unrestricted	Geyadrone Dihada	20	2.02	0.509
+Unrestricted	Gilt-Blade Prowler	1	1.8	0
+Unrestricted	Glimmer Bairn	3	1.533	0.306
+Unrestricted	Glimpse of Tomorrow	3	1.767	0.493
+Unrestricted	Glinting Creeper	2	1.65	0.212
+Unrestricted	Goblin Anarchomancer	22	1.868	0.584
+Unrestricted	Goblin Bombardment	5	2.4	0.255
+Unrestricted	Goblin Traprunner	4	2.1	0.271
+Unrestricted	Goldmire Bridge	6	2.367	0.497
+Unrestricted	Graceful Restoration	10	1.71	0.281
+Unrestricted	Grief	162	2.502	0.431
+Unrestricted	"Grist, the Hunger Tide"	156	2.533	0.45
+Unrestricted	Guardian Kirin	1	1.7	0
+Unrestricted	Hard Evidence	60	1.933	0.598
+Unrestricted	Harmonic Prodigy	18	1.861	0.56
+Unrestricted	Healer's Flock	1	1.2	0
+Unrestricted	Hell Mongrel	2	1.6	0.566
+Unrestricted	Herd Baloth	3	2.3	0.1
+Unrestricted	Ignoble Hierarch	206	2.885	0.216
+Unrestricted	Inevitable Betrayal	14	1.864	0.518
+Unrestricted	Jade Avenger	2	1.85	0.212
+Unrestricted	Junk Winder	2	1.75	0.354
+Unrestricted	Kaldra Compleat	70	1.947	0.51
+Unrestricted	Kaleidoscorch	15	2.1	0.571
+Unrestricted	Kitchen Imp	3	1.567	0.404
+Unrestricted	Knighted Myr	3	2.067	0.513
+Unrestricted	Landscaper Colos	1	2.4	0
+Unrestricted	Late to Dinner	11	1.736	0.645
+Unrestricted	Lazotep Chancellor	6	1.833	0.695
+Unrestricted	Legion Vanguard	9	2.078	0.46
+Unrestricted	Lens Flare	1	1.6	0
+Unrestricted	Lightning Spear	3	2.467	0.503
+Unrestricted	Liquimetal Torque	40	1.938	0.444
+Unrestricted	Loathsome Curator	1	1.9	0
+Unrestricted	"Lonis, Cryptozoologist"	9	1.622	0.421
+Unrestricted	Lose Focus	133	2.355	0.465
+Unrestricted	Lucid Dreams	1	1.5	0
+Unrestricted	Magus of the Bridge	3	1.367	0.321
+Unrestricted	Marble Gargoyle	1	1.8	0
+Unrestricted	Master of Death	59	2.049	0.483
+Unrestricted	Mental Journey	5	1.64	0.351
+Unrestricted	Mine Collapse	9	1.833	0.442
+Unrestricted	Mistvault Bridge	7	2.443	0.439
+Unrestricted	Moderation	11	1.864	0.545
+Unrestricted	Monoskelion	17	1.935	0.414
+Unrestricted	Murktide Regent	46	2.043	0.585
+Unrestricted	Myr Scrapling	6	1.6	0.21
+Unrestricted	Mystic Redaction	4	1.525	0.411
+Unrestricted	Necrogoyf	11	2.018	0.397
+Unrestricted	Nested Shambler	11	1.909	0.635
+Unrestricted	Nettlecyst	30	2.053	0.455
+Unrestricted	Nykthos Paragon	2	2.55	0.636
+Unrestricted	Obsidian Charmaw	9	1.833	0.477
+Unrestricted	Ornithopter of Paradise	44	1.905	0.49
+Unrestricted	Out of Time	38	2.218	0.465
+Unrestricted	Parcel Myr	5	1.9	0.742
+Unrestricted	Persist	93	2.239	0.515
+Unrestricted	Phantasmal Dreadmaw	3	1.4	0.529
+Unrestricted	Piercing Rays	1	1.1	0
+Unrestricted	Power Depot	6	2.25	0.259
+Unrestricted	Priest of Fell Rites	52	2.11	0.536
+Unrestricted	Prismatic Ending	69	2.232	0.551
+Unrestricted	Profane Tutor	16	1.869	0.546
+Unrestricted	Prophetic Titan	1	1	0
+Unrestricted	Quirion Ranger	1	1.5	0
+Unrestricted	"Ragavan, Nimble Pilferer"	214	2.887	0.284
+Unrestricted	Rakdos Headliner	28	2.157	0.407
+Unrestricted	Ravenous Squirrel	25	1.912	0.533
+Unrestricted	Raving Visionary	2	2.35	0.071
+Unrestricted	Razortide Bridge	7	2.229	0.377
+Unrestricted	Recalibrate	1	2	0
+Unrestricted	Resurgent Belief	1	1.7	0
+Unrestricted	Revolutionist	2	2.05	0.354
+Unrestricted	Rift Sower	8	1.538	0.524
+Unrestricted	Rise and Shine	12	1.892	0.45
+Unrestricted	Rishadan Dockhand	37	1.927	0.496
+Unrestricted	Road // Ruin	6	1.8	0.616
+Unrestricted	Rustvale Bridge	8	2.288	0.476
+Unrestricted	Said // Done	2	2.25	1.061
+Unrestricted	Sanctifier en-Vec	6	1.667	0.288
+Unrestricted	Sanctum Weaver	14	2.229	0.54
+Unrestricted	Scion of Draco	13	2.023	0.617
+Unrestricted	Scour the Desert	1	2	0
+Unrestricted	Scurry Oak	10	1.79	0.451
+Unrestricted	Scuttletide	4	2.35	0.443
+Unrestricted	Seal of Removal	1	2.7	0
+Unrestricted	Search the Premises	2	1.7	0.283
+Unrestricted	Serra's Emissary	10	2	0.392
+Unrestricted	Shattered Ego	1	1.5	0
+Unrestricted	Silverbluff Bridge	7	2.3	0.56
+Unrestricted	Sinister Starfish	13	1.908	0.579
+Unrestricted	Skophos Reaver	1	2	0
+Unrestricted	Skyblade's Boon	3	2.267	0.208
+Unrestricted	Slagwoods Bridge	5	2.42	0.531
+Unrestricted	Smell Fear	8	1.862	0.262
+Unrestricted	Sojourner's Companion	1	2.5	0
+Unrestricted	Sol Talisman	9	2.044	0.706
+Unrestricted	Solitude	172	2.624	0.35
+Unrestricted	Soul of Migration	1	1	0
+Unrestricted	Specimen Collector	1	2	0
+Unrestricted	Squirrel Sanctuary	11	1.918	0.4
+Unrestricted	Squirrel Sovereign	1	2	0
+Unrestricted	Steel Dromedary	4	1.8	0.356
+Unrestricted	Step Through	3	2.267	1.102
+Unrestricted	Sterling Grove	1	3	0
+Unrestricted	Strike It Rich	6	1.5	0.562
+Unrestricted	Subtlety	135	2.259	0.482
+Unrestricted	Sudden Edict	22	1.873	0.472
+Unrestricted	Suspend	36	1.814	0.517
+Unrestricted	Svyelun of Sea and Sky	15	1.727	0.547
+Unrestricted	Sword of Hearth and Home	50	2.092	0.514
+Unrestricted	Sylvan Anthem	6	1.8	0.533
+Unrestricted	"Sythis, Harvest's Hand"	7	2.286	0.511
+Unrestricted	Tanglepool Bridge	6	2.267	0.589
+Unrestricted	Tavern Scoundrel	2	2.05	0.071
+Unrestricted	Terminal Agony	4	1.975	0.377
+Unrestricted	Territorial Kavu	35	2.12	0.606
+Unrestricted	The Underworld Cookbook	14	1.771	0.438
+Unrestricted	The Underworld Cookbook 	1	1.5	0
+Unrestricted	Thornglint Bridge	7	2.229	0.544
+Unrestricted	Thought Monitor	16	1.956	0.46
+Unrestricted	Thraben Watcher	3	2.367	0.651
+Unrestricted	"Thrasta, Tempest's Roar"	6	1.95	0.295
+Unrestricted	Tide Shaper	10	1.6	0.474
+Unrestricted	Timeless Dragon	109	2.025	0.47
+Unrestricted	Timeless Witness	44	1.907	0.399
+Unrestricted	Tireless Provisioner	40	1.995	0.501
+Unrestricted	"Titania, Protector of Argoth"	1	2	0
+Unrestricted	Tizerus Charger	1	1	0
+Unrestricted	Tormod's Cryptkeeper	5	1.76	0.451
+Unrestricted	"Tourach, Dread Cantor"	86	2.041	0.447
+Unrestricted	Tragic Fall	7	2.071	0.692
+Unrestricted	Unbounded Potential	10	2.17	0.437
+Unrestricted	Underworld Hermit	5	1.62	0.653
+Unrestricted	Unholy Heat	20	2.1	0.666
+Unrestricted	Unmarked Grave	55	2.293	0.461
+Unrestricted	Urban Daggertooth	3	1.5	0.361
+Unrestricted	Urza's Saga	65	2.228	0.55
+Unrestricted	Vedalken Infiltrator	2	1.5	0
+Unrestricted	Verdant Command	26	1.808	0.316
+Unrestricted	Vermin Gorger	4	1.7	0.872
+Unrestricted	Vile Entomber	14	1.793	0.432
+Unrestricted	Void Mirror	4	1.975	0.66
+Unrestricted	Wavesifter	1	1.2	0
+Unrestricted	World-Weary	2	1.65	0.354
+Unrestricted	Wren's Run Hydra	5	1.54	0.371
+Unrestricted	"Yavimaya, Cradle of Growth"	21	2.076	0.473
+Unrestricted	Young Necromancer	11	1.936	0.541
+Unrestricted	"Yusri, Fortune's Flame"	9	2.122	0.471
+Unrestricted	"Zabaz, the Glimmerwasp"	14	2.079	0.428
