@@ -5,7 +5,7 @@ import string
 
 def fetch_cards(scryfall_url, replace_json=None, lower=False):
     '''Fetches the default cards from Scryfall, renames to match CT's naming if given a replacement json'''
-    
+
     if replace_json:
         rename_dict = json.load(open(replace_json))
     else:
@@ -16,12 +16,12 @@ def fetch_cards(scryfall_url, replace_json=None, lower=False):
 
     magic_cards = {}
     for card_data in json_data:
-        
+
         if lower:
             name = card_data['name'].lower()
         else:
             name = card_data['name']
-        
+
         magic_cards[name] = card_data
 
         # if a transform/flip card, only take front half name
@@ -31,7 +31,7 @@ def fetch_cards(scryfall_url, replace_json=None, lower=False):
                 magic_cards[name] = card_data['card_faces'][0]
                 magic_cards[name]['cmc'] = card_data['cmc']
                 magic_cards[name]['color_identity'] = card_data['color_identity']
-            
+
                 # rename if appropriate. We try to handle both cases here to prevent having to be case
                 # specific in the rename json
                 if name in rename_dict:
@@ -41,7 +41,7 @@ def fetch_cards(scryfall_url, replace_json=None, lower=False):
         # rename some cards
         if name in rename_dict or name.lower() in rename_dict:
             ct_spelling = rename_dict[name.lower()]
-            
+
             if not lower:
                 ct_spelling = string.capwords(ct_spelling.lower())
 
