@@ -12,8 +12,10 @@ def fetch_cards():
     '''Fetches the default cards from Scryfall'''
 
     print('Fetching cards from Scryfall...')
-    resp = requests.get('https://archive.scryfall.com/json/scryfall-default-cards.json')
-    json_data = resp.json()
+    resp = requests.get('https://api.scryfall.com/bulk-data/default-cards')
+    download_uri = resp.json()["download_uri"]
+    json_data = requests.get(download_uri).json()
+
     magic_cards = {}
     for i in range(len(json_data)):
         card_name = json_data[i]['name']
@@ -173,7 +175,7 @@ def export_card_analysis(deck_list_dict, magic_cards, card_filter, archetype_dic
     # store the results of the card analysis in a dataframe. Then calculate win %, apply filter, and export to csv.
     results = {card: {key: card_dict[card][key] for key in ['win', 'loss', 'num', 'color', 'cmc', 'type', 'main %', 'win %', 'win %/arch %']} for card in card_dict.keys()}
     results_df = pd.DataFrame.from_dict(results, orient = 'index').reset_index()
-    results_df.columns = ['Name','Win', 'Loss','Num','Color', 'CMC', 'Type', 'Main %', 'Win %', 'Win %/Arch %']
+    results_df.columns = ['Name', 'Win', 'Loss','Num','Color', 'CMC', 'Type', 'Main %', 'Win %', 'Win %/Arch %']
 
     if card_filter:
         results_df = results_df.loc[results_df['Num'] > card_filter]
